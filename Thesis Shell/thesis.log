@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  6 JUN 2014 11:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  6 JUN 2014 12:12
 entering extended mode
 **C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/thesis.tex
 ("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/thesis.tex"
@@ -1675,7 +1675,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write6
  [2]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.tex"
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesgb.ind")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesgb.ind"
+
+LaTeX Warning: Citation 'benedettisc' on page 3 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'moses' on page 3 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'achilleas' on page 3 undefined on input line 20.
+
+)
 No file thesis-casessc.ind.
 No file thesis-casesau.ind.
 No file thesis-casesnz.ind.
@@ -1996,10 +2006,10 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 17953 strings out of 493921
- 314574 string characters out of 3144876
- 782464 words of memory out of 3000000
- 20914 multiletter control sequences out of 15000+200000
+ 17945 strings out of 493921
+ 314445 string characters out of 3144876
+ 782452 words of memory out of 3000000
+ 20906 multiletter control sequences out of 15000+200000
  16839 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  51i,12n,69p,10486b,1794s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2020,7 +2030,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (228 pages, 784413 bytes).
+Output written on thesis.pdf (228 pages, 784333 bytes).
 PDF statistics:
  802 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

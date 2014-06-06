@@ -348,53 +348,6 @@
       \field{year}{2008}
       \field{pages}{1465\bibrangedash 1527}
     \endentry
-    \entry{hain}{jurisdiction}{}
-      \list{institution}{1}{%
-        {HL}%
-      }
-      \field{sortinit}{H}
-      \field{labeltitle}{Hain Steamship Co v Tate~\& Lyle Ltd}
-      \true{singletitle}
-      \field{journaltitle}{Com Cas}
-      \field{title}{Hain Steamship Co v Tate~\& Lyle Ltd}
-      \field{volume}{41}
-      \field{year}{1936}
-      \field{pages}{350}
-      \keyw{gb}
-    \endentry
-    \entry{achilleas}{jurisdiction}{year-essential=true}
-      \list{institution}{1}{%
-        {HL}%
-      }
-      \field{sortinit}{H}
-      \field{labeltitle}{The Achilleas}
-      \true{singletitle}
-      \field{journaltitle}{AC}
-      \field{number}{[2008] UKHL 48}
-      \field{shorttitle}{The Achilleas}
-      \field{title}{Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas)}
-      \field{volume}{1}
-      \field{year}{2008}
-      \field{pages}{61}
-      \keyw{gb}
-    \endentry
-    \entry{moses}{jurisdiction}{}
-      \list{institution}{1}{%
-        {KB}%
-      }
-      \field{sortinit}{K}
-      \field{labeltitle}{Moses v Macferlan}
-      \true{singletitle}
-      \field{journaltitle}{Burr}
-      \field{title}{Moses v Macferlan}
-      \field{userb}{97}
-      \field{userc}{ER}
-      \field{usere}{676}
-      \field{volume}{2}
-      \field{year}{1760}
-      \field{pages}{1005}
-      \keyw{gb}
-    \endentry
     \entry{kelo05}{jurisdiction}{}
       \field{sortinit}{K}
       \field{labeltitle}{Kelo}
@@ -416,21 +369,6 @@
       \field{title}{Law Reform (Frustrated Contracts) Act}
       \field{year}{1943}
       \keyw{en}
-    \endentry
-    \entry{halpern14}{jurisdiction}{}
-      \list{institution}{1}{%
-        {LC}%
-      }
-      \field{sortinit}{L}
-      \field{labeltitle}{Halpern}
-      \true{singletitle}
-      \field{journaltitle}{WL}
-      \field{number}{[2014] UKUT 0116}
-      \field{shorttitle}{Halpern}
-      \field{title}{David Mosche Halpern, Patrick William Gladwell, Clearun Limited, Dominion Mosaic & Tile Company Limited v Greater London Authority}
-      \field{year}{2014}
-      \field{pages}{1097091}
-      \keyw{gb}
     \endentry
     \entry{eminc07}{article}{}
       \name{labelname}{2}{}{%
@@ -554,23 +492,6 @@
       \field{title}{Sale of Goods Act}
       \field{year}{1979}
       \keyw{en}
-    \endentry
-    \entry{benedettisc}{jurisdiction}{year-essential=true}
-      \list{institution}{1}{%
-        {SC}%
-      }
-      \field{sortinit}{S}
-      \field{labeltitle}{Benedetti \textup{(SC)}}
-      \true{singletitle}
-      \field{journaltitle}{WLR}
-      \field{number}{[2013] UKSC 50}
-      \field{pagination}{[]}
-      \field{shorttitle}{Benedetti \textup{(SC)}}
-      \field{title}{Benedetti v Sawiris}
-      \field{volume}{3}
-      \field{year}{2013}
-      \field{pages}{351}
-      \keyw{gb}
     \endentry
     \entry{deglman}{jurisdiction}{}
       \list{institution}{1}{%
