@@ -1,0 +1,648 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nity}
+    \entry{allen10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ae5b656e83f5b6469631cc157635756c}
+      \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
+      \field{sortinit}{A}
+      \field{labeltitle}{Liberalism, Social Democracy and the Value of Property under the European Convention on Human Rights}
+      \true{singletitle}
+      \field{issue}{04}
+      \field{journaltitle}{International \& Comparative Law Quarterly}
+      \field{month}{10}
+      \field{title}{Liberalism, Social Democracy and the Value of Property under the European Convention on Human Rights}
+      \field{volume}{59}
+      \field{year}{2010}
+      \field{pages}{1055\bibrangedash 1078}
+    \endentry
+    \entry{balochdphil}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=187435e9c412e9a97a580b9379d4471d}{Baloch}{B\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=187435e9c412e9a97a580b9379d4471d}{Baloch}{B\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{187435e9c412e9a97a580b9379d4471d}
+      \strng{fullhash}{187435e9c412e9a97a580b9379d4471d}
+      \field{sortinit}{B}
+      \field{labeltitle}{Unjust Enrichment in the Contractual Context}
+      \true{singletitle}
+      \field{entrysubtype}{DPhil thesis}
+      \field{title}{Unjust Enrichment in the Contractual Context}
+      \field{type}{DPhil thesis}
+      \field{year}{2008}
+    \endentry
+    \entry{2009}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cd946c851bf4cb209262288ce74ad6a9}{Boone}{B\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cd946c851bf4cb209262288ce74ad6a9}{Boone}{B\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {PhD Program in Political Science of the City University of New York}%
+      }
+      \strng{namehash}{cd946c851bf4cb209262288ce74ad6a9}
+      \strng{fullhash}{cd946c851bf4cb209262288ce74ad6a9}
+      \field{sortinit}{B}
+      \field{labeltitle}{Electoral Populism Where Property Rights Are Weak: Land Politics in Contemporary Sub-Saharan Africa}
+      \true{singletitle}
+      \field{abstract}{Comparative democratization scholars have devoted almost no attention to how property rights regimes shape the dynamics of electoral competition. This oversight is particularly problematic in African studies. In sub-Saharan Africa the absence or weakness of secure property rights regimes in the countryside can have powerful consequences for multiparty dynamics. Land can become a patronage resource in ways that ignite destabilizing redistributive conflicts and threaten minority rights. By ignoring the design and character of underlying property regimes—or by assuming that the rules governing property are fixed, neutral, or essentially liberal in character—analysts have overlooked a fundamental source of illiberalism in many of Africa's multiparty systems. Côte d'Ivoire, where land politics have contributed to system-wide political breakdown, serves as a case in point.}
+      \field{issn}{00104159}
+      \field{journaltitle}{Comparative Politics}
+      \field{number}{2}
+      \field{title}{Electoral Populism Where Property Rights Are Weak: Land Politics in Contemporary Sub-Saharan Africa}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{pages}
+      \verb{url}
+      \verb http://www.jstor.org/stable/40599209
+      \endverb
+    \endentry
+    \entry{boomer}{jurisdiction}{}
+      \list{institution}{1}{%
+        {Cal Dist Ct App}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Boomer v Muir}
+      \true{singletitle}
+      \field{journaltitle}{P 2d}
+      \field{title}{Boomer v Muir}
+      \field{volume}{24}
+      \field{year}{1933}
+      \field{pages}{570}
+      \keyw{us}
+    \endentry
+    \entry{libcom01}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {The Yale Law Journal Company, Inc}%
+      }
+      \strng{namehash}{f3d24dd763feac24fbab3f292b1b20ab}
+      \strng{fullhash}{f3d24dd763feac24fbab3f292b1b20ab}
+      \field{sortinit}{D}
+      \field{labeltitle}{The Liberal Commons}
+      \true{singletitle}
+      \field{issn}{00440094}
+      \field{journaltitle}{The Yale Law Journal}
+      \field{number}{4}
+      \field{title}{The Liberal Commons}
+      \field{volume}{110}
+      \field{year}{2001}
+      \field{pages}{pages}
+      \verb{url}
+      \verb http://www.jstor.org/stable/797596
+      \endverb
+    \endentry
+    \entry{defeaters}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=125fb35a176926366fc16fd318687c6d}{Duarte\bibnamedelima d'Almeida}{D\bibinitperiod\bibinitdelim d\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=125fb35a176926366fc16fd318687c6d}{Duarte\bibnamedelima d'Almeida}{D\bibinitperiod\bibinitdelim d\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{125fb35a176926366fc16fd318687c6d}
+      \strng{fullhash}{125fb35a176926366fc16fd318687c6d}
+      \field{sortinit}{D}
+      \field{labeltitle}{Defences and Defeaters}
+      \true{singletitle}
+      \field{entrysubtype}{DPhil thesis}
+      \field{title}{Defences and Defeaters}
+      \field{type}{DPhil thesis}
+      \field{year}{2011}
+    \endentry
+    \entry{chabauty12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Chabauty v France}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{57418/08}
+      \field{title}{Chabauty v France}
+      \field{year}{2012}
+      \field{pages}{1784}
+      \keyw{echr}
+    \endentry
+    \entry{chassagnou99}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Chassagnou and Others v France}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{title}{Chassagnou and Others v France}
+      \field{volume}{3}
+      \field{year}{1999}
+      \field{pages}{22}
+      \keyw{echr}
+    \endentry
+    \entry{hermann12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Hermann v Germany}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{9300/07}
+      \field{title}{Hermann v Germany}
+      \field{year}{2010}
+      \field{pages}{1110}
+      \keyw{echr}
+    \endentry
+    \entry{hutten06}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Hutten-Czapska v Poland}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{35014/97}
+      \field{title}{Hutten-Czapska v Poland}
+      \field{volume}{8}
+      \field{year}{2006}
+      \field{pages}{628}
+      \keyw{echr}
+    \endentry
+    \entry{james86}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{James}
+      \true{singletitle}
+      \field{journaltitle}{Series A}
+      \field{shorttitle}{James}
+      \field{title}{James and others v United Kingdom}
+      \field{year}{1986}
+      \field{pages}{98}
+      \keyw{echr}
+    \endentry
+    \entry{lindheim12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Lindheim and others v Norway}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{13221/08; 2139/10}
+      \field{title}{Lindheim and others v Norway}
+      \field{year}{2012}
+      \field{pages}{985}
+      \keyw{echr}
+    \endentry
+    \entry{lithgow86}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Lithgow}
+      \true{singletitle}
+      \field{journaltitle}{Series A}
+      \field{number}{9006/80; 9262/81; 9263/81; 9265/81; 9266/81; 9313/81; 9405/81)}
+      \field{shorttitle}{Lithgow}
+      \field{title}{Lithgow v United Kingdom}
+      \field{year}{1986}
+      \field{pages}{102}
+      \keyw{echr}
+    \endentry
+    \entry{scordino06}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Scordino v Italy}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{36813/97}
+      \field{title}{Scordino v Italy}
+      \field{volume}{5}
+      \field{year}{2006}
+      \field{pages}{276}
+      \keyw{echr}
+    \endentry
+    \entry{sporrong82}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Sporrong and Lónnroth v Sweden}
+      \true{singletitle}
+      \field{journaltitle}{Series A}
+      \field{number}{7151/75; 7152/75}
+      \field{title}{Sporrong and Lónnroth v Sweden}
+      \field{pages}{52}
+      \keyw{echr}
+    \endentry
+    \entry{evansmhr}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=04ac6c675df6e205d08ce50024b13764}{Evans}{E\bibinitperiod}{Sir\bibnamedelima William}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=04ac6c675df6e205d08ce50024b13764}{Evans}{E\bibinitperiod}{Sir\bibnamedelima William}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool, Merrit~\& Wright}%
+      }
+      \strng{namehash}{04ac6c675df6e205d08ce50024b13764}
+      \strng{fullhash}{04ac6c675df6e205d08ce50024b13764}
+      \field{sortinit}{E}
+      \field{labeltitle}{On the Action for Money Had and Received}
+      \true{singletitle}
+      \field{shorttitle}{On the Action for Money Had and Received}
+      \field{title}{Essays: On the Action for Money Had and Received, on the Law of Insurances, and on the Law of Bills of Exchange and Promissory Notes}
+      \field{year}{1802}
+      \field{pages}{7}
+    \endentry
+    \entry{anticommons98}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {The Harvard Law Review Association}%
+      }
+      \strng{namehash}{9b32b2a7114d7be3f9764661fde43ccd}
+      \strng{fullhash}{9b32b2a7114d7be3f9764661fde43ccd}
+      \field{sortinit}{H}
+      \field{labeltitle}{The Tragedy of the Anticommons: Property in the Transition from Marx to Markets}
+      \true{singletitle}
+      \field{abstract}{Why are many storefronts in Moscow empty, while street kiosks in front are full of goods? In this Article, Professor Heller develops a theory of anticommons property to help explain the puzzle of empty storefronts and full kiosks. Anticommons property can be understood as the mirror image of commons property. By definition, in a commons, multiple owners are each endowed with the privilege to use a given resource, and no one has the right to exclude another. When too many owners hold such privileges of use, the resource is prone to overuse - a tragedy of the commons. Depleted fisheries and overgrazed fields are canonical examples of this familiar tragedy. In an anticommons, according to this Article, multiple owners are each endowed with the right to exclude others from a scarce resource, and no one has an effective privilege of use. When too many owners hold such rights of exclusion, the resource is prone to underuse - a tragedy of the anticommons. Empty Moscow storefronts are a canonical example of the tragedy of underuse. Anticommons property may appear whenever governments define new property rights in both post-socialist and developed market economies. Once an anticommons emerges, collecting rights into usable private property bundles can be brutal and slow. The difficulties of overcoming a tragedy of the anticommons suggest that policymakers should pay more attention to the content of property bundles, rather than focusing just on the clairty of rights.}
+      \field{issn}{0017811X}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{3}
+      \field{title}{The Tragedy of the Anticommons: Property in the Transition from Marx to Markets}
+      \field{volume}{111}
+      \field{year}{1998}
+      \field{pages}{pages}
+      \verb{url}
+      \verb http://www.jstor.org/stable/1342203
+      \endverb
+    \endentry
+    \entry{lad08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8939e5396faff17ee612722b28279b60}
+      \strng{fullhash}{8939e5396faff17ee612722b28279b60}
+      \field{sortinit}{H}
+      \field{labeltitle}{Land Assembly Districts}
+      \true{singletitle}
+      \field{abstract}{Eminent domain for economic development is both attractive and appalling. States need the power to condemn because so much land in America is inefficiently fragmented. But public land assembly provokes hostility because vulnerable communities get bulldozed. Courts offer no help. The academic literature is a muddle. Is it possible to assemble land without harming the poor and powerless? Yes. This Article proposes the creation of Land Assembly Districts, or "LADs." This new property form solves the age-old tensions in eminent domain and shows, more generally, how careful redesign of property rights can enhance both welfare and fairness. The economic and moral intuition underlying LADs is simple: when the only justification for assembly is over-fragmentation of land, neighbors should be able to decide collectively whether their land will be assembled. Our legal theory solution is equally simple: use property law to retrofit communities with a condominium-like structure tailored to land assembly. Let's try giving those burdened by condemnation a way to share in its benefits and to veto projects they decide are not worth their while.}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Land Assembly Districts}
+      \field{volume}{121}
+      \field{year}{2008}
+      \field{pages}{1465\bibrangedash 1527}
+    \endentry
+    \entry{hain}{jurisdiction}{}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Hain Steamship Co v Tate~\& Lyle Ltd}
+      \true{singletitle}
+      \field{journaltitle}{Com Cas}
+      \field{title}{Hain Steamship Co v Tate~\& Lyle Ltd}
+      \field{volume}{41}
+      \field{year}{1936}
+      \field{pages}{350}
+      \keyw{gb}
+    \endentry
+    \entry{achilleas}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{The Achilleas}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{number}{[2008] UKHL 48}
+      \field{shorttitle}{The Achilleas}
+      \field{title}{Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas)}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{61}
+      \keyw{gb}
+    \endentry
+    \entry{moses}{jurisdiction}{}
+      \list{institution}{1}{%
+        {KB}%
+      }
+      \field{sortinit}{K}
+      \field{labeltitle}{Moses v Macferlan}
+      \true{singletitle}
+      \field{journaltitle}{Burr}
+      \field{title}{Moses v Macferlan}
+      \field{userb}{97}
+      \field{userc}{ER}
+      \field{usere}{676}
+      \field{volume}{2}
+      \field{year}{1760}
+      \field{pages}{1005}
+      \keyw{gb}
+    \endentry
+    \entry{kelo05}{jurisdiction}{}
+      \field{sortinit}{K}
+      \field{labeltitle}{Kelo}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Kelo}
+      \field{title}{Kelo v City of New London}
+      \field{volume}{545}
+      \field{year}{2010}
+      \field{pages}{469}
+      \keyw{us}
+    \endentry
+    \entry{frustrated}{legislation}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Law Reform (Frustrated Contracts) Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Law Reform (Frustrated Contracts) Act}
+      \field{year}{1943}
+      \keyw{en}
+    \endentry
+    \entry{halpern14}{jurisdiction}{}
+      \list{institution}{1}{%
+        {LC}%
+      }
+      \field{sortinit}{L}
+      \field{labeltitle}{Halpern}
+      \true{singletitle}
+      \field{journaltitle}{WL}
+      \field{number}{[2014] UKUT 0116}
+      \field{shorttitle}{Halpern}
+      \field{title}{David Mosche Halpern, Patrick William Gladwell, Clearun Limited, Dominion Mosaic & Tile Company Limited v Greater London Authority}
+      \field{year}{2014}
+      \field{pages}{1097091}
+      \keyw{gb}
+    \endentry
+    \entry{eminc07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \strng{fullhash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \field{sortinit}{L}
+      \field{labeltitle}{Eminent Domain, Inc.}
+      \true{singletitle}
+      \field{abstract}{This Essay proposes a novel solution for "squaring the eminent domain circle" when large-scale, for-profit development projects require the assembly of land from numerous private property owners. Such "anticommons" situations may justify government intervention through eminent domain, yet they often leave landowners undercompensated. This may skew the incentives for initiating land development projects and lead to considerable injustice. Although the taking component of eminent domain may need to remain an involuntary nonmarket transaction, we propose a market-based mechanism for the compensation component in the form of a Special-Purpose Development Corporation (SPDC). An SPDC would acquire unified ownership of the land and the development project, and would offer condemnees a choice between receiving pre-project "fair market value" compensation or pro rata shares in the SPDC. This would make it more likely that compensation is closely linked to the true economic value of the land and, consequently, that land assembly projects are both more just and genuinely social welfare maximizing.}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{7}
+      \field{title}{Eminent Domain, Inc.}
+      \field{volume}{107}
+      \field{year}{2007}
+      \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{nolan08}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=f549dd1564ea6104669bb6c92f35ecb3}{Nolan}{N\bibinitperiod}{DP}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f549dd1564ea6104669bb6c92f35ecb3}{Nolan}{N\bibinitperiod}{DP}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8ccb12a7ea2000ad20e74c02adb73c06}{Mitchell}{M\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=88a3beecf57b0e7cc594cbc06aaad4f3}{Mitchell}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Hart}%
+      }
+      \strng{namehash}{f549dd1564ea6104669bb6c92f35ecb3}
+      \strng{fullhash}{f549dd1564ea6104669bb6c92f35ecb3}
+      \field{sortinit}{N}
+      \field{labeltitle}{\emph{Hongkong Fir Shipping Co v Kawasaki Kisen Kaisha Ltd, The Hongkong Fir} (1961)}
+      \true{singletitle}
+      \field{booktitle}{Landmark Cases in the Law of Contract}
+      \field{title}{\emph{Hongkong Fir Shipping Co v Kawasaki Kisen Kaisha Ltd, The Hongkong Fir} (1961)}
+      \field{year}{2008}
+    \endentry
+    \entry{opeskin}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=43219f9174a086afbda2871a4171504f}{Opeskin}{O\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=43219f9174a086afbda2871a4171504f}{Opeskin}{O\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43219f9174a086afbda2871a4171504f}
+      \strng{fullhash}{43219f9174a086afbda2871a4171504f}
+      \field{sortinit}{O}
+      \field{labeltitle}{Damages for Breach of Contract Terminated under Express Terms}
+      \true{singletitle}
+      \field{journaltitle}{LQR}
+      \field{title}{Damages for Breach of Contract Terminated under Express Terms}
+      \field{volume}{106}
+      \field{year}{1990}
+      \field{pages}{293}
+    \endentry
+    \entry{reynolds81}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{efa84e948e4fccca29e69b7f33c439e7}
+      \strng{fullhash}{efa84e948e4fccca29e69b7f33c439e7}
+      \field{sortinit}{R}
+      \field{labeltitle}{Discharge of Contract by Breach}
+      \field{journaltitle}{LQR}
+      \field{title}{Discharge of Contract by Breach}
+      \field{volume}{97}
+      \field{year}{1981}
+      \field{pages}{541}
+    \endentry
+    \entry{reynolds63}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{efa84e948e4fccca29e69b7f33c439e7}
+      \strng{fullhash}{efa84e948e4fccca29e69b7f33c439e7}
+      \field{sortinit}{R}
+      \field{labeltitle}{Warranty, Condition and Fundamental Term}
+      \field{journaltitle}{LQR}
+      \field{title}{Warranty, Condition and Fundamental Term}
+      \field{volume}{79}
+      \field{year}{1963}
+      \field{pages}{534}
+    \endentry
+    \entry{roxborough}{jurisdiction}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Roxborough}
+      \true{singletitle}
+      \field{journaltitle}{CLR}
+      \field{pagination}{[]}
+      \field{shorttitle}{Roxborough}
+      \field{title}{Roxborough v Rothmans of Pall Mall Australia Ltd}
+      \field{volume}{208}
+      \field{year}{2001}
+      \field{pages}{516}
+      \keyw{au}
+    \endentry
+    \entry{sga}{legislation}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Sale of Goods Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Sale of Goods Act}
+      \field{year}{1979}
+      \keyw{en}
+    \endentry
+    \entry{benedettisc}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {SC}%
+      }
+      \field{sortinit}{S}
+      \field{labeltitle}{Benedetti \textup{(SC)}}
+      \true{singletitle}
+      \field{journaltitle}{WLR}
+      \field{number}{[2013] UKSC 50}
+      \field{pagination}{[]}
+      \field{shorttitle}{Benedetti \textup{(SC)}}
+      \field{title}{Benedetti v Sawiris}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{351}
+      \keyw{gb}
+    \endentry
+    \entry{deglman}{jurisdiction}{}
+      \list{institution}{1}{%
+        {SCC}%
+      }
+      \field{sortinit}{S}
+      \field{labeltitle}{Deglman}
+      \true{singletitle}
+      \field{journaltitle}{DLR}
+      \field{shorttitle}{Deglman}
+      \field{title}{Deglman v Guaranty Trust Co of Canada and Constantineau}
+      \field{volume}{3}
+      \field{year}{1954}
+      \field{pages}{758}
+      \keyw{ca}
+    \endentry
+    \entry{stevens08}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b343936538308ac360d870333ad926ba}{Degeling}{D\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5693151055a84681ee062c2fcd5abcdb}{Edelman}{E\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Pyrmont, N.S.W.}%
+      }
+      \list{publisher}{1}{%
+        {Thomson}%
+      }
+      \strng{namehash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+      \strng{fullhash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Is There a Law of Unjust Enrichment?}
+      \field{booktitle}{Unjust Enrichment and Commercial Law}
+      \field{title}{Is There a Law of Unjust Enrichment?}
+      \field{year}{2008}
+    \endentry
+    \entry{stevens}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {OUP}%
+      }
+      \strng{namehash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+      \strng{fullhash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Torts and Rights}
+      \field{title}{Torts and Rights}
+      \field{year}{2007}
+    \endentry
+    \entry{bocardo10}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {UKSC}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{Star Energy Weald Basin Ltd \& Anor v Bocardo SA}
+      \true{singletitle}
+      \field{journaltitle}{UKSC}
+      \field{title}{Star Energy Weald Basin Ltd \& Anor v Bocardo SA}
+      \field{volume}{35}
+      \field{year}{2010}
+      \keyw{gb}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

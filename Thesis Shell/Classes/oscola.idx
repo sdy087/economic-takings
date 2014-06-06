@@ -1,0 +1,840 @@
+\indexentry[general]{scope of package|(hyperpage}{4}
+\indexentry[general]{scope of package|)}{4}
+\indexentry[general]{scope of package!international materials|hyperpage}{4}
+\indexentry[general]{scope of package!historical cases|hyperpage}{4}
+\indexentry[general]{scope   of package!non-English materials|hyperpage}{4}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{4}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{4}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{4}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{4}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{4}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola3}|hyperpage}{4}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{4}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{4}
+\indexentry[general]{scope of package|hyperpage}{5}
+\indexentry[general]{language|hyperpage}{5}
+\indexentry[general]{Lehman,   Philip|hyperpage}{5}
+\indexentry[general]{Kime, Philip|hyperpage}{5}
+\indexentry[general]{bugs!guaranteed|hyperpage}{6}
+\indexentry[general]{bugs!reporting|hyperpage}{6}
+\indexentry[general]{Biblatex!introduction   to|(hyperpage}{6}
+\indexentry[general]{Biber!introduction to|(hyperpage}{6}
+\indexentry[general]{work-flow!in general|hyperpage}{6}
+\indexentry[general]{Biblatex!introduction   to|)}{6}
+\indexentry[general]{Biber!introduction to|)}{6}
+\indexentry[general]{required files|hyperindexformat{\see{prerequisites}}}{6}
+\indexentry[general]{prerequisites|(hyperpage}{6}
+\indexentry[general]{Biblatex!version 2.0 required|hyperpage}{6}
+\indexentry[general]{prerequisites!Biblatex|hyperpage}{6}
+\indexentry[trash]{Lehman, Philip|hyperpage}{6}
+\indexentry[trash]{The biblatex Package@\citeinindex {biblatex2}|hyperpage}{6}
+\indexentry[general]{oscola.bbx@\texttt{oscola.bbx}|hyperpage}{7}
+\indexentry[general]{oscola.cbx@\texttt{oscola.cbx}|hyperpage}{7}
+\indexentry[general]{english-oscola.lbx@\texttt{english-oscola.lbx}|hyperpage}{7}
+\indexentry[general]{prerequisites!package files|hyperpage}{7}
+\indexentry[general]{prerequisites!Biber|hyperpage}{7}
+\indexentry[general]{Biber!version 1.0 required|hyperpage}{7}
+\indexentry[general]{prerequisites!Makeindex|hyperpage}{7}
+\indexentry[general]{Makeindex!required if indexing|hyperpage}{7}
+\indexentry[general]{prerequisites!Splitindex|hyperpage}{7}
+\indexentry[general]{Splitindex!recommended|hyperpage}{7}
+\indexentry[general]{prerequisites!Splitindex!Perl|hyperpage}{7}
+\indexentry[general]{Imakeidx!recommended|hyperpage}{7}
+\indexentry[general]{prerequisites!Imakeidx|hyperpage}{7}
+\indexentry[general]{oscola.ist@\texttt{oscola.ist}|hyperpage}{7}
+\indexentry[general]{prerequisites!package files|hyperpage}{7}
+\indexentry[general]{prerequisites|)}{7}
+\indexentry[general]{installation|hyperpage}{7}
+\indexentry[general]{oscola.bbx@\texttt{oscola.bbx}|hyperpage}{7}
+\indexentry[general]{oscola.cbx@\texttt{oscola.cbx}|hyperpage}{7}
+\indexentry[general]{oscola.ist@\texttt{oscola.ist}|hyperpage}{7}
+\indexentry[general]{english-oscola.ist@\texttt{english-oscola.ist}|hyperpage}{7}
+\indexentry[general]{loading style|hyperpage}{7}
+\indexentry[general]{Biblatex!loading package|hyperpage}{7}
+\indexentry[general]{usepackage@\texttt{\textbackslash usepackage}|hyperpage}{7}
+\indexentry[general]{addbibresource@\texttt{\textbackslash addbibresource}|hyperpage}{8}
+\indexentry[general]{prerequisites!csquotes|hyperpage}{8}
+\indexentry[general]{csquotes|hyperpage}{8}
+\indexentry[general]{quotation marks!ensuring correct style|hyperpage}{8}
+\indexentry[general]{customization|(hyperpage}{8}
+\indexentry[general]{customization!EU treaties,   shortened   form|hyperpage}{8}
+\indexentry[general]{options!eu-treaty@\texttt{eu-treaty}|hyperpage}{8}
+\indexentry[general]{EU   treaties!shortened citations|hyperpage}{8}
+\indexentry[general]{customization!shorthand   case names|hyperpage}{8}
+\indexentry[general]{shorthands!case names,   italic|hyperpage}{8}
+\indexentry[general]{options!casesshorthands@\texttt{casesshorthands}|hyperpage}{8}
+\indexentry[general]{customization!ibid|hyperpage}{8}
+\indexentry[general]{ibid!capitalization|hyperpage}{8}
+\indexentry[general]{options!ibidstyle@\texttt{ibidstyle}|hyperpage}{8}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{8}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{8}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{8}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{8}
+\indexentry[general]{customization!ibid|hyperpage}{9}
+\indexentry[general]{options!ibidtracker@\texttt{ibidtracker}|hyperpage}{9}
+\indexentry[general]{ibid!disabling use of|hyperpage}{9}
+\indexentry[general]{customization!shortened citations|hyperpage}{9}
+\indexentry[general]{options!citetracker@\texttt{citetracker}|hyperpage}{9}
+\indexentry[general]{references!shortened     forms|hyperpage}{9}
+\indexentry[general]{customization|)}{9}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{9}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{9}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{9}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{9}
+\indexentry[trash]{Lehman, Philip|hyperpage}{9}
+\indexentry[trash]{The biblatex Package@\citeinindex {biblatex2}|hyperpage}{9}
+\indexentry[general]{bibfile@\texttt{.bib} file!periods@periods|hyperpage}{10}
+\indexentry[general]{bibfile@\texttt{.bib} file!full stop@full stops|hyperpage}{10}
+\indexentry[general]{bibfile@\texttt{.bib} file!names|hyperpage}{11}
+\indexentry[general]{names!bibfile@in \texttt{.bib} file|hyperpage}{11}
+\indexentry[general]{bibfile@\texttt{.bib} file!initials|hyperpage}{11}
+\indexentry[general]{initials!bibfile@in \texttt{.bib} file|hyperpage}{11}
+\indexentry[general]{bibfile@\texttt{.bib} file!dates|hyperpage}{11}
+\indexentry[general]{dates!bibfile@in \texttt{.bib} file|hyperpage}{11}
+\indexentry[general]{pages field@\texttt{pages} field|hyperpage}{11}
+\indexentry[general]{bibfile@\texttt{.bib} file!pages field@\texttt{pages} field|hyperpage}{11}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{11}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{11}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{11}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{11}
+\indexentry[general]{pagination field@\texttt{pagination} field|hyperpage}{12}
+\indexentry[general]{bib file@\texttt{.bib} file!pagination field@\texttt{pagination} field|hyperpage}{12}
+\indexentry[general]{slashes!bib file@in \texttt{.bib} file|hyperpage}{12}
+\indexentry[general]{bibfile@\texttt{.bib} file!slashes|hyperpage}{12}
+\indexentry[general]{slash@\texttt{\textbackslash slash}|hyperpage}{12}
+\indexentry[general]{line breaking!avoiding problems|hyperpage}{12}
+\indexentry[general]{hyphenation field|hyperpage}{12}
+\indexentry[general]{line breaking!avoiding problems|hyperpage}{12}
+\indexentry[general]{language|hyperpage}{12}
+\indexentry[general]{quotation marks|hyperpage}{12}
+\indexentry[general]{enquote@\texttt{\textbackslash enquote}|hyperpage}{12}
+\indexentry[general]{citation commands|(hyperpage}{13}
+\indexentry[general]{cite@\texttt{\textbackslash cite}|hyperpage}{13}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{13}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{13}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{13}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{13}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{13}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{13}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{13}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{13}
+\indexentry[general]{footcite@\texttt{\textbackslash footcite}|hyperpage}{13}
+\indexentry[general]{autocite@\texttt{\textbackslash autocite}|hyperpage}{13}
+\indexentry[general]{multicites@\texttt{\textbackslash{multicites}}|hyperpage}{13}
+\indexentry[general]{citation commands|)}{13}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{13}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{13}
+\indexentry[general]{citation commands!multiple postnotes|hyperpage}{14}
+\indexentry[general]{English Reports|hyperpage}{14}
+\indexentry[general]{rules of court|hyperpage}{14}
+\indexentry[general]{parallel citations|hyperpage}{14}
+\indexentry[ukcases]{Henly v Mayor of Lyme@\citeinindex {henly28}|hyperpage}{14}
+\indexentry[ukleg]{Rules of the Supreme Court@\citeinindex {rsc}!11@Ord 11!6@r 6|hyperpage}{14}
+\indexentry[ukcases]{Henly v Mayor of Lyme@\citeinindex {henly28}|hyperpage}{14}
+\indexentry[general]{bibliography!printing|(hyperpage}{14}
+\indexentry[general]{bibliography!file|hyperindexformat{\see{\texttt{.bib} file}}}{14}
+\indexentry[general]{printbibliography@\texttt{\textbackslash printbibliography}|hyperpage}{14}
+\indexentry[general]{bibliography!printing!type option@\texttt{type} option|hyperpage}{14}
+\indexentry[general]{bibliography!printing!nottype option@\texttt{nottype} option|hyperpage}{14}
+\indexentry[general]{bibliography!printing|)}{14}
+\indexentry[general]{indexing|(hyperpage}{14}
+\indexentry[general]{table of cases|hyperindexformat{\see {indexing}}}{14}
+\indexentry[general]{Imakeidx!recommended|hyperpage}{15}
+\indexentry[general]{Splitindex!recommended|hyperpage}{15}
+\indexentry[general]{indexing!enabling|hyperpage}{15}
+\indexentry[general]{options!indexing@\texttt{indexing}|hyperpage}{15}
+\indexentry[general]{imakeidx!recommended|hyperpage}{15}
+\indexentry[general]{index (package)!compatible with style|hyperpage}{15}
+\indexentry[general]{multind!incompatible with style|hyperpage}{15}
+\indexentry[general]{indexing!setting up indexes|(hyperpage}{15}
+\indexentry[general]{makeindex@\texttt{\textbackslash makeindex}|hyperpage}{15}
+\indexentry[general]{tabulate field@\texttt{tabulate} field|hyperpage}{15}
+\indexentry[general]{bibfile@\texttt{.bib} file!tabulate field@\texttt{tabulate} field|hyperpage}{15}
+\indexentry[general]{DeclareIndexAssociation@\texttt{\textbackslash DeclareIndexAssociation}|hyperpage}{15}
+\indexentry[general]{indexing!setting up indexes!DeclareIndexAssociation@\texttt{\textbackslash DeclareIndexAssociation}|hyperpage}{15}
+\indexentry[general]{indexing!virtual indexes, list of|hyperpage}{16}
+\indexentry[general]{indexing!setting up indexes|)}{17}
+\indexentry[general]{indexing!processing and printing|(hyperpage}{17}
+\indexentry[general]{printindex@\texttt{\textbackslash printindex}|hyperpage}{17}
+\indexentry[general]{printindexearly@\texttt{\textbackslash printindexearly}|hyperpage}{17}
+\indexentry[general]{indexing!processing and printing|)}{18}
+\indexentry[general]{indexing!adjusting what is printed|hyperpage}{18}
+\indexentry[general]{indextitle field@\texttt{indextitle} field|hyperpage}{18}
+\indexentry[general]{bibfile@\texttt{.bib} file!indextitle field@\texttt{indextitle} field|hyperpage}{18}
+\indexentry[general]{indexing!suppressing|hyperpage}{18}
+\indexentry[general]{suppress indexing!for source|hyperpage}{18}
+\indexentry[general]{tabulate field@\texttt{tabulate} field|hyperpage}{18}
+\indexentry[general]{bibfile@\texttt{.bib} file!tabulate field@\texttt{tabulate} field|hyperpage}{18}
+\indexentry[general]{suppress indexing!for citation|hyperpage}{18}
+\indexentry[general]{DNI@\texttt{\textbackslash DNI}|hyperpage}{18}
+\indexentry[general]{indexing!manual additions|(hyperpage}{19}
+\indexentry[general]{indexing!adding entries manually|(hyperpage}{19}
+\indexentry[general]{indexonly@\texttt{\textbackslash indexonly}|hyperpage}{19}
+\indexentry[general]{indexing!index command@\texttt{\textbackslash index} command|hyperpage}{19}
+\indexentry[general]{indexing!cross references|hyperpage}{19}
+\indexentry[general]{index@\texttt{\textbackslash index}|hyperpage}{19}
+\indexentry[general]{ships' names!adding to index|hyperpage}{19}
+\indexentry[ukcases]{Nema, The@\emph{Nema,} The|hyperindexformat{\see{Antaios Compania Naviera SA v Salen Rederierna SA}}}{19}
+\indexentry[ukcases]{Antaios Compania Naviera SA v Salen Rederierna AB (The Nema)@\citeinindex {antaios85}|hyperpage}{19}
+\indexentry[general]{indexing!legislation|hyperpage}{19}
+\indexentry[general]{legislation!indexing|hyperpage}{19}
+\indexentry[general]{index@\texttt{\textbackslash index}|hyperpage}{20}
+\indexentry[general]{indexing!manual additions|)}{20}
+\indexentry[general]{indexing!adding entries manually|)}{20}
+\indexentry[general]{cases!in general|(hyperpage}{21}
+\indexentry[general]{cases!fields|(hyperpage}{21}
+\indexentry[general]{title field@\texttt{title} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{21}
+\indexentry[general]{shorttitle field@\texttt{shorttitle} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorttitle field@\texttt{shorttitle} field|hyperpage}{21}
+\indexentry[general]{shorthand field@\texttt{shorthand} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorthand field@\texttt{shorthand} field|hyperpage}{21}
+\indexentry[general]{date field@\texttt{date} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!date field@\texttt{date} field|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!dates|hyperpage}{21}
+\indexentry[general]{origdate field@\texttt{origdate} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!origdate field@\texttt{origdate} field|hyperpage}{21}
+\indexentry[general]{number field@\texttt{number} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number} field|hyperpage}{21}
+\indexentry[general]{neutralcite field@\texttt{neutralcite} field|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!neutralcite field@\texttt{neutralcite} field|hyperpage}{21}
+\indexentry[general]{keywords field@\texttt{keywords} field!cases@in cases|hyperpage}{21}
+\indexentry[general]{bibfile@\texttt{.bib} file!keywords field@\texttt{keywords} field|hyperpage}{21}
+\indexentry[general]{court field@\texttt{court} field|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!court field@\texttt{court} field|hyperpage}{22}
+\indexentry[general]{institution field@\texttt{institution} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!institution field@\texttt{institution} field|hyperpage}{22}
+\indexentry[general]{reporter field@\texttt{reporter} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!reporter field@\texttt{reporter} field|hyperpage}{22}
+\indexentry[general]{journaltitle field@\texttt{journaltitle} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!journaltitle field@\texttt{journaltitle} field|hyperpage}{22}
+\indexentry[general]{series field@\texttt{series} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!series field@\texttt{series} field|hyperpage}{22}
+\indexentry[general]{volume field@\texttt{volume} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!volume field@\texttt{volume} field|hyperpage}{22}
+\indexentry[general]{pages field@\texttt{pages} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!pages field@\texttt{pages} field|hyperpage}{22}
+\indexentry[general]{pagination field@\texttt{pagination} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!pagination field@\texttt{pagination} field|hyperpage}{22}
+\indexentry[general]{options field@\texttt{options} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!options field@\texttt{title} field|hyperpage}{22}
+\indexentry[general]{options field@\texttt{options} field!year-essential@\texttt{year-essential}|hyperpage}{22}
+\indexentry[general]{note field@\texttt{note} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!note field@\texttt{note} field|hyperpage}{22}
+\indexentry[general]{location field@\texttt{location} field!cases@in cases|hyperpage}{22}
+\indexentry[general]{bibfile@\texttt{.bib} file!location field@\texttt{location} field|hyperpage}{22}
+\indexentry[general]{parallel citations|hyperpage}{23}
+\indexentry[general]{English Reports|hyperpage}{23}
+\indexentry[general]{parreporter field@\texttt{parreporter} field|hyperpage}{23}
+\indexentry[general]{bibfile@\texttt{.bib} file!parreporter field@\texttt{parreporter} field|hyperpage}{23}
+\indexentry[general]{parvolume field@\texttt{parvolume} field|hyperpage}{23}
+\indexentry[general]{bibfile@\texttt{.bib} file!parvolume field@\texttt{part} field|hyperpage}{23}
+\indexentry[general]{parseries field@\texttt{parseries} field|hyperpage}{23}
+\indexentry[general]{bibfile@\texttt{.bib} file!parseries field@\texttt{parseries} field|hyperpage}{23}
+\indexentry[general]{parpages field@\texttt{parpages} field|hyperpage}{23}
+\indexentry[general]{bibfile@\texttt{.bib} file!parpages field@\texttt{parpages} field|hyperpage}{23}
+\indexentry[general]{indexing!additional reports|hyperpage}{23}
+\indexentry[general]{parallel citations|hyperpage}{23}
+\indexentry[general]{additionalreports field@\texttt{additionalreports} field|hyperpage}{23}
+\indexentry[general]{bibfile@\texttt{.bib} file!additionalreports field@\texttt{additionalreports} field|hyperpage}{23}
+\indexentry[general]{extracitedelim@\texttt{\textbackslash extracitesdelim}|hyperpage}{23}
+\indexentry[general]{cases!fields|)}{23}
+\indexentry[general]{cases!fields!overview|(hyperpage}{23}
+\indexentry[general]{cases!fields!overview|hyperpage}{23}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{23}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{23}
+\indexentry[general]{keywords field@\texttt{keywords} field!countries, list of|hyperpage}{24}
+\indexentry[general]{countries!list of|hyperpage}{24}
+\indexentry[general]{dates!whether year essential to citation|hyperpage}{24}
+\indexentry[general]{options field@\texttt{options} field!year-essential@\texttt{year-essential}|hyperpage}{24}
+\indexentry[general]{keywords field@\texttt{keywords} field!countries|hyperpage}{24}
+\indexentry[general]{bibfile@\texttt{.bib} file!keywords field@\texttt{keywords} field!countries|hyperpage}{24}
+\indexentry[general]{countries!keywords@\texttt{keywords}|hyperpage}{24}
+\indexentry[general]{jurisdictions|hyperindexformat{\see {countries}}}{24}
+\indexentry[general]{cases!in general|)}{25}
+\indexentry[general]{indexing!cases|hyperpage}{25}
+\indexentry[general]{cases!indexing|hyperpage}{25}
+\indexentry[general]{cases!English|hyperpage}{25}
+\indexentry[general]{cases!English!examples|(hyperpage}{25}
+\indexentry[ukcases]{Corr v IBC Vehicles Ltd@\citeinindex {corr08}|hyperpage}{25}
+\indexentry[ukcases]{Page v Smith@\citeinindex {page96}|hyperpage}{25}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{25}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{25}
+\indexentry[ukcases]{Barrett v Enfield LBC@\citeinindex {barrett01a}|hyperpage}{26}
+\indexentry[general]{cases!English!examples|)}{26}
+\indexentry[general]{cases!English!unreported|hyperpage}{26}
+\indexentry[ukcases]{Stubbs v Sayer@\citeinindex {stubbs90}|hyperpage}{26}
+\indexentry[ukcases]{Calvert v Gardiner@\citeinindex {calvert02}|hyperpage}{26}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{26}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{26}
+\indexentry[general]{cases!English!newspaper reports|hyperpage}{27}
+\indexentry[general]{newspapers!case reports|hyperpage}{27}
+\indexentry[ukcases]{Powick v Malvern Wells Water Co@\citeinindex {powick93}|hyperpage}{27}
+\indexentry[general]{English Reports|(hyperpage}{27}
+\indexentry[general]{cases!English!pre-1865|(hyperpage}{27}
+\indexentry[general]{parallel citations|hyperpage}{27}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{27}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{27}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{27}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{27}
+\indexentry[ukcases]{Henly v Mayor of Lyme@\citeinindex {henly28}|hyperpage}{28}
+\indexentry[general]{English Reports|)}{28}
+\indexentry[general]{cases!English!pre-1865|)}{28}
+\indexentry[general]{cases!Scottish|(hyperpage}{28}
+\indexentry[general]{options field@\texttt{options} field!scottish-style@\texttt{scottish-style}|hyperpage}{28}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{28}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{28}
+\indexentry[ukcases]{Hislop v Durham@\citeinindex {hislop42}|hyperpage}{29}
+\indexentry[ukcases]{Adams v Advocate General@\citeinindex {adams03}|hyperpage}{30}
+\indexentry[ukcases]{Dodds v HM Advocate@\citeinindex {dodds03}|hyperpage}{30}
+\indexentry[ukcases]{Crofters Commission v Scottish Ministers@\citeinindex {crofters02}|hyperpage}{30}
+\indexentry[ukcases]{Davidson v Scottish Ministers@\citeinindex {davidson05}|hyperpage}{30}
+\indexentry[ukcases]{Smart v HM Advocate@\citeinindex {smart06}|hyperpage}{30}
+\indexentry[general]{cases!Scottish|)}{30}
+\indexentry[general]{cases!European Union|(hyperpage}{30}
+\indexentry[general]{cases!European Union!courts|(hyperpage}{30}
+\indexentry[general]{number field@\texttt{number} field!EU cases@in EU cases|hyperpage}{30}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number field}|hyperpage}{30}
+\indexentry[general]{cases!European Union!case number@\texttt{case number}|hyperpage}{30}
+\indexentry[general]{type field@\texttt{type} field|hyperpage}{30}
+\indexentry[general]{bibfile@\texttt{.bib} file!type field@\texttt{type} field|hyperpage}{30}
+\indexentry[general]{cases!European Union!case number|hyperpage}{30}
+\indexentry[general]{textendash@\texttt{\textbackslash textendash}, in EU cases|hyperpage}{30}
+\indexentry[general]{cases!European Union!examples|(hyperpage}{31}
+\indexentry[general]{cases!European Union!unreported|hyperpage}{31}
+\indexentry[eucasesn]{198302400@\citeinindexnum {adbhu}|hyperpage}{32}
+\indexentry[eucasesa]{Procureur de la R\'epublique v ADBHU@\citeinindex {adbhu}|hyperpage}{32}
+\indexentry[eucasesn]{199304300@\citeinindexnum {C430/93}|hyperpage}{32}
+\indexentry[eucasesa]{Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten@\citeinindex {C430/93}|hyperpage}{32}
+\indexentry[eucasesn]{199903441@\citeinindexnum {T344/99}|hyperpage}{32}
+\indexentry[eucasesa]{Arne Mathisen AS v Council@\citeinindex {T344/99}|hyperpage}{32}
+\indexentry[eucasesn]{200705560@\citeinindexnum {C556/07}|hyperpage}{32}
+\indexentry[eucasesa]{Commission v France@\citeinindex {C556/07}|hyperpage}{32}
+\indexentry[general]{cases!European Union!examples|)}{32}
+\indexentry[eucasesn]{200301760@\citeinindexnum {C176/03}|hyperpage}{32}
+\indexentry[eucasesa]{Commission v Council@\citeinindex {C176/03}|hyperpage}{32}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{32}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{32}
+\indexentry[general]{cases!European Union!indexing|hyperpage}{33}
+\indexentry[general]{indexing!EU cases|hyperpage}{33}
+\indexentry[general]{cases!European Union!courts|)}{33}
+\indexentry[general]{cases!European Union!Commission decisions|(hyperpage}{33}
+\indexentry[general]{userb field@\texttt{userb} field|hyperpage}{33}
+\indexentry[general]{bibfile@\texttt{.bib} file!userb field@\texttt{userb} field|hyperpage}{33}
+\indexentry[general]{Official Journal!refences to|hyperpage}{33}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{33}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{33}
+\indexentry[eucasesa]{Alcatel/Telettra@\citeinindex {alcatel}|hyperpage}{34}
+\indexentry[eucasesa]{Georg Verkehrsorgani v Ferrovie dello Stato@\citeinindex {verkehrsorgani}|hyperpage}{34}
+\indexentry[general]{cases!European Union!Commission decisions|)}{34}
+\indexentry[general]{indexing!EU Commission decisions|hyperpage}{34}
+\indexentry[general]{cases!European Union|)}{34}
+\indexentry[general]{cases!European Court of Human Rights|(hyperpage}{34}
+\indexentry[general]{European Convention on Human Rights!cases|(hyperpage}{34}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{34}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{34}
+\indexentry[intcases]{Johnston v Ireland@\citeinindex {johnston86}|hyperpage}{35}
+\indexentry[intcases]{Osman v UK@\citeinindex {osman98}|hyperpage}{35}
+\indexentry[intcases]{Omojudi v UK@\citeinindex {omojudi10}|hyperpage}{35}
+\indexentry[general]{cases!European Court of Human Rights!unreported|hyperpage}{35}
+\indexentry[intcases]{Balogh v Hungary@\citeinindex {balogh04}|hyperpage}{36}
+\indexentry[general]{cases!European Court of Human Rights|)}{36}
+\indexentry[general]{cases!European Commission on Human Rights|(hyperpage}{36}
+\indexentry[intcases]{X v Netherlands@\citeinindex {x71}|hyperpage}{36}
+\indexentry[intcases]{Council of Civil Service Unions v UK@\citeinindex {ccsu87}|hyperpage}{36}
+\indexentry[intcases]{Simpson v UK@\citeinindex {simpson86}|hyperpage}{36}
+\indexentry[general]{cases!European Commission on Human Rights|)}{36}
+\indexentry[general]{European Convention on Human Rights!cases|)}{36}
+\indexentry[general]{cases!Canadian|hyperpage}{37}
+\indexentry[ocases]{Clearbrook Ironworks Ltd v Letorneau@\citeinindex {clearbrook}|hyperpage}{37}
+\indexentry[general]{cases!Australian|(hyperpage}{37}
+\indexentry[trash]{McGill Law Journal|hyperpage}{37}
+\indexentry[trash]{Canadian Guide to Uniform Legal Citation@\citeinindex {mcgill:guide}|hyperpage}{37}
+\indexentry[trash]{Melbourne University Law Review Association Inc|hyperpage}{37}
+\indexentry[trash]{Australian Guide to Legal Citation@\citeinindex {melbourne}|hyperpage}{37}
+\indexentry[ocases]{R v Tang@\citeinindex {tang}|hyperpage}{38}
+\indexentry[ocases]{Bakker v Stewart@\citeinindex {bakker}|hyperpage}{38}
+\indexentry[general]{cases!Australian|)}{38}
+\indexentry[general]{cases!New Zealand|hyperpage}{38}
+\indexentry[general]{cases!United States|hyperpage}{38}
+\indexentry[general]{cases!United States!docket number|hyperpage}{38}
+\indexentry[general]{number field@\texttt{number} field!US cases@in US cases|hyperpage}{38}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number} field|hyperpage}{38}
+\indexentry[general]{cases!United States!lexis number@\textsc{lexis} number|hyperpage}{38}
+\indexentry[general]{cases!United States!westlaw number@WestLaw number|hyperpage}{38}
+\indexentry[general]{eprint field@\texttt{eprint} field|hyperpage}{38}
+\indexentry[general]{bibfile@\texttt{.bib} file!eprint field@\texttt{eprint} field|hyperpage}{38}
+\indexentry[ocases]{Harbor Insurance Co v Tishman Construction Co@\citeinindex {harbor91}|hyperpage}{39}
+\indexentry[ocases]{Western Alliance Insurance Co v Gill@\citeinindex {western97}|hyperpage}{39}
+\indexentry[ocases]{Operadora DB Mexico SA, Re@\citeinindex {operadora09}|hyperpage}{39}
+\indexentry[general]{cases!United States|)}{39}
+\indexentry[general]{cases!International|(hyperpage}{39}
+\indexentry[general]{Public International Law|hyperindexformat{\see{International Law}}}{39}
+\indexentry[general]{International Law!cases|(hyperpage}{39}
+\indexentry[general]{subtitle field@\texttt{subtitle} field|hyperpage}{39}
+\indexentry[general]{bibfile@\texttt{.bib} file!subtitle field@\texttt{subtitle} field|hyperpage}{39}
+\indexentry[general]{titleaddon field@\texttt{titleaddon} field|hyperpage}{39}
+\indexentry[general]{bibfile@\texttt{.bib} file!titleaddon field@\texttt{titleaddon} field|hyperpage}{39}
+\indexentry[general]{cases!International!subtitle field@use of \texttt{subtitle} field|hyperpage}{39}
+\indexentry[general]{cases!International!titleaddon field@use of \texttt{titleaddon} field|hyperpage}{39}
+\indexentry[general]{cases!International!PCIJ Reports|hyperpage}{39}
+\indexentry[general]{PCIJ Reports|hyperpage}{39}
+\indexentry[general]{cases!International!fields|hyperpage}{40}
+\indexentry[intcases]{Corfu Channel Case@\citeinindex {corfu}|hyperpage}{41}
+\indexentry[intcases]{Land, Island and Maritime Frontier Case@\citeinindex {nicaragua}|hyperpage}{41}
+\indexentry[intcases]{Legal Consequences of the Construction of a Wall@\citeinindex {wall}|hyperpage}{41}
+\indexentry[intcases]{Chorz\'ow Factory Case@\citeinindex {chorzow}|hyperpage}{41}
+\indexentry[general]{cases!International!indexing|hyperpage}{41}
+\indexentry[general]{indexing!International Law cases|hyperpage}{41}
+\indexentry[general]{legislation|(hyperpage}{41}
+\indexentry[general]{legislation!UK!fields|(hyperpage}{42}
+\indexentry[general]{legislation!English|hyperindexformat{\see{UK}}}{42}
+\indexentry[general]{legislation!Scottish|hyperindexformat{\see{UK}}}{42}
+\indexentry[general]{legislation!Welsh|hyperindexformat{\see{UK}}}{42}
+\indexentry[general]{legislation!Northern Irish|hyperindexformat{\see{UK}}}{42}
+\indexentry[general]{keywords field@\texttt{keywords} field|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!keywords field@\texttt{keywords} field|hyperpage}{42}
+\indexentry[general]{title field@\texttt{title} field!legislation@in legislation|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorttitle field@\texttt{shorttitle} field|hyperpage}{42}
+\indexentry[general]{shorttitle field@\texttt{shorttitle} field!legislation@in legislation|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorttitle field@\texttt{shorttitle} field|hyperpage}{42}
+\indexentry[general]{shorthand field@\texttt{shorthand} field!legislation@in legislation|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorthand field@\texttt{shorthand} field|hyperpage}{42}
+\indexentry[general]{legislation!UK!shortened forms|hyperpage}{42}
+\indexentry[general]{pagination field@\texttt{pagination} field!legislation@in legislation|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!pagination field@\texttt{pagination} field|hyperpage}{42}
+\indexentry[general]{number field@\texttt{number} field!legislation@in legislation|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number} field|hyperpage}{42}
+\indexentry[general]{note field@\texttt{note} field!legislation@in legislation|hyperpage}{42}
+\indexentry[general]{bibfile@\texttt{.bib} file!note field@\texttt{note} field|hyperpage}{42}
+\indexentry[general]{legislation!UK!fields|)}{42}
+\indexentry[general]{legislation!citation commands|(hyperpage}{43}
+\indexentry[general]{citation commands!legislation|hyperpage}{43}
+\indexentry[general]{legislation!citation commands|)}{43}
+\indexentry[general]{legislation!UK!examples|(hyperpage}{43}
+\indexentry[ukleg]{Unfair Contract Terms Act1977@\citeinindex {ucta}!2@s 2|hyperpage}{43}
+\indexentry[ukleg]{Nuclear Installations Act1965@\citeinindex {nia1965}|hyperpage}{43}
+\indexentry[ukleg]{Nuclear Installations Act1965@\citeinindex {nia1965}!4@s 4|hyperpage}{43}
+\indexentry[ukleg]{Learner Travel (Wales) Measure2008@\citeinindex {learner08}|hyperpage}{44}
+\indexentry[general]{legislation!UK!examples|)}{44}
+\indexentry[general]{indexing!legislation!primary|hyperpage}{44}
+\indexentry[general]{legislation!indexing!UK|hyperpage}{44}
+\indexentry[general]{legislation!UK|(hyperpage}{44}
+\indexentry[ukleg]{Penalties for Disorderly Behaviour (Amendment of Minimum Age) Order2004@\citeinindex {disorderly}|hyperpage}{45}
+\indexentry[ukleg]{Hollow-ware and Galvanising Welfare Order1921@\citeinindex {hollowware}!2@r 2|hyperpage}{45}
+\indexentry[ukleg]{Eggs and Chicks (England) Regulations2009@\citeinindex {eggs}!6@reg 6|hyperpage}{45}
+\indexentry[general]{indexing!legislation!secondary|hyperpage}{45}
+\indexentry[general]{legislation!indexing!UK|hyperpage}{45}
+\indexentry[general]{legislation!UK|)}{45}
+\indexentry[general]{legislation!draft!UK|(hyperpage}{45}
+\indexentry[pmats]{Consolidated Fund Bill2008@\citeinindex {confund}|hyperpage}{46}
+\indexentry[pmats]{Consolidated Fund Bill2008@\citeinindex {confund2}!3@cl 3|hyperpage}{46}
+\indexentry[pmats]{Academies Bill2010@\citeinindex {academies}!8@cl 8!2@(2)|hyperpage}{46}
+\indexentry[general]{legislation!explanatory notes|hyperpage}{46}
+\indexentry[general]{legislation!draft!UK|hyperpage}{46}
+\indexentry[pmats]{Charities Act 2006, Explanatory Note@\citeinindex {charitiesnotes}|hyperpage}{46}
+\indexentry[general]{legislation!draft!Scottish|hyperpage}{47}
+\indexentry[pmats]{SP Bill 4 Abolition of Feudal Tenure etc (Scotland) Bill [as introduced] Session 1@\citeinindex {spbill4}|hyperpage}{47}
+\indexentry[general]{indexing!draft legislation|hyperpage}{47}
+\indexentry[general]{legislation!draft!indexing|hyperpage}{47}
+\indexentry[general]{legislation!explanatory notes!indexing|hyperpage}{47}
+\indexentry[general]{legislation!EU|(hyperpage}{47}
+\indexentry[general]{EU treaties!generally|hyperindexformat{\see{treaties, European Union}}}{47}
+\indexentry[general]{treaties!European Union|(hyperpage}{47}
+\indexentry[general]{keywords field@\texttt{keywords} field!EU treaties@in EU treaties|hyperpage}{47}
+\indexentry[general]{bibfile@\texttt{.bib} file!keywords field@\texttt{keywords} field|hyperpage}{47}
+\indexentry[general]{entrysubtype field@\texttt{entrysubtype} field!EU treaties@in EU treaties|hyperpage}{47}
+\indexentry[general]{bibfile@\texttt{.bib} file!entrysubtype field@\texttt{entrysubtype} field|hyperpage}{47}
+\indexentry[general]{title field@\texttt{title} field!EU treaties@in EU treaties|hyperpage}{47}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{47}
+\indexentry[general]{date field@\texttt{date} field!EU treaties@in EU treaties|hyperpage}{47}
+\indexentry[general]{bibfile@\texttt{.bib} file!date field@\texttt{date} field|hyperpage}{47}
+\indexentry[general]{journaltitle field@\texttt{journaltitle} field!EU treaties@in EU treaties|hyperpage}{47}
+\indexentry[general]{bibfile@\texttt{.bib} file!journaltitle field@\texttt{journaltitle} field|hyperpage}{47}
+\indexentry[general]{series field@\texttt{series} field!EU treaties@in EU treaties|hyperpage}{47}
+\indexentry[general]{series field@\texttt{series} field!Official Journal|hyperpage}{47}
+\indexentry[general]{bibfile@\texttt{.bib} file!series field@\texttt{series} field|hyperpage}{47}
+\indexentry[general]{volume field@\texttt{volume} field!EU treaties@in EU treaties|hyperpage}{48}
+\indexentry[general]{bibfile@\texttt{.bib} file!volume field@\texttt{volume} field|hyperpage}{48}
+\indexentry[general]{pages field@\texttt{pages} field!EU treaties@in EU treaties|hyperpage}{48}
+\indexentry[general]{bibfile@\texttt{.bib} file!pages field@\texttt{pages} field|hyperpage}{48}
+\indexentry[general]{shorthand field@\texttt{shorthand} field!EU treaties@in EU treaties|hyperpage}{48}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorthand field@\texttt{shorthand} field|hyperpage}{48}
+\indexentry[general]{shorttitle field@\texttt{shorttitle} field!EU treaties@in EU treaties|hyperpage}{48}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorttitle field@\texttt{shorttitle} field|hyperpage}{48}
+\indexentry[general]{pagination field@\texttt{pagination} field!EU treaties@in EU treaties|hyperpage}{48}
+\indexentry[general]{bibfile@\texttt{.bib} file!pagination field@\texttt{pagination} field|hyperpage}{48}
+\indexentry[general]{treaties!European Union!example|hyperpage}{48}
+\indexentry[euleg]{Treaty on European Union@\citeinindex {teu}!3@art 3|hyperpage}{48}
+\indexentry[general]{treaties!European Union|)}{48}
+\indexentry[general]{EU treaties!shortened citations|hyperpage}{48}
+\indexentry[general]{options!eu-treaty@\texttt{eu-treaty}|hyperpage}{48}
+\indexentry[general]{treaties!European Union!indexing|hyperpage}{48}
+\indexentry[general]{indexing!EU treaties|hyperpage}{48}
+\indexentry[general]{legislation!EU!regulations|hyperpage}{48}
+\indexentry[general]{legislation!EU!directives|hyperpage}{48}
+\indexentry[general]{legislation!EU!decisions|hyperpage}{48}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{48}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{48}
+\indexentry[general]{title field@\texttt{title} field!EU legislation@in EU legislation|hyperpage}{49}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{49}
+\indexentry[general]{entrysubtype field@\texttt{entrysubtype} field!EU legislation@in EU legislation|hyperpage}{49}
+\indexentry[general]{bibfile@\texttt{.bib} file!entrysubtype field@\texttt{entrysubtype} field|hyperpage}{49}
+\indexentry[general]{type field@\texttt{type} field!EU legislation@in EU legislation|hyperpage}{49}
+\indexentry[general]{bibfile@\texttt{.bib} file!type field@\texttt{type} field|hyperpage}{49}
+\indexentry[general]{shorttitle field@\texttt{shorttitle} field!EU legislation@in EU legislation|hyperpage}{49}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorttitle field@\texttt{shorttitle} field|hyperpage}{49}
+\indexentry[general]{number field!\texttt{number} field!EU legislation@in EU legislation|hyperpage}{49}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number} field|hyperpage}{49}
+\indexentry[general]{legislation!EU!type field@\texttt{type} field|hyperpage}{49}
+\indexentry[trash]{Lenaerts, Koen|hyperpage}{49}
+\indexentry[trash]{Nuffel, Piet van|hyperpage}{49}
+\indexentry[trash]{Constitutional Law of the European Union@\citeinindex {lenaerts2}|hyperpage}{49}
+\indexentry[euleg]{200200060@\citeinindex {2002/60}|hyperpage}{50}
+\indexentry[euleg]{Treaty on European Union@\citeinindex {teu}|hyperpage}{50}
+\indexentry[euleg]{200200060@\citeinindex {2002/60}!2@art 2|hyperpage}{50}
+\indexentry[general]{indexing!EU legislation|hyperpage}{50}
+\indexentry[general]{legislation!draft!EU|hyperpage}{50}
+\indexentry[general]{court rules of@court, rules of|(hyperpage}{50}
+\indexentry[general]{rules of court|(hyperpage}{50}
+\indexentry[general]{procedure rules|(hyperpage}{50}
+\indexentry[ukleg]{Civil Procedure Rules@\citeinindex {cpr}!7@7|hyperpage}{51}
+\indexentry[ukleg]{Rules of the Supreme Court@\citeinindex {rsc}!24@Ord 24!14A@r 14A|hyperpage}{51}
+\indexentry[ukleg]{County Court Rules@\citeinindex {ccr}!17@Ord 17!11@r 11|hyperpage}{51}
+\indexentry[ukleg]{CPR Practice Directions@\citeinindex {pd}!6@6!4.1@4.1|hyperpage}{51}
+\indexentry[general]{court rules of@court, rules of|)}{51}
+\indexentry[general]{rules of court|)}{51}
+\indexentry[general]{procedure rules|)}{51}
+\indexentry[general]{legislation|)}{51}
+\indexentry[general]{treaties|(hyperpage}{51}
+\indexentry[general]{entrysubtype field@\texttt{entrysubtype} field!treaties@public international law treaties|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!entrysubtype field@\texttt{entrysubtype} field|hyperpage}{52}
+\indexentry[general]{title field@\texttt{title} field!treaties@in treaties|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{52}
+\indexentry[general]{shorttitle field@\texttt{shorttitle} field!treaties@in treaties|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!shorttitle field@\texttt{shorttitle} field|hyperpage}{52}
+\indexentry[general]{indextitle field@\texttt{indextitle} field!treaties@in treaties|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!indextitle field@\texttt{indextitle} field|hyperpage}{52}
+\indexentry[general]{indexing!treaties|hyperpage}{52}
+\indexentry[general]{parties field@\texttt{parties} field|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!parties field@\texttt{parties} field|hyperpage}{52}
+\indexentry[general]{execution field@\texttt{execution} field|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!execution field@\texttt{execution} field|hyperpage}{52}
+\indexentry[general]{note field@\texttt{note} field!treaties@in treaties|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!note field@\texttt{note} field|hyperpage}{52}
+\indexentry[general]{dates!treaties@in treaties|hyperpage}{52}
+\indexentry[general]{execution field@\texttt{execution} field|hyperpage}{52}
+\indexentry[general]{bibfile@\texttt{.bib} file!execution field@\texttt{execution} field|hyperpage}{52}
+\indexentry[general]{treaties!date!signature@of signature|hyperpage}{52}
+\indexentry[general]{treaties!date!opened for signature|hyperpage}{52}
+\indexentry[general]{treaties!date!adopted|hyperpage}{52}
+\indexentry[general]{treaties!date!force@entered into force|hyperpage}{52}
+\indexentry[general]{treaties!examples|(hyperpage}{53}
+\indexentry[treaties]{International Agreement on the Scheldt@\citeinindex {scheldt}|hyperpage}{53}
+\indexentry[treaties]{Convention Relating to the Non-Fortification and Neutralisation of the Aaland Islands@\citeinindex {aaland}|hyperpage}{53}
+\indexentry[treaties]{Agreement with Mongolia (Economic Co-operation)@\citeinindex {mongolia}|hyperpage}{53}
+\indexentry[general]{treaties!examples|)}{54}
+\indexentry[general]{European Convention on Human Rights|hyperpage}{54}
+\indexentry[general]{European Convention on Human Rights|hyperindexformat{\see {also, European Court of Human Rights}}}{54}
+\indexentry[general]{ECHR|hyperindexformat{\see {European Convention on Human Rights, European Court of Human Rights}}}{54}
+\indexentry[general]{treaties!European Convention on Human Rights|hyperpage}{54}
+\indexentry[treaties]{Convention for the Protection of Human Rights and Fundamental Freedoms@\citeinindex {echr:treaty}|hyperpage}{54}
+\indexentry[general]{treaties|)}{54}
+\indexentry[general]{books|(hyperpage}{54}
+\indexentry[general]{title field@\texttt{title} field!books@in books|hyperpage}{54}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{54}
+\indexentry[general]{subtitle field@\texttt{subtitle} field!books@in books|hyperpage}{54}
+\indexentry[general]{bibfile@\texttt{.bib} file!subtitle field@\texttt{subtitle} field|hyperpage}{54}
+\indexentry[general]{author field@\texttt{author} field!books@in books|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!author field@\texttt{author} field|hyperpage}{55}
+\indexentry[general]{editor field@\texttt{editor} field!books@in books|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!editor field@\texttt{editor} field|hyperpage}{55}
+\indexentry[general]{translator field@\texttt{title} field|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!translator field@\texttt{translator} field|hyperpage}{55}
+\indexentry[general]{date field@\texttt{date} field!books@in books|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!date field@\texttt{date} field|hyperpage}{55}
+\indexentry[general]{origdate field@\texttt{origdate} field|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!origdate field@\texttt{origdate} field|hyperpage}{55}
+\indexentry[general]{edition field@\texttt{edition} field|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!edition field@\texttt{edition} field|hyperpage}{55}
+\indexentry[general]{title field@\texttt{publisher} field|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!publisher field@\texttt{publisher} field|hyperpage}{55}
+\indexentry[general]{location field@\texttt{location} field!books@in books|hyperpage}{55}
+\indexentry[general]{bibfile@\texttt{.bib} file!location field@\texttt{location} field|hyperpage}{55}
+\indexentry[general]{publication, place of|hyperpage}{55}
+\indexentry[general]{bibyearwatershed@\texttt{\textbackslash bibyearwatershed}|hyperpage}{55}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{55}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{55}
+\indexentry[general]{series field@\texttt{series} field!books@in books|hyperpage}{56}
+\indexentry[general]{bibfile@\texttt{.bib} file!series field@\texttt{series} field|hyperpage}{56}
+\indexentry[general]{number field@\texttt{number} field!books@in books|hyperpage}{56}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number} field|hyperpage}{56}
+\indexentry[general]{volume field@\texttt{volume} field!books@in books|hyperpage}{56}
+\indexentry[general]{bibfile@\texttt{.bib} file!volume field@\texttt{volume} field|hyperpage}{56}
+\indexentry[general]{note field@\texttt{note} field!books@in books|hyperpage}{56}
+\indexentry[general]{bibfile@\texttt{.bib} file!note field@\texttt{note} field|hyperpage}{56}
+\indexentry[general]{pagination field@\texttt{pagination} field!books@in books|hyperpage}{56}
+\indexentry[general]{bibfile@\texttt{.bib} file!pagination field@\texttt{pagination} field|hyperpage}{56}
+\indexentry[general]{books!examples|(hyperpage}{56}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{56}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{56}
+\indexentry[trash]{Endicott, Timothy|hyperpage}{57}
+\indexentry[trash]{Administrative Law@\citeinindex {endicott09}|hyperpage}{57}
+\indexentry[trash]{Jones, Gareth|hyperpage}{57}
+\indexentry[trash]{Goff and Jones: The Law of Restitution@\citeinindex {jones09}|hyperpage}{57}
+\indexentry[trash]{Bar, Christian von|hyperpage}{57}
+\indexentry[trash]{The Common European Law of Torts@\citeinindex {bar00}|hyperpage}{57}
+\indexentry[general]{books!examples|)}{57}
+\indexentry[general]{collections|hyperpage}{57}
+\indexentry[general]{books!edited works|hyperpage}{57}
+\indexentry[general]{books!collections of papers|hyperpage}{57}
+\indexentry[general]{books!examples|(hyperpage}{57}
+\indexentry[trash]{Horder, Jeremy|hyperpage}{58}
+\indexentry[trash]{Oxford Essays in Jurisprudence: Fourth Series@\citeinindex {horder00}|hyperpage}{58}
+\indexentry[trash]{Birks, Peter|hyperpage}{58}
+\indexentry[trash]{McLeod, Grant|hyperpage}{58}
+\indexentry[trash]{Institutes of Justinian, The@\citeinindex {birks87}|hyperpage}{58}
+\indexentry[trash]{Zweigert, K|hyperpage}{58}
+\indexentry[trash]{K\"otz, H|hyperpage}{58}
+\indexentry[trash]{An Introduction to Comparative Law@\citeinindex {kotz98}|hyperpage}{58}
+\indexentry[trash]{Hart, H L A|hyperpage}{58}
+\indexentry[trash]{Punishment and Responsibility@\citeinindex {hart08}|hyperpage}{58}
+\indexentry[general]{books!examples|)}{58}
+\indexentry[general]{bibfile@\texttt{.bib} file!inbook type@\texttt{inbook} type|hyperpage}{58}
+\indexentry[general]{bibfile@\texttt{.bib} file!incollection type@\texttt{incollection} type|hyperpage}{58}
+\indexentry[general]{author field@\texttt{author} field!books@in books|hyperpage}{58}
+\indexentry[general]{author field@\texttt{author} field!collections@in collections|hyperpage}{58}
+\indexentry[general]{bibfile@\texttt{.bib} file!author field@\texttt{author} field|hyperpage}{58}
+\indexentry[general]{editor field@\texttt{editor} field!books@in books|hyperpage}{58}
+\indexentry[general]{editor field@\texttt{editor} field!collections@in collections|hyperpage}{58}
+\indexentry[general]{bibfile@\texttt{.bib} file!editor field@\texttt{editor} field|hyperpage}{58}
+\indexentry[general]{bookauthor field@\texttt{bookauthor} field|hyperpage}{58}
+\indexentry[general]{bibfile@\texttt{.bib} file!bookauthor field@\texttt{bookauthor} field|hyperpage}{58}
+\indexentry[general]{booktitle field@\texttt{booktitle} field|hyperpage}{59}
+\indexentry[general]{bibfile@\texttt{.bib} file!booktitle field@\texttt{booktitle} field|hyperpage}{59}
+\indexentry[general]{maintitle field@\texttt{maintitle} field|hyperpage}{59}
+\indexentry[general]{bibfile@\texttt{.bib} file!maintitle field@\texttt{maintitle} field|hyperpage}{59}
+\indexentry[general]{crossref field@\texttt{crossref} field!books@in books|hyperpage}{59}
+\indexentry[general]{books!examples|(hyperpage}{59}
+\indexentry[trash]{Pila, Justine|hyperpage}{59}
+\indexentry[trash]{The Value of Authorship in the Digital Environment@\citeinindex {pila10}|hyperpage}{59}
+\indexentry[trash]{Cartwright, John|hyperpage}{59}
+\indexentry[trash]{The Fiction of the \enquote {Reasonable Man}@\citeinindex {cartwright09}|hyperpage}{59}
+\indexentry[general]{books!examples|)}{59}
+\indexentry[general]{books!older works|(hyperpage}{60}
+\indexentry[general]{bibyearwatershed@\texttt{\textbackslash bibyearwatershed}|hyperpage}{60}
+\indexentry[trash]{Hobbes, Thomas|hyperpage}{60}
+\indexentry[trash]{Leviathan@\citeinindex {leviathan}|hyperpage}{60}
+\indexentry[general]{books!older works|)}{60}
+\indexentry[general]{books!authority@of authority|(hyperpage}{60}
+\indexentry[general]{institutional works|hyperpage}{60}
+\indexentry[general]{Blackstone|hyperpage}{60}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{60}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{60}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{60}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{60}
+\indexentry[trash]{Blackstone|hyperpage}{61}
+\indexentry[trash]{Commentaries@\citeinindex {blackstone}|hyperpage}{61}
+\indexentry[trash]{Coke|hyperpage}{61}
+\indexentry[trash]{Co Litt@\citeinindex {colitt}|hyperpage}{61}
+\indexentry[trash]{Stair|hyperpage}{61}
+\indexentry[trash]{Institutions@\citeinindex {stair}|hyperpage}{61}
+\indexentry[general]{books!authority@of authority|)}{61}
+\indexentry[general]{books!reference works|(hyperpage}{61}
+\indexentry[trash]{Friedrich, CJ|hyperpage}{62}
+\indexentry[trash]{Constitutions and Constitutionalism@\citeinindex {friedrich68}|hyperpage}{62}
+\indexentry[trash]{Friedrich, C J|hyperpage}{62}
+\indexentry[trash]{Constitutions and Constitutionalism@\citeinindex {friedrich68a}|hyperpage}{62}
+\indexentry[general]{books!reference works|)}{62}
+\indexentry[general]{encyclopaedia|hyperindexformat{\see {books, reference}}}{62}
+\indexentry[general]{books!looseleaf|hyperpage}{62}
+\indexentry[general]{looseleaf publications|hyperpage}{62}
+\indexentry[trash]{Cross on Local Government Law@\citeinindex {cross}|hyperpage}{62}
+\indexentry[general]{books|)}{62}
+\indexentry[general]{articles|(hyperpage}{62}
+\indexentry[general]{journals!articles in|hyperindexformat{\see {articles}}}{62}
+\indexentry[general]{periodical literature|hyperindexformat{\see {articles}}}{62}
+\indexentry[general]{entrysubtype field@\texttt{entrysubtype} field!articles@in articles|hyperpage}{62}
+\indexentry[general]{bibfile@\texttt{.bib} file!entrysubtype field@\texttt{entrysubtype} field|hyperpage}{62}
+\indexentry[general]{author field@\texttt{author} field!articles@in articles|hyperpage}{62}
+\indexentry[general]{bibfile@\texttt{.bib} file!author field@\texttt{author} field|hyperpage}{62}
+\indexentry[general]{title field@\texttt{title} field!articles@in articles|hyperpage}{62}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{62}
+\indexentry[general]{journaltitle field@\texttt{journaltitle} field!articles@in articles|hyperpage}{62}
+\indexentry[general]{bibfile@\texttt{.bib} file!journaltitle field@\texttt{journaltitle} field|hyperpage}{62}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{62}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{62}
+\indexentry[general]{volume field@\texttt{volume} field!articles@in articles|hyperpage}{63}
+\indexentry[general]{bibfile@\texttt{.bib} file!volume field@\texttt{volume} field|hyperpage}{63}
+\indexentry[general]{options field@\texttt{options} field!year-essential@\texttt{year-essential}|hyperpage}{63}
+\indexentry[general]{date field@\texttt{date} field!articles@in articles|hyperpage}{63}
+\indexentry[general]{bibfile@\texttt{.bib} file!date field@\texttt{date} field|hyperpage}{63}
+\indexentry[general]{pages field@\texttt{pages} field!articles@in articles|hyperpage}{63}
+\indexentry[general]{bibfile@\texttt{.bib} file!pages field@\texttt{pages} field|hyperpage}{63}
+\indexentry[general]{crossref field@\texttt{crossref} field!articles@in articles|hyperpage}{63}
+\indexentry[general]{bibfile@\texttt{.bib} file!crossref field@\texttt{crossref} field|hyperpage}{63}
+\indexentry[general]{articles!periodical literature!examples|(hyperpage}{63}
+\indexentry[trash]{Craig, Paul|hyperpage}{63}
+\indexentry[trash]{Theory \enquote {Pure Theory} and Values in Public Law@\citeinindex {craig05}|hyperpage}{63}
+\indexentry[trash]{Young, Alison L|hyperpage}{63}
+\indexentry[trash]{In Defence of Due Deference@\citeinindex {young09}|hyperpage}{63}
+\indexentry[trash]{Griffith, J A G|hyperpage}{64}
+\indexentry[trash]{The Common Law and the Political Constitution@\citeinindex {griffith01}|hyperpage}{64}
+\indexentry[trash]{Waldron, Jeremy|hyperpage}{64}
+\indexentry[trash]{The Core of the Case against Judicial Review@\citeinindex {waldron06}|hyperpage}{64}
+\indexentry[general]{articles!periodical literature!examples|hyperpage}{64}
+\indexentry[general]{articles!newspapers@in newspapers|hyperpage}{64}
+\indexentry[general]{newspapers!articles|hyperpage}{64}
+\indexentry[general]{articles!entrysubtype field@\texttt{entrysubtype} field!newspaper@\texttt{newspaper}|hyperpage}{64}
+\indexentry[trash]{Croft, Jane|hyperpage}{64}
+\indexentry[trash]{Supreme Court Warns on Quality@\citeinindex {croft}|hyperpage}{64}
+\indexentry[general]{articles!case notes|hyperpage}{64}
+\indexentry[general]{cases!notes on|hyperpage}{64}
+\indexentry[general]{casenotes|hyperpage}{64}
+\indexentry[general]{articles!entrysubtype field@\texttt{entrysubtype} field!casenote@\texttt{casenote}|hyperpage}{64}
+\indexentry[general]{crossref field@\texttt{crossref field}!casenotes@in casenotes|hyperpage}{64}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{64}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{64}
+\indexentry[trash]{Rowbottom, Jacob|hyperpage}{65}
+\indexentry[trash]{Jameel v Wall Street Journal Europe SPRL@\citeinindex {rowbottom07}|hyperpage}{65}
+\indexentry[general]{articles|)}{65}
+\indexentry[general]{reports|(hyperpage}{65}
+\indexentry[ukcases]{Jameel v Wall Street Journal Europe SPRL@\citeinindex {jameel04}|hyperpage}{65}
+\indexentry[trash]{Rowbottom, Jacob|hyperpage}{65}
+\indexentry[trash]{Jameel v Wall Street Journal Europe SPRL@\citeinindex {rowbottom07}|hyperpage}{65}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{66}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{66}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{66}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{66}
+\indexentry[general]{author field@\texttt{author} field!reports@in reports|hyperpage}{66}
+\indexentry[general]{reports!author|hyperpage}{66}
+\indexentry[general]{institution field@\texttt{institution} field!reports@in reports|hyperpage}{66}
+\indexentry[general]{bibfile@\texttt{.bib} file!author field@\texttt{author} field|hyperpage}{66}
+\indexentry[general]{bibfile@\texttt{.bib} file!institution field@\texttt{institution} field|hyperpage}{66}
+\indexentry[general]{number field@\texttt{number} field!reports@in reports|hyperpage}{66}
+\indexentry[general]{bibfile@\texttt{.bib} file!number field@\texttt{number} field|hyperpage}{66}
+\indexentry[general]{series field@\texttt{series} field!reports@in reports|hyperpage}{66}
+\indexentry[general]{bibfile@\texttt{.bib} file!series field@\texttt{series} field|hyperpage}{66}
+\indexentry[general]{reports!command papers|hyperpage}{66}
+\indexentry[general]{command papers|hyperindexformat{\see {reports}}}{66}
+\indexentry[general]{type field@\texttt{type} field!reports@in reports|hyperpage}{67}
+\indexentry[general]{bibfile@\texttt{.bib} file!type field@\texttt{type} field|hyperpage}{67}
+\indexentry[general]{reports!white papers|hyperpage}{67}
+\indexentry[general]{reports!green papers|hyperpage}{67}
+\indexentry[general]{white paper|hyperindexformat{\see {reports}}}{67}
+\indexentry[general]{green paper|hyperindexformat{\see {reports}}}{67}
+\indexentry[general]{reports!examples|(hyperpage}{67}
+\indexentry[trash]{Home Office|hyperpage}{67}
+\indexentry[trash]{Report of the Royal Commission on Capital Punishment@\citeinindex {rc:capital}|hyperpage}{67}
+\indexentry[trash]{2008 Autumn Performance Report@\citeinindex {autumnperf}|hyperpage}{67}
+\indexentry[trash]{Department for International Development|hyperpage}{68}
+\indexentry[trash]{Eliminating World Poverty@\citeinindex {eliminating:poverty}|hyperpage}{68}
+\indexentry[trash]{Reforming Bribery@\citeinindex {lawcom313}|hyperpage}{68}
+\indexentry[trash]{Law Commission|hyperpage}{68}
+\indexentry[trash]{Privity of Contract: Contracts for the Benefit of Third Parties@\citeinindex {lawcomcp121}|hyperpage}{68}
+\indexentry[general]{reports!examples|)}{68}
+\indexentry[general]{reports!parliamentary proceedings@of parliamentary proceedings|(hyperpage}{69}
+\indexentry[general]{Hansard|hyperpage}{69}
+\indexentry[general]{reports!Hansard|hyperpage}{69}
+\indexentry[pmats]{Official Report, House of Commons@\citeinindex {foia:2r}!340@vol 340|hyperpage}{69}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{69}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{69}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{69}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{69}
+\indexentry[pmats]{Health Bill Deb@\citeinindex {healthbill}|hyperpage}{70}
+\indexentry[general]{indexing!parliamentary materials|hyperpage}{70}
+\indexentry[general]{reports!parliamentary proceedings@of parliamentary proceedings|)}{70}
+\indexentry[general]{reports!select committee|hyperpage}{70}
+\indexentry[general]{reports!joint committee|hyperpage}{70}
+\indexentry[trash]{Science|hyperpage}{71}
+\indexentry[trash]{Committee, Technology|hyperpage}{71}
+\indexentry[pmats]{Genomic Medicine@\citeinindex {genomic}|hyperpage}{71}
+\indexentry[pmats]{Patient Safety@\citeinindex {patient}|hyperpage}{71}
+\indexentry[pmats]{Legislative Scrutiny: Equality Bill (second report); Digital Economy Bill@\citeinindex {equality}|hyperpage}{71}
+\indexentry[general]{comdoc@\textsc{comdoc}|hyperindexformat{\see reports}}{71}
+\indexentry[general]{reports!comdocs@\textsc{comdoc}s|(hyperpage}{71}
+\indexentry[general]{legislation!draft!EU|hyperpage}{71}
+\indexentry[general]{entrysubtypefield@\texttt{entrysubtype} field!comdocs@for\texttt{comdoc}s|hyperpage}{71}
+\indexentry[general]{bibfile@\texttt{.bib} file!entrysubtype field@\texttt{entrysubtype} field|hyperpage}{71}
+\indexentry[trash]{Proposal for a Council Decision on the conclusion, on behalf of the European Community, of a Protocol on the Implementation of the Alpine Convention in the Field of Transport (Transport Protocol)@\citeinindex {com895}|hyperpage}{72}
+\indexentry[trash]{Action Plan on consumer access to justice and the settlement of disputes in the internal market@\citeinindex {com13}|hyperpage}{72}
+\indexentry[trash]{Proposal for a Council Regulation on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters@\citeinindex {com348}|hyperpage}{72}
+\indexentry[general]{indexing!EU documents|hyperpage}{72}
+\indexentry[general]{reports!comdocs@\textsc{comdoc}s|)}{72}
+\indexentry[general]{reports|)}{72}
+\indexentry[general]{United Nations documents|(hyperpage}{72}
+\indexentry[general]{misc entrytype@\texttt{misc} entrytype!UN documents|hyperpage}{72}
+\indexentry[general]{author field@\texttt{author} field!UN documents@in UN documents|hyperpage}{72}
+\indexentry[general]{United Nations documents!author|hyperpage}{72}
+\indexentry[general]{institution field@\texttt{institution} field!UN documents@in UN documents|hyperpage}{72}
+\indexentry[general]{United Nations documents!institution|hyperpage}{72}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{72}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola3}|hyperpage}{72}
+\indexentry[general]{title field@\texttt{title} field!UN documents@in UN documents|hyperpage}{73}
+\indexentry[general]{United Nations documents!title|hyperpage}{73}
+\indexentry[general]{instrument no field@\texttt{instrument\_no} field!UN documents@in UN documents|hyperpage}{73}
+\indexentry[general]{United Nations documents!instrument no|hyperpage}{73}
+\indexentry[general]{doc no field@\texttt{doc\_no} field!UN documents@in UN documents|hyperpage}{73}
+\indexentry[general]{United Nations documents!doc no|hyperpage}{73}
+\indexentry[general]{United Nations documents!examples|hyperpage}{73}
+\indexentry[trash]{Declaration on the Granting of Independence to Colonial Countries and Peoples@\citeinindex {Indep}|hyperpage}{74}
+\indexentry[trash]{UNGARes 51/210@\citeinindex {res51_210}|hyperpage}{74}
+\indexentry[trash]{Badinter Commission|hyperpage}{74}
+\indexentry[trash]{Badinter Commission Opinion 4@\citeinindex {badinter4}|hyperpage}{74}
+\indexentry[general]{United Nations documents|)}{74}
+\indexentry[general]{thesis|hyperpage}{74}
+\indexentry[trash]{Herberg, Javan|hyperpage}{74}
+\indexentry[trash]{Injunctive Relief for Wrongful Termination of Employment@\citeinindex {herberg89}|hyperpage}{74}
+\indexentry[general]{letter|hyperpage}{74}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{74}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{74}
+\indexentry[trash]{Letter from Gordon Brown to Lady Ashton@\citeinindex {brown:letter}|hyperpage}{75}
+\indexentry[trash]{Email from Amazon.co.uk to author@\citeinindex {amazon:email}|hyperpage}{75}
+\indexentry[general]{interview|hyperpage}{75}
+\indexentry[trash]{Endicott, Timothy|hyperpage}{75}
+\indexentry[trash]{Gardner, John|hyperpage}{75}
+\indexentry[trash]{Interview with Tony Honor\'e, Emeritus Regius Professor of Civil Law, University of Oxford@\citeinindex {honore:interview}|hyperpage}{75}
+\indexentry[general]{conference|hyperpage}{75}
+\indexentry[general]{proceedings|hyperpage}{75}
+\indexentry[general]{papers|hyperindexformat{\see {article, conference}}}{75}
+\indexentry[trash]{McFarlane, Ben|hyperpage}{75}
+\indexentry[trash]{Nolan, Donal|hyperpage}{75}
+\indexentry[trash]{Remedying Reliance: The Future Development of Promissory and Proprietary Estoppel in English Law@\citeinindex {reliance}|hyperpage}{75}
+\indexentry[general]{online sources|(hyperpage}{75}
+\indexentry[general]{title field@\texttt{title} field!online@in online sources|hyperpage}{76}
+\indexentry[general]{bibfile@\texttt{.bib} file!title field@\texttt{title} field|hyperpage}{76}
+\indexentry[general]{journaltitle field@\texttt{journaltitle} field!online@in online sources|hyperpage}{76}
+\indexentry[general]{bibfile@\texttt{.bib} file!journaltitle field@\texttt{journaltitle} field|hyperpage}{76}
+\indexentry[general]{author field@\texttt{author} field!online@in online sources|hyperpage}{76}
+\indexentry[general]{bibfile@\texttt{.bib} file!author field@\texttt{author} field|hyperpage}{76}
+\indexentry[general]{date field@\texttt{date} field!online@in online sources|hyperpage}{76}
+\indexentry[general]{bibfile@\texttt{.bib} file!date field@\texttt{date} field|hyperpage}{76}
+\indexentry[general]{url field@\texttt{url} field!online@in online sources|hyperpage}{76}
+\indexentry[general]{bibfile@\texttt{.bib} file!url field@\texttt{url} field|hyperpage}{76}
+\indexentry[general]{urldate field@\texttt{urldate} field!online@in online sources|hyperpage}{76}
+\indexentry[general]{bibfile@\texttt{.bib} file!urldate field@\texttt{urldate} field|hyperpage}{76}
+\indexentry[trash]{Cole, Sarah|hyperpage}{76}
+\indexentry[trash]{Virtual Friend Fires Employee@\citeinindex {cole09}|hyperpage}{76}
+\indexentry[general]{journals!electronic|hyperpage}{76}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{76}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{76}
+\indexentry[trash]{Greenleaf, Graham|hyperpage}{77}
+\indexentry[trash]{The Global Development of Free Access to Legal Information@\citeinindex {greenleaf10}|hyperpage}{77}
+\indexentry[trash]{Boyle, James|hyperpage}{77}
+\indexentry[trash]{A Manifesto on WIPO and the Future of Intellectual Property@\citeinindex {boyle04}|hyperpage}{77}
+\indexentry[general]{online sources|)}{77}
+\indexentry[general]{urls@\textsc{url}s|hyperpage}{77}
+\indexentry[general]{bibfile@\texttt{.bib} file!url field@\texttt{url} field|hyperpage}{77}
+\indexentry[trash]{Melbourne University Law Review Association Inc|hyperpage}{77}
+\indexentry[trash]{Australian Guide to Legal Citation@\citeinindex {melbourne}|hyperpage}{77}
+\indexentry[trash]{Loader, Ian|hyperpage}{78}
+\indexentry[trash]{The Great Victim of this Get Tough Hyperactivity is Labour@\citeinindex {loader}|hyperpage}{78}
+\indexentry[general]{urls@\textsc{url}s!controlling printing|hyperpage}{78}
+\indexentry[general]{options!url@\texttt{url}|hyperpage}{78}
+\indexentry[general]{options field@\texttt{options} field!url option@\texttt{url} option|hyperpage}{78}
+\indexentry[general]{urls@\textsc{url}s!formatting|hyperpage}{78}
+\indexentry[general]{angled brackets|hyperpage}{78}
+\indexentry[general]{legalstarturl@\texttt{\textbackslash legalstarturl}|hyperpage}{78}
+\indexentry[general]{legalendurl@\texttt{\textbackslash legalendurl}|hyperpage}{78}
+\indexentry[trash]{Faculty of Law, University of Oxford|hyperpage}{78}
+\indexentry[trash]{OSCOLA@\citeinindex {oscola}|hyperpage}{78}

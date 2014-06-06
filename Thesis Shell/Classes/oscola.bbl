@@ -1,0 +1,1877 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nity}
+    \entry{aaland}{legal}{}
+      \list{institution}{6}{%
+        {Aaaland Islands}%
+        {Germany}%
+        {Denmark}%
+        {Estonia}%
+        {Finland}%
+        {France}%
+      }
+      \list{lista}{2}{%
+        {opened=1921-10-02}%
+        {inforce=1922-12-06}%
+      }
+      \field{sortinit}{A}
+      \field{labeltitle}{Convention Relating to the Non-Fortification and Neutralisation of the Aaland Islands}
+      \true{singletitle}
+      \field{entrysubtype}{piltreaty}
+      \field{journaltitle}{LNTS}
+      \field{pagination}{article}
+      \field{title}{Convention Relating to the Non-Fortification and Neutralisation of the Aaland Islands}
+      \field{volume}{9}
+      \field{year}{1921}
+      \field{pages}{211}
+    \endentry
+    \entry{mongolia}{legal}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Agreement with Mongolia (Economic Co-operation)}
+      \true{singletitle}
+      \field{entrysubtype}{piltreaty}
+      \field{issue}{264}
+      \field{journaltitle}{OJ}
+      \field{series}{L}
+      \field{title}{Agreement with Mongolia (Economic Co-operation)}
+      \field{year}{1978}
+      \field{pages}{1}
+    \endentry
+    \entry{harbor91}{jurisdiction}{}
+      \list{institution}{1}{%
+        {App Ct}%
+      }
+      \list{location}{1}{%
+        {Ill}%
+      }
+      \field{sortinit}{A}
+      \field{labeltitle}{Harbor Insurance Co v Tishman Construction Co}
+      \true{singletitle}
+      \field{journaltitle}{NE2d}
+      \field{title}{Harbor Insurance Co v Tishman Construction Co}
+      \field{volume}{578}
+      \field{year}{1991}
+      \field{pages}{1197}
+      \keyw{us}
+    \endentry
+    \entry{badinter4}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=2f9920fc2829a6572c87ca15da643181}{{Badinter\bibnamedelimb Commission}}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2f9920fc2829a6572c87ca15da643181}{{Badinter\bibnamedelimb Commission}}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{2f9920fc2829a6572c87ca15da643181}
+      \strng{fullhash}{2f9920fc2829a6572c87ca15da643181}
+      \field{sortinit}{B}
+      \field{labeltitle}{Opinion No 4}
+      \true{singletitle}
+      \field{entrysubtype}{undoc}
+      \field{indextitle}{Badinter Commission Opinion 4}
+      \field{journaltitle}{ILM}
+      \field{title}{Opinion No 4}
+      \field{volume}{31}
+      \field{year}{1992}
+      \field{pages}{1501}
+    \endentry
+    \entry{bakker}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Bakker v Stewart}
+      \true{singletitle}
+      \field{journaltitle}{VR}
+      \field{title}{Bakker v Stewart}
+      \field{year}{1980}
+      \field{pages}{17}
+      \keyw{au}
+    \endentry
+    \entry{bar00}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e951ae19517f6ffc0d5b6b9cdf01fb9}{Bar}{B\bibinitperiod}{Christian}{C\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e951ae19517f6ffc0d5b6b9cdf01fb9}{Bar}{B\bibinitperiod}{Christian}{C\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {CH Beck}%
+      }
+      \strng{namehash}{9e951ae19517f6ffc0d5b6b9cdf01fb9}
+      \strng{fullhash}{9e951ae19517f6ffc0d5b6b9cdf01fb9}
+      \field{sortinit}{B}
+      \field{labeltitle}{The Common European Law of Torts}
+      \true{singletitle}
+      \field{pagination}{paragraph}
+      \field{title}{The Common European Law of Torts}
+      \field{volume}{2}
+      \field{year}{2000}
+    \endentry
+    \entry{scheldt}{legal}{}
+      \list{institution}{3}{%
+        {Belgium}%
+        {France}%
+        {Netherlands}%
+      }
+      \list{lista}{2}{%
+        {signed=2002-12-01}%
+        {inforce=2005-12-01}%
+      }
+      \field{sortinit}{B}
+      \field{labeltitle}{Scheldt Agreement}
+      \true{singletitle}
+      \field{entrysubtype}{piltreaty}
+      \field{journaltitle}{UNTS}
+      \field{pagination}{article}
+      \field{shorttitle}{Scheldt Agreement}
+      \field{title}{International Agreement on the Scheldt}
+      \field{volume}{2351}
+      \field{pages}{13}
+    \endentry
+    \entry{birks87}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=1b4618055573f91c51175e90c577dc69}{Birks}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7a76c73ce1e0510818107c34eae80909}{McLeod}{M\bibinitperiod}{Grant}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=1b4618055573f91c51175e90c577dc69}{Birks}{B\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7a76c73ce1e0510818107c34eae80909}{McLeod}{M\bibinitperiod}{Grant}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Duckworth}%
+      }
+      \strng{namehash}{4cd63ffb0d7967211d0059d88a6c415d}
+      \strng{fullhash}{4cd63ffb0d7967211d0059d88a6c415d}
+      \field{sortinit}{B}
+      \field{labeltitle}{The Institutes of Justinian}
+      \true{singletitle}
+      \field{indextitle}{Institutes of Justinian, The}
+      \field{title}{The Institutes of Justinian}
+      \field{year}{1987}
+    \endentry
+    \entry{blackstone}{commentary}{}
+      \name{labelname}{1}{}{%
+        {{hash=2a17c6044c793dc94b069d2da1a8f15e}{Blackstone}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2a17c6044c793dc94b069d2da1a8f15e}{Blackstone}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{2a17c6044c793dc94b069d2da1a8f15e}
+      \strng{fullhash}{2a17c6044c793dc94b069d2da1a8f15e}
+      \field{sortinit}{B}
+      \field{labeltitle}{Bl Comm}
+      \true{singletitle}
+      \field{shorttitle}{Bl Comm}
+      \field{title}{Commentaries}
+      \keyw{en}
+    \endentry
+    \entry{boyle04}{article}{url=true}
+      \name{labelname}{1}{}{%
+        {{hash=1d6c5c677a1017e881059e98aff27ba5}{Boyle}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1d6c5c677a1017e881059e98aff27ba5}{Boyle}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1d6c5c677a1017e881059e98aff27ba5}
+      \strng{fullhash}{1d6c5c677a1017e881059e98aff27ba5}
+      \field{sortinit}{B}
+      \field{labeltitle}{A Manifesto on WIPO and the Future of Intellectual Property}
+      \true{singletitle}
+      \field{journaltitle}{2004 Duke L \& Tech Review 0009}
+      \field{title}{A Manifesto on WIPO and the Future of Intellectual Property}
+      \field{urlday}{18}
+      \field{urlmonth}{07}
+      \field{urlyear}{2012}
+      \verb{url}
+      \verb http://dltr.law.duke.edu/2004/09/08/a-manifesto-on-wipo-and-the-future-of-intellectual-property
+      \endverb
+    \endentry
+    \entry{stubbs90}{jurisdiction}{}
+      \list{institution}{1}{%
+        {CA}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Stubbs v Sayer}
+      \true{singletitle}
+      \field{day}{08}
+      \field{month}{11}
+      \field{title}{Stubbs v Sayer}
+      \field{year}{1990}
+    \endentry
+    \entry{cartwright09}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=a187c00191fb585cd06e123f1f2e44fe}{Cartwright}{C\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a187c00191fb585cd06e123f1f2e44fe}{Cartwright}{C\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreeditor}
+      \name{editor}{1}{}{%
+        {{hash=a09edb32a2ad5bc9cdabd88cc279d238}{Castermans}{C\bibinitperiod}{A\bbxinitsep\bibnamedelima G\bbxinitsep}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer}%
+      }
+      \strng{namehash}{a187c00191fb585cd06e123f1f2e44fe}
+      \strng{fullhash}{a187c00191fb585cd06e123f1f2e44fe}
+      \field{sortinit}{C}
+      \field{labeltitle}{The Fiction of the \enquote{Reasonable Man}}
+      \true{singletitle}
+      \field{booktitle}{Ex Libris Hans Nieuwenhuis}
+      \field{title}{The Fiction of the \enquote{Reasonable Man}}
+      \field{year}{2009}
+    \endentry
+    \entry{chorzow}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Case Concerning the Factory at Chorz\'ow}
+      \true{singletitle}
+      \field{indextitle}{Chorz\'ow Factory Case}
+      \field{journaltitle}{PCIJ Rep}
+      \field{series}{A}
+      \field{subtitle}{Germany v Poland}
+      \field{title}{Case Concerning the Factory at Chorz\'ow}
+      \field{titleaddon}{Merits}
+      \field{year}{1928}
+      \field{pages}{17}
+      \keyw{int}
+    \endentry
+    \entry{T344/99}{jurisdiction}{}
+      \list{institution}{1}{%
+        {CFI}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Arne Mathisen}
+      \true{singletitle}
+      \field{journaltitle}{ECR}
+      \field{number}{T-344/99}
+      \field{shorttitle}{Arne Mathisen}
+      \field{title}{Arne Mathisen AS v Council}
+      \field{userf}{199903441}
+      \field{volume}{II}
+      \field{year}{2002}
+      \field{pages}{2905}
+      \keyw{eu}
+    \endentry
+    \entry{cpr}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{CPR}
+      \true{singletitle}
+      \field{entrysubtype}{procedure-rule}
+      \field{shorttitle}{CPR}
+      \field{title}{Civil Procedure Rules}
+      \field{year}{1999}
+      \keyw{en}
+    \endentry
+    \entry{clearbrook}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Clearbrook Ironworks Ltd v Letorneau}
+      \true{singletitle}
+      \field{journaltitle}{CPR}
+      \field{number}{2006 FCA 42}
+      \field{pagination}{paragraph}
+      \field{series}{4th}
+      \field{title}{Clearbrook Ironworks Ltd v Letorneau}
+      \field{volume}{46}
+      \field{year}{2006}
+      \field{pages}{241}
+      \keyw{ca}
+    \endentry
+    \entry{colitt}{commentary}{}
+      \name{labelname}{1}{}{%
+        {{hash=b9d26bb69f638a1c55025e1f67fdc46f}{Coke}{C\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b9d26bb69f638a1c55025e1f67fdc46f}{Coke}{C\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b9d26bb69f638a1c55025e1f67fdc46f}
+      \strng{fullhash}{b9d26bb69f638a1c55025e1f67fdc46f}
+      \field{sortinit}{C}
+      \field{labeltitle}{Co Litt}
+      \true{singletitle}
+      \field{title}{Co Litt}
+      \keyw{en}
+    \endentry
+    \entry{cole09}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=bcfcf24c4b0396d2db71c150d944b866}{Cole}{C\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bcfcf24c4b0396d2db71c150d944b866}{Cole}{C\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bcfcf24c4b0396d2db71c150d944b866}
+      \strng{fullhash}{bcfcf24c4b0396d2db71c150d944b866}
+      \field{sortinit}{C}
+      \field{labeltitle}{Virtual Friend Fires Employee}
+      \true{singletitle}
+      \field{day}{01}
+      \field{journaltitle}{Naked Law}
+      \field{month}{05}
+      \field{title}{Virtual Friend Fires Employee}
+      \field{urlday}{09}
+      \field{urlmonth}{11}
+      \field{urlyear}{2009}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.nakedlaw.com/2009/05/index.html
+      \endverb
+    \endentry
+    \entry{com13}{report}{}
+      \list{institution}{1}{%
+        {Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Action Plan on consumer access to justice and the settlement of disputes in the internal market}
+      \true{singletitle}
+      \field{entrysubtype}{comdoc}
+      \field{number}{COM (96) 13 final}
+      \field{title}{Action Plan on consumer access to justice and the settlement of disputes in the internal market}
+      \field{type}{Communication}
+    \endentry
+    \entry{ccsu87}{jurisdiction}{}
+      \list{institution}{1}{%
+        {Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Council of Civil Service Unions v UK}
+      \true{singletitle}
+      \field{journaltitle}{EHRR}
+      \field{title}{Council of Civil Service Unions v UK}
+      \field{volume}{10}
+      \field{year}{1987}
+      \field{pages}{269}
+      \keyw{echr}
+    \endentry
+    \entry{com895}{report}{}
+      \list{institution}{1}{%
+        {Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Proposal for a Council Decision on the conclusion, on behalf of the European Community, of a Protocol on the Implementation of the Alpine Convention in the Field of Transport (Transport Protocol)}
+      \true{singletitle}
+      \field{entrysubtype}{comdoc}
+      \field{number}{COM (2008) 895 final}
+      \field{title}{Proposal for a Council Decision on the conclusion, on behalf of the European Community, of a Protocol on the Implementation of the Alpine Convention in the Field of Transport (Transport Protocol)}
+    \endentry
+    \entry{com348}{report}{}
+      \list{institution}{1}{%
+        {Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Proposal for a Council Regulation on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters}
+      \true{singletitle}
+      \field{entrysubtype}{comdoc}
+      \field{number}{COM (99) 348 final}
+      \field{title}{Proposal for a Council Regulation on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters}
+    \endentry
+    \entry{simpson86}{jurisdiction}{}
+      \list{institution}{1}{%
+        {Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Simpson v UK}
+      \true{singletitle}
+      \field{journaltitle}{DR}
+      \field{title}{Simpson v UK}
+      \field{volume}{64}
+      \field{year}{1989}
+      \field{pages}{188}
+      \keyw{echr}
+    \endentry
+    \entry{x71}{jurisdiction}{}
+      \list{institution}{1}{%
+        {Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{X v Netherlands}
+      \true{singletitle}
+      \field{journaltitle}{CD}
+      \field{title}{X v Netherlands}
+      \field{volume}{38}
+      \field{year}{1971}
+      \field{pages}{9}
+      \keyw{echr}
+    \endentry
+    \entry{alcatel}{jurisdiction}{}
+      \list{institution}{1}{%
+        {commission}%
+      }
+      \field{sortinit}{c}
+      \field{labeltitle}{Alcatel/Telettra}
+      \true{singletitle}
+      \field{entrysubtype}{Decision}
+      \field{journaltitle}{OJ}
+      \field{number}{91\slash 251\slash EEC}
+      \field{series}{L}
+      \field{title}{Alcatel/Telettra}
+      \field{type}{Decision}
+      \field{userb}{IV/M.042}
+      \field{userf}{91\slash 251\slash EEC}
+      \field{volume}{122}
+      \field{year}{1991}
+      \field{pages}{48}
+      \keyw{eu}
+    \endentry
+    \entry{verkehrsorgani}{jurisdiction}{}
+      \list{institution}{1}{%
+        {commission}%
+      }
+      \field{sortinit}{c}
+      \field{labeltitle}{Georg Verkehrsorgani v Ferrovie dello Stato}
+      \true{singletitle}
+      \field{issue}{11}
+      \field{journaltitle}{OJ}
+      \field{langid}{italian}
+      \field{number}{2004/33/EC}
+      \field{series}{L}
+      \field{title}{Georg Verkehrsorgani v Ferrovie dello Stato}
+      \field{userb}{Case COMP\slash 37.685}
+      \field{userf}{0A20004A33/EC}
+      \field{year}{2004}
+      \field{pages}{17}
+      \keyw{eu}
+    \endentry
+    \entry{teu}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Consolidated Version of the Treaty on European Union}
+      \true{singletitle}
+      \field{entrysubtype}{eu-treaty}
+      \field{indextitle}{Treaty on European Union}
+      \field{journaltitle}{OJ}
+      \field{pagination}{article}
+      \field{series}{C}
+      \field{shorthand}{TEU}
+      \field{title}{Consolidated Version of the Treaty on European Union}
+      \field{volume}{83}
+      \field{year}{2010}
+      \field{pages}{13}
+      \keyw{eu}
+    \endentry
+    \entry{echr:treaty}{legal}{}
+      \list{lista}{2}{%
+        {opened=1950-11-04}%
+        {inforce=1953-09-03}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Convention for the Protection of Human Rights and Fundamental Freedoms}
+      \true{singletitle}
+      \field{entrysubtype}{piltreaty}
+      \field{journaltitle}{UNTS}
+      \field{note}{as amended by Protocol No 14bis to the Convention for the Protection of Human Rights and Fundamental Freedoms (opened for signature 27 May 2009, entered into force 1 September 2009) CETS No 204}
+      \field{shorthand}{ECHR}
+      \field{title}{Convention for the Protection of Human Rights and Fundamental Freedoms}
+      \field{volume}{213}
+      \field{pages}{221}
+    \endentry
+    \entry{corfu}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Corfu Channel Case}
+      \true{singletitle}
+      \field{journaltitle}{ICJ Rep}
+      \field{subtitle}{UK v Albania}
+      \field{title}{Corfu Channel Case}
+      \field{titleaddon}{Merits}
+      \field{year}{1949}
+      \field{pages}{4}
+      \keyw{int}
+    \endentry
+    \entry{2002/60}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Council Directive 2002\slash 60\slash EC of 27 June 2002 laying down specific provisions for the control of African swine fever and amending Directive 99\slash 119\slash EEC as regards Teschen disease and African swine fever}
+      \true{singletitle}
+      \field{entrysubtype}{directive}
+      \field{indextitle}{200200060}
+      \field{issue}{192}
+      \field{journaltitle}{OJ}
+      \field{number}{2002/60/EC}
+      \field{origday}{27}
+      \field{origmonth}{06}
+      \field{origyear}{2002}
+      \field{pagination}{article}
+      \field{series}{L}
+      \field{title}{Council Directive 2002\slash 60\slash EC of 27 June 2002 laying down specific provisions for the control of African swine fever and amending Directive 99\slash 119\slash EEC as regards Teschen disease and African swine fever}
+      \field{type}{directive}
+      \field{year}{2002}
+      \field{pages}{27}
+      \keyw{eu}
+    \endentry
+    \entry{ccr}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{CCR}
+      \true{singletitle}
+      \field{entrysubtype}{procedure-rule}
+      \field{pagination}{rule}
+      \field{shorttitle}{CCR}
+      \field{title}{County Court Rules}
+      \field{year}{1985}
+      \keyw{en}
+    \endentry
+    \entry{pd}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{PD}
+      \true{singletitle}
+      \field{entrysubtype}{procedure-rule}
+      \field{shorttitle}{PD}
+      \field{title}{CPR Practice Directions}
+      \keyw{en}
+    \endentry
+    \entry{craig05}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=57a366621d39bfa46c7731eaa24ecd42}{Craig}{C\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=57a366621d39bfa46c7731eaa24ecd42}{Craig}{C\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{57a366621d39bfa46c7731eaa24ecd42}
+      \strng{fullhash}{57a366621d39bfa46c7731eaa24ecd42}
+      \field{sortinit}{C}
+      \field{labeltitle}{Theory \enquote{Pure Theory} and Values in Public Law}
+      \true{singletitle}
+      \field{journaltitle}{PL}
+      \field{title}{Theory \enquote{Pure Theory} and Values in Public Law}
+      \field{year}{2005}
+      \field{pages}{440}
+    \endentry
+    \entry{croft}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ed0ed5bc237a77647481510795427eda}{Croft}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ed0ed5bc237a77647481510795427eda}{Croft}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{ed0ed5bc237a77647481510795427eda}
+      \strng{fullhash}{ed0ed5bc237a77647481510795427eda}
+      \field{sortinit}{C}
+      \field{labeltitle}{Supreme Court Warns on Quality}
+      \true{singletitle}
+      \field{day}{01}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{Financial Times}
+      \field{month}{07}
+      \field{title}{Supreme Court Warns on Quality}
+      \field{year}{2010}
+      \field{pages}{3}
+    \endentry
+    \entry{crofters02}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Crofters Commission v Scottish Ministers}
+      \true{singletitle}
+      \field{journaltitle}{SLT}
+      \field{series}{(Land Ct)}
+      \field{title}{Crofters Commission v Scottish Ministers}
+      \field{year}{2002}
+      \field{pages}{19}
+      \keyw{sc}
+    \endentry
+    \entry{cross}{reference}{looseleaf}
+      \field{sortinit}{C}
+      \field{labeltitle}{Cross on Local Government Law}
+      \true{singletitle}
+      \field{title}{Cross on Local Government Law}
+      \field{year}{2010}
+    \endentry
+    \entry{davidson05}{jurisdiction}{scottish-style=true}
+      \field{sortinit}{D}
+      \field{labeltitle}{Davidson v Scottish Ministers}
+      \true{singletitle}
+      \field{journaltitle}{SC (HL)}
+      \field{number}{[2005] UKHL 74}
+      \field{title}{Davidson v Scottish Ministers}
+      \field{year}{2006}
+      \keyw{gb}
+    \endentry
+    \entry{autumnperf}{report}{}
+      \list{institution}{2}{%
+        {Department for Children, Schools}%
+        {Families}%
+      }
+      \field{sortinit}{D}
+      \field{labeltitle}{2008 Autumn Performance Report}
+      \true{singletitle}
+      \field{number}{7507}
+      \field{series}{Cm}
+      \field{title}{2008 Autumn Performance Report}
+      \field{year}{2008}
+    \endentry
+    \entry{eliminating:poverty}{report}{}
+      \name{labelname}{1}{}{%
+        {{hash=cec992e682f5fadbee4f2f5ddaaffccd}{{Department\bibnamedelimb for\bibnamedelimb International\bibnamedelimb Development}}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cec992e682f5fadbee4f2f5ddaaffccd}{{Department\bibnamedelimb for\bibnamedelimb International\bibnamedelimb Development}}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{cec992e682f5fadbee4f2f5ddaaffccd}
+      \strng{fullhash}{cec992e682f5fadbee4f2f5ddaaffccd}
+      \field{sortinit}{D}
+      \field{labeltitle}{Eliminating World Poverty}
+      \true{singletitle}
+      \field{entrysubtype}{White Paper}
+      \field{number}{Cm 7656}
+      \field{subtitle}{Building our Common Future}
+      \field{title}{Eliminating World Poverty}
+      \field{type}{White Paper}
+      \field{year}{2009}
+    \endentry
+    \entry{dodds03}{jurisdiction}{}
+      \field{sortinit}{D}
+      \field{labeltitle}{Dodds v HM Advocate}
+      \true{singletitle}
+      \field{journaltitle}{JC}
+      \field{title}{Dodds v HM Advocate}
+      \field{year}{2003}
+      \field{pages}{8}
+      \keyw{sc}
+    \endentry
+    \entry{C176/03}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECJ}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Commission v Council}
+      \true{singletitle}
+      \field{journaltitle}{ECR}
+      \field{number}{C\textendash176/03}
+      \field{title}{Commission v Council}
+      \field{userf}{200301760}
+      \field{volume}{I}
+      \field{year}{2005}
+      \field{pages}{7879}
+      \keyw{eu}
+    \endentry
+    \entry{C556/07}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECJ}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Commission v France}
+      \true{singletitle}
+      \field{journaltitle}{OJ}
+      \field{number}{C-556/07}
+      \field{series}{C}
+      \field{title}{Commission v France}
+      \field{userf}{200705560}
+      \field{volume}{102}
+      \field{year}{2009}
+      \field{pages}{8}
+      \keyw{eu}
+    \endentry
+    \entry{C430/93}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECJ}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{van Schijndel}
+      \true{singletitle}
+      \field{journaltitle}{ECR}
+      \field{number}{C-430/93--C-431/93}
+      \field{shorttitle}{van Schijndel}
+      \field{title}{Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten}
+      \field{userf}{199304300}
+      \field{volume}{I}
+      \field{year}{1998}
+      \field{pages}{4705}
+      \keyw{eu}
+    \endentry
+    \entry{adbhu}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECJ}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{ADBHU}
+      \true{singletitle}
+      \field{journaltitle}{ECR}
+      \field{number}{240/83}
+      \field{shorttitle}{ADBHU}
+      \field{title}{Procureur de la R\'epublique v ADBHU}
+      \field{userf}{198302400}
+      \field{year}{1985}
+      \field{pages}{531}
+      \keyw{eu}
+    \endentry
+    \entry{balogh04}{jurisdiction}{}
+      \list{institution}{1}{%
+        {E{\mbox{Ct}}HR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Balogh v Hungary}
+      \true{singletitle}
+      \field{day}{20}
+      \field{month}{07}
+      \field{number}{47940/99}
+      \field{title}{Balogh v Hungary}
+      \field{year}{2004}
+      \keyw{echr}
+    \endentry
+    \entry{johnston86}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Johnston v Ireland}
+      \true{singletitle}
+      \field{journaltitle}{Series A}
+      \field{title}{Johnston v Ireland}
+      \field{year}{1986}
+      \field{pages}{122}
+      \keyw{echr}
+    \endentry
+    \entry{omojudi10}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Omojudi v UK}
+      \true{singletitle}
+      \field{journaltitle}{EHRR}
+      \field{title}{Omojudi v UK}
+      \field{volume}{51}
+      \field{year}{2010}
+      \field{pages}{10}
+      \keyw{echr}
+    \endentry
+    \entry{osman98}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Osman v UK}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{title}{Osman v UK}
+      \field{volume}{8}
+      \field{year}{1998}
+      \field{pages}{3124}
+      \keyw{echr}
+    \endentry
+    \entry{eggs}{legislation}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Eggs and Chicks (England) Regulations}
+      \true{singletitle}
+      \field{entrysubtype}{secondary}
+      \field{number}{SI 2009\slash 2163}
+      \field{pagination}{regulation}
+      \field{title}{Eggs and Chicks (England) Regulations}
+      \field{year}{2009}
+    \endentry
+    \entry{amazon:email}{misc}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Email from Amazon.co.uk to author}
+      \true{singletitle}
+      \field{day}{16}
+      \field{indextitle}{Email from Amazon.co.uk to author}
+      \field{month}{12}
+      \field{title}{Email from Amazon.co.uk to author}
+      \field{year}{2008}
+    \endentry
+    \entry{endicott09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f893ac6a9ceb9bf004c0f8c7b809314a}{Endicott}{E\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f893ac6a9ceb9bf004c0f8c7b809314a}{Endicott}{E\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {OUP}%
+      }
+      \strng{namehash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{fullhash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \field{sortinit}{E}
+      \field{labeltitle}{Administrative Law}
+      \true{singletitle}
+      \field{title}{Administrative Law}
+      \field{year}{2009}
+    \endentry
+    \entry{honore:interview}{misc}{}
+      \name{labelname}{2}{}{%
+        {{hash=f893ac6a9ceb9bf004c0f8c7b809314a}{Endicott}{E\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=91208309c506b8d2252f8c9828f1f742}{Gardner}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f893ac6a9ceb9bf004c0f8c7b809314a}{Endicott}{E\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=91208309c506b8d2252f8c9828f1f742}{Gardner}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{92b4301a7e2de18dece0f7eb34d9e440}
+      \strng{fullhash}{92b4301a7e2de18dece0f7eb34d9e440}
+      \field{sortinit}{E}
+      \field{labeltitle}{Interview with Tony Honor\'e}
+      \true{singletitle}
+      \field{day}{17}
+      \field{indextitle}{Interview with Tony Honor\'e, Emeritus Regius Professor of Civil Law, University of Oxford}
+      \field{month}{07}
+      \field{shorttitle}{Interview with Tony Honor\'e}
+      \field{title}{Interview with Tony Honor\'e, Emeritus Regius Professor of Civil Law, University of Oxford}
+      \field{year}{2007}
+    \endentry
+    \entry{charitiesnotes}{legal}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Explanatory Notes on the Charities Act 2006}
+      \true{singletitle}
+      \field{entrysubtype}{explanatory note}
+      \field{indextitle}{Charities Act 2006, Explanatory Note}
+      \field{pagination}{paragraph}
+      \field{title}{Explanatory Notes on the Charities Act 2006}
+    \endentry
+    \entry{oscola3}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7480ff00dd16c2df540fe95a99688109}{{Faculty\bibnamedelimb of\bibnamedelimb Law,\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Oxford}}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7480ff00dd16c2df540fe95a99688109}{{Faculty\bibnamedelimb of\bibnamedelimb Law,\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Oxford}}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{7480ff00dd16c2df540fe95a99688109}
+      \strng{fullhash}{7480ff00dd16c2df540fe95a99688109}
+      \field{sortinit}{F}
+      \field{labeltitle}{OSCOLA}
+      \field{edition}{3}
+      \field{subtitle}{Oxford Standard for the Citation of Legal Authorities}
+      \field{title}{OSCOLA}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://www.law.ox.ac.uk/published/oscola/oscola_2006.pdf
+      \endverb
+    \endentry
+    \entry{oscola}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7480ff00dd16c2df540fe95a99688109}{{Faculty\bibnamedelimb of\bibnamedelimb Law,\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Oxford}}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7480ff00dd16c2df540fe95a99688109}{{Faculty\bibnamedelimb of\bibnamedelimb Law,\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Oxford}}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{7480ff00dd16c2df540fe95a99688109}
+      \strng{fullhash}{7480ff00dd16c2df540fe95a99688109}
+      \field{sortinit}{F}
+      \field{labeltitle}{OSCOLA}
+      \field{edition}{4}
+      \field{shorthand}{{{\scshape oscola}}}
+      \field{subtitle}{Oxford Standard for the Citation of Legal Authorities}
+      \field{title}{OSCOLA}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.law.ox.ac.uk/oscola
+      \endverb
+    \endentry
+    \entry{friedrich68a}{inreference}{}
+      \name{labelname}{1}{}{%
+        {{hash=7619c138baf71f709e26e8f2139a6ba0}{Friedrich}{F\bibinitperiod}{C\bbxinitsep\bibnamedelima J\bbxinitsep}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7619c138baf71f709e26e8f2139a6ba0}{Friedrich}{F\bibinitperiod}{C\bbxinitsep\bibnamedelima J\bbxinitsep}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7619c138baf71f709e26e8f2139a6ba0}
+      \strng{fullhash}{7619c138baf71f709e26e8f2139a6ba0}
+      \field{sortinit}{F}
+      \field{labeltitle}{Constitutions and Constitutionalism}
+      \field{maintitle}{International Encyclopaedia of the Social Sciences}
+      \field{title}{Constitutions and Constitutionalism}
+      \field{volume}{III}
+      \field{year}{1968}
+      \field{pages}{319}
+    \endentry
+    \entry{friedrich68}{inreference}{}
+      \name{labelname}{1}{}{%
+        {{hash=18c9a271f4ab83f12ebd642584507205}{Friedrich}{F\bibinitperiod}{CJ}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=18c9a271f4ab83f12ebd642584507205}{Friedrich}{F\bibinitperiod}{CJ}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{18c9a271f4ab83f12ebd642584507205}
+      \strng{fullhash}{18c9a271f4ab83f12ebd642584507205}
+      \field{sortinit}{F}
+      \field{labeltitle}{Constitutions and Constitutionalism}
+      \field{maintitle}{International Encyclopaedia of the Social Sciences III}
+      \field{title}{Constitutions and Constitutionalism}
+      \field{year}{1968}
+      \field{pages}{319}
+    \endentry
+    \entry{greenleaf10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7902a3da4dbbc7250ac8d9dbcb5ea159}{Greenleaf}{G\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7902a3da4dbbc7250ac8d9dbcb5ea159}{Greenleaf}{G\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7902a3da4dbbc7250ac8d9dbcb5ea159}
+      \strng{fullhash}{7902a3da4dbbc7250ac8d9dbcb5ea159}
+      \field{sortinit}{G}
+      \field{labeltitle}{The Global Development of Free Access to Legal Information}
+      \true{singletitle}
+      \field{issue}{1}
+      \field{journaltitle}{EJLT}
+      \field{title}{The Global Development of Free Access to Legal Information}
+      \field{urlday}{10}
+      \field{urlmonth}{07}
+      \field{urlyear}{2010}
+      \field{volume}{1}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://ejlt.org/article/view/17
+      \endverb
+    \endentry
+    \entry{griffith01}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5ea64240c4416552044ac3109a99109a}{Griffith}{G\bibinitperiod}{J\bbxinitsep\bibnamedelimb A\bbxinitsep\bibnamedelima G\bbxinitsep}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5ea64240c4416552044ac3109a99109a}{Griffith}{G\bibinitperiod}{J\bbxinitsep\bibnamedelimb A\bbxinitsep\bibnamedelima G\bbxinitsep}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5ea64240c4416552044ac3109a99109a}
+      \strng{fullhash}{5ea64240c4416552044ac3109a99109a}
+      \field{sortinit}{G}
+      \field{labeltitle}{The Common Law and the Political Constitution}
+      \true{singletitle}
+      \field{journaltitle}{LQR}
+      \field{title}{The Common Law and the Political Constitution}
+      \field{volume}{117}
+      \field{year}{2001}
+      \field{pages}{42}
+    \endentry
+    \entry{halsbury5:57}{inreference}{}
+      \list{publisher}{1}{%
+        {Butterworths}%
+      }
+      \field{sortinit}{H}
+      \field{booktitle}{Halsbury's Laws}
+      \field{edition}{5}
+      \field{pagination}{paragraph}
+      \field{volume}{57}
+      \field{year}{2010}
+    \endentry
+    \entry{hart08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=561450c46be6882a33445aa7291f3bb7}{Hart}{H\bibinitperiod}{H\bbxinitsep\bibnamedelimb L\bbxinitsep\bibnamedelima A\bbxinitsep}{H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=561450c46be6882a33445aa7291f3bb7}{Hart}{H\bibinitperiod}{H\bbxinitsep\bibnamedelimb L\bbxinitsep\bibnamedelima A\bbxinitsep}{H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=91208309c506b8d2252f8c9828f1f742}{Gardner}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {OUP}%
+      }
+      \strng{namehash}{561450c46be6882a33445aa7291f3bb7}
+      \strng{fullhash}{561450c46be6882a33445aa7291f3bb7}
+      \field{sortinit}{H}
+      \field{labeltitle}{Punishment and Responsibility}
+      \true{singletitle}
+      \field{edition}{2}
+      \field{subtitle}{Essays in the Philosophy of Law}
+      \field{title}{Punishment and Responsibility}
+      \field{year}{2008}
+    \endentry
+    \entry{confund}{legislation}{}
+      \list{institution}{1}{%
+        {HC}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Consolidated Fund Bill}
+      \field{endyear}{2009}
+      \field{entrysubtype}{primary}
+      \field{number}{5}
+      \field{pagination}{clause}
+      \field{title}{Consolidated Fund Bill}
+      \field{year}{2008}
+      \keyw{gb,draft}
+    \endentry
+    \entry{confund2}{legislation}{}
+      \list{institution}{1}{%
+        {HC}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Consolidated Fund Bill}
+      \field{endyear}{2009}
+      \field{entrysubtype}{primary}
+      \field{number}{34}
+      \field{pagination}{clause}
+      \field{title}{Consolidated Fund Bill}
+      \field{year}{2008}
+      \keyw{gb,draft}
+    \endentry
+    \entry{foia:2r}{legal}{skipbib=true}
+      \field{sortinit}{H}
+      \field{labeltitle}{HC Deb}
+      \true{singletitle}
+      \field{day}{07}
+      \field{entrysubtype}{parliamentary}
+      \field{indexsorttitle}{Official Report, House of Commons}
+      \field{indextitle}{Official Report, House of Commons}
+      \field{month}{12}
+      \field{pagination}{column}
+      \field{title}{HC Deb}
+      \field{volume}{340}
+      \field{year}{1999}
+      \field{pages}{714\bibrangedash 98}
+    \endentry
+    \entry{healthbill}{legal}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Health Bill Deb}
+      \true{singletitle}
+      \field{day}{30}
+      \field{entrysubtype}{parliamentary}
+      \field{month}{01}
+      \field{pagination}{column}
+      \field{title}{Health Bill Deb}
+      \field{year}{2007}
+    \endentry
+    \entry{patient}{report}{}
+      \list{institution}{1}{%
+        {Health Committee}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Patient Safety}
+      \true{singletitle}
+      \field{endyear}{2009}
+      \field{entrysubtype}{parliamentary}
+      \field{number}{HC 151}
+      \field{pagination}{paragraph}
+      \field{title}{Patient Safety}
+      \field{volume}{1}
+      \field{year}{2008}
+    \endentry
+    \entry{henly28}{jurisdiction}{no-ibid=true}
+      \field{sortinit}{H}
+      \field{labeltitle}{Henly}
+      \true{singletitle}
+      \field{journaltitle}{Bing}
+      \field{shorttitle}{Henly}
+      \field{title}{Henly v Mayor of Lyme}
+      \field{userb}{130}
+      \field{userc}{ER}
+      \field{usere}{995}
+      \field{volume}{5}
+      \field{year}{1828}
+      \field{pages}{91}
+      \keyw{en}
+    \endentry
+    \entry{herberg89}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=6f8e03e02e64513e0506418a3b749c0e}{Herberg}{H\bibinitperiod}{Javan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6f8e03e02e64513e0506418a3b749c0e}{Herberg}{H\bibinitperiod}{Javan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {University of Oxford}%
+      }
+      \strng{namehash}{6f8e03e02e64513e0506418a3b749c0e}
+      \strng{fullhash}{6f8e03e02e64513e0506418a3b749c0e}
+      \field{sortinit}{H}
+      \field{labeltitle}{Injunctive Relief for Wrongful Termination of Employment}
+      \true{singletitle}
+      \field{entrysubtype}{DPhil thesis}
+      \field{title}{Injunctive Relief for Wrongful Termination of Employment}
+      \field{type}{DPhil thesis}
+      \field{year}{1989}
+    \endentry
+    \entry{hislop42}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hislop v Durham}
+      \true{singletitle}
+      \field{journaltitle}{D}
+      \field{title}{Hislop v Durham}
+      \field{volume}{4}
+      \field{year}{1842}
+      \field{pages}{1168}
+      \keyw{sc}
+    \endentry
+    \entry{academies}{legislation}{}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Academies Bill}
+      \true{singletitle}
+      \field{endyear}{2011}
+      \field{entrysubtype}{primary}
+      \field{number}{1}
+      \field{pagination}{clause}
+      \field{title}{Academies Bill}
+      \field{year}{2010}
+      \keyw{gb,draft}
+    \endentry
+    \entry{antaios85}{jurisdiction}{}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \list{listb}{4}{%
+        {[1984] 3 WLR 592}%
+        {(1984) 128 SJ 564}%
+        {[1984] 3 All ER 229}%
+        {[1984] 2 Lloyd's Rep 235}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{The Nema}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{shorttitle}{The Nema}
+      \field{title}{Antaios Compania Naviera SA v Salen Rederierna AB (The Nema)}
+      \field{year}{1985}
+      \field{pages}{191}
+      \keyw{gb}
+    \endentry
+    \entry{barrett01a}{jurisdiction}{}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \list{lista}{3}{%
+        {First}%
+        {Second}%
+        {Third}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Barrett v Enfield LBC}
+      \true{singletitle}
+      \field{journaltitle}{BMLR}
+      \field{title}{Barrett v Enfield LBC}
+      \field{volume}{49}
+      \field{year}{2001}
+      \field{pages}{1}
+      \keyw{en}
+    \endentry
+    \entry{corr08}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Corr}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{number}{[2008] UKHL 13}
+      \field{pagination}{[]}
+      \field{shorttitle}{Corr}
+      \field{title}{Corr v IBC Vehicles Ltd}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{884}
+      \keyw{gb}
+    \endentry
+    \entry{page96}{jurisdiction}{}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Page v Smith}
+      \true{singletitle}
+      \field{annotation}{affirmed \cite{corr}}
+      \field{journaltitle}{AC}
+      \field{title}{Page v Smith}
+      \field{year}{1996}
+      \field{pages}{155}
+      \keyw{en}
+    \endentry
+    \entry{boardman}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Phipps v Boardman}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{shorthand}{Phipps}
+      \field{title}{Phipps v Boardman}
+      \field{volume}{2}
+      \field{year}{1967}
+      \field{pages}{46}
+      \keyw{gb}
+    \endentry
+    \entry{leviathan}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=225ea03e130430d41c202d9fe7612ed0}{Hobbes}{H\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=225ea03e130430d41c202d9fe7612ed0}{Hobbes}{H\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Harmondsworth}%
+      }
+      \list{publisher}{1}{%
+        {Penguin}%
+      }
+      \strng{namehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \field{sortinit}{H}
+      \field{labeltitle}{Leviathan}
+      \true{singletitle}
+      \field{origyear}{1651}
+      \field{title}{Leviathan}
+      \field{year}{1985}
+    \endentry
+    \entry{hollowware}{legislation}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hollow-ware and Galvanising Welfare Order}
+      \true{singletitle}
+      \field{entrysubtype}{secondary}
+      \field{number}{SR~\&~O 1921\slash 2032}
+      \field{pagination}{rule}
+      \field{title}{Hollow-ware and Galvanising Welfare Order}
+      \field{year}{1921}
+    \endentry
+    \entry{rc:capital}{report}{}
+      \name{labelname}{1}{}{%
+        {{hash=8caff13c3abed2ca61bfe7869ddabd38}{{Home\bibnamedelimb Office}}{H\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8caff13c3abed2ca61bfe7869ddabd38}{{Home\bibnamedelimb Office}}{H\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{8caff13c3abed2ca61bfe7869ddabd38}
+      \strng{fullhash}{8caff13c3abed2ca61bfe7869ddabd38}
+      \field{sortinit}{H}
+      \field{labeltitle}{Report of the Royal Commission on Capital Punishment}
+      \true{singletitle}
+      \field{number}{8932}
+      \field{pagination}{paragraph}
+      \field{series}{Cmd}
+      \field{title}{Report of the Royal Commission on Capital Punishment}
+      \field{year}{1953}
+    \endentry
+    \entry{horder00}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c2d0bf81c8238c6a2df89ff89161e3bb}{Horder}{H\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c2d0bf81c8238c6a2df89ff89161e3bb}{Horder}{H\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {OUP}%
+      }
+      \strng{namehash}{c2d0bf81c8238c6a2df89ff89161e3bb}
+      \strng{fullhash}{c2d0bf81c8238c6a2df89ff89161e3bb}
+      \field{sortinit}{H}
+      \field{labeltitle}{Oxford Essays in Jurisprudence: Fourth Series}
+      \true{singletitle}
+      \field{title}{Oxford Essays in Jurisprudence: Fourth Series}
+      \field{year}{2000}
+    \endentry
+    \entry{jameel04}{jurisdiction}{year-essential}
+      \field{sortinit}{J}
+      \field{labeltitle}{Jameel v Wall Street Journal}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{number}{[2006] UKHL 44}
+      \field{shorttitle}{Jameel v Wall Street Journal}
+      \field{title}{Jameel v Wall Street Journal Europe SPRL}
+      \field{volume}{1}
+      \field{year}{2007}
+      \field{pages}{359}
+    \endentry
+    \entry{equality}{report}{}
+      \list{institution}{1}{%
+        {Joint Committee on Human Rights}%
+      }
+      \field{sortinit}{J}
+      \field{labeltitle}{Legislative Scrutiny: Equality Bill (second report); Digital Economy Bill}
+      \true{singletitle}
+      \field{endyear}{2010}
+      \field{entrysubtype}{parliamentary}
+      \field{number}{HL 73, HC 425}
+      \field{title}{Legislative Scrutiny: Equality Bill (second report); Digital Economy Bill}
+      \field{year}{2009}
+    \endentry
+    \entry{jones09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=10b20fbd5b8bf0f94e9bd8b93036dc0b}{Jones}{J\bibinitperiod}{Gareth}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=10b20fbd5b8bf0f94e9bd8b93036dc0b}{Jones}{J\bibinitperiod}{Gareth}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Sweet~\& Maxwell}%
+      }
+      \strng{namehash}{10b20fbd5b8bf0f94e9bd8b93036dc0b}
+      \strng{fullhash}{10b20fbd5b8bf0f94e9bd8b93036dc0b}
+      \field{sortinit}{J}
+      \field{labeltitle}{Goff and Jones: The Law of Restitution}
+      \true{singletitle}
+      \field{edition}{1st Supp, 7th edn}
+      \field{title}{Goff and Jones: The Law of Restitution}
+      \field{year}{2009}
+    \endentry
+    \entry{nicaragua}{jurisdiction}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Land, Island and Maritime Frontier Case}
+      \true{singletitle}
+      \field{journaltitle}{ICJ Rep}
+      \field{subtitle}{El Salvador\slash Hon\-duras, Nicaragua intervening}
+      \field{title}{Land, Island and Maritime Frontier Case}
+      \field{titleaddon}{Application for Intervention}
+      \field{year}{1994}
+      \field{pages}{92}
+      \keyw{int}
+    \endentry
+    \entry{lawcomcp121}{report}{}
+      \name{labelname}{1}{}{%
+        {{hash=f625cc21e43083847ae298b07031b626}{{Law\bibnamedelimb Commission}}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f625cc21e43083847ae298b07031b626}{{Law\bibnamedelimb Commission}}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{f625cc21e43083847ae298b07031b626}
+      \strng{fullhash}{f625cc21e43083847ae298b07031b626}
+      \field{sortinit}{L}
+      \field{labeltitle}{Privity of Contract: Contracts for the Benefit of Third Parties}
+      \true{singletitle}
+      \field{number}{Law Com CP No 121}
+      \field{pagination}{paragraph}
+      \field{title}{Privity of Contract: Contracts for the Benefit of Third Parties}
+      \field{year}{1991}
+    \endentry
+    \entry{lawcom313}{report}{}
+      \list{institution}{1}{%
+        {Law Commission}%
+      }
+      \field{sortinit}{L}
+      \field{labeltitle}{Reforming Bribery}
+      \true{singletitle}
+      \field{number}{Law Com No 313}
+      \field{pagination}{paragraph}
+      \field{title}{Reforming Bribery}
+      \field{year}{2008}
+    \endentry
+    \entry{learner08}{legislation}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Learner Travel (Wales) Measure}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{number}{nawm 2}
+      \field{pagination}{section}
+      \field{title}{Learner Travel (Wales) Measure}
+      \field{year}{2008}
+      \keyw{cy}
+    \endentry
+    \entry{wall}{jurisdiction}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Legal Consequences of the Construction of a Wall}
+      \true{singletitle}
+      \field{pagination}{[]}
+      \field{title}{Legal Consequences of the Construction of a Wall}
+      \field{titleaddon}{Advisory Opinion}
+      \field{urlday}{21}
+      \field{urlmonth}{07}
+      \field{urlyear}{2005}
+      \field{year}{2004}
+      \verb{url}
+      \verb http://www.icj-cij.org/icjwww/imwp/imwpframe.htm
+      \endverb
+      \keyw{int}
+    \endentry
+    \entry{biblatex2}{report}{}
+      \name{labelname}{4}{}{%
+        {{hash=28255d0bca08a02bc48706040a295381}{Lehman}{L\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f551f4df6b727289e225343a679ca7ab}{Boruvka}{B\bibinitperiod}{Audrey}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=518f52ea2d73db1cfac0095db0482363}{Kime}{K\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=93c71fed62527d4c8c6ae13ee771fcdd}{Wright}{W\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=28255d0bca08a02bc48706040a295381}{Lehman}{L\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f551f4df6b727289e225343a679ca7ab}{Boruvka}{B\bibinitperiod}{Audrey}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=518f52ea2d73db1cfac0095db0482363}{Kime}{K\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=93c71fed62527d4c8c6ae13ee771fcdd}{Wright}{W\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f0ff1a50813240b4442f562b0948abd3}
+      \strng{fullhash}{9eb898ee9c8a76240ad6381d5185b429}
+      \field{sortinit}{L}
+      \field{labeltitle}{The biblatex Package}
+      \true{singletitle}
+      \field{edition}{v 2.0}
+      \field{title}{The biblatex Package}
+      \field{year}{2012}
+    \endentry
+    \entry{lenaerts2}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=e7459cd428ee69fb11499a9280e37feb}{Lenaerts}{L\bibinitperiod}{Koen}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=47c793a66f88906d0f28cc586ace2f61}{Nuffel}{N\bibinitperiod}{Piet}{P\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e7459cd428ee69fb11499a9280e37feb}{Lenaerts}{L\bibinitperiod}{Koen}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=47c793a66f88906d0f28cc586ace2f61}{Nuffel}{N\bibinitperiod}{Piet}{P\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2cd690b52d8ddfd0617921f372c91725}{Bray}{B\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sweet \& Maxwell}%
+      }
+      \strng{namehash}{19351e4f65fcd590689d09ce40351f1f}
+      \strng{fullhash}{19351e4f65fcd590689d09ce40351f1f}
+      \field{sortinit}{L}
+      \field{labeltitle}{Constitutional Law of the European Union}
+      \true{singletitle}
+      \field{edition}{2}
+      \field{title}{Constitutional Law of the European Union}
+      \field{year}{2005}
+    \endentry
+    \entry{brown:letter}{misc}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Letter from Gordon Brown to Lady Ashton}
+      \true{singletitle}
+      \field{day}{20}
+      \field{indextitle}{Letter from Gordon Brown to Lady Ashton}
+      \field{month}{11}
+      \field{title}{Letter from Gordon Brown to Lady Ashton}
+      \field{year}{2009}
+    \endentry
+    \entry{loader}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=152719cdcf1d6c26f78650631d2783ca}{Loader}{L\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=152719cdcf1d6c26f78650631d2783ca}{Loader}{L\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{152719cdcf1d6c26f78650631d2783ca}
+      \strng{fullhash}{152719cdcf1d6c26f78650631d2783ca}
+      \field{sortinit}{L}
+      \field{labeltitle}{The Great Victim of this Get Tough Hyperactivity is Labour}
+      \true{singletitle}
+      \field{day}{19}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Guardian}
+      \field{month}{06}
+      \field{title}{The Great Victim of this Get Tough Hyperactivity is Labour}
+      \field{urlday}{19}
+      \field{urlmonth}{11}
+      \field{urlyear}{2009}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.guardian.co.uk/commentisfree/2008/jun/19/justice.ukcrime
+      \endverb
+    \endentry
+    \entry{reliance}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=6f1d51efec86a25d109eeec71b5431bb}{McFarlane}{M\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8b1f6d8533d9179ffc4909bf460fc058}{Nolan}{N\bibinitperiod}{Donal}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6f1d51efec86a25d109eeec71b5431bb}{McFarlane}{M\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8b1f6d8533d9179ffc4909bf460fc058}{Nolan}{N\bibinitperiod}{Donal}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Brisbane}%
+      }
+      \strng{namehash}{5595b4154a8e151c521968cf7f3dcaa8}
+      \strng{fullhash}{5595b4154a8e151c521968cf7f3dcaa8}
+      \field{sortinit}{M}
+      \field{labeltitle}{Remedying Reliance: The Future Development of Promissory and Proprietary Estoppel in English Law}
+      \true{singletitle}
+      \field{eventday}{01}
+      \field{eventmonth}{07}
+      \field{eventtitle}{Obligations III conference}
+      \field{eventyear}{2006}
+      \field{title}{Remedying Reliance: The Future Development of Promissory and Proprietary Estoppel in English Law}
+    \endentry
+    \entry{mcgill:guide}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=07f76d73008f0bf0b13571d734d1bb0e}{{McGill\bibnamedelimb Law\bibnamedelimb Journal}}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=07f76d73008f0bf0b13571d734d1bb0e}{{McGill\bibnamedelimb Law\bibnamedelimb Journal}}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Carswell}%
+      }
+      \strng{namehash}{07f76d73008f0bf0b13571d734d1bb0e}
+      \strng{fullhash}{07f76d73008f0bf0b13571d734d1bb0e}
+      \field{sortinit}{M}
+      \field{labeltitle}{Canadian Guide to Uniform Legal Citation}
+      \true{singletitle}
+      \field{edition}{7}
+      \field{title}{Canadian Guide to Uniform Legal Citation}
+      \field{year}{2010}
+    \endentry
+    \entry{operadora09}{jurisdiction}{}
+      \list{institution}{1}{%
+        {MD Fla}%
+      }
+      \field{sortinit}{M}
+      \field{labeltitle}{Re Operadora DB Mexico SA}
+      \true{singletitle}
+      \field{indextitle}{Operadora DB Mexico SA, Re}
+      \field{number}{6:09-{}cv-{}383-{}Orl 022GJK}
+      \field{title}{Re Operadora DB Mexico SA}
+      \field{year}{2009}
+      \verb{eprint}
+      \verb 2009 WL 2423138
+      \endverb
+      \keyw{us}
+    \endentry
+    \entry{melbourne}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=223053e880f53b15626a7a2ce8b3225a}{{Melbourne\bibnamedelimb University\bibnamedelimb Law\bibnamedelimb Review\bibnamedelimb Association\bibnamedelimb Inc}}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=223053e880f53b15626a7a2ce8b3225a}{{Melbourne\bibnamedelimb University\bibnamedelimb Law\bibnamedelimb Review\bibnamedelimb Association\bibnamedelimb Inc}}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {Melbourne University Law Review Association}%
+        {Melbourne Journal of International Law}%
+      }
+      \strng{namehash}{223053e880f53b15626a7a2ce8b3225a}
+      \strng{fullhash}{223053e880f53b15626a7a2ce8b3225a}
+      \field{sortinit}{M}
+      \field{labeltitle}{Australian Guide to Legal Citation}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{Australian Guide to Legal Citation}
+      \field{urlday}{18}
+      \field{urlmonth}{07}
+      \field{urlyear}{2012}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://mulr.law.unimelb.edu.au/go/aglc
+      \endverb
+    \endentry
+    \entry{nia1965}{legislation}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{Nuclear Installations Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{note}{as amended}
+      \field{pagination}{section}
+      \field{shorthand}{NIA 1965}
+      \field{title}{Nuclear Installations Act}
+      \field{year}{1965}
+      \keyw{en}
+    \endentry
+    \entry{adams03}{jurisdiction}{}
+      \list{institution}{1}{%
+        {OH}%
+      }
+      \field{sortinit}{O}
+      \field{labeltitle}{Adams v Advocate General}
+      \true{singletitle}
+      \field{journaltitle}{SC}
+      \field{title}{Adams v Advocate General}
+      \field{year}{2003}
+      \field{pages}{171}
+      \keyw{sc}
+    \endentry
+    \entry{disorderly}{legislation}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Penalties for Disorderly Behaviour (Amendment of Minimum Age) Order}
+      \true{singletitle}
+      \field{entrysubtype}{secondary}
+      \field{number}{SI 2004\slash 3166}
+      \field{pagination}{regulation}
+      \field{title}{Penalties for Disorderly Behaviour (Amendment of Minimum Age) Order}
+      \field{year}{2004}
+      \keyw{en}
+    \endentry
+    \entry{pila10}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=472c0ecaef16dd98d16ce8e39a38cd08}{Pila}{P\bibinitperiod}{Justine}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=472c0ecaef16dd98d16ce8e39a38cd08}{Pila}{P\bibinitperiod}{Justine}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4c3d3f0dbf3d342750529ab145d5fb17}{Dutton}{D\bibinitperiod}{William\bibnamedelima H\bbxinitsep}{W\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=43bbb61d90bc34362727d68bd63c1190}{Jeffreys}{J\bibinitperiod}{Paul\bibnamedelima W\bbxinitsep}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{472c0ecaef16dd98d16ce8e39a38cd08}
+      \strng{fullhash}{472c0ecaef16dd98d16ce8e39a38cd08}
+      \field{sortinit}{P}
+      \field{labeltitle}{The Value of Authorship in the Digital Environment}
+      \true{singletitle}
+      \field{booktitle}{World Wide Research: Reshaping the Sciences and Humanities in the Century of Information}
+      \field{title}{The Value of Authorship in the Digital Environment}
+      \field{year}{2010}
+      \field{pages}{210\bibrangedash 231}
+    \endentry
+    \entry{calvert02}{jurisdiction}{}
+      \list{institution}{1}{%
+        {QB}%
+      }
+      \field{sortinit}{Q}
+      \field{labeltitle}{Calvert v Gardiner}
+      \true{singletitle}
+      \field{day}{01}
+      \field{month}{01}
+      \field{number}{[2002] EWHC 1394 (QB)}
+      \field{title}{Calvert v Gardiner}
+      \field{year}{2002}
+    \endentry
+    \entry{powick93}{jurisdiction}{}
+      \list{institution}{1}{%
+        {QB}%
+      }
+      \field{sortinit}{Q}
+      \field{labeltitle}{Powick v Malvern Wells Water Co}
+      \true{singletitle}
+      \field{day}{28}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Times}
+      \field{month}{09}
+      \field{title}{Powick v Malvern Wells Water Co}
+      \field{year}{1993}
+    \endentry
+    \entry{tang}{jurisdiction}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{R v Tang}
+      \true{singletitle}
+      \field{journaltitle}{CLR}
+      \field{title}{R v Tang}
+      \field{volume}{237}
+      \field{year}{2008}
+      \field{pages}{1}
+      \keyw{au}
+    \endentry
+    \entry{rowbottom07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=19e3e1008fa22817b316f32ba53412b9}{Rowbottom}{R\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=19e3e1008fa22817b316f32ba53412b9}{Rowbottom}{R\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{19e3e1008fa22817b316f32ba53412b9}
+      \strng{fullhash}{19e3e1008fa22817b316f32ba53412b9}
+      \field{sortinit}{R}
+      \field{labeltitle}{Jameel v Wall Street Journal}
+      \true{singletitle}
+      \strng{crossref}{jameel04}
+      \field{entrysubtype}{casenote}
+      \field{journaltitle}{CLJ}
+      \field{shorttitle}{Jameel v Wall Street Journal}
+      \field{title}{Jameel v Wall Street Journal Europe SPRL}
+      \field{year}{2007}
+      \field{pages}{8\bibrangedash 11}
+    \endentry
+    \entry{rsc}{legislation}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{RSC}
+      \true{singletitle}
+      \field{entrysubtype}{procedure-rule}
+      \field{pagination}{rule}
+      \field{shorttitle}{RSC}
+      \field{title}{Rules of the Supreme Court}
+      \field{year}{1965}
+      \keyw{en}
+    \endentry
+    \entry{genomic}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=35bf1210e6727959a7a88a00462db959}{Science}{S\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=56ae4c6c1c076732f0faad5d97621b31}{Committee}{C\bibinitperiod}{Technology}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=35bf1210e6727959a7a88a00462db959}{Science}{S\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=56ae4c6c1c076732f0faad5d97621b31}{Committee}{C\bibinitperiod}{Technology}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c735804205d7c4ca813d2da9e83f7a11}
+      \strng{fullhash}{c735804205d7c4ca813d2da9e83f7a11}
+      \field{sortinit}{S}
+      \field{labeltitle}{Genomic Medicine}
+      \true{singletitle}
+      \field{endyear}{2009}
+      \field{entrysubtype}{parliamentary}
+      \field{number}{HL 107}
+      \field{title}{Genomic Medicine}
+      \field{volume}{1}
+      \field{year}{2008}
+    \endentry
+    \entry{scotlawcom196}{report}{}
+      \list{institution}{1}{%
+        {Scottish Law Commission}%
+      }
+      \field{sortinit}{S}
+      \field{labeltitle}{Damages for Psychiatric Injury}
+      \true{singletitle}
+      \field{day}{11}
+      \field{month}{11}
+      \field{number}{Scot Law Com No 196}
+      \field{pagination}{paragraph}
+      \field{title}{Damages for Psychiatric Injury}
+      \field{usera}{officialreports}
+      \field{year}{2004}
+    \endentry
+    \entry{smart06}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Smart v HM Advocate}
+      \true{singletitle}
+      \field{journaltitle}{JC}
+      \field{number}{[2006] HJAC 12}
+      \field{title}{Smart v HM Advocate}
+      \field{year}{2006}
+      \field{pages}{119}
+      \keyw{sc}
+    \endentry
+    \entry{spbill4}{misc}{skipbib}
+      \field{sortinit}{S}
+      \field{labeltitle}{SP Bill 4 Abolition of Feudal Tenure etc (Scotland) Bill [as introduced] Session 1}
+      \true{singletitle}
+      \field{indextitle}{SP Bill 4 Abolition of Feudal Tenure etc (Scotland) Bill [as introduced] Session 1}
+      \field{title}{SP Bill 4 Abolition of Feudal Tenure etc (Scotland) Bill [as introduced] Session 1}
+      \field{usera}{pmats}
+      \field{year}{1999}
+    \endentry
+    \entry{stair}{commentary}{}
+      \name{labelname}{1}{}{%
+        {{hash=59f9f261e44cff40d862ebcce95be7fc}{Stair}{S\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=59f9f261e44cff40d862ebcce95be7fc}{Stair}{S\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{59f9f261e44cff40d862ebcce95be7fc}
+      \strng{fullhash}{59f9f261e44cff40d862ebcce95be7fc}
+      \field{sortinit}{S}
+      \field{labeltitle}{Institutions}
+      \true{singletitle}
+      \field{title}{Institutions}
+      \keyw{sc}
+    \endentry
+    \entry{ucta}{legislation}{}
+      \field{sortinit}{U}
+      \field{labeltitle}{UCTA 77}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{number}{23 Eliz II, cap 23}
+      \field{pagination}{section}
+      \field{shorttitle}{UCTA 77}
+      \field{title}{Unfair Contract Terms Act}
+      \field{year}{1977}
+      \keyw{en}
+    \endentry
+    \entry{res51_210}{misc}{}
+      \list{institution}{1}{%
+        {UNGA}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{Res 51/210}
+      \true{singletitle}
+      \field{day}{17}
+      \field{entrysubtype}{undoc}
+      \field{indextitle}{UNGARes 51/210}
+      \field{month}{12}
+      \field{number}{UN~Doc A/RES/51/210}
+      \field{titleaddon}{Res 51/210}
+      \field{year}{1996}
+    \endentry
+    \entry{Indep}{misc}{}
+      \list{institution}{1}{%
+        {UNGA}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{Res 1514 (XV)}
+      \true{singletitle}
+      \field{day}{14}
+      \field{entrysubtype}{undoc}
+      \field{indextitle}{Declaration on the Granting of Independence to Colonial Countries and Peoples}
+      \field{month}{12}
+      \field{number}{UN~Doc A/4684 (1961)}
+      \field{shorttitle}{Res 1514 (XV)}
+      \field{title}{Declaration on the Granting of Independence to Colonial Countries and Peoples}
+      \field{titleaddon}{Res 1514 (XV)}
+      \field{year}{1960}
+    \endentry
+    \entry{waldron06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c2fece66b891527500a8415b9a184ce7}{Waldron}{W\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c2fece66b891527500a8415b9a184ce7}{Waldron}{W\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c2fece66b891527500a8415b9a184ce7}
+      \strng{fullhash}{c2fece66b891527500a8415b9a184ce7}
+      \field{sortinit}{W}
+      \field{labeltitle}{The Core of the Case against Judicial Review}
+      \true{singletitle}
+      \field{journaltitle}{Yale LJ}
+      \field{title}{The Core of the Case against Judicial Review}
+      \field{volume}{115}
+      \field{year}{2006}
+      \field{pages}{1346}
+    \endentry
+    \entry{western97}{jurisdiction}{}
+      \list{location}{1}{%
+        {Mass}%
+      }
+      \field{sortinit}{W}
+      \field{labeltitle}{Western Alliance Insurance Co v Gill}
+      \true{singletitle}
+      \field{journaltitle}{NE}
+      \field{series}{2}
+      \field{title}{Western Alliance Insurance Co v Gill}
+      \field{volume}{686}
+      \field{year}{1997}
+      \field{pages}{997}
+      \keyw{us}
+    \endentry
+    \entry{young09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a8d1ba089d4843f4208aaff635a177bc}{Young}{Y\bibinitperiod}{Alison\bibnamedelima L\bbxinitsep}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a8d1ba089d4843f4208aaff635a177bc}{Young}{Y\bibinitperiod}{Alison\bibnamedelima L\bbxinitsep}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a8d1ba089d4843f4208aaff635a177bc}
+      \strng{fullhash}{a8d1ba089d4843f4208aaff635a177bc}
+      \field{sortinit}{Y}
+      \field{labeltitle}{In Defence of Due Deference}
+      \true{singletitle}
+      \field{journaltitle}{MLR}
+      \field{title}{In Defence of Due Deference}
+      \field{volume}{72}
+      \field{year}{2009}
+      \field{pages}{554}
+    \endentry
+    \entry{kotz98}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=33ef649693998e537f931465523b7111}{Zweigert}{Z\bibinitperiod}{K\bbxinitsep}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=150a2bb0fd67296c513ade6bfd9d7fd4}{K\"otz}{K\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=33ef649693998e537f931465523b7111}{Zweigert}{Z\bibinitperiod}{K\bbxinitsep}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=150a2bb0fd67296c513ade6bfd9d7fd4}{K\"otz}{K\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=0eee34c15329d7e082f36fca0a960f12}{Weir}{W\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {OUP}%
+      }
+      \strng{namehash}{b0c23cec9673fdf2eb222a3e06a15475}
+      \strng{fullhash}{b0c23cec9673fdf2eb222a3e06a15475}
+      \field{sortinit}{Z}
+      \field{labeltitle}{An Introduction to Comparative Law}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{An Introduction to Comparative Law}
+      \field{year}{1998}
+    \endentry
+  \endsortlist
+  \missing{\footciteref}
+\endrefsection
+\endinput
+

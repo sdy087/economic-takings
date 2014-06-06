@@ -1,0 +1,61 @@
+This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning input file thesis.idx...
+!! Input index error (file = thesis.idx, line = 1):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 2):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 3):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 4):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 5):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 6):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 7):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 8):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 9):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 10):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 11):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 12):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 13):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 14):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 15):
+   -- Unknown index keyword \indexentry[casesother].
+!! Input index error (file = thesis.idx, line = 16):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 17):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 18):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 19):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 20):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 21):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 22):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 23):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 24):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 25):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 26):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 27):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 28):
+   -- Unknown index keyword \indexentry[casesgb].
+done (0 entries accepted, 28 rejected).
+Nothing written in thesis.ind.
+Transcript written in thesis.ilg.
