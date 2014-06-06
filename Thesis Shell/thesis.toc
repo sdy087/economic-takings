@@ -72,26 +72,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.6}Conclusion}{179}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}The importance of context: An historical perspective on Norwegian law regarding compensation following expropriation}{182}
+\contentsline {section}{\numberline {4.7}Introduction}{182}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Introduction}{182}
+\contentsline {section}{\numberline {4.8}Land consolidation in Norway}{185}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Look to the constitution! The era of absolutism}{185}
+\contentsline {subsection}{\numberline {4.8.1}The consolidation process and the consolidation courts}{193}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Give them what they deserve! The era of pragmatic, utilitarian reform}{199}
+\contentsline {section}{\numberline {4.9}Compulsory cooperation in consolidation law: Directives for joint use, joint action and joint investment}{200}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Market value, but \emph {we} determine the market! The era of centralization and pragmatism by regulation}{209}
+\contentsline {section}{\numberline {4.10}Compulsory cooperation for local development of hydro-power}{208}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Let their peers decide! Suggestions for an era of contextual compensation assessment}{220}
+\contentsline {subsection}{\numberline {4.10.1}The case of \emph {Vika}}{209}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Conclusion}{225}
+\contentsline {subsection}{\numberline {4.10.2}The case of \emph {Oma}}{212}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{228}
+\contentsline {subsection}{\numberline {4.10.3}The case of \emph {Dj\IeC {\o }nno}}{216}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{228}
+\contentsline {subsection}{\numberline {4.10.4}The case of \emph {Tokheim}}{219}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Contributions to Collections}{228}
+\contentsline {section}{\numberline {4.11}Cooperation versus expropriation: Competing models of commercial land development in Norway}{221}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{228}
+\contentsline {section}{\numberline {4.12}Conclusion}{221}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Other Works}{229}
+\contentsline {chapter}{Bibliography}{222}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{222}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Contributions to Collections}{222}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Articles}{222}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Works}{223}

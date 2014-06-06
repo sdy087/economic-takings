@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  5 JUN 2014 18:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  6 JUN 2014 11:54
 entering extended mode
-**C:/Users/SjurK/Desktop/Law_PhD/Thesis*Shell/thesis.tex
-("C:/Users/SjurK/Desktop/Law_PhD/Thesis Shell/thesis.tex"
+**C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/thesis.tex
+("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/thesis.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -14,8 +14,8 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 \@input{Macros/MacroFile1.aux}
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Macros/MacroFile1.tex")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesisPSnPDF.cls"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Macros/MacroFile1.tex")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesisPSnPDF.cls"
 Document Class: thesisPSnPDF 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
@@ -1583,45 +1583,30 @@ Started index file trash
 
 Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 67.
 
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis.aux"
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Title/Title.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\tables.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter1/Chapter1.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter2/Chapter2.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter3/Chapter3.aux"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.aux"
 
 LaTeX Warning: Label `intro' multiply defined.
 
 
 LaTeX Warning: Label `eq:work' multiply defined.
 
-) ("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter4/Chapter4.aux"
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.aux"
 
 LaTeX Warning: Label `intro' multiply defined.
 
 
 LaTeX Warning: Label `sec:conc' multiply defined.
 
-) ("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter5/Chapter5.aux"
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux"
 
 LaTeX Warning: Label `intro' multiply defined.
 
-
-LaTeX Warning: Label `sec:ab' multiply defined.
-
-
-LaTeX Warning: Label `sec:pra' multiply defined.
-
-
-LaTeX Warning: Label `sec:regab' multiply defined.
-
-
-LaTeX Warning: Label `sec:context' multiply defined.
-
-
-LaTeX Warning: Label `sec:conc' multiply defined.
-
-) ("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\bibliography.aux"))
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
@@ -1661,18 +1646,19 @@ Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
- ("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis.bbl")
+ ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.bbl")
 Package biblatex Info: Reference section=0 on input line 67.
 Package biblatex Info: Reference segment=0 on input line 67.
 
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Title/Title.tex" [1
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.tex"
+[1
 
 
 
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis.toc"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1688,21 +1674,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ])
 \tf@toc=\write6
  [2]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\tables.tex"
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis-casesgb.ind")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.tex"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesgb.ind")
 No file thesis-casessc.ind.
 No file thesis-casesau.ind.
 No file thesis-casesnz.ind.
 No file thesis-casesca.ind.
 No file thesis-casesus.ind.
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis-casesother.ind") [3
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesother.ind")
+[3
 
 
-]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis-legis.ind")) [4
+] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-legis.ind"))
+[4
 
-]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter1/Chapter1.tex"
+] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1.tex"
+
 Chapter 1.
 Package biblatex Info: Resetting trackers on input line 1.
 [1
@@ -1739,7 +1726,7 @@ LaTeX Warning: Reference `sec:landcons' on page 39 undefined on input line 199.
 
 
 [39] [40]) [41]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter2/Chapter2.tex"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.tex"
 Chapter 2.
 Package biblatex Info: Resetting trackers on input line 1.
 [42
@@ -1834,7 +1821,7 @@ LaTeX Warning: Citation 'Efvl' on page 67 undefined on input line 147.
 LaTeX Warning: Citation 'backer1' on page 77 undefined on input line 206.
 
 [77] [78] [79]) [80]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter3/Chapter3.tex"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.tex"
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 1.
 [81
@@ -1886,7 +1873,7 @@ LaTeX Warning: Citation 'tf2' on page 125 undefined on input line 325.
 LaTeX Warning: Citation 'tf3' on page 125 undefined on input line 325.
 
 [125] [126] [127] [128] [129] [130] [131] [132] [133] [134]) [135]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter4/Chapter4.tex"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.tex"
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 1.
 [136
@@ -1947,75 +1934,54 @@ LaTeX Warning: Citation 'stor' on page 175 undefined on input line 244.
 LaTeX Warning: Citation 'regeksp' on page 175 undefined on input line 244.
 
 [175] [176] [177] [178] [179] [180]) [181]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter5/Chapter5.tex"
-Chapter 5.
-Package biblatex Info: Resetting trackers on input line 1.
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.tex"
+
+LaTeX Warning: Citation 'vittikainen2004' on page 182 undefined on input line 5
+.
+
 [182
 
 
+]
 
-] [183] [184] [185] [186]
+LaTeX Warning: Citation 'rygg1998' on page 183 undefined on input line 15.
 
-LaTeX Warning: Citation 'schj' on page 187 undefined on input line 40.
+[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194]
+[195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206]
+[207]
 
-[187]
+LaTeX Warning: Citation 'master' on page 208 undefined on input line 144.
 
-LaTeX Warning: Citation 'castberg' on page 188 undefined on input line 46.
+[208] [209]
 
+LaTeX Warning: Citation 'master' on page 210 undefined on input line 158.
 
-LaTeX Warning: Citation 'newuk' on page 188 undefined on input line 53.
+[210]
 
-[188] [189] [190] [191] [192] [193] [194] [195]
-
-LaTeX Warning: Citation 'asch' on page 196 undefined on input line 96.
-
-[196] [197] [198] [199] [200]
-
-LaTeX Warning: Citation 'knoph' on page 201 undefined on input line 120.
+LaTeX Warning: Citation 'master' on page 211 undefined on input line 160.
 
 
-LaTeX Warning: Citation 'grunn' on page 201 undefined on input line 126.
+LaTeX Warning: Citation 'master' on page 211 undefined on input line 162.
 
+[211] [212] [213]
 
-LaTeX Warning: Citation 'opshal' on page 201 undefined on input line 126.
+LaTeX Warning: Citation 'master' on page 214 undefined on input line 172.
 
-
-LaTeX Warning: Citation 'robb2' on page 201 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'schj' on page 201 undefined on input line 126.
-
-[201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
-[213] [214]
-
-LaTeX Warning: Citation 'stor' on page 215 undefined on input line 220.
-
-[215] [216]
-
-LaTeX Warning: Citation 'skog' on page 217 undefined on input line 228.
-
-[217] [218] [219] [220]
-
-LaTeX Warning: Citation 'stor' on page 221 undefined on input line 244.
-
-
-LaTeX Warning: Citation 'regeksp' on page 221 undefined on input line 244.
-
-[221] [222] [223] [224] [225]) [226] [227]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\bibliography.tex" [228
+[214] [215] [216] [217] [218] [219] [220]) [221]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.tex"
+[222
 
 
 
-]) [229]
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\thesis.aux"
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Title/Title.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\tables.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter1/Chapter1.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter2/Chapter2.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter3/Chapter3.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter4/Chapter4.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\Chapter5/Chapter5.aux")
-("C:\Users\SjurK\Desktop\Law_PhD\Thesis Shell\bibliography.aux"))
+]) [223] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux" ("C
+:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.aux"))
 
 LaTeX Warning: There were undefined references.
 
@@ -2030,13 +1996,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 17945 strings out of 493921
- 313812 string characters out of 3144876
- 782353 words of memory out of 3000000
- 20906 multiletter control sequences out of 15000+200000
- 16480 words of font info for 61 fonts, out of 3000000 for 9000
+ 17953 strings out of 493921
+ 314574 string characters out of 3144876
+ 782464 words of memory out of 3000000
+ 20914 multiletter control sequences out of 15000+200000
+ 16839 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,12n,69p,10477b,1794s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,69p,10486b,1794s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
@@ -2054,9 +2020,9 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (234 pages, 789258 bytes).
+Output written on thesis.pdf (228 pages, 784413 bytes).
 PDF statistics:
- 821 PDF objects out of 1000 (max. 8388607)
+ 802 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
