@@ -117,7 +117,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortscheme</bcf:key>
-      <bcf:value>nity</bcf:value>
+      <bcf:value>niyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
@@ -259,7 +259,7 @@
   </bcf:options>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
-    <bcf:maps datatype="bibtex" level="user">
+    <bcf:maps datatype="bibtex" level="style">
       <bcf:map>
         <bcf:per_type>jurisdiction</bcf:per_type>
         <bcf:map_step map_field_source="reporter" map_field_target="journaltitle"/>
@@ -911,12 +911,12 @@
       <bcf:sortitem order="9">maintitle</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
@@ -2279,76 +2279,117 @@
     <bcf:citekey order="14">allen10</bcf:citekey>
     <bcf:citekey order="15">scordino06</bcf:citekey>
     <bcf:citekey order="16">chassagnou99</bcf:citekey>
-    <bcf:citekey order="17">chassagnou99</bcf:citekey>
-    <bcf:citekey order="18">hermann12</bcf:citekey>
-    <bcf:citekey order="19">chabauty12</bcf:citekey>
+    <bcf:citekey order="17">hermann12</bcf:citekey>
+    <bcf:citekey order="18">chabauty12</bcf:citekey>
+    <bcf:citekey order="19">hutten06</bcf:citekey>
     <bcf:citekey order="20">hutten06</bcf:citekey>
-    <bcf:citekey order="21">hutten06</bcf:citekey>
+    <bcf:citekey order="21">lindheim12</bcf:citekey>
     <bcf:citekey order="22">lindheim12</bcf:citekey>
-    <bcf:citekey order="23">lindheim12</bcf:citekey>
-    <bcf:citekey order="24">eminc07</bcf:citekey>
-    <bcf:citekey order="25">eminc07</bcf:citekey>
-    <bcf:citekey order="26">eminc07</bcf:citekey>
-    <bcf:citekey order="27">lad08</bcf:citekey>
-    <bcf:citekey order="28">ladres09</bcf:citekey>
-    <bcf:citekey order="29">falk</bcf:citekey>
-    <bcf:citekey order="30">Tf1</bcf:citekey>
-    <bcf:citekey order="30">Tf2</bcf:citekey>
-    <bcf:citekey order="30">Tf3</bcf:citekey>
-    <bcf:citekey order="31">Tf1</bcf:citekey>
-    <bcf:citekey order="32">falk</bcf:citekey>
-    <bcf:citekey order="33">ar2010</bcf:citekey>
-    <bcf:citekey order="34">Hammer2</bcf:citekey>
-    <bcf:citekey order="35">liberal</bcf:citekey>
-    <bcf:citekey order="36">Hindrum</bcf:citekey>
-    <bcf:citekey order="37">Koht</bcf:citekey>
-    <bcf:citekey order="38">Aanesland</bcf:citekey>
-    <bcf:citekey order="39">Gloppen</bcf:citekey>
-    <bcf:citekey order="40">rettleiar</bcf:citekey>
-    <bcf:citekey order="41">falk</bcf:citekey>
-    <bcf:citekey order="42">kartlegging</bcf:citekey>
-    <bcf:citekey order="43">investment</bcf:citekey>
-    <bcf:citekey order="44">kartlegging</bcf:citekey>
-    <bcf:citekey order="45">Efvl</bcf:citekey>
-    <bcf:citekey order="46">flei</bcf:citekey>
-    <bcf:citekey order="47">Efvl</bcf:citekey>
-    <bcf:citekey order="48">Efvl</bcf:citekey>
-    <bcf:citekey order="49">backer1</bcf:citekey>
-    <bcf:citekey order="50">AllenCom</bcf:citekey>
-    <bcf:citekey order="51">notimminent</bcf:citekey>
-    <bcf:citekey order="52">lcdisc</bcf:citekey>
-    <bcf:citekey order="53">newuk</bcf:citekey>
-    <bcf:citekey order="53">kelouk</bcf:citekey>
-    <bcf:citekey order="54">lcdisc</bcf:citekey>
-    <bcf:citekey order="55">newuk</bcf:citekey>
-    <bcf:citekey order="56">Falk</bcf:citekey>
-    <bcf:citekey order="57">....</bcf:citekey>
-    <bcf:citekey order="58">tf1</bcf:citekey>
-    <bcf:citekey order="58">tf2</bcf:citekey>
-    <bcf:citekey order="58">tf3</bcf:citekey>
-    <bcf:citekey order="59">schj</bcf:citekey>
-    <bcf:citekey order="60">castberg</bcf:citekey>
-    <bcf:citekey order="61">newuk</bcf:citekey>
-    <bcf:citekey order="62">asch</bcf:citekey>
-    <bcf:citekey order="63">knoph</bcf:citekey>
-    <bcf:citekey order="64">grunn</bcf:citekey>
-    <bcf:citekey order="64">opshal</bcf:citekey>
-    <bcf:citekey order="65">robb2</bcf:citekey>
-    <bcf:citekey order="65">schj</bcf:citekey>
-    <bcf:citekey order="66">stor</bcf:citekey>
-    <bcf:citekey order="67">skog</bcf:citekey>
-    <bcf:citekey order="68">stor</bcf:citekey>
-    <bcf:citekey order="69">regeksp</bcf:citekey>
-    <bcf:citekey order="70">vittikainen2004</bcf:citekey>
-    <bcf:citekey order="71">rygg1998</bcf:citekey>
-    <bcf:citekey order="72">master</bcf:citekey>
-    <bcf:citekey order="73">master</bcf:citekey>
-    <bcf:citekey order="74">master</bcf:citekey>
-    <bcf:citekey order="75">master</bcf:citekey>
-    <bcf:citekey order="76">master</bcf:citekey>
+    <bcf:citekey order="23">lehavi07</bcf:citekey>
+    <bcf:citekey order="24">heller08</bcf:citekey>
+    <bcf:citekey order="25">madison79</bcf:citekey>
+    <bcf:citekey order="26">johnson11</bcf:citekey>
+    <bcf:citekey order="27">blackstone79</bcf:citekey>
+    <bcf:citekey order="28">blackstone79</bcf:citekey>
+    <bcf:citekey order="29">kent27</bcf:citekey>
+    <bcf:citekey order="30">johnson11</bcf:citekey>
+    <bcf:citekey order="31">kent27</bcf:citekey>
+    <bcf:citekey order="32">kent27</bcf:citekey>
+    <bcf:citekey order="33">stowell14</bcf:citekey>
+    <bcf:citekey order="34">stowell14</bcf:citekey>
+    <bcf:citekey order="35">stowell14</bcf:citekey>
+    <bcf:citekey order="36">stowell14</bcf:citekey>
+    <bcf:citekey order="37">meidinger80</bcf:citekey>
+    <bcf:citekey order="38">calder98</bcf:citekey>
+    <bcf:citekey order="39">vanhorne95</bcf:citekey>
+    <bcf:citekey order="40">meidinger80</bcf:citekey>
+    <bcf:citekey order="41">meidinger80</bcf:citekey>
+    <bcf:citekey order="42">meidinger80</bcf:citekey>
+    <bcf:citekey order="43">johnson11</bcf:citekey>
+    <bcf:citekey order="44">horwitz73</bcf:citekey>
+    <bcf:citekey order="45">head85</bcf:citekey>
+    <bcf:citekey order="46">head85</bcf:citekey>
+    <bcf:citekey order="47">minn06</bcf:citekey>
+    <bcf:citekey order="48">hazen83</bcf:citekey>
+    <bcf:citekey order="48">scudder32</bcf:citekey>
+    <bcf:citekey order="48">boston32</bcf:citekey>
+    <bcf:citekey order="49">nichols40</bcf:citekey>
+    <bcf:citekey order="50">sadler59</bcf:citekey>
+    <bcf:citekey order="50">ryerson77</bcf:citekey>
+    <bcf:citekey order="50">gaylord03</bcf:citekey>
+    <bcf:citekey order="50">minn06</bcf:citekey>
+    <bcf:citekey order="51">nichols40</bcf:citekey>
+    <bcf:citekey order="52">berger78</bcf:citekey>
+    <bcf:citekey order="53">meidinger80</bcf:citekey>
+    <bcf:citekey order="54">seawell76</bcf:citekey>
+    <bcf:citekey order="55">seawell76</bcf:citekey>
+    <bcf:citekey order="56">seawell76</bcf:citekey>
+    <bcf:citekey order="57">seawell76</bcf:citekey>
+    <bcf:citekey order="58">seawell76</bcf:citekey>
+    <bcf:citekey order="59">horwitz73</bcf:citekey>
+    <bcf:citekey order="60">eminc07</bcf:citekey>
+    <bcf:citekey order="61">eminc07</bcf:citekey>
+    <bcf:citekey order="62">eminc07</bcf:citekey>
+    <bcf:citekey order="63">lad08</bcf:citekey>
+    <bcf:citekey order="64">ladres09</bcf:citekey>
+    <bcf:citekey order="65">falk</bcf:citekey>
+    <bcf:citekey order="66">Tf1</bcf:citekey>
+    <bcf:citekey order="66">Tf2</bcf:citekey>
+    <bcf:citekey order="66">Tf3</bcf:citekey>
+    <bcf:citekey order="67">Tf1</bcf:citekey>
+    <bcf:citekey order="68">falk</bcf:citekey>
+    <bcf:citekey order="69">ar2010</bcf:citekey>
+    <bcf:citekey order="70">Hammer2</bcf:citekey>
+    <bcf:citekey order="71">liberal</bcf:citekey>
+    <bcf:citekey order="72">Hindrum</bcf:citekey>
+    <bcf:citekey order="73">Koht</bcf:citekey>
+    <bcf:citekey order="74">Aanesland</bcf:citekey>
+    <bcf:citekey order="75">Gloppen</bcf:citekey>
+    <bcf:citekey order="76">rettleiar</bcf:citekey>
+    <bcf:citekey order="77">falk</bcf:citekey>
+    <bcf:citekey order="78">kartlegging</bcf:citekey>
+    <bcf:citekey order="79">investment</bcf:citekey>
+    <bcf:citekey order="80">kartlegging</bcf:citekey>
+    <bcf:citekey order="81">Efvl</bcf:citekey>
+    <bcf:citekey order="82">flei</bcf:citekey>
+    <bcf:citekey order="83">Efvl</bcf:citekey>
+    <bcf:citekey order="84">Efvl</bcf:citekey>
+    <bcf:citekey order="85">backer1</bcf:citekey>
+    <bcf:citekey order="86">AllenCom</bcf:citekey>
+    <bcf:citekey order="87">notimminent</bcf:citekey>
+    <bcf:citekey order="88">lcdisc</bcf:citekey>
+    <bcf:citekey order="89">newuk</bcf:citekey>
+    <bcf:citekey order="89">kelouk</bcf:citekey>
+    <bcf:citekey order="90">lcdisc</bcf:citekey>
+    <bcf:citekey order="91">newuk</bcf:citekey>
+    <bcf:citekey order="92">Falk</bcf:citekey>
+    <bcf:citekey order="93">....</bcf:citekey>
+    <bcf:citekey order="94">tf1</bcf:citekey>
+    <bcf:citekey order="94">tf2</bcf:citekey>
+    <bcf:citekey order="94">tf3</bcf:citekey>
+    <bcf:citekey order="95">schj</bcf:citekey>
+    <bcf:citekey order="96">castberg</bcf:citekey>
+    <bcf:citekey order="97">newuk</bcf:citekey>
+    <bcf:citekey order="98">asch</bcf:citekey>
+    <bcf:citekey order="99">knoph</bcf:citekey>
+    <bcf:citekey order="100">grunn</bcf:citekey>
+    <bcf:citekey order="100">opshal</bcf:citekey>
+    <bcf:citekey order="101">robb2</bcf:citekey>
+    <bcf:citekey order="101">schj</bcf:citekey>
+    <bcf:citekey order="102">stor</bcf:citekey>
+    <bcf:citekey order="103">skog</bcf:citekey>
+    <bcf:citekey order="104">stor</bcf:citekey>
+    <bcf:citekey order="105">regeksp</bcf:citekey>
+    <bcf:citekey order="106">vittikainen2004</bcf:citekey>
+    <bcf:citekey order="107">rygg1998</bcf:citekey>
+    <bcf:citekey order="108">master</bcf:citekey>
+    <bcf:citekey order="109">master</bcf:citekey>
+    <bcf:citekey order="110">master</bcf:citekey>
+    <bcf:citekey order="111">master</bcf:citekey>
+    <bcf:citekey order="112">master</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
-  <bcf:sortlist section="0" type="entry" label="nity">
+  <bcf:sortlist section="0" type="entry" label="niyt">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2368,12 +2409,12 @@
       <bcf:sortitem order="9">maintitle</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
@@ -2381,7 +2422,7 @@
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="0" type="entry" label="nity">
+  <bcf:sortlist section="0" type="entry" label="niyt">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2401,12 +2442,12 @@
       <bcf:sortitem order="9">maintitle</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
@@ -2414,7 +2455,7 @@
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="0" type="entry" label="nity">
+  <bcf:sortlist section="0" type="entry" label="niyt">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2434,12 +2475,12 @@
       <bcf:sortitem order="9">maintitle</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
@@ -2447,7 +2488,7 @@
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="0" type="entry" label="nity">
+  <bcf:sortlist section="0" type="entry" label="niyt">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2467,12 +2508,12 @@
       <bcf:sortitem order="9">maintitle</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  6 JUN 2014 12:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  9 JUN 2014 19:27
 entering extended mode
 **C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/thesis.tex
 ("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/thesis.tex"
@@ -93,8 +93,8 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
+(C:\Users\SjurK\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-english\english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
@@ -400,8 +400,8 @@ File: biblatex.def
 Package biblatex Info: Trying to load bibliography style 'oscola'...
 Package biblatex Info: ... file 'oscola.bbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oscola\oscola.bbx"
-File: oscola.bbx 2013/05/23 v1.2 Biblatex bibliography style for OSCOLA standar
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\oscola.bbx"
+File: oscola.bbx 2014/05/22 v1.4 Biblatex bibliography style for OSCOLA standar
 d
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
@@ -423,8 +423,8 @@ File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load citation style 'oscola'...
 Package biblatex Info: ... file 'oscola.cbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oscola\oscola.cbx"
-File: oscola.cbx 2013/05/23 v1.2 Biblatex citation style for OSCOLA standard
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\oscola.cbx"
+File: oscola.cbx 2014/05/22 v1.4 Biblatex citation style for OSCOLA standard
 Package biblatex Info: Trying to load citation style 'verbose-inote'...
 Package biblatex Info: ... file 'verbose-inote.cbx' found.
 
@@ -441,7 +441,6 @@ Package biblatex Info: Redefining '\textcites'.
 \c@bbx@lastcitedc=\count224
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\footfullcite'.
-Package biblatex Info: Redefining '\textcite'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -1575,13 +1574,13 @@ Package biblatex Info: Trying to load language 'english' -> 'english-oscola'...
 
 Package biblatex Info: ... file 'english-oscola.lbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oscola\english-oscola.lbx"
-File: english-oscola.lbx 2013/05/23 v 1.2 Biblatex localisation file for OSCOLA
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\english-oscola.lbx"
+File: english-oscola.lbx 2014/05/22 v 1.4 Biblatex localisation file for OSCOLA
  citations
 ))
 Started index file trash
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 67.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 68.
 
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
@@ -1607,25 +1606,25 @@ LaTeX Warning: Label `sec:conc' multiply defined.
 LaTeX Warning: Label `intro' multiply defined.
 
 ) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 67.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 68.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 68.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd"
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    ... okay on input line 68.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1647,8 +1646,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.bbl")
-Package biblatex Info: Reference section=0 on input line 67.
-Package biblatex Info: Reference segment=0 on input line 67.
+Package biblatex Info: Reference section=0 on input line 68.
+Package biblatex Info: Reference segment=0 on input line 68.
 
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.tex"
 [1
@@ -1657,7 +1656,7 @@ Package biblatex Info: Reference segment=0 on input line 67.
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+{C:/Users/SjurK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
@@ -1675,17 +1674,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write6
  [2]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.tex"
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesgb.ind"
-
-LaTeX Warning: Citation 'benedettisc' on page 3 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'moses' on page 3 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'achilleas' on page 3 undefined on input line 20.
-
-)
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesgb.ind")
 No file thesis-casessc.ind.
 No file thesis-casesau.ind.
 No file thesis-casesnz.ind.
@@ -1707,284 +1696,315 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+] [2] [3] [4] [5] [6] [7] [8] [9]
+
+LaTeX Warning: Reference `sec:ins' on page 10 undefined on input line 61.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+LaTeX Warning: Reference `chap:4' on page 10 undefined on input line 61.
+
+
+LaTeX Warning: Reference `chap:5' on page 10 undefined on input line 61.
+
+[10] [11] [12] [13] [14] [15] [16] [17]
+
+Package biblatex Warning: Nested notes on input line 90.
+
+[18]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+ [19]
+[20] [21] [22] [23]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
- [18] [19]
-[20] [21] [22] [23] [24] [25] [26] [27] [28] [29]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+ [24] [25] [26] [27] [28] [29] [30] [31] [32]
 
-LaTeX Warning: Reference `sec:app' on page 30 undefined on input line 169.
+LaTeX Warning: Citation 'eminc07' on page 33 undefined on input line 183.
 
-[30] [31] [32]
+[33]
 
-LaTeX Warning: Citation 'ladres09' on page 33 undefined on input line 177.
+LaTeX Warning: Citation 'eminc07' on page 34 undefined on input line 185.
 
-[33] [34] [35] [36] [37]
+[34] [35]
 
-LaTeX Warning: Reference `sec:appraise' on page 38 undefined on input line 195.
+LaTeX Warning: Reference `sec:app' on page 36 undefined on input line 191.
 
+
+LaTeX Warning: Citation 'eminc07' on page 36 undefined on input line 191.
+
+[36] [37]
+
+LaTeX Warning: Citation 'lad08' on page 38 undefined on input line 195.
 
 [38]
 
-LaTeX Warning: Reference `sec:landcons' on page 39 undefined on input line 199.
+LaTeX Warning: Citation 'ladres09' on page 39 undefined on input line 199.
+
+[39] [40] [41] [42] [43]
+
+LaTeX Warning: Reference `sec:appraise' on page 44 undefined on input line 217.
 
 
-[39] [40]) [41]
+[44]
+
+LaTeX Warning: Reference `sec:landcons' on page 45 undefined on input line 221.
+
+
+[45] [46]) [47]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.tex"
 Chapter 2.
 Package biblatex Info: Resetting trackers on input line 1.
-[42
+[48
 
 
 
-] [43]
+] [49]
 
-LaTeX Warning: Citation 'falk' on page 44 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Tf1' on page 44 undefined on input line 12.
+LaTeX Warning: Citation 'falk' on page 50 undefined on input line 12.
 
 
-LaTeX Warning: Citation 'Tf2' on page 44 undefined on input line 12.
+LaTeX Warning: Citation 'Tf1' on page 50 undefined on input line 12.
 
 
-LaTeX Warning: Citation 'Tf3' on page 44 undefined on input line 12.
+LaTeX Warning: Citation 'Tf2' on page 50 undefined on input line 12.
 
 
-LaTeX Warning: Citation 'Tf1' on page 44 undefined on input line 12.
+LaTeX Warning: Citation 'Tf3' on page 50 undefined on input line 12.
 
-[44] [45] [46]
 
-LaTeX Warning: Citation 'falk' on page 47 undefined on input line 25.
+LaTeX Warning: Citation 'Tf1' on page 50 undefined on input line 12.
 
-[47]
+[50] [51] [52]
+
+LaTeX Warning: Citation 'falk' on page 53 undefined on input line 25.
+
+[53]
 Overfull \hbox (1.0775pt too wide) in paragraph at lines 32--33
 [] \OT1/cmr/m/n/10 ([])
  []
 
-[48] [49]
+[54] [55]
 
-LaTeX Warning: Citation 'ar2010' on page 50 undefined on input line 48.
-
-
-LaTeX Warning: Citation 'Hammer2' on page 50 undefined on input line 48.
-
-[50]
-
-LaTeX Warning: Citation 'liberal' on page 51 undefined on input line 52.
-
-[51]
-
-LaTeX Warning: Citation 'Hindrum' on page 52 undefined on input line 54.
+LaTeX Warning: Citation 'ar2010' on page 56 undefined on input line 48.
 
 
-LaTeX Warning: Citation 'Koht' on page 52 undefined on input line 56.
+LaTeX Warning: Citation 'Hammer2' on page 56 undefined on input line 48.
 
-[52]
+[56]
 
-LaTeX Warning: Citation 'Aanesland' on page 53 undefined on input line 58.
+LaTeX Warning: Citation 'liberal' on page 57 undefined on input line 52.
 
+[57]
 
-LaTeX Warning: Citation 'Gloppen' on page 53 undefined on input line 58.
-
-[53] [54] [55]
-
-LaTeX Warning: Citation 'rettleiar' on page 56 undefined on input line 70.
+LaTeX Warning: Citation 'Hindrum' on page 58 undefined on input line 54.
 
 
-LaTeX Warning: Citation 'falk' on page 56 undefined on input line 70.
-
-[56] [57]
-
-LaTeX Warning: Citation 'kartlegging' on page 58 undefined on input line 76.
-
-
-LaTeX Warning: Citation 'investment' on page 58 undefined on input line 76.
+LaTeX Warning: Citation 'Koht' on page 58 undefined on input line 56.
 
 [58]
 
-LaTeX Warning: Citation 'kartlegging' on page 59 undefined on input line 82.
-
-[59] [60] [61] [62] [63]
-
-LaTeX Warning: Citation 'Efvl' on page 64 undefined on input line 108.
+LaTeX Warning: Citation 'Aanesland' on page 59 undefined on input line 58.
 
 
-LaTeX Warning: Citation 'flei' on page 64 undefined on input line 108.
+LaTeX Warning: Citation 'Gloppen' on page 59 undefined on input line 58.
+
+[59] [60] [61]
+
+LaTeX Warning: Citation 'rettleiar' on page 62 undefined on input line 70.
+
+
+LaTeX Warning: Citation 'falk' on page 62 undefined on input line 70.
+
+[62] [63]
+
+LaTeX Warning: Citation 'kartlegging' on page 64 undefined on input line 76.
+
+
+LaTeX Warning: Citation 'investment' on page 64 undefined on input line 76.
 
 [64]
 
-LaTeX Warning: Citation 'Efvl' on page 65 undefined on input line 114.
+LaTeX Warning: Citation 'kartlegging' on page 65 undefined on input line 82.
 
-[65] [66]
+[65] [66] [67] [68] [69]
 
-LaTeX Warning: Citation 'Efvl' on page 67 undefined on input line 147.
+LaTeX Warning: Citation 'Efvl' on page 70 undefined on input line 108.
 
-[67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
 
-LaTeX Warning: Citation 'backer1' on page 77 undefined on input line 206.
+LaTeX Warning: Citation 'flei' on page 70 undefined on input line 108.
 
-[77] [78] [79]) [80]
+[70]
+
+LaTeX Warning: Citation 'Efvl' on page 71 undefined on input line 114.
+
+[71] [72]
+
+LaTeX Warning: Citation 'Efvl' on page 73 undefined on input line 147.
+
+[73] [74] [75] [76] [77] [78] [79] [80] [81] [82]
+
+LaTeX Warning: Citation 'backer1' on page 83 undefined on input line 206.
+
+[83] [84] [85]) [86]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.tex"
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 1.
-[81
+[87
 
 
 
 ]
 
-LaTeX Warning: Citation 'AllenCom' on page 82 undefined on input line 7.
+LaTeX Warning: Citation 'AllenCom' on page 88 undefined on input line 7.
 
 
-LaTeX Warning: Citation 'notimminent' on page 82 undefined on input line 9.
+LaTeX Warning: Citation 'notimminent' on page 88 undefined on input line 9.
 
-[82]
+[88]
 
-LaTeX Warning: Citation 'lcdisc' on page 83 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'newuk' on page 83 undefined on input line 11.
+LaTeX Warning: Citation 'lcdisc' on page 89 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'kelouk' on page 83 undefined on input line 11.
-
-[83] [84]
-
-LaTeX Warning: Citation 'lcdisc' on page 85 undefined on input line 22.
-
-[85] [86] [87] [88] [89] [90] [91] [92]
-
-LaTeX Warning: Citation 'newuk' on page 93 undefined on input line 94.
-
-[93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-[107] [108]
-
-LaTeX Warning: Citation 'Falk' on page 109 undefined on input line 191.
-
-[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119]
-
-LaTeX Warning: Citation '....' on page 120 undefined on input line 306.
-
-[120] [121] [122] [123] [124]
-
-LaTeX Warning: Citation 'tf1' on page 125 undefined on input line 325.
+LaTeX Warning: Citation 'newuk' on page 89 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'tf2' on page 125 undefined on input line 325.
+LaTeX Warning: Citation 'kelouk' on page 89 undefined on input line 11.
+
+[89] [90]
+
+LaTeX Warning: Citation 'lcdisc' on page 91 undefined on input line 22.
+
+[91] [92] [93] [94] [95] [96] [97] [98]
+
+LaTeX Warning: Citation 'newuk' on page 99 undefined on input line 94.
+
+[99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
+[112] [113] [114]
+
+LaTeX Warning: Citation 'Falk' on page 115 undefined on input line 191.
+
+[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
+
+LaTeX Warning: Citation '....' on page 126 undefined on input line 306.
+
+[126] [127] [128] [129] [130]
+
+LaTeX Warning: Citation 'tf1' on page 131 undefined on input line 325.
 
 
-LaTeX Warning: Citation 'tf3' on page 125 undefined on input line 325.
+LaTeX Warning: Citation 'tf2' on page 131 undefined on input line 325.
 
-[125] [126] [127] [128] [129] [130] [131] [132] [133] [134]) [135]
+
+LaTeX Warning: Citation 'tf3' on page 131 undefined on input line 325.
+
+[131] [132] [133] [134] [135] [136] [137] [138] [139] [140]) [141]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.tex"
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 1.
-[136
+[142
 
 
 
-] [137] [138] [139] [140]
+] [143] [144] [145] [146]
 
-LaTeX Warning: Citation 'schj' on page 141 undefined on input line 40.
+LaTeX Warning: Citation 'schj' on page 147 undefined on input line 40.
 
-[141]
+[147]
 
-LaTeX Warning: Citation 'castberg' on page 142 undefined on input line 46.
-
-
-LaTeX Warning: Citation 'newuk' on page 142 undefined on input line 53.
-
-[142] [143] [144] [145] [146] [147] [148] [149]
-
-LaTeX Warning: Citation 'asch' on page 150 undefined on input line 96.
-
-[150] [151] [152] [153] [154]
-
-LaTeX Warning: Citation 'knoph' on page 155 undefined on input line 120.
+LaTeX Warning: Citation 'castberg' on page 148 undefined on input line 46.
 
 
-LaTeX Warning: Citation 'grunn' on page 155 undefined on input line 126.
+LaTeX Warning: Citation 'newuk' on page 148 undefined on input line 53.
+
+[148] [149] [150] [151] [152] [153] [154] [155]
+
+LaTeX Warning: Citation 'asch' on page 156 undefined on input line 96.
+
+[156] [157] [158] [159] [160]
+
+LaTeX Warning: Citation 'knoph' on page 161 undefined on input line 120.
 
 
-LaTeX Warning: Citation 'opshal' on page 155 undefined on input line 126.
+LaTeX Warning: Citation 'grunn' on page 161 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'robb2' on page 155 undefined on input line 126.
+LaTeX Warning: Citation 'opshal' on page 161 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'schj' on page 155 undefined on input line 126.
+LaTeX Warning: Citation 'robb2' on page 161 undefined on input line 126.
 
-[155] [156] [157] [158] [159] [160] [161] [162]
+
+LaTeX Warning: Citation 'schj' on page 161 undefined on input line 126.
+
+[161] [162] [163] [164] [165] [166] [167] [168]
 
 Package Fancyhdr Warning: \headheight is too small (28.85274pt): 
  Make it at least 41.68335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[163] [164] [165] [166] [167] [168]
+[169] [170] [171] [172] [173] [174]
 
-LaTeX Warning: Citation 'stor' on page 169 undefined on input line 220.
+LaTeX Warning: Citation 'stor' on page 175 undefined on input line 220.
 
-[169] [170]
+[175] [176]
 
-LaTeX Warning: Citation 'skog' on page 171 undefined on input line 228.
+LaTeX Warning: Citation 'skog' on page 177 undefined on input line 228.
 
-[171] [172] [173] [174]
+[177] [178] [179] [180]
 
-LaTeX Warning: Citation 'stor' on page 175 undefined on input line 244.
+LaTeX Warning: Citation 'stor' on page 181 undefined on input line 244.
 
 
-LaTeX Warning: Citation 'regeksp' on page 175 undefined on input line 244.
+LaTeX Warning: Citation 'regeksp' on page 181 undefined on input line 244.
 
-[175] [176] [177] [178] [179] [180]) [181]
+[181] [182] [183] [184] [185] [186]) [187]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.tex"
 
-LaTeX Warning: Citation 'vittikainen2004' on page 182 undefined on input line 5
+LaTeX Warning: Citation 'vittikainen2004' on page 188 undefined on input line 5
 .
 
-[182
+[188
 
 
 ]
 
-LaTeX Warning: Citation 'rygg1998' on page 183 undefined on input line 15.
+LaTeX Warning: Citation 'rygg1998' on page 189 undefined on input line 15.
 
-[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194]
-[195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206]
-[207]
+[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
+[201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
+[213]
 
-LaTeX Warning: Citation 'master' on page 208 undefined on input line 144.
+LaTeX Warning: Citation 'master' on page 214 undefined on input line 144.
 
-[208] [209]
+[214] [215]
 
-LaTeX Warning: Citation 'master' on page 210 undefined on input line 158.
+LaTeX Warning: Citation 'master' on page 216 undefined on input line 158.
 
-[210]
+[216]
 
-LaTeX Warning: Citation 'master' on page 211 undefined on input line 160.
+LaTeX Warning: Citation 'master' on page 217 undefined on input line 160.
 
 
-LaTeX Warning: Citation 'master' on page 211 undefined on input line 162.
+LaTeX Warning: Citation 'master' on page 217 undefined on input line 162.
 
-[211] [212] [213]
+[217] [218] [219]
 
-LaTeX Warning: Citation 'master' on page 214 undefined on input line 172.
+LaTeX Warning: Citation 'master' on page 220 undefined on input line 172.
 
-[214] [215] [216] [217] [218] [219] [220]) [221]
+[220] [221] [222] [223] [224] [225] [226]) [227]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.tex"
-[222
+[228
 
 
 
-]) [223] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux" ("C
-:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
+] [229] [230]) [231]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.aux")
@@ -2006,13 +2026,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 17945 strings out of 493921
- 314445 string characters out of 3144876
- 782452 words of memory out of 3000000
- 20906 multiletter control sequences out of 15000+200000
+ 18080 strings out of 493921
+ 316365 string characters out of 3144876
+ 783651 words of memory out of 3000000
+ 21041 multiletter control sequences out of 15000+200000
  16839 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,12n,69p,10486b,1794s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,69p,10486b,2437s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
@@ -2030,9 +2050,9 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (228 pages, 784333 bytes).
+Output written on thesis.pdf (236 pages, 810071 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
+ 828 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

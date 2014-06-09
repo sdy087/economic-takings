@@ -20,86 +20,86 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}The US perspective on economic takings}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}The "dead letter": Legitimacy of economic takings in the US before Kelo}{11}
+\contentsline {subsection}{\numberline {1.3.1}The ``dead letter'' raised: A short history of economic takings in the US}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}The "grasping hand": Legitimacy of economic takings in the US after Kelo}{21}
+\contentsline {subsection}{\numberline {1.3.2}The "grasping hand": Legitimacy of economic takings in the US after Kelo}{27}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.3}The institutional approach to economic development takings}{26}
+\contentsline {subsection}{\numberline {1.3.3}The institutional approach to economic development takings}{32}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Conclusion}{37}
+\contentsline {section}{\numberline {1.4}Conclusion}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Ola M\IeC {\r a}land and others v. J\IeC {\o }rpeland Kraft AS \\ A case study of interference in Norwegian waterfall rights}{42}
+\contentsline {chapter}{\numberline {2}Ola M\IeC {\r a}land and others v. J\IeC {\o }rpeland Kraft AS \\ A case study of interference in Norwegian waterfall rights}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Introduction}{42}
+\contentsline {section}{\numberline {2.1}Introduction}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Background: local owners making their voices heard by suggesting small scale hydro-power}{46}
+\contentsline {section}{\numberline {2.2}Background: local owners making their voices heard by suggesting small scale hydro-power}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}The facts of the case}{55}
+\contentsline {section}{\numberline {2.3}The facts of the case}{61}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}The legal arguments, and the view taken by the national courts}{64}
+\contentsline {section}{\numberline {2.4}The legal arguments, and the view taken by the national courts}{70}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Consequences of the case and the questions it raises}{74}
+\contentsline {section}{\numberline {2.5}Consequences of the case and the questions it raises}{80}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Conclusion}{79}
+\contentsline {section}{\numberline {2.6}Conclusion}{85}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Value to the owner, but what \emph {kind} of value? A case study of the no-scheme rule as applied to Norwegian waterfalls}{81}
+\contentsline {chapter}{\numberline {3}Value to the owner, but what \emph {kind} of value? A case study of the no-scheme rule as applied to Norwegian waterfalls}{87}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Introduction}{81}
+\contentsline {section}{\numberline {3.1}Introduction}{87}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}The no-scheme rule}{87}
+\contentsline {section}{\numberline {3.2}The no-scheme rule}{93}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}The no-scheme rule in Norwegian law}{100}
+\contentsline {subsection}{\numberline {3.2.1}The no-scheme rule in Norwegian law}{106}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}The traditional method for compensating waterfalls}{106}
+\contentsline {section}{\numberline {3.3}The traditional method for compensating waterfalls}{112}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Not so natural: The physics and the law behind the notion of a "natural horsepower"}{110}
+\contentsline {subsection}{\numberline {3.3.1}Not so natural: The physics and the law behind the notion of a "natural horsepower"}{116}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}The new method}{123}
+\contentsline {section}{\numberline {3.4}The new method}{129}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Conclusion and future work}{135}
+\contentsline {section}{\numberline {3.5}Conclusion and future work}{141}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}The importance of context: An historical perspective on Norwegian law regarding compensation following expropriation}{136}
+\contentsline {chapter}{\numberline {4}The importance of context: An historical perspective on Norwegian law regarding compensation following expropriation}{142}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Introduction}{136}
+\contentsline {section}{\numberline {4.1}Introduction}{142}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Look to the constitution! The era of absolutism}{139}
+\contentsline {section}{\numberline {4.2}Look to the constitution! The era of absolutism}{145}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Give them what they deserve! The era of pragmatic, utilitarian reform}{153}
+\contentsline {section}{\numberline {4.3}Give them what they deserve! The era of pragmatic, utilitarian reform}{159}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Market value, but \emph {we} determine the market! The era of centralization and pragmatism by regulation}{163}
+\contentsline {section}{\numberline {4.4}Market value, but \emph {we} determine the market! The era of centralization and pragmatism by regulation}{169}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Let their peers decide! Suggestions for an era of contextual compensation assessment}{174}
+\contentsline {section}{\numberline {4.5}Let their peers decide! Suggestions for an era of contextual compensation assessment}{180}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Conclusion}{179}
+\contentsline {section}{\numberline {4.6}Conclusion}{185}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}Introduction}{182}
+\contentsline {section}{\numberline {4.7}Introduction}{188}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.8}Land consolidation in Norway}{185}
+\contentsline {section}{\numberline {4.8}Land consolidation in Norway}{191}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.8.1}The consolidation process and the consolidation courts}{193}
+\contentsline {subsection}{\numberline {4.8.1}The consolidation process and the consolidation courts}{199}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.9}Compulsory cooperation in consolidation law: Directives for joint use, joint action and joint investment}{200}
+\contentsline {section}{\numberline {4.9}Compulsory cooperation in consolidation law: Directives for joint use, joint action and joint investment}{206}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.10}Compulsory cooperation for local development of hydro-power}{208}
+\contentsline {section}{\numberline {4.10}Compulsory cooperation for local development of hydro-power}{214}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.10.1}The case of \emph {Vika}}{209}
+\contentsline {subsection}{\numberline {4.10.1}The case of \emph {Vika}}{215}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.10.2}The case of \emph {Oma}}{212}
+\contentsline {subsection}{\numberline {4.10.2}The case of \emph {Oma}}{218}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.10.3}The case of \emph {Dj\IeC {\o }nno}}{216}
+\contentsline {subsection}{\numberline {4.10.3}The case of \emph {Dj\IeC {\o }nno}}{222}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.10.4}The case of \emph {Tokheim}}{219}
+\contentsline {subsection}{\numberline {4.10.4}The case of \emph {Tokheim}}{225}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.11}Cooperation versus expropriation: Competing models of commercial land development in Norway}{221}
+\contentsline {section}{\numberline {4.11}Cooperation versus expropriation: Competing models of commercial land development in Norway}{227}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.12}Conclusion}{221}
+\contentsline {section}{\numberline {4.12}Conclusion}{227}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{222}
+\contentsline {chapter}{Bibliography}{228}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{222}
+\contentsline {section}{Books}{228}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Contributions to Collections}{222}
+\contentsline {section}{Contributions to Collections}{228}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{222}
+\contentsline {section}{Articles}{229}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Other Works}{223}
+\contentsline {section}{Other Works}{231}

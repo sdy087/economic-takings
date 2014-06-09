@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \sortlist{entry}{nity}
+  \sortlist{entry}{niyt}
     \entry{allen10}{article}{}
       \name{labelname}{1}{}{%
         {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
@@ -56,6 +56,42 @@
       \field{type}{DPhil thesis}
       \field{year}{2008}
     \endentry
+    \entry{berger78}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=59c6ada3c7ff998d03e76d4d7a3cca66}{Berger}{B\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=59c6ada3c7ff998d03e76d4d7a3cca66}{Berger}{B\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{59c6ada3c7ff998d03e76d4d7a3cca66}
+      \strng{fullhash}{59c6ada3c7ff998d03e76d4d7a3cca66}
+      \field{sortinit}{B}
+      \field{labeltitle}{The Public Use Requirement in Eminent Domain}
+      \true{singletitle}
+      \field{journaltitle}{Oregon Law Review}
+      \field{title}{The Public Use Requirement in Eminent Domain}
+      \field{volume}{57}
+      \field{year}{1978}
+      \field{pages}{203}
+    \endentry
+    \entry{blackstone79}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9bb8043de8e290dd4e34f23b2c32bbb1}{Blackstone}{B\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9bb8043de8e290dd4e34f23b2c32bbb1}{Blackstone}{B\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{9bb8043de8e290dd4e34f23b2c32bbb1}
+      \strng{fullhash}{9bb8043de8e290dd4e34f23b2c32bbb1}
+      \field{sortinit}{B}
+      \field{labeltitle}{Commentaries on the Laws of England: A Facsimile of the First Edition of 1765--1769}
+      \true{singletitle}
+      \field{title}{Commentaries on the Laws of England: A Facsimile of the First Edition of 1765--1769}
+      \field{year}{1979}
+    \endentry
     \entry{2009}{article}{}
       \name{labelname}{1}{}{%
         {{hash=cd946c851bf4cb209262288ce74ad6a9}{Boone}{B\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
@@ -86,6 +122,17 @@
       \verb http://www.jstor.org/stable/40599209
       \endverb
     \endentry
+    \entry{boston32}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Boston \& Roxbury Mill Corp v Newman}
+      \true{singletitle}
+      \field{journaltitle}{Mass}
+      \field{title}{Boston \& Roxbury Mill Corp v Newman}
+      \field{volume}{29}
+      \field{year}{1832}
+      \field{pages}{467}
+      \keyw{us}
+    \endentry
     \entry{boomer}{jurisdiction}{}
       \list{institution}{1}{%
         {Cal Dist Ct App}%
@@ -99,6 +146,52 @@
       \field{year}{1933}
       \field{pages}{570}
       \keyw{us}
+    \endentry
+    \entry{calder98}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Calder}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Calder}
+      \field{title}{Calder v Bull}
+      \field{volume}{3}
+      \field{year}{1798}
+      \field{pages}{386}
+      \keyw{us}
+    \endentry
+    \entry{cohen06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=78b2c7a38b118f65e36e30354f80aa64}{Cohen}{C\bibinitperiod}{Charles\bibnamedelima E\bbxinitsep}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=78b2c7a38b118f65e36e30354f80aa64}{Cohen}{C\bibinitperiod}{Charles\bibnamedelima E\bbxinitsep}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{78b2c7a38b118f65e36e30354f80aa64}
+      \strng{fullhash}{78b2c7a38b118f65e36e30354f80aa64}
+      \field{sortinit}{C}
+      \field{labeltitle}{Eminent Domain After Kelo v. City of New London: An Argument for Banning Economic Development Takings}
+      \field{journaltitle}{Harvard Journal of Law and Public Policy}
+      \field{title}{Eminent Domain After Kelo v. City of New London: An Argument for Banning Economic Development Takings}
+      \field{volume}{29}
+      \field{year}{2006}
+      \field{pages}{491}
+    \endentry
+    \entry{cohen08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=78b2c7a38b118f65e36e30354f80aa64}{Cohen}{C\bibinitperiod}{Charles\bibnamedelima E\bbxinitsep}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=78b2c7a38b118f65e36e30354f80aa64}{Cohen}{C\bibinitperiod}{Charles\bibnamedelima E\bbxinitsep}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{78b2c7a38b118f65e36e30354f80aa64}
+      \strng{fullhash}{78b2c7a38b118f65e36e30354f80aa64}
+      \field{sortinit}{C}
+      \field{labeltitle}{The Abstruse Science: Kelo, Lochner, and Representation Reinforcement in the Public Use Debate}
+      \field{journaltitle}{Duquesne Law Review}
+      \field{title}{The Abstruse Science: Kelo, Lochner, and Representation Reinforcement in the Public Use Debate}
+      \field{volume}{46}
+      \field{year}{2008}
+      \field{pages}{375\bibrangedash 419}
     \endentry
     \entry{libcom01}{article}{}
       \name{labelname}{2}{}{%
@@ -131,6 +224,17 @@
       \verb http://www.jstor.org/stable/797596
       \endverb
     \endentry
+    \entry{seawell76}{jurisdiction}{}
+      \field{sortinit}{D}
+      \field{labeltitle}{Dayton Gold \& Silver Mining Co v Seawell}
+      \true{singletitle}
+      \field{journaltitle}{Nev}
+      \field{title}{Dayton Gold \& Silver Mining Co v Seawell}
+      \field{volume}{11}
+      \field{year}{1876}
+      \field{pages}{394}
+      \keyw{us}
+    \endentry
     \entry{defeaters}{thesis}{}
       \name{labelname}{1}{}{%
         {{hash=125fb35a176926366fc16fd318687c6d}{Duarte\bibnamedelima d'Almeida}{D\bibinitperiod\bibinitdelim d\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
@@ -148,61 +252,17 @@
       \field{type}{DPhil thesis}
       \field{year}{2011}
     \endentry
-    \entry{chabauty12}{jurisdiction}{}
+    \entry{sporrong82}{jurisdiction}{}
       \list{institution}{1}{%
         {ECtHR}%
       }
       \field{sortinit}{E}
-      \field{labeltitle}{Chabauty v France}
+      \field{labeltitle}{Sporrong and Lónnroth v Sweden}
       \true{singletitle}
-      \field{journaltitle}{ECHR}
-      \field{number}{57418/08}
-      \field{title}{Chabauty v France}
-      \field{year}{2012}
-      \field{pages}{1784}
-      \keyw{echr}
-    \endentry
-    \entry{chassagnou99}{jurisdiction}{}
-      \list{institution}{1}{%
-        {ECtHR}%
-      }
-      \field{sortinit}{E}
-      \field{labeltitle}{Chassagnou and Others v France}
-      \true{singletitle}
-      \field{journaltitle}{ECHR}
-      \field{title}{Chassagnou and Others v France}
-      \field{volume}{3}
-      \field{year}{1999}
-      \field{pages}{22}
-      \keyw{echr}
-    \endentry
-    \entry{hermann12}{jurisdiction}{}
-      \list{institution}{1}{%
-        {ECtHR}%
-      }
-      \field{sortinit}{E}
-      \field{labeltitle}{Hermann v Germany}
-      \true{singletitle}
-      \field{journaltitle}{ECHR}
-      \field{number}{9300/07}
-      \field{title}{Hermann v Germany}
-      \field{year}{2010}
-      \field{pages}{1110}
-      \keyw{echr}
-    \endentry
-    \entry{hutten06}{jurisdiction}{}
-      \list{institution}{1}{%
-        {ECtHR}%
-      }
-      \field{sortinit}{E}
-      \field{labeltitle}{Hutten-Czapska v Poland}
-      \true{singletitle}
-      \field{journaltitle}{ECHR}
-      \field{number}{35014/97}
-      \field{title}{Hutten-Czapska v Poland}
-      \field{volume}{8}
-      \field{year}{2006}
-      \field{pages}{628}
+      \field{journaltitle}{Series A}
+      \field{number}{7151/75; 7152/75}
+      \field{title}{Sporrong and Lónnroth v Sweden}
+      \field{pages}{52}
       \keyw{echr}
     \endentry
     \entry{james86}{jurisdiction}{}
@@ -217,20 +277,6 @@
       \field{title}{James and others v United Kingdom}
       \field{year}{1986}
       \field{pages}{98}
-      \keyw{echr}
-    \endentry
-    \entry{lindheim12}{jurisdiction}{}
-      \list{institution}{1}{%
-        {ECtHR}%
-      }
-      \field{sortinit}{E}
-      \field{labeltitle}{Lindheim and others v Norway}
-      \true{singletitle}
-      \field{journaltitle}{ECHR}
-      \field{number}{13221/08; 2139/10}
-      \field{title}{Lindheim and others v Norway}
-      \field{year}{2012}
-      \field{pages}{985}
       \keyw{echr}
     \endentry
     \entry{lithgow86}{jurisdiction}{}
@@ -248,6 +294,35 @@
       \field{pages}{102}
       \keyw{echr}
     \endentry
+    \entry{chassagnou99}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Chassagnou and Others v France}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{title}{Chassagnou and Others v France}
+      \field{volume}{3}
+      \field{year}{1999}
+      \field{pages}{22}
+      \keyw{echr}
+    \endentry
+    \entry{hutten06}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Hutten-Czapska v Poland}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{35014/97}
+      \field{title}{Hutten-Czapska v Poland}
+      \field{volume}{8}
+      \field{year}{2006}
+      \field{pages}{628}
+      \keyw{echr}
+    \endentry
     \entry{scordino06}{jurisdiction}{}
       \list{institution}{1}{%
         {ECtHR}%
@@ -263,17 +338,46 @@
       \field{pages}{276}
       \keyw{echr}
     \endentry
-    \entry{sporrong82}{jurisdiction}{}
+    \entry{hermann12}{jurisdiction}{}
       \list{institution}{1}{%
         {ECtHR}%
       }
       \field{sortinit}{E}
-      \field{labeltitle}{Sporrong and Lónnroth v Sweden}
+      \field{labeltitle}{Hermann v Germany}
       \true{singletitle}
-      \field{journaltitle}{Series A}
-      \field{number}{7151/75; 7152/75}
-      \field{title}{Sporrong and Lónnroth v Sweden}
-      \field{pages}{52}
+      \field{journaltitle}{ECHR}
+      \field{number}{9300/07}
+      \field{title}{Hermann v Germany}
+      \field{year}{2010}
+      \field{pages}{1110}
+      \keyw{echr}
+    \endentry
+    \entry{chabauty12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Chabauty v France}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{57418/08}
+      \field{title}{Chabauty v France}
+      \field{year}{2012}
+      \field{pages}{1784}
+      \keyw{echr}
+    \endentry
+    \entry{lindheim12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Lindheim and others v Norway}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{13221/08; 2139/10}
+      \field{title}{Lindheim and others v Norway}
+      \field{year}{2012}
+      \field{pages}{985}
       \keyw{echr}
     \endentry
     \entry{evansmhr}{book}{}
@@ -295,6 +399,40 @@
       \field{title}{Essays: On the Action for Money Had and Received, on the Law of Insurances, and on the Law of Bills of Exchange and Promissory Notes}
       \field{year}{1802}
       \field{pages}{7}
+    \endentry
+    \entry{gaylord03}{jurisdiction}{}
+      \field{sortinit}{G}
+      \field{labeltitle}{Gaylord v Sanitary Dist of Chicago}
+      \true{singletitle}
+      \field{journaltitle}{NE}
+      \field{title}{Gaylord v Sanitary Dist of Chicago}
+      \field{volume}{68}
+      \field{year}{1903}
+      \field{pages}{522}
+      \keyw{us}
+    \endentry
+    \entry{hazen83}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hazen v Essex Co}
+      \true{singletitle}
+      \field{journaltitle}{Mass}
+      \field{title}{Hazen v Essex Co}
+      \field{volume}{66}
+      \field{year}{1883}
+      \field{pages}{475}
+      \keyw{us}
+    \endentry
+    \entry{head85}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Head}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Head}
+      \field{title}{Head v Amoskeag Mfg Co}
+      \field{volume}{113}
+      \field{year}{1885}
+      \field{pages}{9}
+      \keyw{us}
     \endentry
     \entry{anticommons98}{article}{}
       \name{labelname}{1}{}{%
@@ -326,7 +464,7 @@
       \verb http://www.jstor.org/stable/1342203
       \endverb
     \endentry
-    \entry{lad08}{article}{}
+    \entry{heller08}{article}{}
       \name{labelname}{2}{}{%
         {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
@@ -348,6 +486,129 @@
       \field{year}{2008}
       \field{pages}{1465\bibrangedash 1527}
     \endentry
+    \entry{hain}{jurisdiction}{}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{Hain Steamship Co v Tate~\& Lyle Ltd}
+      \true{singletitle}
+      \field{journaltitle}{Com Cas}
+      \field{title}{Hain Steamship Co v Tate~\& Lyle Ltd}
+      \field{volume}{41}
+      \field{year}{1936}
+      \field{pages}{350}
+      \keyw{gb}
+    \endentry
+    \entry{achilleas}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {HL}%
+      }
+      \field{sortinit}{H}
+      \field{labeltitle}{The Achilleas}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{number}{[2008] UKHL 48}
+      \field{shorttitle}{The Achilleas}
+      \field{title}{Transfield Shipping Inc v Mercator Shipping Inc (The Achilleas)}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{61}
+      \keyw{gb}
+    \endentry
+    \entry{horwitz73}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ec26f0740a53dcca890ac3179193b111}{Horwitz}{H\bibinitperiod}{Morton\bibnamedelima J\bbxinitsep}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ec26f0740a53dcca890ac3179193b111}{Horwitz}{H\bibinitperiod}{Morton\bibnamedelima J\bbxinitsep}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec26f0740a53dcca890ac3179193b111}
+      \strng{fullhash}{ec26f0740a53dcca890ac3179193b111}
+      \field{sortinit}{H}
+      \field{labeltitle}{The Transformation in the Conception of Property in American Law, 1780-1860}
+      \true{singletitle}
+      \field{journaltitle}{University of Chicago Law Review}
+      \field{title}{The Transformation in the Conception of Property in American Law, 1780-1860}
+      \field{volume}{40}
+      \field{year}{1973}
+      \field{pages}{248\bibrangedash 290}
+    \endentry
+    \entry{householder07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=74c820f70cf7fa9a9e88141e048ac8c9}{Householder}{H\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=74c820f70cf7fa9a9e88141e048ac8c9}{Householder}{H\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{74c820f70cf7fa9a9e88141e048ac8c9}
+      \strng{fullhash}{74c820f70cf7fa9a9e88141e048ac8c9}
+      \field{sortinit}{H}
+      \field{labeltitle}{Kelo Compensation: The Future of Economic Development Takings}
+      \true{singletitle}
+      \field{journaltitle}{Chicago-Kent Law Review}
+      \field{title}{Kelo Compensation: The Future of Economic Development Takings}
+      \field{volume}{82}
+      \field{year}{2007}
+      \field{pages}{1029\bibrangedash 1061}
+    \endentry
+    \entry{hoyman10}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=5be32adba89ca8f387caee42d061f272}{Hoyman}{H\bibinitperiod}{Michele\bibnamedelima M\bbxinitsep}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dd7ef2283682d5790fb53027b3b3b992}{{McCall}}{M\bibinitperiod}{Jamie\bibnamedelima R\bbxinitsep}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5be32adba89ca8f387caee42d061f272}{Hoyman}{H\bibinitperiod}{Michele\bibnamedelima M\bbxinitsep}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dd7ef2283682d5790fb53027b3b3b992}{{McCall}}{M\bibinitperiod}{Jamie\bibnamedelima R\bbxinitsep}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d5c017c19b6884a4517229825adda616}
+      \strng{fullhash}{d5c017c19b6884a4517229825adda616}
+      \field{sortinit}{H}
+      \field{labeltitle}{Not Imminent in My Domain! County Leaders' Attitudes toward Eminent Domain Decisions}
+      \true{singletitle}
+      \field{abstract}{Eminent domain is an urgent problem facing local government administrators and scholars throughout the United States. However, the literature is sparse regarding how local leaders make decisions on this hot-button issue. A 2006 Government Accountability Office report noted a lack of data about local government use of their eminent domain authority. A survey of county managers in North Carolina was conducted to redress this apparent knowledge gap. Although the findings are primarily generalizable only to other Dillon's rule states, such data demonstrate that eminent domain applies more often for narrow (public use) purposes, such as water and sewer systems, than for \grqqbroad” (public good) purposes, such as economic development. Current and future property considerations also influence eminent domain decisions.[A] law that takes property from A, and gives it to B: It is against all reason and justice, for a people to entrust a legislature with such powers; and, therefore, it cannot be presumed that they have done it. Associate Justice Samuel Chase, majority opinion, Calder v. Bull (1798)}
+      \field{journaltitle}{Public Administration Review}
+      \field{number}{6}
+      \field{title}{Not Imminent in My Domain! County Leaders' Attitudes toward Eminent Domain Decisions}
+      \field{volume}{70}
+      \field{year}{2010}
+      \field{pages}{885\bibrangedash 893}
+    \endentry
+    \entry{johnson11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9d8b5972ad4f612733cf76b3cca60292}{Johnson}{J\bibinitperiod}{Emily\bibnamedelima A\bbxinitsep}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9d8b5972ad4f612733cf76b3cca60292}{Johnson}{J\bibinitperiod}{Emily\bibnamedelima A\bbxinitsep}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9d8b5972ad4f612733cf76b3cca60292}
+      \strng{fullhash}{9d8b5972ad4f612733cf76b3cca60292}
+      \field{sortinit}{J}
+      \field{labeltitle}{Reconciling Originalism and the History of the Public Use Clause}
+      \true{singletitle}
+      \field{journaltitle}{Fordham Law Review}
+      \field{title}{Reconciling Originalism and the History of the Public Use Clause}
+      \field{volume}{79}
+      \field{year}{2011}
+      \field{pages}{265\bibrangedash 319}
+    \endentry
+    \entry{moses}{jurisdiction}{}
+      \list{institution}{1}{%
+        {KB}%
+      }
+      \field{sortinit}{K}
+      \field{labeltitle}{Moses v Macferlan}
+      \true{singletitle}
+      \field{journaltitle}{Burr}
+      \field{title}{Moses v Macferlan}
+      \field{userb}{97}
+      \field{userc}{ER}
+      \field{usere}{676}
+      \field{volume}{2}
+      \field{year}{1760}
+      \field{pages}{1005}
+      \keyw{gb}
+    \endentry
     \entry{kelo05}{jurisdiction}{}
       \field{sortinit}{K}
       \field{labeltitle}{Kelo}
@@ -360,6 +621,26 @@
       \field{pages}{469}
       \keyw{us}
     \endentry
+    \entry{kent27}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9a92592c7fe5dfa09813ff99c939ae61}{Kent}{K\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9a92592c7fe5dfa09813ff99c939ae61}{Kent}{K\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {O Halsted}%
+      }
+      \strng{namehash}{9a92592c7fe5dfa09813ff99c939ae61}
+      \strng{fullhash}{9a92592c7fe5dfa09813ff99c939ae61}
+      \field{sortinit}{K}
+      \field{labeltitle}{Commentaries on American law}
+      \true{singletitle}
+      \field{number}{2}
+      \field{series}{Commentaries on American Law}
+      \field{title}{Commentaries on American law}
+      \field{year}{1827}
+    \endentry
     \entry{frustrated}{legislation}{}
       \field{sortinit}{L}
       \field{labeltitle}{Law Reform (Frustrated Contracts) Act}
@@ -370,7 +651,22 @@
       \field{year}{1943}
       \keyw{en}
     \endentry
-    \entry{eminc07}{article}{}
+    \entry{halpern14}{jurisdiction}{}
+      \list{institution}{1}{%
+        {LC}%
+      }
+      \field{sortinit}{L}
+      \field{labeltitle}{Halpern}
+      \true{singletitle}
+      \field{journaltitle}{WL}
+      \field{number}{[2014] UKUT 0116}
+      \field{shorttitle}{Halpern}
+      \field{title}{David Mosche Halpern, Patrick William Gladwell, Clearun Limited, Dominion Mosaic & Tile Company Limited v Greater London Authority}
+      \field{year}{2014}
+      \field{pages}{1097091}
+      \keyw{gb}
+    \endentry
+    \entry{lehavi07}{article}{}
       \name{labelname}{2}{}{%
         {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
         {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
@@ -391,6 +687,105 @@
       \field{volume}{107}
       \field{year}{2007}
       \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{madison79}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e9b3a02bc7a59603757916090587291c}{Madison}{M\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e9b3a02bc7a59603757916090587291c}{Madison}{M\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f99b609a275df1dd661b7f32883a712}{Hobson}{H\bibinitperiod}{Charles\bibnamedelima F\bbxinitsep}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=d03c95528b8b664bf7ef1a9437a134e1}{Rutland}{R\bibinitperiod}{Robert\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University Press of Virginia}%
+      }
+      \strng{namehash}{e9b3a02bc7a59603757916090587291c}
+      \strng{fullhash}{e9b3a02bc7a59603757916090587291c}
+      \field{sortinit}{M}
+      \field{labeltitle}{The papers of James Madison, vol. 12, 2 March 1789--20 January 1790 and supplement 24 October 1775--24 January 1789}
+      \true{singletitle}
+      \field{title}{The papers of James Madison, vol. 12, 2 March 1789--20 January 1790 and supplement 24 October 1775--24 January 1789}
+      \field{year}{1979}
+    \endentry
+    \entry{meidinger80}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=33c6dc61106fc7253a55b5c7706de615}{Meidinger}{M\bibinitperiod}{Errol}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=33c6dc61106fc7253a55b5c7706de615}{Meidinger}{M\bibinitperiod}{Errol}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{33c6dc61106fc7253a55b5c7706de615}
+      \strng{fullhash}{33c6dc61106fc7253a55b5c7706de615}
+      \field{sortinit}{M}
+      \field{labeltitle}{The {'Public} Uses' of Eminent Domain: History and Policy}
+      \true{singletitle}
+      \field{journaltitle}{Environmental Law}
+      \field{title}{The {'Public} Uses' of Eminent Domain: History and Policy}
+      \field{volume}{11}
+      \field{year}{1980}
+      \field{pages}{1\bibrangedash 66}
+    \endentry
+    \entry{merrill86}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \strng{fullhash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Economics of Public Use}
+      \true{singletitle}
+      \field{journaltitle}{Cornell Law Review}
+      \field{title}{The Economics of Public Use}
+      \field{volume}{72}
+      \field{year}{1986}
+      \field{pages}{61\bibrangedash 116}
+    \endentry
+    \entry{minn06}{jurisdiction}{}
+      \field{sortinit}{M}
+      \field{labeltitle}{Minnesota Canal \& Power Co v Koochiching Co}
+      \true{singletitle}
+      \field{journaltitle}{Minn}
+      \field{title}{Minnesota Canal \& Power Co v Koochiching Co}
+      \field{volume}{97}
+      \field{year}{1906}
+      \field{pages}{429}
+      \keyw{us}
+    \endentry
+    \entry{vernon16}{jurisdiction}{}
+      \field{sortinit}{M}
+      \field{labeltitle}{Mt Vernon-Woodberry Cotton Duck Co}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Mt Vernon-Woodberry Cotton Duck Co}
+      \field{title}{Mt Vernon-Woodberry Cotton Duck Co v Alabama Interstate Power Co}
+      \field{volume}{240}
+      \field{year}{1916}
+      \field{pages}{30}
+      \keyw{us}
+    \endentry
+    \entry{nichols40}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=61c5b99c933b635beb0d96c7fa23350b}{Nichols}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=61c5b99c933b635beb0d96c7fa23350b}{Nichols}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61c5b99c933b635beb0d96c7fa23350b}
+      \strng{fullhash}{61c5b99c933b635beb0d96c7fa23350b}
+      \field{sortinit}{N}
+      \field{labeltitle}{The Meaning of Public Use in the Law of Eminent Domain}
+      \true{singletitle}
+      \field{journaltitle}{Boston University Law Review}
+      \field{title}{The Meaning of Public Use in the Law of Eminent Domain}
+      \field{volume}{20}
+      \field{year}{1940}
+      \field{pages}{615}
     \endentry
     \entry{nolan08}{inbook}{}
       \name{labelname}{1}{}{%
@@ -436,23 +831,6 @@
       \field{year}{1990}
       \field{pages}{293}
     \endentry
-    \entry{reynolds81}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{efa84e948e4fccca29e69b7f33c439e7}
-      \strng{fullhash}{efa84e948e4fccca29e69b7f33c439e7}
-      \field{sortinit}{R}
-      \field{labeltitle}{Discharge of Contract by Breach}
-      \field{journaltitle}{LQR}
-      \field{title}{Discharge of Contract by Breach}
-      \field{volume}{97}
-      \field{year}{1981}
-      \field{pages}{541}
-    \endentry
     \entry{reynolds63}{article}{}
       \name{labelname}{1}{}{%
         {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
@@ -470,6 +848,23 @@
       \field{year}{1963}
       \field{pages}{534}
     \endentry
+    \entry{reynolds81}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=efa84e948e4fccca29e69b7f33c439e7}{Reynolds}{R\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{efa84e948e4fccca29e69b7f33c439e7}
+      \strng{fullhash}{efa84e948e4fccca29e69b7f33c439e7}
+      \field{sortinit}{R}
+      \field{labeltitle}{Discharge of Contract by Breach}
+      \field{journaltitle}{LQR}
+      \field{title}{Discharge of Contract by Breach}
+      \field{volume}{97}
+      \field{year}{1981}
+      \field{pages}{541}
+    \endentry
     \entry{roxborough}{jurisdiction}{}
       \field{sortinit}{R}
       \field{labeltitle}{Roxborough}
@@ -483,6 +878,28 @@
       \field{pages}{516}
       \keyw{au}
     \endentry
+    \entry{ryerson77}{jurisdiction}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Ryerson v Brown}
+      \true{singletitle}
+      \field{journaltitle}{Mich}
+      \field{title}{Ryerson v Brown}
+      \field{volume}{35}
+      \field{year}{1877}
+      \field{pages}{333}
+      \keyw{us}
+    \endentry
+    \entry{sadler59}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Sadler v Langham}
+      \true{singletitle}
+      \field{journaltitle}{Ala}
+      \field{title}{Sadler v Langham}
+      \field{volume}{34}
+      \field{year}{1859}
+      \field{pages}{311}
+      \keyw{us}
+    \endentry
     \entry{sga}{legislation}{}
       \field{sortinit}{S}
       \field{labeltitle}{Sale of Goods Act}
@@ -492,6 +909,23 @@
       \field{title}{Sale of Goods Act}
       \field{year}{1979}
       \keyw{en}
+    \endentry
+    \entry{benedettisc}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {SC}%
+      }
+      \field{sortinit}{S}
+      \field{labeltitle}{Benedetti \textup{(SC)}}
+      \true{singletitle}
+      \field{journaltitle}{WLR}
+      \field{number}{[2013] UKSC 50}
+      \field{pagination}{[]}
+      \field{shorttitle}{Benedetti \textup{(SC)}}
+      \field{title}{Benedetti v Sawiris}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{351}
+      \keyw{gb}
     \endentry
     \entry{deglman}{jurisdiction}{}
       \list{institution}{1}{%
@@ -507,6 +941,57 @@
       \field{year}{1954}
       \field{pages}{758}
       \keyw{ca}
+    \endentry
+    \entry{scudder32}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Scudder v Trenton Delaware Falls Co}
+      \true{singletitle}
+      \field{journaltitle}{NJ Eq}
+      \field{title}{Scudder v Trenton Delaware Falls Co}
+      \field{volume}{1}
+      \field{year}{1832}
+      \field{pages}{694}
+      \keyw{us}
+    \endentry
+    \entry{somin07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
+      \true{singletitle}
+      \field{abstract}{The Supreme Court’s controversial decision in Kelo v. City of New London upheld the condemnation of private property for purposes of economic development. This Article argues that Kelo was wrongly decided and that courts should forbid economic development takings. Part I analyzes the flaws of economic development takings generally. Such condemnations allow politically powerful interest groups to capture the condemnation process for the purpose of enriching themselves at the expense of the poor and politically weak. This Part also shows that the need to eliminate holdout problems that could block desirable assembly projects cannot justify permitting economic development takings. In most cases, private developers can prevent holdouts by such noncoercive methods as assembling property in secret and adopting precommitment strategies that prevent holdouts from using their bargaining power. Part {II} considers the major alternatives to a categorical ban. While these proposals are not without merit, none can prevent eminent domain abuse as effectively as forbidding the economic development rationale altogether. In Part {III}, I consider the Kelo case itself. In advocating broad deference to local governments on public use issues, the Kelo majority unfortunately ignored the serious defects in the political processes that control economic development takings. The Court’s analysis of history and precedent also has significant weaknesses. Nonetheless, Kelo actually represents a modest improvement on the Court’s previous public use decisions, by holding out the possibility of at least slightly greater judicial scrutiny. Part {III} also provides a very preliminary assessment of the political backlash against Kelo, showing that much of the proposed anti-Kelo legislation provides little or no real protection for property owners. Part {IV} strikes an additional note of caution, showing that even a categorical ban on economic development takings is not a comprehensive solution to the underlying problem of eminent domain abuse. A ban on economic development takings can potentially be circumvented in several ways, most notably because such bans still permit condemnations to alleviate blight. Courts in many states have already defined blight so broadly that the definition could encompass virtually any property.}
+      \field{journaltitle}{Supreme Court Economic Review}
+      \field{number}{1}
+      \field{title}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
+      \field{volume}{15}
+      \field{year}{2007}
+      \field{pages}{pages}
+    \endentry
+    \entry{stevens}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {OUP}%
+      }
+      \strng{namehash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+      \strng{fullhash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Torts and Rights}
+      \field{title}{Torts and Rights}
+      \field{year}{2007}
     \endentry
     \entry{stevens08}{inbook}{}
       \name{labelname}{1}{}{%
@@ -533,22 +1018,19 @@
       \field{title}{Is There a Law of Unjust Enrichment?}
       \field{year}{2008}
     \endentry
-    \entry{stevens}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {OUP}%
-      }
-      \strng{namehash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
-      \strng{fullhash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
+    \entry{stowell14}{jurisdiction}{}
       \field{sortinit}{S}
-      \field{labeltitle}{Torts and Rights}
-      \field{title}{Torts and Rights}
-      \field{year}{2007}
+      \field{labeltitle}{Stowell v Flagg}
+      \true{singletitle}
+      \field{journaltitle}{Mass}
+      \field{title}{Stowell v Flagg}
+      \field{volume}{11}
+      \field{year}{1814}
+      \field{pages}{364}
+      \verb{eprint}
+      \verb WL 1038
+      \endverb
+      \keyw{us}
     \endentry
     \entry{bocardo10}{jurisdiction}{year-essential=true}
       \list{institution}{1}{%
@@ -562,6 +1044,55 @@
       \field{volume}{35}
       \field{year}{2010}
       \keyw{gb}
+    \endentry
+    \entry{underkuffle06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e7926a10cd80feca235dfec19c6e7f1}{Underkuffler}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e7926a10cd80feca235dfec19c6e7f1}{Underkuffler}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9e7926a10cd80feca235dfec19c6e7f1}
+      \strng{fullhash}{9e7926a10cd80feca235dfec19c6e7f1}
+      \field{sortinit}{U}
+      \field{labeltitle}{Kelo's moral failure}
+      \true{singletitle}
+      \field{journaltitle}{William \& Mary Bill of Rights Journal}
+      \field{number}{2}
+      \field{title}{Kelo's moral failure}
+      \field{volume}{15}
+      \field{year}{2006}
+      \field{pages}{377\bibrangedash 388}
+    \endentry
+    \entry{vanhorne95}{jurisdiction}{}
+      \field{sortinit}{V}
+      \field{labeltitle}{Vanhorne's Lessee}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Vanhorne's Lessee}
+      \field{title}{Vanhorne's Lessee v Dorrance}
+      \field{volume}{2}
+      \field{year}{1795}
+      \field{pages}{304}
+      \keyw{us}
+    \endentry
+    \entry{walsh10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=31586cfc881c9bde46179bbbb084ae20}{Walsh}{W\bibinitperiod}{Rachael}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=31586cfc881c9bde46179bbbb084ae20}{Walsh}{W\bibinitperiod}{Rachael}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{31586cfc881c9bde46179bbbb084ae20}
+      \strng{fullhash}{31586cfc881c9bde46179bbbb084ae20}
+      \field{sortinit}{W}
+      \field{labeltitle}{{"The} Principles of Social Justice" and the Compulsory Acquisition of Private Property for Redevelopment in the United States and Ireland}
+      \true{singletitle}
+      \field{journaltitle}{Dublin University Law Journal}
+      \field{title}{{"The} Principles of Social Justice" and the Compulsory Acquisition of Private Property for Redevelopment in the United States and Ireland}
+      \field{volume}{32}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 24}
     \endentry
   \endsortlist
 \endrefsection
