@@ -92,6 +92,17 @@
       \field{title}{Commentaries on the Laws of England: A Facsimile of the First Edition of 1765--1769}
       \field{year}{1979}
     \endentry
+    \entry{board91}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Board of Health of Portage Tp v Van Hoesen}
+      \true{singletitle}
+      \field{journaltitle}{Mich}
+      \field{title}{Board of Health of Portage Tp v Van Hoesen}
+      \field{volume}{87}
+      \field{year}{1891}
+      \field{pages}{533}
+      \keyw{us}
+    \endentry
     \entry{2009}{article}{}
       \name{labelname}{1}{}{%
         {{hash=cd946c851bf4cb209262288ce74ad6a9}{Boone}{B\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
@@ -157,6 +168,28 @@
       \field{volume}{3}
       \field{year}{1798}
       \field{pages}{386}
+      \keyw{us}
+    \endentry
+    \entry{cincinnatti96}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Cincinnati, H \& DR Co v Village of Bowling Green}
+      \true{singletitle}
+      \field{journaltitle}{Ohio St}
+      \field{title}{Cincinnati, H \& DR Co v Village of Bowling Green}
+      \field{volume}{57}
+      \field{year}{1896}
+      \field{pages}{336}
+      \keyw{us}
+    \endentry
+    \entry{coates87}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Coates v Campbell}
+      \true{singletitle}
+      \field{journaltitle}{Minn}
+      \field{title}{Coates v Campbell}
+      \field{volume}{37}
+      \field{year}{1887}
+      \field{pages}{498}
       \keyw{us}
     \endentry
     \entry{cohen06}{article}{}
@@ -400,6 +433,16 @@
       \field{year}{1802}
       \field{pages}{7}
     \endentry
+    \entry{fallsburg03}{jurisdiction}{}
+      \field{sortinit}{F}
+      \field{labeltitle}{Fallsburg Power \& Mfg Co v Alexander}
+      \true{singletitle}
+      \field{journaltitle}{Va}
+      \field{title}{Fallsburg Power \& Mfg Co v Alexander}
+      \field{volume}{101}
+      \field{year}{1903}
+      \field{pages}{98}
+    \endentry
     \entry{gaylord03}{jurisdiction}{}
       \field{sortinit}{G}
       \field{labeltitle}{Gaylord v Sanitary Dist of Chicago}
@@ -411,14 +454,14 @@
       \field{pages}{522}
       \keyw{us}
     \endentry
-    \entry{hazen83}{jurisdiction}{}
+    \entry{hazen53}{jurisdiction}{}
       \field{sortinit}{H}
       \field{labeltitle}{Hazen v Essex Co}
       \true{singletitle}
       \field{journaltitle}{Mass}
       \field{title}{Hazen v Essex Co}
       \field{volume}{66}
-      \field{year}{1883}
+      \field{year}{1853}
       \field{pages}{475}
       \keyw{us}
     \endentry
@@ -636,9 +679,10 @@
       \field{sortinit}{K}
       \field{labeltitle}{Commentaries on American law}
       \true{singletitle}
-      \field{number}{2}
+      \field{edition}{1}
       \field{series}{Commentaries on American Law}
       \field{title}{Commentaries on American law}
+      \field{volume}{2}
       \field{year}{1827}
     \endentry
     \entry{frustrated}{legislation}{}
@@ -687,6 +731,26 @@
       \field{volume}{107}
       \field{year}{2007}
       \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{lewis09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e8af8dc222af46964d264585bfad8a58}{Lewis}{L\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e8af8dc222af46964d264585bfad8a58}{Lewis}{L\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Callaghan \& Company}%
+      }
+      \strng{namehash}{e8af8dc222af46964d264585bfad8a58}
+      \strng{fullhash}{e8af8dc222af46964d264585bfad8a58}
+      \field{sortinit}{L}
+      \field{labeltitle}{A treatise on the law of eminent domain in the United States}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{A treatise on the law of eminent domain in the United States}
+      \field{volume}{1}
+      \field{year}{1909}
     \endentry
     \entry{madison79}{book}{}
       \name{labelname}{1}{}{%
@@ -768,6 +832,12 @@
       \field{year}{1916}
       \field{pages}{30}
       \keyw{us}
+    \endentry
+    \entry{nevada}{legislation}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{N Const Art 1 § 8}
+      \true{singletitle}
+      \field{title}{N Const Art 1 § 8}
     \endentry
     \entry{nichols40}{article}{}
       \name{labelname}{1}{}{%
@@ -864,6 +934,17 @@
       \field{volume}{97}
       \field{year}{1981}
       \field{pages}{541}
+    \endentry
+    \entry{rockingham04}{jurisdiction}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Rockingham County Light \& Power Co v Hobbs}
+      \true{singletitle}
+      \field{journaltitle}{NH}
+      \field{title}{Rockingham County Light \& Power Co v Hobbs}
+      \field{volume}{72}
+      \field{year}{1904}
+      \field{pages}{531}
+      \keyw{us}
     \endentry
     \entry{roxborough}{jurisdiction}{}
       \field{sortinit}{R}
@@ -1032,6 +1113,27 @@
       \endverb
       \keyw{us}
     \endentry
+    \entry{yale49}{article}{}
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {The Yale Law Journal Company, Inc}%
+      }
+      \field{sortinit}{T}
+      \field{labeltitle}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
+      \true{singletitle}
+      \field{issn}{00440094}
+      \field{journaltitle}{The Yale Law Journal}
+      \field{number}{4}
+      \field{title}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
+      \field{volume}{58}
+      \field{year}{1949}
+      \field{pages}{pages}
+      \verb{url}
+      \verb http://www.jstor.org/stable/793084
+      \endverb
+    \endentry
     \entry{bocardo10}{jurisdiction}{year-essential=true}
       \list{institution}{1}{%
         {UKSC}%
@@ -1074,6 +1176,17 @@
       \field{volume}{2}
       \field{year}{1795}
       \field{pages}{304}
+      \keyw{us}
+    \endentry
+    \entry{varner83}{jurisdiction}{}
+      \field{sortinit}{V}
+      \field{labeltitle}{Varner v Martin}
+      \true{singletitle}
+      \field{journaltitle}{WVa}
+      \field{title}{Varner v Martin}
+      \field{volume}{21}
+      \field{year}{1883}
+      \field{pages}{534}
       \keyw{us}
     \endentry
     \entry{walsh10}{article}{}

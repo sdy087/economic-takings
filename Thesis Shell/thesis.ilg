@@ -155,11 +155,17 @@ Scanning input file thesis.idx...
 !! Input index error (file = thesis.idx, line = 77):
    -- Unknown index keyword \indexentry[casesus].
 !! Input index error (file = thesis.idx, line = 78):
-   -- Unknown index keyword \indexentry[trash].
+   -- Unknown index keyword \indexentry[casesus].
 !! Input index error (file = thesis.idx, line = 79):
-   -- Unknown index keyword \indexentry[trash].
+   -- Unknown index keyword \indexentry[casesus].
 !! Input index error (file = thesis.idx, line = 80):
+   -- Unknown index keyword \indexentry[casesus].
+!! Input index error (file = thesis.idx, line = 81):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 82):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 83):
    -- Unknown index keyword \indexentry[casesgb].
-done (0 entries accepted, 80 rejected).
+done (0 entries accepted, 83 rejected).
 Nothing written in thesis.ind.
 Transcript written in thesis.ilg.
