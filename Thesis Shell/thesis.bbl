@@ -56,6 +56,17 @@
       \field{type}{DPhil thesis}
       \field{year}{2008}
     \endentry
+    \entry{barron33}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Barron v City of Baltimore}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Barron v City of Baltimore}
+      \field{volume}{32}
+      \field{year}{1833}
+      \field{pages}{243}
+      \keyw{us}
+    \endentry
     \entry{berger78}{article}{}
       \name{labelname}{1}{}{%
         {{hash=59c6ada3c7ff998d03e76d4d7a3cca66}{Berger}{B\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
@@ -73,6 +84,16 @@
       \field{volume}{57}
       \field{year}{1978}
       \field{pages}{203}
+    \endentry
+    \entry{berman54}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Berman v Parker}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Berman v Parker}
+      \field{volume}{348}
+      \field{pages}{26}
+      \keyw{us}
     \endentry
     \entry{blackstone79}{book}{}
       \name{labelname}{1}{}{%
@@ -170,6 +191,17 @@
       \field{pages}{386}
       \keyw{us}
     \endentry
+    \entry{chicago97}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Chicago, Burlington \& Quincy RR Co v City of Chicago}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Chicago, Burlington \& Quincy RR Co v City of Chicago}
+      \field{volume}{166}
+      \field{year}{1897}
+      \field{pages}{226}
+      \keyw{us}
+    \endentry
     \entry{cincinnatti96}{jurisdiction}{}
       \field{sortinit}{C}
       \field{labeltitle}{Cincinnati, H \& DR Co v Village of Bowling Green}
@@ -179,6 +211,17 @@
       \field{volume}{57}
       \field{year}{1896}
       \field{pages}{336}
+      \keyw{us}
+    \endentry
+    \entry{vester30}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{City of Cincinnati v Vester}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{City of Cincinnati v Vester}
+      \field{volume}{281}
+      \field{year}{1930}
+      \field{pages}{439}
       \keyw{us}
     \endentry
     \entry{coates87}{jurisdiction}{}
@@ -454,6 +497,17 @@
       \field{pages}{522}
       \keyw{us}
     \endentry
+    \entry{hairston08}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hairston v Danville & W R Co}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Hairston v Danville & W R Co}
+      \field{volume}{208}
+      \field{year}{1908}
+      \field{pages}{598}
+      \keyw{us}
+    \endentry
     \entry{hazen53}{jurisdiction}{}
       \field{sortinit}{H}
       \field{labeltitle}{Hazen v Essex Co}
@@ -685,6 +739,17 @@
       \field{volume}{2}
       \field{year}{1827}
     \endentry
+    \entry{kohl75}{jurisdiction}{}
+      \field{sortinit}{K}
+      \field{labeltitle}{Kohl v United States}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Kohl v United States}
+      \field{volume}{91}
+      \field{year}{1875}
+      \field{pages}{367}
+      \keyw{us}
+    \endentry
     \entry{frustrated}{legislation}{}
       \field{sortinit}{L}
       \field{labeltitle}{Law Reform (Frustrated Contracts) Act}
@@ -773,6 +838,17 @@
       \true{singletitle}
       \field{title}{The papers of James Madison, vol. 12, 2 March 1789--20 January 1790 and supplement 24 October 1775--24 January 1789}
       \field{year}{1979}
+    \endentry
+    \entry{madisonville05}{jurisdiction}{}
+      \field{sortinit}{M}
+      \field{labeltitle}{Madisonville Traction Co v St Bernard Mining Co}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Madisonville Traction Co v St Bernard Mining Co}
+      \field{volume}{196}
+      \field{year}{1905}
+      \field{pages}{239}
+      \keyw{us}
     \endentry
     \entry{meidinger80}{article}{}
       \name{labelname}{1}{}{%
@@ -882,6 +958,16 @@
       \field{booktitle}{Landmark Cases in the Law of Contract}
       \field{title}{\emph{Hongkong Fir Shipping Co v Kawasaki Kisen Kaisha Ltd, The Hongkong Fir} (1961)}
       \field{year}{2008}
+    \endentry
+    \entry{dominion54}{legislation}{}
+      \field{sortinit}{O}
+      \field{labeltitle}{Old Dominion Land Co v US}
+      \true{singletitle}
+      \field{title}{Old Dominion Land Co v US}
+      \field{volume}{269}
+      \field{year}{1925}
+      \field{pages}{55}
+      \keyw{us}
     \endentry
     \entry{opeskin}{article}{}
       \name{labelname}{1}{}{%
@@ -1134,6 +1220,27 @@
       \verb http://www.jstor.org/stable/793084
       \endverb
     \endentry
+    \entry{trombley71}{legislation}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Trombley v Humphery}
+      \true{singletitle}
+      \field{title}{Trombley v Humphery}
+      \field{volume}{23}
+      \field{year}{1871}
+      \field{pages}{471}
+      \keyw{us}
+    \endentry
+    \entry{welch46}{jurisdiction}{}
+      \field{sortinit}{U}
+      \field{labeltitle}{U S ex rel Tenn Valley Authority v Welch}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{U S ex rel Tenn Valley Authority v Welch}
+      \field{volume}{327}
+      \field{year}{1946}
+      \field{pages}{546}
+      \keyw{us}
+    \endentry
     \entry{bocardo10}{jurisdiction}{year-essential=true}
       \list{institution}{1}{%
         {UKSC}%
@@ -1165,6 +1272,17 @@
       \field{volume}{15}
       \field{year}{2006}
       \field{pages}{377\bibrangedash 388}
+    \endentry
+    \entry{gettysburg96}{jurisdiction}{}
+      \field{sortinit}{U}
+      \field{labeltitle}{US v Gettysburg Electric R Co}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{US v Gettysburg Electric R Co}
+      \field{volume}{160}
+      \field{year}{1896}
+      \field{pages}{668}
+      \keyw{us}
     \endentry
     \entry{vanhorne95}{jurisdiction}{}
       \field{sortinit}{V}
