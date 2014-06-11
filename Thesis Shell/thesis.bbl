@@ -499,13 +499,25 @@
     \endentry
     \entry{hairston08}{jurisdiction}{}
       \field{sortinit}{H}
-      \field{labeltitle}{Hairston v Danville & W R Co}
+      \field{labeltitle}{Hairston v Danville \& W R Co}
       \true{singletitle}
       \field{journaltitle}{US}
-      \field{title}{Hairston v Danville & W R Co}
+      \field{title}{Hairston v Danville \& W R Co}
       \field{volume}{208}
       \field{year}{1908}
       \field{pages}{598}
+      \keyw{us}
+    \endentry
+    \entry{midkiff84}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Midkiff}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Midkiff}
+      \field{title}{Hawaii Housing Authority v Midkiff}
+      \field{volume}{467}
+      \field{year}{1984}
+      \field{pages}{229}
       \keyw{us}
     \endentry
     \entry{hazen53}{jurisdiction}{}
