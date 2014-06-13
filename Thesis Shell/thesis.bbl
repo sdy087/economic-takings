@@ -67,6 +67,83 @@
       \field{pages}{243}
       \keyw{us}
     \endentry
+    \entry{baude13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=542e19b0f3b745b67461b319242eb572}{Baude}{B\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=542e19b0f3b745b67461b319242eb572}{Baude}{B\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{542e19b0f3b745b67461b319242eb572}
+      \strng{fullhash}{542e19b0f3b745b67461b319242eb572}
+      \field{sortinit}{B}
+      \field{labeltitle}{Rethinking the Federal Eminent Domain Power}
+      \true{singletitle}
+      \field{journaltitle}{Yale L. J.}
+      \field{title}{Rethinking the Federal Eminent Domain Power}
+      \field{volume}{122}
+      \field{year}{2013}
+      \field{pages}{1785}
+    \endentry
+    \entry{bell07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=52f99231bc9680ce09cea115243fd6ac}{Parchomovsky}{P\bibinitperiod}{Gideon}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=52f99231bc9680ce09cea115243fd6ac}{Parchomovsky}{P\bibinitperiod}{Gideon}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{892cfae6487768a65d695f6cb1d40488}
+      \strng{fullhash}{892cfae6487768a65d695f6cb1d40488}
+      \field{sortinit}{B}
+      \field{labeltitle}{Taking Compensation Private}
+      \field{abstract}{In light of the expansive interpretation of the "public use" requirement, the payment of "just compensation" remains the only meaningful limit on the government's eminent domain power and, correspondingly, the only safeguard of private property owners' rights against abusive takings. Yet, the current compensation regime is suboptimal. While both efficiency and fairness require paying full compensation for seizures by eminent domain, current law limits the compensation to market value. Despite the virtual consensus about the inadequacy of market compensation, courts adhere to it for a purely practical reason: there is no way to measure the true subjective value of property to its owner. Subjective value is neither observable nor verifiable to third parties and courts cannot rely upon owners' reports of the value they attach to their properties. To date, the challenge of screening truthful from exaggerated evaluation has proven insurmountable. This Article solves the undercompensation conundrum. It offers a novel self-assessment mechanism that enables the payment of full compensation at subjective value when private property is taken by eminent domain. Under the proposed mechanism, property owners would get to set the price of the property designated for condemnation. The government could then either take the property at the designated price or abstain, leaving the property subject to two new proposed restrictions. First, for the life of the owner, the property could not be sold for less than the self-assessed price, adjusted on the basis of the local housing price index. Second, the self-assessed price--discounted to take account of the peculiarities of property tax assessments--would become the new benchmark for the owner's property tax liability. This Article shows that under most conditions, these restrictions will induce honest reporting by owners while reducing the transaction costs created by the compensation process. The result is a dramatically more efficient law of eminent domain that is also far more respectful of private property rights.}
+      \field{journaltitle}{Stanford Law Review}
+      \field{number}{4}
+      \field{title}{Taking Compensation Private}
+      \field{volume}{59}
+      \field{year}{2007}
+      \field{pages}{871\bibrangedash 906}
+    \endentry
+    \entry{bell10}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=52f99231bc9680ce09cea115243fd6ac}{Parchomovsky}{P\bibinitperiod}{Gideon}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=52f99231bc9680ce09cea115243fd6ac}{Parchomovsky}{P\bibinitperiod}{Gideon}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{892cfae6487768a65d695f6cb1d40488}
+      \strng{fullhash}{892cfae6487768a65d695f6cb1d40488}
+      \field{sortinit}{B}
+      \field{labeltitle}{The hidden function of takings compensation}
+      \field{journaltitle}{Virginia Law Review}
+      \field{number}{7}
+      \field{title}{The hidden function of takings compensation}
+      \field{volume}{96}
+      \field{year}{2010}
+      \field{pages}{1673\bibrangedash 1725}
+    \endentry
+    \entry{benedict09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d043e92b9a300be6ead984b4c0d6eb96}{Benedict}{B\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d043e92b9a300be6ead984b4c0d6eb96}{Benedict}{B\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Grand Central Publishing}%
+      }
+      \strng{namehash}{d043e92b9a300be6ead984b4c0d6eb96}
+      \strng{fullhash}{d043e92b9a300be6ead984b4c0d6eb96}
+      \field{sortinit}{B}
+      \field{labeltitle}{Little Pink House: A True Story of Defiance and Courage}
+      \true{singletitle}
+      \field{title}{Little Pink House: A True Story of Defiance and Courage}
+      \field{year}{2009}
+    \endentry
     \entry{berger78}{article}{}
       \name{labelname}{1}{}{%
         {{hash=59c6ada3c7ff998d03e76d4d7a3cca66}{Berger}{B\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
@@ -165,6 +242,23 @@
       \field{pages}{467}
       \keyw{us}
     \endentry
+    \entry{brannan08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=60c5f91359af417eeb0b886caf7602f9}{Brennan}{B\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=60c5f91359af417eeb0b886caf7602f9}{Brennan}{B\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60c5f91359af417eeb0b886caf7602f9}
+      \strng{fullhash}{60c5f91359af417eeb0b886caf7602f9}
+      \field{sortinit}{B}
+      \true{singletitle}
+      \field{journaltitle}{Indigenous Law Bulletin}
+      \field{number}{6}
+      \field{volume}{7}
+      \field{year}{2008}
+      \field{pages}{2}
+    \endentry
     \entry{boomer}{jurisdiction}{}
       \list{institution}{1}{%
         {Cal Dist Ct App}%
@@ -190,6 +284,46 @@
       \field{year}{1798}
       \field{pages}{386}
       \keyw{us}
+    \endentry
+    \entry{carpenter09}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4eb3e1f8ac30412c5238cfe63a03d15e}{Carpenter}{C\bibinitperiod}{Dick\bibnamedelima M\bbxinitsep}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=520fb2902998c116756f5d4ac2946175}{Ross}{R\bibinitperiod}{John\bibnamedelima K\bbxinitsep}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4eb3e1f8ac30412c5238cfe63a03d15e}{Carpenter}{C\bibinitperiod}{Dick\bibnamedelima M\bbxinitsep}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=520fb2902998c116756f5d4ac2946175}{Ross}{R\bibinitperiod}{John\bibnamedelima K\bbxinitsep}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8fb203eae02ab1ff6b37827dc161c263}
+      \strng{fullhash}{8fb203eae02ab1ff6b37827dc161c263}
+      \field{sortinit}{C}
+      \field{labeltitle}{Testing O’Connor and Thomas: Does the Use of Eminent Domain Target Poor and Minority Communities?}
+      \true{singletitle}
+      \field{abstract}{In dissenting from the US Supreme Court’s 2005 Kelo decision upholding the use of eminent domain for private-to-private transfers of property, Justices O’Connor and Thomas asserted, based on the history of urban renewal, that eminent domain for private development would disproportionately hurt poor and minority communities. This study uses US census data and a sample of redevelopment project areas using or identified for the use of eminent domain to test the assertions of Justices O’Connor and Thomas. Results reveal that such project areas are, in fact, disproportionately populated by those who are poor, minority and less educated.}
+      \field{journaltitle}{Urban Studies}
+      \field{number}{11}
+      \field{title}{Testing O’Connor and Thomas: Does the Use of Eminent Domain Target Poor and Minority Communities?}
+      \field{volume}{46}
+      \field{year}{2009}
+      \field{pages}{2447\bibrangedash 2461}
+    \endentry
+    \entry{cavazos11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=40e8c779e793999e0cc135a2e73786da}{Cavazos}{C\bibinitperiod}{Ann\bibnamedelima Marie}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=40e8c779e793999e0cc135a2e73786da}{Cavazos}{C\bibinitperiod}{Ann\bibnamedelima Marie}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{40e8c779e793999e0cc135a2e73786da}
+      \strng{fullhash}{40e8c779e793999e0cc135a2e73786da}
+      \field{sortinit}{C}
+      \field{labeltitle}{Beware of Wooden Nickels: The Paradox of Florida's Legislative Overreaction in the Wake of Kelo}
+      \true{singletitle}
+      \field{journaltitle}{University of Pennsylvania Journal of Business Law}
+      \field{title}{Beware of Wooden Nickels: The Paradox of Florida's Legislative Overreaction in the Wake of Kelo}
+      \field{volume}{13}
+      \field{year}{2011}
+      \field{pages}{685}
     \endentry
     \entry{chicago97}{jurisdiction}{}
       \field{sortinit}{C}
@@ -222,6 +356,17 @@
       \field{volume}{281}
       \field{year}{1930}
       \field{pages}{439}
+      \keyw{us}
+    \endentry
+    \entry{detroit89}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{City of Detroit v Vavro}
+      \true{singletitle}
+      \field{journaltitle}{MichApp}
+      \field{title}{City of Detroit v Vavro}
+      \field{volume}{177}
+      \field{year}{1989}
+      \field{pages}{682}
       \keyw{us}
     \endentry
     \entry{coates87}{jurisdiction}{}
@@ -268,6 +413,16 @@
       \field{volume}{46}
       \field{year}{2008}
       \field{pages}{375\bibrangedash 419}
+    \endentry
+    \entry{ackerman06}{book}{}
+      \list{publisher}{1}{%
+        {American Bar Association}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Current Condemnation Law: Takings, Compensation and Benefits}
+      \true{singletitle}
+      \field{title}{Current Condemnation Law: Takings, Compensation and Benefits}
+      \field{year}{2006}
     \endentry
     \entry{libcom01}{article}{}
       \name{labelname}{2}{}{%
@@ -327,6 +482,30 @@
       \field{title}{Defences and Defeaters}
       \field{type}{DPhil thesis}
       \field{year}{2011}
+    \endentry
+    \entry{eagle08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f0c9c31fc8b005b5ec0610942f543c2b}{Eagle}{E\bibinitperiod}{Steven\bibnamedelima J\bbxinitsep}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4774beeb7d3a738727acb4a8c7105179}{Perotti}{P\bibinitperiod}{Lauren\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f0c9c31fc8b005b5ec0610942f543c2b}{Eagle}{E\bibinitperiod}{Steven\bibnamedelima J\bbxinitsep}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4774beeb7d3a738727acb4a8c7105179}{Perotti}{P\bibinitperiod}{Lauren\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Bar Association}%
+      }
+      \strng{namehash}{401be6e386129f73dcacf032f8fb6ecb}
+      \strng{fullhash}{401be6e386129f73dcacf032f8fb6ecb}
+      \field{sortinit}{E}
+      \field{labeltitle}{Coping with Kelo: A potpourri of legislative and judicial responses}
+      \true{singletitle}
+      \field{journaltitle}{Real Property, Probate and Trust Journal}
+      \field{number}{4}
+      \field{title}{Coping with Kelo: A potpourri of legislative and judicial responses}
+      \field{volume}{42}
+      \field{year}{2008}
+      \field{pages}{799\bibrangedash 850}
     \endentry
     \entry{sporrong82}{jurisdiction}{}
       \list{institution}{1}{%
@@ -486,6 +665,44 @@
       \field{year}{1903}
       \field{pages}{98}
     \endentry
+    \entry{fennell04}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=72209f6dabe6e3a0054adfe6328ae055}{Fennell}{F\bibinitperiod}{Lee\bibnamedelima Anne}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=72209f6dabe6e3a0054adfe6328ae055}{Fennell}{F\bibinitperiod}{Lee\bibnamedelima Anne}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{72209f6dabe6e3a0054adfe6328ae055}
+      \strng{fullhash}{72209f6dabe6e3a0054adfe6328ae055}
+      \field{sortinit}{F}
+      \field{labeltitle}{Taking Eminent Domain Apart}
+      \true{singletitle}
+      \field{journaltitle}{Mich. St. L. Rev.}
+      \field{title}{Taking Eminent Domain Apart}
+      \field{volume}{2004}
+      \field{year}{2004}
+      \field{pages}{957}
+    \endentry
+    \entry{garnett06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a3ca50a1e27f8fc872d45d5af0624a31}{Garnett}{G\bibinitperiod}{Nicole\bibnamedelima Stelle}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a3ca50a1e27f8fc872d45d5af0624a31}{Garnett}{G\bibinitperiod}{Nicole\bibnamedelima Stelle}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a3ca50a1e27f8fc872d45d5af0624a31}
+      \strng{fullhash}{a3ca50a1e27f8fc872d45d5af0624a31}
+      \field{sortinit}{G}
+      \field{labeltitle}{The Neglected Political Economy of Eminent Domain}
+      \true{singletitle}
+      \field{abstract}{This Article challenges a foundational assumption about eminent domain--namely, that owners are systematically undercompensated because they receive only fair market value for their property. In fact, scholars may have overstated the undercompensation problem because they have focused on the compensation required by the Constitution, rather than on the actual mechanics of the eminent domain process. The Article examines three ways that "Takers" (i.e., nonjudicial actors in the eminent domain process) minimize undercompensation. First, Takers may avoid taking high subjective value properties. (By way of illustration, Professor Garnett discusses evidence that Chicago's freeways were rerouted in the 1950s to avoid urban Catholic churches.) Second, in addition to paying compensation for the condemned property, Takers frequently must pay additional compensation to property owners in the form of "relocation assistance." Third, Takers and property owners may voluntarily settle on above-market compensation during precondemnation negotiations. (As an example, Professor Garnett includes an empirical case study of property acquired, under the threat of eminent domain, for a manufacturing facility in Indiana.) The Article concludes by reflecting upon current efforts to reform eminent domain legislatively. Prominent legal scholars recently have proposed compensation-based reforms as an alternative to constraints on the use of eminent domain. This Article rejects that suggestion, arguing that there are two problems, unique to takings raising "public use" questions, that more money cannot solve: first, high compensation levels may undermine political resistance to questionable projects; second, private takings may generate noninstrumental harms that will persist even as compensation increases.}
+      \field{journaltitle}{Michigan Law Review}
+      \field{number}{1}
+      \field{title}{The Neglected Political Economy of Eminent Domain}
+      \field{volume}{105}
+      \field{year}{2006}
+      \field{pages}{101\bibrangedash 150}
+    \endentry
     \entry{gaylord03}{jurisdiction}{}
       \field{sortinit}{G}
       \field{labeltitle}{Gaylord v Sanitary Dist of Chicago}
@@ -625,6 +842,25 @@
       \field{pages}{61}
       \keyw{gb}
     \endentry
+    \entry{hoppit11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=218eb039ce1152684ae752e354d2a92e}{Hoppit}{H\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=218eb039ce1152684ae752e354d2a92e}{Hoppit}{H\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{218eb039ce1152684ae752e354d2a92e}
+      \strng{fullhash}{218eb039ce1152684ae752e354d2a92e}
+      \field{sortinit}{H}
+      \field{labeltitle}{Compulsion, Compensation and Property Rights in Britain, 1688–1833}
+      \true{singletitle}
+      \field{journaltitle}{Past \& Present}
+      \field{number}{1}
+      \field{title}{Compulsion, Compensation and Property Rights in Britain, 1688–1833}
+      \field{volume}{210}
+      \field{year}{2011}
+      \field{pages}{93\bibrangedash 128}
+    \endentry
     \entry{horwitz73}{article}{}
       \name{labelname}{1}{}{%
         {{hash=ec26f0740a53dcca890ac3179193b111}{Horwitz}{H\bibinitperiod}{Morton\bibnamedelima J\bbxinitsep}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -682,6 +918,27 @@
       \field{volume}{70}
       \field{year}{2010}
       \field{pages}{885\bibrangedash 893}
+    \endentry
+    \entry{jacobs11}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=aa8d1c7db646cb44fc60b94d54777a84}{Jacobs}{J\bibinitperiod}{Harvey\bibnamedelima M\bbxinitsep}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=efba160e9a014ab3af886c22103ee448}{Bassett}{B\bibinitperiod}{Ellen\bibnamedelima M\bbxinitsep}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=aa8d1c7db646cb44fc60b94d54777a84}{Jacobs}{J\bibinitperiod}{Harvey\bibnamedelima M\bbxinitsep}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=efba160e9a014ab3af886c22103ee448}{Bassett}{B\bibinitperiod}{Ellen\bibnamedelima M\bbxinitsep}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a8e4c9ebaaa841f55fb0650612a1e42f}
+      \strng{fullhash}{a8e4c9ebaaa841f55fb0650612a1e42f}
+      \field{sortinit}{J}
+      \field{labeltitle}{All Sound, No Fury? The Impacts of State-Based Kelo Laws}
+      \true{singletitle}
+      \field{journaltitle}{Planning \& Environmental Law}
+      \field{number}{2}
+      \field{title}{All Sound, No Fury? The Impacts of State-Based Kelo Laws}
+      \field{volume}{63}
+      \field{year}{2011}
+      \field{pages}{3\bibrangedash 8}
     \endentry
     \entry{johnson11}{article}{}
       \name{labelname}{1}{}{%
@@ -761,6 +1018,50 @@
       \field{year}{1875}
       \field{pages}{367}
       \keyw{us}
+    \endentry
+    \entry{krier04}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d9cc73b55d8cac16808e7313ba8270a8}{Krier}{K\bibinitperiod}{James\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=89b268505a78a46f9b1bca58ea1bda3f}{Serkin}{S\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d9cc73b55d8cac16808e7313ba8270a8}{Krier}{K\bibinitperiod}{James\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=89b268505a78a46f9b1bca58ea1bda3f}{Serkin}{S\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c774f449a7505fc3ca99438f976db47e}
+      \strng{fullhash}{c774f449a7505fc3ca99438f976db47e}
+      \field{sortinit}{K}
+      \field{labeltitle}{Public Ruses}
+      \true{singletitle}
+      \field{journaltitle}{Mich. St. L. Rev.}
+      \field{title}{Public Ruses}
+      \field{volume}{2004}
+      \field{pages}{859}
+    \endentry
+    \entry{lanza13}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=c9a301ff4c7bd75e0cf75f87c072f26b}{Lanza}{L\bibinitperiod}{Steven\bibnamedelima P\bbxinitsep}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=4771c20d5f01d64c76874642cf4086d0}{Miceli}{M\bibinitperiod}{Thomas\bibnamedelima J\bbxinitsep}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=418047d31721b61f15c1dafc0870eec7}{Sirmans}{S\bibinitperiod}{C\bbxinitsep\bibnamedelima F\bbxinitsep}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2211bd03d56ce78b898c28f6de8f5d33}{Diop}{D\bibinitperiod}{Moussa}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=c9a301ff4c7bd75e0cf75f87c072f26b}{Lanza}{L\bibinitperiod}{Steven\bibnamedelima P\bbxinitsep}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=4771c20d5f01d64c76874642cf4086d0}{Miceli}{M\bibinitperiod}{Thomas\bibnamedelima J\bbxinitsep}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=418047d31721b61f15c1dafc0870eec7}{Sirmans}{S\bibinitperiod}{C\bbxinitsep\bibnamedelima F\bbxinitsep}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2211bd03d56ce78b898c28f6de8f5d33}{Diop}{D\bibinitperiod}{Moussa}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{793f8672445850e3e7f970bb8f7c8eab}
+      \strng{fullhash}{bdca5c94a84c8749bd7bb8bdd2f76b56}
+      \field{sortinit}{L}
+      \field{labeltitle}{The Use of Eminent Domain for Economic Development in the Era of Kelo}
+      \true{singletitle}
+      \field{journaltitle}{Economic Development Quarterly}
+      \field{number}{4}
+      \field{title}{The Use of Eminent Domain for Economic Development in the Era of Kelo}
+      \field{volume}{27}
+      \field{year}{2013}
+      \field{pages}{352\bibrangedash 362}
     \endentry
     \entry{frustrated}{legislation}{}
       \field{sortinit}{L}
@@ -921,6 +1222,24 @@
       \field{pages}{30}
       \keyw{us}
     \endentry
+    \entry{musil12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=71b647372371eb396e828b8c3a6cbf94}{Musil}{M\bibinitperiod}{Thomas\bibnamedelima A\bbxinitsep}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=71b647372371eb396e828b8c3a6cbf94}{Musil}{M\bibinitperiod}{Thomas\bibnamedelima A\bbxinitsep}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{71b647372371eb396e828b8c3a6cbf94}
+      \strng{fullhash}{71b647372371eb396e828b8c3a6cbf94}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Sleeping Giant: Community Benefit Agreements and Urban Development}
+      \true{singletitle}
+      \field{journaltitle}{Urban Lawyer}
+      \field{title}{The Sleeping Giant: Community Benefit Agreements and Urban Development}
+      \field{volume}{44}
+      \field{year}{2012}
+      \field{pages}{827}
+    \endentry
     \entry{nevada}{legislation}{}
       \field{sortinit}{N}
       \field{labeltitle}{N Const Art 1 § 8}
@@ -944,6 +1263,46 @@
       \field{volume}{20}
       \field{year}{1940}
       \field{pages}{615}
+    \endentry
+    \entry{niedt13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c6caf22e3c22b1fa778bfdc00b5d7fcc}{Niedt}{N\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c6caf22e3c22b1fa778bfdc00b5d7fcc}{Niedt}{N\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c6caf22e3c22b1fa778bfdc00b5d7fcc}
+      \strng{fullhash}{c6caf22e3c22b1fa778bfdc00b5d7fcc}
+      \field{sortinit}{N}
+      \field{labeltitle}{The Politics of Eminent Domain: From False Choices to Community Benefits}
+      \true{singletitle}
+      \field{journaltitle}{Urban Geography}
+      \field{number}{8}
+      \field{title}{The Politics of Eminent Domain: From False Choices to Community Benefits}
+      \field{volume}{34}
+      \field{year}{2013}
+      \field{pages}{1047\bibrangedash 1069}
+    \endentry
+    \entry{niemann08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e8047dea82c5a697697d182ab368332f}{Niemann}{N\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=c4f6779ae5191180d5e37120d6b00801}{Shapiro}{S\bibinitperiod}{Perry}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e8047dea82c5a697697d182ab368332f}{Niemann}{N\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=c4f6779ae5191180d5e37120d6b00801}{Shapiro}{S\bibinitperiod}{Perry}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bda747db26eb424d031cc5f379e88777}
+      \strng{fullhash}{bda747db26eb424d031cc5f379e88777}
+      \field{sortinit}{N}
+      \field{labeltitle}{Efficiency and fairness: Compensation for takings}
+      \true{singletitle}
+      \field{journaltitle}{International Review of Law and Economics}
+      \field{number}{3}
+      \field{title}{Efficiency and fairness: Compensation for takings}
+      \field{volume}{28}
+      \field{year}{2008}
+      \field{pages}{157\bibrangedash 165}
     \endentry
     \entry{nolan08}{inbook}{}
       \name{labelname}{1}{}{%
@@ -981,6 +1340,24 @@
       \field{pages}{55}
       \keyw{us}
     \endentry
+    \entry{olejarski13}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=eeaa40d940de6bf2287ee82a42dfc354}{Olejarski}{O\bibinitperiod}{Amanda\bibnamedelima M\bbxinitsep}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=eeaa40d940de6bf2287ee82a42dfc354}{Olejarski}{O\bibinitperiod}{Amanda\bibnamedelima M\bbxinitsep}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{eeaa40d940de6bf2287ee82a42dfc354}
+      \strng{fullhash}{eeaa40d940de6bf2287ee82a42dfc354}
+      \field{sortinit}{O}
+      \field{labeltitle}{Administrative Discretion in Action : A Narrative of Eminent Domain}
+      \true{singletitle}
+      \field{title}{Administrative Discretion in Action : A Narrative of Eminent Domain}
+      \field{year}{2013}
+    \endentry
     \entry{opeskin}{article}{}
       \name{labelname}{1}{}{%
         {{hash=43219f9174a086afbda2871a4171504f}{Opeskin}{O\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
@@ -998,6 +1375,74 @@
       \field{volume}{106}
       \field{year}{1990}
       \field{pages}{293}
+    \endentry
+    \entry{pacione13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=60af775b571266a40ca7bb40d8f64adb}{Pacione}{P\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=60af775b571266a40ca7bb40d8f64adb}{Pacione}{P\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60af775b571266a40ca7bb40d8f64adb}
+      \strng{fullhash}{60af775b571266a40ca7bb40d8f64adb}
+      \field{sortinit}{P}
+      \field{labeltitle}{Private profit, public interest and land use planning -- A conflict interpretation of residential development pressure in Glasgow's rural–urban fringe}
+      \field{abstract}{This longitudinal case study of residential development pressure in a village in Glasgow's urban fringe provides detailed insight into the different perspectives of key public, private and community interest groups, and exemplifies the conflict resolution process in this environment in the context of the new post-2006 planning system in Scotland. The paper is organised into six main parts. In part 1 the major actors in the residential development process are identified with specific attention focused on the house-builder and the local planner. In part 2 the post-2006 development planning and development management process in Scotland is explained in order to establish the legislative and procedural context for the case study. Part 3 provides a review of urban growth n the Glasgow metropolitan region. Part 4 sets the case study in local context by providing representative examples of development pressure and conflict resolution in the District. Part 5 comprises detailed examination of conflict over pressure for residential development in the village of Torrance from 1971 to the present day. This in depth analysis illuminates the main actors, agents and arguments involved in the conflict resolution process; explains the rationale for decisions reached on residential development in the village; and affords insight into contemporary debate over house-building in the metropolitan fringe around Scotland's cities. Finally, some conclusions are presented on the issues of fairness and sustainability in the land use planning system and the on-going conflict between private profit and public interest in the production of the built environment around the edge of Britain's cities.}
+      \field{journaltitle}{Land Use Policy}
+      \field{title}{Private profit, public interest and land use planning -- A conflict interpretation of residential development pressure in Glasgow's rural–urban fringe}
+      \field{volume}{32}
+      \field{year}{2013}
+      \field{pages}{61\bibrangedash 77}
+    \endentry
+    \entry{pacione14}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=60af775b571266a40ca7bb40d8f64adb}{Pacione}{P\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=60af775b571266a40ca7bb40d8f64adb}{Pacione}{P\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{60af775b571266a40ca7bb40d8f64adb}
+      \strng{fullhash}{60af775b571266a40ca7bb40d8f64adb}
+      \field{sortinit}{P}
+      \field{labeltitle}{The power of public participation in local planning in Scotland: the case of conflict over residential development in the metropolitan green belt}
+      \field{journaltitle}{GeoJournal}
+      \field{number}{1}
+      \field{title}{The power of public participation in local planning in Scotland: the case of conflict over residential development in the metropolitan green belt}
+      \field{volume}{79}
+      \field{year}{2014}
+      \field{pages}{31\bibrangedash 57}
+    \endentry
+    \entry{poletown81}{jurisdiction}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Poletown Neighborhood Council v City of Detroit}
+      \true{singletitle}
+      \field{journaltitle}{Mich}
+      \field{title}{Poletown Neighborhood Council v City of Detroit}
+      \field{volume}{410}
+      \field{year}{1981}
+      \field{pages}{616}
+      \keyw{us}
+    \endentry
+    \entry{rave13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=36406307be8b508e726c973df0551b31}{Rave}{R\bibinitperiod}{D\bbxinitsep\bibnamedelima Theodore}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=36406307be8b508e726c973df0551b31}{Rave}{R\bibinitperiod}{D\bbxinitsep\bibnamedelima Theodore}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{36406307be8b508e726c973df0551b31}
+      \strng{fullhash}{36406307be8b508e726c973df0551b31}
+      \field{sortinit}{R}
+      \field{labeltitle}{Governing the Anticommons in Aggregate Litigation}
+      \true{singletitle}
+      \field{journaltitle}{Vand. L. Rev.}
+      \field{title}{Governing the Anticommons in Aggregate Litigation}
+      \field{volume}{66}
+      \field{year}{2013}
+      \field{pages}{1219}
     \endentry
     \entry{reynolds63}{article}{}
       \name{labelname}{1}{}{%
@@ -1032,6 +1477,24 @@
       \field{volume}{97}
       \field{year}{1981}
       \field{pages}{541}
+    \endentry
+    \entry{robson12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2d8cf05475ad0b39613dfb1dc6bacb86}{Robson}{R\bibinitperiod}{Gregory\bibnamedelima J\bbxinitsep}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2d8cf05475ad0b39613dfb1dc6bacb86}{Robson}{R\bibinitperiod}{Gregory\bibnamedelima J\bbxinitsep}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2d8cf05475ad0b39613dfb1dc6bacb86}
+      \strng{fullhash}{2d8cf05475ad0b39613dfb1dc6bacb86}
+      \field{sortinit}{R}
+      \field{labeltitle}{Kelo v. City of New London: Its Ironic Impact on Takings Authority}
+      \true{singletitle}
+      \field{journaltitle}{Urban Lawyer}
+      \field{title}{Kelo v. City of New London: Its Ironic Impact on Takings Authority}
+      \field{volume}{44}
+      \field{year}{2012}
+      \field{pages}{865}
     \endentry
     \entry{rockingham04}{jurisdiction}{}
       \field{sortinit}{R}
@@ -1132,6 +1595,43 @@
       \field{pages}{694}
       \keyw{us}
     \endentry
+    \entry{sharfstein2012}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0420304d207c5c03ebcf5cf855b2b482}{Sharfstein}{S\bibinitperiod}{Daniel\bibnamedelima J\bbxinitsep}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0420304d207c5c03ebcf5cf855b2b482}{Sharfstein}{S\bibinitperiod}{Daniel\bibnamedelima J\bbxinitsep}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0420304d207c5c03ebcf5cf855b2b482}
+      \strng{fullhash}{0420304d207c5c03ebcf5cf855b2b482}
+      \field{sortinit}{S}
+      \field{labeltitle}{Atrocity, Entitlement, and Personhood in Property}
+      \true{singletitle}
+      \field{journaltitle}{Virginia Law Review}
+      \field{number}{3}
+      \field{title}{Atrocity, Entitlement, and Personhood in Property}
+      \field{volume}{98}
+      \field{year}{2012}
+      \field{pages}{635\bibrangedash 690}
+    \endentry
+    \entry{singer14}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9d340a1044dbf24f4cf48adf26fe72f6}{Singer}{S\bibinitperiod}{Joseph\bibnamedelima William}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9d340a1044dbf24f4cf48adf26fe72f6}{Singer}{S\bibinitperiod}{Joseph\bibnamedelima William}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9d340a1044dbf24f4cf48adf26fe72f6}
+      \strng{fullhash}{9d340a1044dbf24f4cf48adf26fe72f6}
+      \field{sortinit}{S}
+      \field{labeltitle}{Property as the Law of Democracy}
+      \true{singletitle}
+      \field{journaltitle}{Duke L.J.}
+      \field{title}{Property as the Law of Democracy}
+      \field{volume}{63}
+      \field{year}{2014}
+      \field{pages}{1287}
+    \endentry
     \entry{somin07}{article}{}
       \name{labelname}{1}{}{%
         {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
@@ -1146,7 +1646,6 @@
       \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
       \field{sortinit}{S}
       \field{labeltitle}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
-      \true{singletitle}
       \field{abstract}{The Supreme Court’s controversial decision in Kelo v. City of New London upheld the condemnation of private property for purposes of economic development. This Article argues that Kelo was wrongly decided and that courts should forbid economic development takings. Part I analyzes the flaws of economic development takings generally. Such condemnations allow politically powerful interest groups to capture the condemnation process for the purpose of enriching themselves at the expense of the poor and politically weak. This Part also shows that the need to eliminate holdout problems that could block desirable assembly projects cannot justify permitting economic development takings. In most cases, private developers can prevent holdouts by such noncoercive methods as assembling property in secret and adopting precommitment strategies that prevent holdouts from using their bargaining power. Part {II} considers the major alternatives to a categorical ban. While these proposals are not without merit, none can prevent eminent domain abuse as effectively as forbidding the economic development rationale altogether. In Part {III}, I consider the Kelo case itself. In advocating broad deference to local governments on public use issues, the Kelo majority unfortunately ignored the serious defects in the political processes that control economic development takings. The Court’s analysis of history and precedent also has significant weaknesses. Nonetheless, Kelo actually represents a modest improvement on the Court’s previous public use decisions, by holding out the possibility of at least slightly greater judicial scrutiny. Part {III} also provides a very preliminary assessment of the political backlash against Kelo, showing that much of the proposed anti-Kelo legislation provides little or no real protection for property owners. Part {IV} strikes an additional note of caution, showing that even a categorical ban on economic development takings is not a comprehensive solution to the underlying problem of eminent domain abuse. A ban on economic development takings can potentially be circumvented in several ways, most notably because such bans still permit condemnations to alleviate blight. Courts in many states have already defined blight so broadly that the definition could encompass virtually any property.}
       \field{journaltitle}{Supreme Court Economic Review}
       \field{number}{1}
@@ -1154,6 +1653,43 @@
       \field{volume}{15}
       \field{year}{2007}
       \field{pages}{pages}
+    \endentry
+    \entry{somin09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{journaltitle}{Minn. L. Rev.}
+      \field{title}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{volume}{93}
+      \field{year}{2009}
+      \field{pages}{2100}
+    \endentry
+    \entry{stark11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b139825792e94f14fc3c8b2b50b08a93}{Stark}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b139825792e94f14fc3c8b2b50b08a93}{Stark}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b139825792e94f14fc3c8b2b50b08a93}
+      \strng{fullhash}{b139825792e94f14fc3c8b2b50b08a93}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Distinction between Public, Nonprofit, and For-Profit: Revisiting the ``Core Legal'' Approach}
+      \true{singletitle}
+      \field{abstract}{In studying the characteristics that determine the public, nonprofit, and/or for-profit nature of organizations, public administration scholarship has elaborated upon the “dimensional” approach (e.g., Bozeman, Barry. 2007. Public values and public interest: Counterbalancing economic individualism. Washington, DC: Georgetown Univ. Press), to the point where it is now furnishing a rich body of theoretical and empirical material on organizational identity. Yet as Bozeman says, there was always another “complementary” approach to the same set of issues, namely the “core legal” approach which, as Bozeman, Barry, and Stuart Bretschneider (1994. The ‘publicness puzzle’ in organization theory: A test of alternative explanations of differences between public and private organizations. Journal of Public Administration Research and Theory 4:197–223) say, is “equally important.” This article revisits the legal approach, showing that it is as complex and theoretically motivated in its own way as the dimensional approach, and setting out its basic structure. Only once the core legal approach is seen as a more equal partner will it be possible to pursue Bozeman and Bretschneider's call for “studies employing both core and dimensional models,” in which the two are fully complementary, and the capacities of each are available for conceptualizing the identity of organizations—both when such identity is settled and when it is contested—and for predicting the consequences for organizational behavior that follow.}
+      \field{journaltitle}{Journal of Public Administration Research and Theory}
+      \field{number}{1}
+      \field{title}{The Distinction between Public, Nonprofit, and For-Profit: Revisiting the ``Core Legal'' Approach}
+      \field{volume}{21}
+      \field{year}{2011}
+      \field{pages}{3\bibrangedash 26}
     \endentry
     \entry{stevens}{book}{}
       \name{labelname}{1}{}{%
@@ -1232,6 +1768,42 @@
       \verb http://www.jstor.org/stable/793084
       \endverb
     \endentry
+    \entry{murakami13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=f94c531b431773fbefbd0ccf6f19db17}{Thomas}{T\bibinitperiod}{R\bbxinitsep\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f94c531b431773fbefbd0ccf6f19db17}{Thomas}{T\bibinitperiod}{R\bbxinitsep\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f94c531b431773fbefbd0ccf6f19db17}
+      \strng{fullhash}{f94c531b431773fbefbd0ccf6f19db17}
+      \field{sortinit}{T}
+      \field{labeltitle}{Recent developments in eminent domain: Public use}
+      \field{journaltitle}{Urban Lawyer}
+      \field{number}{3}
+      \field{title}{Recent developments in eminent domain: Public use}
+      \field{volume}{45}
+      \field{year}{2013}
+      \field{pages}{809\bibrangedash 825}
+      \warn{\item Name "Murakami, M\bbxinitsep  M\bbxinitsep , Ace, B\bbxinitsep  C\bbxinitsep  K\bbxinitsep ," has too many commas: skipping name}
+    \endentry
+    \entry{thomas12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1e6ee55880029c224e72ab3bdab7ce3e}
+      \strng{fullhash}{1e6ee55880029c224e72ab3bdab7ce3e}
+      \field{sortinit}{T}
+      \field{labeltitle}{Recent Developments in Eminent Domain: Public Use}
+      \field{journaltitle}{Urban Lawyer}
+      \field{title}{Recent Developments in Eminent Domain: Public Use}
+      \field{volume}{44}
+      \field{year}{2012}
+      \field{pages}{705}
+    \endentry
     \entry{trombley71}{legislation}{}
       \field{sortinit}{T}
       \field{labeltitle}{Trombley v Humphery}
@@ -1241,6 +1813,26 @@
       \field{year}{1871}
       \field{pages}{471}
       \keyw{us}
+    \endentry
+    \entry{turnbull10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7abc5293423c9877db058bcf3df622e3}{Turnbull}{T\bibinitperiod}{Geoffrey\bibnamedelima K\bbxinitsep}{G\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7abc5293423c9877db058bcf3df622e3}{Turnbull}{T\bibinitperiod}{Geoffrey\bibnamedelima K\bbxinitsep}{G\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7abc5293423c9877db058bcf3df622e3}
+      \strng{fullhash}{7abc5293423c9877db058bcf3df622e3}
+      \field{sortinit}{T}
+      \field{labeltitle}{Irreversible development and eminent domain: Compensation rules, land use and efficiency}
+      \true{singletitle}
+      \field{abstract}{This paper examines the efficiency of eminent domain used to acquire green spaces, situations in which private investment permanently destroys the ecological externality value of land. The real option approach takes into account this irreversibility and changes established conclusions for the reversible investment case. Under irreversibility, eminent domain efficiency is more sensitive to compensation rules than previously thought. Setting compensation equal to what market value would be in the absence of eminent domain—the approach taken in the \{US\} and many other countries—reduces efficiency relative to losing the ecological externality to private development. Compensating at the market value under eminent domain threat increases efficiency, but not as much as compensation at social value does.}
+      \field{journaltitle}{Journal of Housing Economics}
+      \field{number}{4}
+      \field{title}{Irreversible development and eminent domain: Compensation rules, land use and efficiency}
+      \field{volume}{19}
+      \field{year}{2010}
+      \field{pages}{243\bibrangedash 254}
     \endentry
     \entry{welch46}{jurisdiction}{}
       \field{sortinit}{U}
@@ -1336,6 +1928,46 @@
       \field{volume}{32}
       \field{year}{2010}
       \field{pages}{1\bibrangedash 24}
+    \endentry
+    \entry{waring13}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=b31c90007f2c8e27a562594d437a534f}{Waring}{W\bibinitperiod}{Emma\bibnamedelimb J\bbxinitsep\bibnamedelima L\bbxinitsep}{E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b31c90007f2c8e27a562594d437a534f}{Waring}{W\bibinitperiod}{Emma\bibnamedelimb J\bbxinitsep\bibnamedelima L\bbxinitsep}{E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f9e2fc08b74578ef30620e8a60b6eba3}{Hopkins}{H\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hart Publishing}%
+      }
+      \strng{namehash}{b31c90007f2c8e27a562594d437a534f}
+      \strng{fullhash}{b31c90007f2c8e27a562594d437a534f}
+      \field{sortinit}{W}
+      \field{labeltitle}{The prevalence of private takings}
+      \true{singletitle}
+      \field{booktitle}{Modern studies in property law: Volume 7}
+      \field{title}{The prevalence of private takings}
+      \field{year}{2013}
+    \endentry
+    \entry{yellin11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=fa0adc91080536ec576fa1d4de0124b7}{Yellin}{Y\bibinitperiod}{David\bibnamedelima S\bbxinitsep}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=fa0adc91080536ec576fa1d4de0124b7}{Yellin}{Y\bibinitperiod}{David\bibnamedelima S\bbxinitsep}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fa0adc91080536ec576fa1d4de0124b7}
+      \strng{fullhash}{fa0adc91080536ec576fa1d4de0124b7}
+      \field{sortinit}{Y}
+      \field{labeltitle}{Masters of Their Own Eminent Domain: The Case for a Reliance Interest Associated with Economic Development Takings}
+      \true{singletitle}
+      \field{journaltitle}{Geo. L.J.}
+      \field{title}{Masters of Their Own Eminent Domain: The Case for a Reliance Interest Associated with Economic Development Takings}
+      \field{volume}{99}
+      \field{year}{2011}
+      \field{pages}{651}
     \endentry
   \endsortlist
 \endrefsection
