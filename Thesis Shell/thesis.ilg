@@ -337,7 +337,45 @@ Scanning input file thesis.idx...
 !! Input index error (file = thesis.idx, line = 168):
    -- Unknown index keyword \indexentry[trash].
 !! Input index error (file = thesis.idx, line = 169):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 170):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 171):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 172):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 173):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 174):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 175):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 176):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 177):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 178):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 179):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 180):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 181):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 182):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 183):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 184):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 185):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 186):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 187):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 188):
    -- Unknown index keyword \indexentry[casesgb].
-done (0 entries accepted, 169 rejected).
+done (0 entries accepted, 188 rejected).
 Nothing written in thesis.ind.
 Transcript written in thesis.ilg.
