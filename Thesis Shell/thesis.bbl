@@ -160,6 +160,40 @@
       \field{year}{2009}
       \field{pages}{127}
     \endentry
+    \entry{allen00}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ae5b656e83f5b6469631cc157635756c}
+      \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
+      \field{sortinit}{A}
+      \field{labeltitle}{The Right to Property in Commonwealth Constitutions}
+      \field{title}{The Right to Property in Commonwealth Constitutions}
+      \field{year}{2000}
+    \endentry
+    \entry{allen05}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hart Publishing}%
+      }
+      \strng{namehash}{ae5b656e83f5b6469631cc157635756c}
+      \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
+      \field{sortinit}{A}
+      \field{labeltitle}{Property and the Human Rights Act 1998}
+      \field{title}{Property and the Human Rights Act 1998}
+      \field{year}{2005}
+    \endentry
     \entry{allen10}{article}{}
       \name{labelname}{1}{}{%
         {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
@@ -171,7 +205,6 @@
       \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
       \field{sortinit}{A}
       \field{labeltitle}{Liberalism, Social Democracy and the Value of Property under the European Convention on Human Rights}
-      \true{singletitle}
       \field{issue}{04}
       \field{journaltitle}{International \& Comparative Law Quarterly}
       \field{month}{10}
@@ -601,6 +634,24 @@
       \field{year}{2008}
       \field{pages}{375\bibrangedash 419}
     \endentry
+    \entry{crow07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5661c02640618c3610861e9376ae7d79}{Crow}{C\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5661c02640618c3610861e9376ae7d79}{Crow}{C\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5661c02640618c3610861e9376ae7d79}
+      \strng{fullhash}{5661c02640618c3610861e9376ae7d79}
+      \field{sortinit}{C}
+      \field{labeltitle}{Compulsory purchase for economic development: {A}n international perspective}
+      \true{singletitle}
+      \field{journaltitle}{Journal of Planning \& Environmental Law}
+      \field{month}{08}
+      \field{title}{Compulsory purchase for economic development: {A}n international perspective}
+      \field{year}{2007}
+      \field{pages}{1102\bibrangedash 1115}
+    \endentry
     \entry{ackerman06}{book}{}
       \list{publisher}{1}{%
         {American Bar Association}%
@@ -929,6 +980,24 @@
       \field{year}{2012}
       \field{pages}{985}
       \keyw{echr}
+    \endentry
+    \entry{epstein85}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \strng{fullhash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \field{sortinit}{E}
+      \field{labeltitle}{Takings: Private property and eminent domain}
+      \true{singletitle}
+      \field{title}{Takings: Private property and eminent domain}
+      \field{year}{1985}
     \endentry
     \entry{evansmhr}{book}{}
       \name{labelname}{1}{}{%
@@ -1372,6 +1441,25 @@
       \field{volume}{2004}
       \field{pages}{859}
     \endentry
+    \entry{kube97}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0198ee0bfd84fef4f3f9b777e85e74c4}{Kube}{K\bibinitperiod}{Hanno}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0198ee0bfd84fef4f3f9b777e85e74c4}{Kube}{K\bibinitperiod}{Hanno}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0198ee0bfd84fef4f3f9b777e85e74c4}
+      \strng{fullhash}{0198ee0bfd84fef4f3f9b777e85e74c4}
+      \field{sortinit}{K}
+      \field{labeltitle}{Private Property in Natural Resources and The Public Weal in German Law -- Latent Similarities to the Public Trust Doctrine}
+      \true{singletitle}
+      \field{journaltitle}{Natural Resources Journal}
+      \field{number}{4}
+      \field{title}{Private Property in Natural Resources and The Public Weal in German Law -- Latent Similarities to the Public Trust Doctrine}
+      \field{volume}{37}
+      \field{year}{1997}
+      \field{pages}{857\bibrangedash 881}
+    \endentry
     \entry{lanza13}{article}{}
       \name{labelname}{4}{}{%
         {{hash=c9a301ff4c7bd75e0cf75f87c072f26b}{Lanza}{L\bibinitperiod}{Steven\bibnamedelima P\bbxinitsep}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
@@ -1406,21 +1494,6 @@
       \field{title}{Law Reform (Frustrated Contracts) Act}
       \field{year}{1943}
       \keyw{en}
-    \endentry
-    \entry{halpern14}{jurisdiction}{}
-      \list{institution}{1}{%
-        {LC}%
-      }
-      \field{sortinit}{L}
-      \field{labeltitle}{Halpern}
-      \true{singletitle}
-      \field{journaltitle}{WL}
-      \field{number}{[2014] UKUT 0116}
-      \field{shorttitle}{Halpern}
-      \field{title}{David Mosche Halpern, Patrick William Gladwell, Clearun Limited, Dominion Mosaic & Tile Company Limited v Greater London Authority}
-      \field{year}{2014}
-      \field{pages}{1097091}
-      \keyw{gb}
     \endentry
     \entry{lehavi07}{article}{}
       \name{labelname}{2}{}{%
@@ -1496,6 +1569,24 @@
       \field{year}{1905}
       \field{pages}{239}
       \keyw{us}
+    \endentry
+    \entry{malloy08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=56c0ca12433a8f88b1df8122f6dc5b16}{Malloy}{M\bibinitperiod}{Robin\bibnamedelima Paul}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=56c0ca12433a8f88b1df8122f6dc5b16}{Malloy}{M\bibinitperiod}{Robin\bibnamedelima Paul}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ashgate}%
+      }
+      \strng{namehash}{56c0ca12433a8f88b1df8122f6dc5b16}
+      \strng{fullhash}{56c0ca12433a8f88b1df8122f6dc5b16}
+      \field{sortinit}{M}
+      \field{labeltitle}{Private Property, Community Development and Eminent Domain}
+      \true{singletitle}
+      \field{title}{Private Property, Community Development and Eminent Domain}
+      \field{year}{2008}
     \endentry
     \entry{meidinger80}{article}{}
       \name{labelname}{1}{}{%
@@ -1579,6 +1670,24 @@
       \field{labeltitle}{N Const Art 1 § 8}
       \true{singletitle}
       \field{title}{N Const Art 1 § 8}
+    \endentry
+    \entry{narula13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c22fc2309635d2dc000889842c1af7e8}{Narula}{N\bibinitperiod}{Smita}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c22fc2309635d2dc000889842c1af7e8}{Narula}{N\bibinitperiod}{Smita}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c22fc2309635d2dc000889842c1af7e8}
+      \strng{fullhash}{c22fc2309635d2dc000889842c1af7e8}
+      \field{sortinit}{N}
+      \field{labeltitle}{The Global Land Rush: Markets, Rights, and the Politics of Food}
+      \true{singletitle}
+      \field{journaltitle}{Stanford Journal of International Law}
+      \field{number}{1}
+      \field{title}{The Global Land Rush: Markets, Rights, and the Politics of Food}
+      \field{year}{2013}
+      \field{pages}{140}
     \endentry
     \entry{nichols40}{article}{}
       \name{labelname}{1}{}{%
@@ -1749,6 +1858,36 @@
       \field{year}{2014}
       \field{pages}{31\bibrangedash 57}
     \endentry
+    \entry{pascoe06}{jurisdiction}{year-essential=true}
+      \field{sortinit}{P}
+      \field{labeltitle}{Pascoe v The First Secretary of State}
+      \true{singletitle}
+      \field{journaltitle}{EWHC}
+      \field{number}{[2006] EWHC 2356}
+      \field{title}{Pascoe v The First Secretary of State}
+      \field{volume}{1}
+      \field{year}{2007}
+      \field{pages}{885}
+      \keyw{gb}
+    \endentry
+    \entry{pascoe09}{jurisdiction}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Pascoe v The Secretary of State for Communities and Local Government}
+      \true{singletitle}
+      \field{number}{[2009] EWHC 881}
+      \field{title}{Pascoe v The Secretary of State for Communities and Local Government}
+      \keyw{gb}
+    \endentry
+    \entry{gourde47}{jurisdiction}{year-essential=true}
+      \field{sortinit}{P}
+      \field{labeltitle}{Pointe Gourde Quarring \& Transport Company Limited v Sub-Intendent of Crown Lands (Trinidad and Tobago)}
+      \true{singletitle}
+      \field{journaltitle}{UKPC}
+      \field{title}{Pointe Gourde Quarring \& Transport Company Limited v Sub-Intendent of Crown Lands (Trinidad and Tobago)}
+      \field{year}{1947}
+      \field{pages}{71}
+      \keyw{gb}
+    \endentry
     \entry{poletown81}{jurisdiction}{}
       \field{sortinit}{P}
       \field{labeltitle}{Poletown Neighborhood Council v City of Detroit}
@@ -1777,6 +1916,17 @@
       \true{singletitle}
       \field{title}{Economic Analysis of Law}
       \field{year}{2011}
+    \endentry
+    \entry{prest82}{jurisdiction}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Prest v Secretary of State for Wales}
+      \true{singletitle}
+      \field{journaltitle}{LGR}
+      \field{title}{Prest v Secretary of State for Wales}
+      \field{volume}{81}
+      \field{year}{1982}
+      \field{pages}{193}
+      \keyw{gb}
     \endentry
     \entry{radin93}{book}{}
       \name{labelname}{1}{}{%
@@ -1813,6 +1963,29 @@
       \field{volume}{66}
       \field{year}{2013}
       \field{pages}{1219}
+    \endentry
+    \entry{barnsley12}{jurisdiction}{year-essential=true}
+      \field{sortinit}{R}
+      \field{labeltitle}{Regina (Barnsley Metropolitan Borough Council) v Secretary of State for Communities and Local Government}
+      \true{singletitle}
+      \field{journaltitle}{PTSR}
+      \field{number}{[2012] EWHC 1366}
+      \field{title}{Regina (Barnsley Metropolitan Borough Council) v Secretary of State for Communities and Local Government}
+      \field{year}{2012}
+      \field{pages}{23}
+      \keyw{gb}
+    \endentry
+    \entry{sainsbury10}{jurisdiction}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Regina (Sainsbury’s Supermarkets Ltd) v Wolverhampton City Council}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{number}{[2010] UKSC 20}
+      \field{title}{Regina (Sainsbury’s Supermarkets Ltd) v Wolverhampton City Council}
+      \field{volume}{1}
+      \field{year}{2010}
+      \field{pages}{437}
+      \keyw{gb}
     \endentry
     \entry{reynolds63}{article}{}
       \name{labelname}{1}{}{%
@@ -2038,6 +2211,25 @@
       \field{year}{2014}
       \field{pages}{1287}
     \endentry
+    \entry{smith03}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=078b1127bb442dffa740db5edad58c2f}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E\bbxinitsep}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=078b1127bb442dffa740db5edad58c2f}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E\bbxinitsep}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{078b1127bb442dffa740db5edad58c2f}
+      \strng{fullhash}{078b1127bb442dffa740db5edad58c2f}
+      \field{sortinit}{S}
+      \field{labeltitle}{Land tenure reform in Africa: a shift to the defensive}
+      \true{singletitle}
+      \field{journaltitle}{Progress in Development Studies}
+      \field{number}{3}
+      \field{title}{Land tenure reform in Africa: a shift to the defensive}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{210\bibrangedash 222}
+    \endentry
     \entry{somin07}{article}{}
       \name{labelname}{1}{}{%
         {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
@@ -2058,7 +2250,24 @@
       \field{title}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
       \field{volume}{15}
       \field{year}{2007}
-      \field{pages}{pages}
+      \field{pages}{183\bibrangedash 271}
+    \endentry
+    \entry{somin08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Politics of Economic Development Takings}
+      \field{journaltitle}{Case W. Res. L. Rev.}
+      \field{title}{The Politics of Economic Development Takings}
+      \field{volume}{58}
+      \field{year}{2008}
+      \field{pages}{1185}
     \endentry
     \entry{somin09}{article}{}
       \name{labelname}{1}{}{%
@@ -2098,6 +2307,16 @@
       \field{year}{2013}
       \field{pages}{466\bibrangedash 488}
     \endentry
+    \entry{standard06}{jurisdiction}{year-essential=true}
+      \field{sortinit}{S}
+      \field{labeltitle}{Standard Commercial Property Securities Ltd v Glasgow City Council}
+      \true{singletitle}
+      \field{journaltitle}{SCLR}
+      \field{number}{[2006] UKHL 50}
+      \field{title}{Standard Commercial Property Securities Ltd v Glasgow City Council}
+      \field{volume}{93}
+      \field{year}{2007}
+    \endentry
     \entry{stark11}{article}{}
       \name{labelname}{1}{}{%
         {{hash=b139825792e94f14fc3c8b2b50b08a93}{Stark}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
@@ -2117,6 +2336,24 @@
       \field{volume}{21}
       \field{year}{2011}
       \field{pages}{3\bibrangedash 26}
+    \endentry
+    \entry{stenseth10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \field{sortinit}{S}
+      \field{labeltitle}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
+      \true{singletitle}
+      \field{journaltitle}{Tidsskrift for Rettsvitenskap}
+      \field{title}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
+      \field{volume}{123}
+      \field{year}{2010}
+      \field{pages}{774\bibrangedash 808}
     \endentry
     \entry{stevens}{book}{}
       \name{labelname}{1}{}{%
@@ -2235,6 +2472,24 @@
       \field{pages}{809\bibrangedash 825}
       \warn{\item Name "Murakami, M\bbxinitsep  M\bbxinitsep , Ace, B\bbxinitsep  C\bbxinitsep  K\bbxinitsep ," has too many commas: skipping name}
     \endentry
+    \entry{thomas09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1e6ee55880029c224e72ab3bdab7ce3e}
+      \strng{fullhash}{1e6ee55880029c224e72ab3bdab7ce3e}
+      \field{sortinit}{T}
+      \field{labeltitle}{Recent Developments in Public Use and Pretext in Eminent Domain}
+      \field{journaltitle}{The Urban Lawyer}
+      \field{number}{3}
+      \field{title}{Recent Developments in Public Use and Pretext in Eminent Domain}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{563\bibrangedash 577}
+    \endentry
     \entry{thomas12}{article}{}
       \name{labelname}{1}{}{%
         {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -2342,6 +2597,19 @@
       \field{year}{2006}
       \field{pages}{377\bibrangedash 388}
     \endentry
+    \entry{halpern14}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {Upper Tribunal (LC)}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{Halpern \& Ors v Greater London Authority}
+      \true{singletitle}
+      \field{journaltitle}{UKUT}
+      \field{title}{Halpern \& Ors v Greater London Authority}
+      \field{year}{2014}
+      \field{pages}{116}
+      \keyw{gb}
+    \endentry
     \entry{gettysburg96}{jurisdiction}{}
       \field{sortinit}{U}
       \field{labeltitle}{US v Gettysburg Electric R Co}
@@ -2393,6 +2661,25 @@
       \field{volume}{32}
       \field{year}{2010}
       \field{pages}{1\bibrangedash 24}
+    \endentry
+    \entry{walt11}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=36da9dd4b4fc7702fec12dd8a893c59d}{Walt}{W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{van\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=36da9dd4b4fc7702fec12dd8a893c59d}{Walt}{W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{van\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Juta}%
+      }
+      \strng{namehash}{36da9dd4b4fc7702fec12dd8a893c59d}
+      \strng{fullhash}{36da9dd4b4fc7702fec12dd8a893c59d}
+      \field{sortinit}{W}
+      \field{labeltitle}{Constitutional Property Law}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{Constitutional Property Law}
+      \field{year}{2011}
     \endentry
     \entry{waring13}{inbook}{}
       \name{labelname}{1}{}{%
