@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  18 JUN 2014 11:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  1 JUL 2014 18:24
 entering extended mode
 **C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/thesis.tex
 ("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/thesis.tex"
@@ -1645,18 +1645,11 @@ Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
- ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.bbl"
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'murakami13':
-(biblatex)                - Name "Murakami, M\toggletrue {bbx@initsep}M\togglet
-rue {bbx@initsep}, Ace, B\toggletrue {bbx@initsep}C\toggletrue {bbx@initsep}K\t
-oggletrue {bbx@initsep}," has too many commas: skipping name.
-
-)
+ ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.bbl")
 Package biblatex Info: Reference section=0 on input line 68.
 Package biblatex Info: Reference segment=0 on input line 68.
- ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.tex"
+
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.tex"
 [1
 
 
@@ -1703,358 +1696,346 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 
-] [2] [3] [4] [5] [6] [7] [8] [9]
+] [2] [3] [4] [5] [6] [7] [8]
 
-LaTeX Warning: Reference `sec:ins' on page 10 undefined on input line 61.
+LaTeX Warning: Citation 'allen' on page 9 undefined on input line 53.
 
+[9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
 
-LaTeX Warning: Reference `chap:4' on page 10 undefined on input line 61.
+LaTeX Warning: Reference `subsec:1' on page 23 undefined on input line 156.
 
+[23] [24] [25] [26]
 
-LaTeX Warning: Reference `chap:5' on page 10 undefined on input line 61.
+Package biblatex Warning: Nested notes on input line 177.
 
-[10] [11] [12] [13] [14] [15] [16] [17]
+[27] [28]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 185.
 
-Package biblatex Warning: Nested notes on input line 90.
-
-[18] [19]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 98.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 185.
 
-[20] [21] [22] [23] [24] [25] [26] [27]
+[29] [30] [31] [32] [33] [34] [35] [36]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 140.
- [28] [29] [30] [31]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 225.
+ [37] [38] [39] [40]
 
-LaTeX Warning: Citation 'dominion25' on page 32 undefined on input line 162.
+LaTeX Warning: Citation 'midkiff' on page 41 undefined on input line 246.
 
+[41] [42] [43]
 
-LaTeX Warning: Citation 'midkiff' on page 32 undefined on input line 162.
-
-[32] [33]
-
-LaTeX Warning: Citation 'underkuffler09' on page 34 undefined on input line 169
+LaTeX Warning: Citation 'underkuffler09' on page 44 undefined on input line 255
 .
 
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
 
-LaTeX Warning: Citation 'schwarz94' on page 46 undefined on input line 241.
-
-
-LaTeX Warning: Citation 'schwarz13' on page 46 undefined on input line 241.
+LaTeX Warning: Citation 'schwarz94' on page 54 undefined on input line 333.
 
 
-LaTeX Warning: Citation 'legavi07' on page 46 undefined on input line 241.
-
-[46]
-
-LaTeX Warning: Citation 'lehavi06' on page 47 undefined on input line 243.
-
-[47] [48] [49] [50] [51]
-
-LaTeX Warning: Reference `sec:app' on page 52 undefined on input line 255.
-
-[52] [53]
-
-LaTeX Warning: Citation 'See \cite [1496]{heller08}. In some cases' on page 54 
-undefined on input line 261.
+LaTeX Warning: Citation 'schwarz13' on page 54 undefined on input line 333.
 
 
-LaTeX Warning: Citation 'for instance when many of the owners are non-local inv
-estors' on page 54 undefined on input line 261.
+LaTeX Warning: Citation 'legavi07' on page 54 undefined on input line 333.
+
+[54]
+
+LaTeX Warning: Citation 'lehavi06' on page 55 undefined on input line 335.
+
+[55] [56] [57] [58] [59]
+
+LaTeX Warning: Citation 'See \cite [1496]{heller08}. However' on page 60 undefi
+ned on input line 365.
+
+
+LaTeX Warning: Citation 'when many of the owners are non-residents who only see
+ their land as an investment' on page 60 undefined on input line 365.
 
 
 LaTeX Warning: Citation 'Heller and Hills note that it might be necessary to co
-nsider more complicated voting procedure' on page 54 undefined on input line 26
-1.
+nsider more complicated voting procedure' on page 60 undefined on input line 36
+5.
 
 
 LaTeX Warning: Citation 'for instance by requiring separate majorities from dif
-ferent groups of owners. See \cite [1523-1524]{heller08}.' on page 54 undefined
- on input line 261.
+ferent groups of owners. See \cite [1523-1524]{heller08}.' on page 60 undefined
+ on input line 365.
 
 
-Overfull \hbox (94.352pt too wide) in paragraph at lines 261--261
+Overfull \hbox (189.75296pt too wide) in paragraph at lines 365--365
 [][][]\OT1/cmr/m/n/10 ; [];
  []
 
 
-Overfull \hbox (59.4964pt too wide) in paragraph at lines 261--261
+Overfull \hbox (59.4964pt too wide) in paragraph at lines 365--365
 []\OT1/cmr/m/n/10 ;
  []
 
 
-Overfull \hbox (128.82387pt too wide) in paragraph at lines 261--261
+Overfull \hbox (128.82387pt too wide) in paragraph at lines 365--365
 []\OT1/cmr/m/n/10 .| 
  []
 
-[54] [55] [56]
+[60] [61] [62] [63] [64] [65] [66] [67]
 
-LaTeX Warning: Citation 'ladres09' on page 57 undefined on input line 267.
-
-[57] [58] [59] [60] [61] [62]
-
-LaTeX Warning: Reference `sec:appraise' on page 63 undefined on input line 287.
+LaTeX Warning: Reference `sec:appraise' on page 68 undefined on input line 395.
 
 
-[63] [64]
+[68] [69]
 
-LaTeX Warning: Reference `sec:landcons' on page 65 undefined on input line 291.
+LaTeX Warning: Reference `sec:landcons' on page 70 undefined on input line 399.
 
 
-[65]) [66]
+[70]) [71]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.tex"
 Chapter 2.
 Package biblatex Info: Resetting trackers on input line 1.
-[67
+[72
 
 
 
-] [68]
+] [73]
 
-LaTeX Warning: Citation 'falk' on page 69 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Tf1' on page 69 undefined on input line 12.
+LaTeX Warning: Citation 'falk' on page 74 undefined on input line 12.
 
 
-LaTeX Warning: Citation 'Tf2' on page 69 undefined on input line 12.
+LaTeX Warning: Citation 'Tf1' on page 74 undefined on input line 12.
 
 
-LaTeX Warning: Citation 'Tf3' on page 69 undefined on input line 12.
+LaTeX Warning: Citation 'Tf2' on page 74 undefined on input line 12.
 
 
-LaTeX Warning: Citation 'Tf1' on page 69 undefined on input line 12.
+LaTeX Warning: Citation 'Tf3' on page 74 undefined on input line 12.
 
-[69] [70] [71]
 
-LaTeX Warning: Citation 'falk' on page 72 undefined on input line 25.
+LaTeX Warning: Citation 'Tf1' on page 74 undefined on input line 12.
 
-[72]
+[74] [75] [76]
+
+LaTeX Warning: Citation 'falk' on page 77 undefined on input line 25.
+
+[77]
 Overfull \hbox (1.0775pt too wide) in paragraph at lines 32--33
 [] \OT1/cmr/m/n/10 ([])
  []
 
-[73] [74]
+[78] [79]
 
-LaTeX Warning: Citation 'ar2010' on page 75 undefined on input line 48.
-
-
-LaTeX Warning: Citation 'Hammer2' on page 75 undefined on input line 48.
-
-[75]
-
-LaTeX Warning: Citation 'liberal' on page 76 undefined on input line 52.
-
-[76]
-
-LaTeX Warning: Citation 'Hindrum' on page 77 undefined on input line 54.
+LaTeX Warning: Citation 'ar2010' on page 80 undefined on input line 48.
 
 
-LaTeX Warning: Citation 'Koht' on page 77 undefined on input line 56.
+LaTeX Warning: Citation 'Hammer2' on page 80 undefined on input line 48.
 
-[77]
+[80]
 
-LaTeX Warning: Citation 'Aanesland' on page 78 undefined on input line 58.
+LaTeX Warning: Citation 'liberal' on page 81 undefined on input line 52.
 
+[81]
 
-LaTeX Warning: Citation 'Gloppen' on page 78 undefined on input line 58.
-
-[78] [79] [80]
-
-LaTeX Warning: Citation 'rettleiar' on page 81 undefined on input line 70.
+LaTeX Warning: Citation 'Hindrum' on page 82 undefined on input line 54.
 
 
-LaTeX Warning: Citation 'falk' on page 81 undefined on input line 70.
+LaTeX Warning: Citation 'Koht' on page 82 undefined on input line 56.
 
-[81] [82]
+[82]
 
-LaTeX Warning: Citation 'kartlegging' on page 83 undefined on input line 76.
-
-
-LaTeX Warning: Citation 'investment' on page 83 undefined on input line 76.
-
-[83]
-
-LaTeX Warning: Citation 'kartlegging' on page 84 undefined on input line 82.
-
-[84] [85] [86] [87] [88]
-
-LaTeX Warning: Citation 'Efvl' on page 89 undefined on input line 108.
+LaTeX Warning: Citation 'Aanesland' on page 83 undefined on input line 58.
 
 
-LaTeX Warning: Citation 'flei' on page 89 undefined on input line 108.
+LaTeX Warning: Citation 'Gloppen' on page 83 undefined on input line 58.
 
-[89]
+[83] [84] [85]
 
-LaTeX Warning: Citation 'Efvl' on page 90 undefined on input line 114.
+LaTeX Warning: Citation 'rettleiar' on page 86 undefined on input line 70.
 
-[90] [91]
 
-LaTeX Warning: Citation 'Efvl' on page 92 undefined on input line 147.
+LaTeX Warning: Citation 'falk' on page 86 undefined on input line 70.
 
-[92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
+[86] [87]
 
-LaTeX Warning: Citation 'backer1' on page 102 undefined on input line 206.
+LaTeX Warning: Citation 'kartlegging' on page 88 undefined on input line 76.
 
-[102] [103] [104]) [105]
+
+LaTeX Warning: Citation 'investment' on page 88 undefined on input line 76.
+
+[88]
+
+LaTeX Warning: Citation 'kartlegging' on page 89 undefined on input line 82.
+
+[89] [90] [91] [92] [93]
+
+LaTeX Warning: Citation 'Efvl' on page 94 undefined on input line 108.
+
+
+LaTeX Warning: Citation 'flei' on page 94 undefined on input line 108.
+
+[94]
+
+LaTeX Warning: Citation 'Efvl' on page 95 undefined on input line 114.
+
+[95] [96]
+
+LaTeX Warning: Citation 'Efvl' on page 97 undefined on input line 147.
+
+[97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
+
+LaTeX Warning: Citation 'backer1' on page 107 undefined on input line 206.
+
+[107] [108] [109]) [110]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.tex"
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 1.
-[106
+[111
 
 
 
 ]
 
-LaTeX Warning: Citation 'AllenCom' on page 107 undefined on input line 7.
+LaTeX Warning: Citation 'AllenCom' on page 112 undefined on input line 7.
 
 
-LaTeX Warning: Citation 'notimminent' on page 107 undefined on input line 9.
+LaTeX Warning: Citation 'notimminent' on page 112 undefined on input line 9.
 
-[107]
+[112]
 
-LaTeX Warning: Citation 'lcdisc' on page 108 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'newuk' on page 108 undefined on input line 11.
+LaTeX Warning: Citation 'lcdisc' on page 113 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'kelouk' on page 108 undefined on input line 11.
-
-[108] [109]
-
-LaTeX Warning: Citation 'lcdisc' on page 110 undefined on input line 22.
-
-[110] [111] [112] [113] [114] [115] [116] [117]
-
-LaTeX Warning: Citation 'newuk' on page 118 undefined on input line 94.
-
-[118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129]
-[130] [131] [132] [133]
-
-LaTeX Warning: Citation 'Falk' on page 134 undefined on input line 191.
-
-[134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144]
-
-LaTeX Warning: Citation '....' on page 145 undefined on input line 306.
-
-[145] [146] [147] [148] [149]
-
-LaTeX Warning: Citation 'tf1' on page 150 undefined on input line 325.
+LaTeX Warning: Citation 'newuk' on page 113 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'tf2' on page 150 undefined on input line 325.
+LaTeX Warning: Citation 'kelouk' on page 113 undefined on input line 11.
+
+[113] [114]
+
+LaTeX Warning: Citation 'lcdisc' on page 115 undefined on input line 22.
+
+[115] [116] [117] [118] [119] [120] [121] [122]
+
+LaTeX Warning: Citation 'newuk' on page 123 undefined on input line 94.
+
+[123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134]
+[135] [136] [137] [138]
+
+LaTeX Warning: Citation 'Falk' on page 139 undefined on input line 191.
+
+[139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+
+LaTeX Warning: Citation '....' on page 150 undefined on input line 306.
+
+[150] [151] [152] [153] [154]
+
+LaTeX Warning: Citation 'tf1' on page 155 undefined on input line 325.
 
 
-LaTeX Warning: Citation 'tf3' on page 150 undefined on input line 325.
+LaTeX Warning: Citation 'tf2' on page 155 undefined on input line 325.
 
-[150] [151] [152] [153] [154] [155] [156] [157] [158] [159]) [160]
+
+LaTeX Warning: Citation 'tf3' on page 155 undefined on input line 325.
+
+[155] [156] [157] [158] [159] [160] [161] [162] [163] [164]) [165]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.tex"
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 1.
-[161
+[166
 
 
 
-] [162] [163] [164] [165]
+] [167] [168] [169] [170]
 
-LaTeX Warning: Citation 'schj' on page 166 undefined on input line 40.
+LaTeX Warning: Citation 'schj' on page 171 undefined on input line 40.
 
-[166]
+[171]
 
-LaTeX Warning: Citation 'castberg' on page 167 undefined on input line 46.
-
-
-LaTeX Warning: Citation 'newuk' on page 167 undefined on input line 53.
-
-[167] [168] [169] [170] [171] [172] [173] [174]
-
-LaTeX Warning: Citation 'asch' on page 175 undefined on input line 96.
-
-[175] [176] [177] [178] [179]
-
-LaTeX Warning: Citation 'knoph' on page 180 undefined on input line 120.
+LaTeX Warning: Citation 'castberg' on page 172 undefined on input line 46.
 
 
-LaTeX Warning: Citation 'grunn' on page 180 undefined on input line 126.
+LaTeX Warning: Citation 'newuk' on page 172 undefined on input line 53.
+
+[172] [173] [174] [175] [176] [177] [178] [179]
+
+LaTeX Warning: Citation 'asch' on page 180 undefined on input line 96.
+
+[180] [181] [182] [183] [184]
+
+LaTeX Warning: Citation 'knoph' on page 185 undefined on input line 120.
 
 
-LaTeX Warning: Citation 'opshal' on page 180 undefined on input line 126.
+LaTeX Warning: Citation 'grunn' on page 185 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'robb2' on page 180 undefined on input line 126.
+LaTeX Warning: Citation 'opshal' on page 185 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'schj' on page 180 undefined on input line 126.
+LaTeX Warning: Citation 'robb2' on page 185 undefined on input line 126.
 
-[180] [181] [182] [183] [184] [185] [186] [187]
+
+LaTeX Warning: Citation 'schj' on page 185 undefined on input line 126.
+
+[185] [186] [187] [188] [189] [190] [191] [192]
 
 Package Fancyhdr Warning: \headheight is too small (28.85274pt): 
  Make it at least 41.68335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[188] [189] [190] [191] [192] [193]
+[193] [194] [195] [196] [197] [198]
 
-LaTeX Warning: Citation 'stor' on page 194 undefined on input line 220.
+LaTeX Warning: Citation 'stor' on page 199 undefined on input line 220.
 
-[194] [195]
+[199] [200]
 
-LaTeX Warning: Citation 'skog' on page 196 undefined on input line 228.
+LaTeX Warning: Citation 'skog' on page 201 undefined on input line 228.
 
-[196] [197] [198] [199]
+[201] [202] [203] [204]
 
-LaTeX Warning: Citation 'stor' on page 200 undefined on input line 244.
+LaTeX Warning: Citation 'stor' on page 205 undefined on input line 244.
 
 
-LaTeX Warning: Citation 'regeksp' on page 200 undefined on input line 244.
+LaTeX Warning: Citation 'regeksp' on page 205 undefined on input line 244.
 
-[200] [201] [202] [203] [204] [205]) [206]
+[205] [206] [207] [208] [209] [210]) [211]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.tex"
 
-LaTeX Warning: Citation 'vittikainen2004' on page 207 undefined on input line 5
+LaTeX Warning: Citation 'vittikainen2004' on page 212 undefined on input line 5
 .
 
-[207
+[212
 
 
 ]
 
-LaTeX Warning: Citation 'rygg1998' on page 208 undefined on input line 15.
+LaTeX Warning: Citation 'rygg1998' on page 213 undefined on input line 15.
 
-[208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219]
-[220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231]
-[232]
+[213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224]
+[225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236]
+[237]
 
-LaTeX Warning: Citation 'master' on page 233 undefined on input line 144.
+LaTeX Warning: Citation 'master' on page 238 undefined on input line 144.
 
-[233] [234]
+[238] [239]
 
-LaTeX Warning: Citation 'master' on page 235 undefined on input line 158.
+LaTeX Warning: Citation 'master' on page 240 undefined on input line 158.
 
-[235]
+[240]
 
-LaTeX Warning: Citation 'master' on page 236 undefined on input line 160.
+LaTeX Warning: Citation 'master' on page 241 undefined on input line 160.
 
 
-LaTeX Warning: Citation 'master' on page 236 undefined on input line 162.
+LaTeX Warning: Citation 'master' on page 241 undefined on input line 162.
 
-[236] [237] [238]
+[241] [242] [243]
 
-LaTeX Warning: Citation 'master' on page 239 undefined on input line 172.
+LaTeX Warning: Citation 'master' on page 244 undefined on input line 172.
 
-[239] [240] [241] [242] [243] [244] [245]) [246]
+[244] [245] [246] [247] [248] [249] [250]) [251]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.tex"
-[247
+[252
 
 
 
-] [248] [249] [250] [251] [252] [253] [254]) [255]
+] [253] [254] [255] [256] [257] [258] [259]) [260]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.aux")
@@ -2078,13 +2059,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 18387 strings out of 493921
- 320964 string characters out of 3144876
- 778349 words of memory out of 3000000
- 21348 multiletter control sequences out of 15000+200000
+ 18466 strings out of 493921
+ 322082 string characters out of 3144876
+ 778814 words of memory out of 3000000
+ 21427 multiletter control sequences out of 15000+200000
  16839 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,12n,69p,10486b,2438s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,69p,10486b,2437s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
@@ -2102,9 +2083,9 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (260 pages, 876283 bytes).
+Output written on thesis.pdf (265 pages, 890734 bytes).
 PDF statistics:
- 905 PDF objects out of 1000 (max. 8388607)
+ 921 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

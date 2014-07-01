@@ -462,6 +462,15 @@
       \field{pages}{467}
       \keyw{us}
     \endentry
+    \entry{boxberg86}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Boxberg}
+      \true{singletitle}
+      \field{number}{BVerfGE 74, 264 [1986]}
+      \field{title}{Boxberg}
+      \field{year}{1986}
+      \keyw{ge}
+    \endentry
     \entry{brannan08}{article}{}
       \name{labelname}{1}{}{%
         {{hash=60c5f91359af417eeb0b886caf7602f9}{Brennan}{B\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
@@ -829,6 +838,15 @@
       \field{type}{DPhil thesis}
       \field{year}{2011}
     \endentry
+    \entry{durkheimer81}{jurisdiction}{}
+      \field{sortinit}{D}
+      \field{labeltitle}{D{\''u}rkheimer Gondelbahn}
+      \true{singletitle}
+      \field{number}{BVerfGE 56, 249 [1981]}
+      \field{title}{D{\''u}rkheimer Gondelbahn}
+      \field{year}{1981}
+      \keyw{ge}
+    \endentry
     \entry{eagle08}{article}{}
       \name{labelname}{2}{}{%
         {{hash=f0c9c31fc8b005b5ec0610942f543c2b}{Eagle}{E\bibinitperiod}{Steven\bibnamedelima J\bbxinitsep}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -995,9 +1013,25 @@
       \strng{fullhash}{5ff061ae0f4f4936c21288f1012a02b9}
       \field{sortinit}{E}
       \field{labeltitle}{Takings: Private property and eminent domain}
-      \true{singletitle}
       \field{title}{Takings: Private property and eminent domain}
       \field{year}{1985}
+    \endentry
+    \entry{epstein06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \strng{fullhash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \field{sortinit}{E}
+      \field{labeltitle}{The Public Use, Public Trust, and Public Benefit: {C}ould Both Cooley and Kelo Be Wrong?}
+      \field{journaltitle}{The Green Bag}
+      \field{title}{The Public Use, Public Trust, and Public Benefit: {C}ould Both Cooley and Kelo Be Wrong?}
+      \field{volume}{9}
+      \field{year}{2006}
+      \field{pages}{124}
     \endentry
     \entry{evansmhr}{book}{}
       \name{labelname}{1}{}{%
@@ -1215,6 +1249,29 @@
       \field{year}{2008}
       \field{pages}{1465\bibrangedash 1527}
     \endentry
+    \entry{hernik13}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=7f0a1bc291411c1d5631836c2a30f54f}{Hernik}{H\bibinitperiod}{Józef}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=628c16a1a9159f088a6eac677d504896}{Gawroński}{G\bibinitperiod}{Krzysztof}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=039932260f07da01d55cd1973b912d59}{Dixon-Gough}{D\bibinithyphendelim G\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=7f0a1bc291411c1d5631836c2a30f54f}{Hernik}{H\bibinitperiod}{Józef}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=628c16a1a9159f088a6eac677d504896}{Gawroński}{G\bibinitperiod}{Krzysztof}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=039932260f07da01d55cd1973b912d59}{Dixon-Gough}{D\bibinithyphendelim G\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5c730f26ee4bba9d3ff049e221bdf5a9}
+      \strng{fullhash}{5c730f26ee4bba9d3ff049e221bdf5a9}
+      \field{sortinit}{H}
+      \field{labeltitle}{Social and economic conflicts between cultural landscapes and rural communities in the English and Polish systems}
+      \true{singletitle}
+      \field{journaltitle}{Land Use Policy}
+      \field{number}{1}
+      \field{title}{Social and economic conflicts between cultural landscapes and rural communities in the English and Polish systems}
+      \field{volume}{30}
+      \field{year}{2013}
+      \field{pages}{800\bibrangedash 813}
+    \endentry
     \entry{hain}{jurisdiction}{}
       \list{institution}{1}{%
         {HL}%
@@ -1378,6 +1435,24 @@
       \field{pages}{1005}
       \keyw{gb}
     \endentry
+    \entry{kelly09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=556f4bd22b2f7d88fdefb32d1f38d5ad}{Kelly}{K\bibinitperiod}{Daniel\bibnamedelima B\bbxinitsep}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=556f4bd22b2f7d88fdefb32d1f38d5ad}{Kelly}{K\bibinitperiod}{Daniel\bibnamedelima B\bbxinitsep}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{556f4bd22b2f7d88fdefb32d1f38d5ad}
+      \strng{fullhash}{556f4bd22b2f7d88fdefb32d1f38d5ad}
+      \field{sortinit}{K}
+      \field{labeltitle}{The Limitations of Majoritarian Land Assembly}
+      \true{singletitle}
+      \field{journaltitle}{Harvard Law Review Forum}
+      \field{title}{The Limitations of Majoritarian Land Assembly}
+      \field{volume}{122}
+      \field{year}{2009}
+      \field{pages}{7\bibrangedash 17}
+    \endentry
     \entry{kelo05}{jurisdiction}{}
       \field{sortinit}{K}
       \field{labeltitle}{Kelo}
@@ -1421,6 +1496,24 @@
       \field{year}{1875}
       \field{pages}{367}
       \keyw{us}
+    \endentry
+    \entry{kostal97}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e00e5b2eb3f3442364dac13487d2b858}{Kostal}{K\bibinitperiod}{R\bbxinitsep\bibnamedelima W\bbxinitsep}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e00e5b2eb3f3442364dac13487d2b858}{Kostal}{K\bibinitperiod}{R\bbxinitsep\bibnamedelima W\bbxinitsep}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{e00e5b2eb3f3442364dac13487d2b858}
+      \strng{fullhash}{e00e5b2eb3f3442364dac13487d2b858}
+      \field{sortinit}{K}
+      \field{labeltitle}{Law and English Railway Capitalism}
+      \true{singletitle}
+      \field{title}{Law and English Railway Capitalism}
+      \field{year}{1997}
     \endentry
     \entry{krier04}{article}{}
       \name{labelname}{2}{}{%
@@ -1588,6 +1681,24 @@
       \field{title}{Private Property, Community Development and Eminent Domain}
       \field{year}{2008}
     \endentry
+    \entry{mann59}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3232d8e82d1b4fa520a4f1205488b0bf}{Mann}{M\bibinitperiod}{F\bbxinitsep\bibnamedelima A\bbxinitsep}{F\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3232d8e82d1b4fa520a4f1205488b0bf}{Mann}{M\bibinitperiod}{F\bbxinitsep\bibnamedelima A\bbxinitsep}{F\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3232d8e82d1b4fa520a4f1205488b0bf}
+      \strng{fullhash}{3232d8e82d1b4fa520a4f1205488b0bf}
+      \field{sortinit}{M}
+      \field{labeltitle}{Outlines of a History of Expropriation}
+      \true{singletitle}
+      \field{journaltitle}{Law Quarterly Review}
+      \field{title}{Outlines of a History of Expropriation}
+      \field{volume}{75}
+      \field{year}{1959}
+      \field{pages}{188}
+    \endentry
     \entry{meidinger80}{article}{}
       \name{labelname}{1}{}{%
         {{hash=33c6dc61106fc7253a55b5c7706de615}{Meidinger}{M\bibinitperiod}{Errol}{E\bibinitperiod}{}{}{}{}}%
@@ -1646,6 +1757,48 @@
       \field{year}{1916}
       \field{pages}{30}
       \keyw{us}
+    \endentry
+    \entry{munton95}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=840d0f50729976544d77625c05ed2087}{Munton}{M\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=840d0f50729976544d77625c05ed2087}{Munton}{M\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{840d0f50729976544d77625c05ed2087}
+      \strng{fullhash}{840d0f50729976544d77625c05ed2087}
+      \field{sortinit}{M}
+      \field{labeltitle}{Regulating rural change: {P}roperty rights, economy and environment -- a case study from Cumbria, UK}
+      \true{singletitle}
+      \field{journaltitle}{Journal of Rural Studies}
+      \field{number}{3}
+      \field{title}{Regulating rural change: {P}roperty rights, economy and environment -- a case study from Cumbria, UK}
+      \field{volume}{11}
+      \field{year}{1995}
+      \field{pages}{269\bibrangedash 284}
+    \endentry
+    \entry{murakami13}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=7ae1b463f5b7fc6fc40058922b62550a}{Murakami}{M\bibinitperiod}{M\bbxinitsep\bibnamedelima M\bbxinitsep}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f7f05fab9eb79af4a15093caa6df0672}{Ace}{A\bibinitperiod}{B\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima K\bbxinitsep}{B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=f94c531b431773fbefbd0ccf6f19db17}{Thomas}{T\bibinitperiod}{R\bbxinitsep\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=7ae1b463f5b7fc6fc40058922b62550a}{Murakami}{M\bibinitperiod}{M\bbxinitsep\bibnamedelima M\bbxinitsep}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f7f05fab9eb79af4a15093caa6df0672}{Ace}{A\bibinitperiod}{B\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima K\bbxinitsep}{B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=f94c531b431773fbefbd0ccf6f19db17}{Thomas}{T\bibinitperiod}{R\bbxinitsep\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d3e9d3e41879d87ee2538bc4b33647aa}
+      \strng{fullhash}{d3e9d3e41879d87ee2538bc4b33647aa}
+      \field{sortinit}{M}
+      \field{labeltitle}{Recent developments in eminent domain: {P}ublic use}
+      \true{singletitle}
+      \field{journaltitle}{Urban Lawyer}
+      \field{number}{3}
+      \field{title}{Recent developments in eminent domain: {P}ublic use}
+      \field{volume}{45}
+      \field{year}{2013}
+      \field{pages}{809\bibrangedash 825}
     \endentry
     \entry{musil12}{article}{}
       \name{labelname}{1}{}{%
@@ -1773,7 +1926,7 @@
       \field{title}{\emph{Hongkong Fir Shipping Co v Kawasaki Kisen Kaisha Ltd, The Hongkong Fir} (1961)}
       \field{year}{2008}
     \endentry
-    \entry{dominion54}{legislation}{}
+    \entry{dominion25}{legislation}{}
       \field{sortinit}{O}
       \field{labeltitle}{Old Dominion Land Co v US}
       \true{singletitle}
@@ -2021,6 +2174,26 @@
       \field{year}{1981}
       \field{pages}{541}
     \endentry
+    \entry{reynolds10}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f4768572a6ea3b97da1aa962d26f4ac5}{Reynolds}{R\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f4768572a6ea3b97da1aa962d26f4ac5}{Reynolds}{R\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of North Carolina Press}%
+      }
+      \strng{namehash}{f4768572a6ea3b97da1aa962d26f4ac5}
+      \strng{fullhash}{f4768572a6ea3b97da1aa962d26f4ac5}
+      \field{sortinit}{R}
+      \field{labeltitle}{Before Eminent Domain}
+      \field{abstract}{Before Eminent Domain}
+      \field{series}{Studies in Legal History}
+      \field{subtitle}{Toward a History of Expropriation of Land for the Common Good}
+      \field{title}{Before Eminent Domain}
+      \field{year}{2010}
+    \endentry
     \entry{robson12}{article}{}
       \name{labelname}{1}{}{%
         {{hash=2d8cf05475ad0b39613dfb1dc6bacb86}{Robson}{R\bibinitperiod}{Gregory\bibnamedelima J\bbxinitsep}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -2094,6 +2267,25 @@
       \field{title}{Sale of Goods Act}
       \field{year}{1979}
       \keyw{en}
+    \endentry
+    \entry{sandefur05}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a87e41455354827d2fe9e75aef393a7a}{Sandefur}{S\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a87e41455354827d2fe9e75aef393a7a}{Sandefur}{S\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a87e41455354827d2fe9e75aef393a7a}
+      \strng{fullhash}{a87e41455354827d2fe9e75aef393a7a}
+      \field{sortinit}{S}
+      \field{labeltitle}{A gleeful obituary for Poletown Neighborhood Council v. Detroit}
+      \true{singletitle}
+      \field{journaltitle}{Harvard Journal of Law and Public Policy}
+      \field{number}{2}
+      \field{title}{A gleeful obituary for Poletown Neighborhood Council v. Detroit}
+      \field{volume}{28}
+      \field{year}{2005}
+      \field{pages}{651\bibrangedash 678}
     \endentry
     \entry{benedettisc}{jurisdiction}{year-essential=true}
       \list{institution}{1}{%
@@ -2397,6 +2589,24 @@
       \field{title}{Is There a Law of Unjust Enrichment?}
       \field{year}{2008}
     \endentry
+    \entry{stoebuck72}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2c68941631ef3144558da118c1f196a8}{Stoebuck}{S\bibinitperiod}{William\bibnamedelima B\bbxinitsep}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2c68941631ef3144558da118c1f196a8}{Stoebuck}{S\bibinitperiod}{William\bibnamedelima B\bbxinitsep}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2c68941631ef3144558da118c1f196a8}
+      \strng{fullhash}{2c68941631ef3144558da118c1f196a8}
+      \field{sortinit}{S}
+      \field{labeltitle}{A General Theory of Eminent Domain}
+      \true{singletitle}
+      \field{journaltitle}{Wash. L. Rev.}
+      \field{title}{A General Theory of Eminent Domain}
+      \field{volume}{47}
+      \field{year}{1972}
+      \field{pages}{553}
+    \endentry
     \entry{stowell14}{jurisdiction}{}
       \field{sortinit}{S}
       \field{labeltitle}{Stowell v Flagg}
@@ -2432,6 +2642,26 @@
       \field{year}{2010}
       \field{pages}{679\bibrangedash 714}
     \endentry
+    \entry{taggart98}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=2f5b4cc1788fdf9f16f713eb9698c340}{Taggart}{T\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2f5b4cc1788fdf9f16f713eb9698c340}{Taggart}{T\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{2f5b4cc1788fdf9f16f713eb9698c340}
+      \strng{fullhash}{2f5b4cc1788fdf9f16f713eb9698c340}
+      \field{sortinit}{T}
+      \field{labeltitle}{Expropriation, Public Purpose and the Constitution}
+      \true{singletitle}
+      \field{booktitle}{The Golden Metwand and the Crooked Cord}
+      \field{subtitle}{Essays on public law in honour of Sir William Wade}
+      \field{title}{Expropriation, Public Purpose and the Constitution}
+      \field{year}{1998}
+    \endentry
     \entry{yale49}{article}{}
       \list{language}{1}{%
         {English}%
@@ -2452,25 +2682,6 @@
       \verb{url}
       \verb http://www.jstor.org/stable/793084
       \endverb
-    \endentry
-    \entry{murakami13}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=f94c531b431773fbefbd0ccf6f19db17}{Thomas}{T\bibinitperiod}{R\bbxinitsep\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=f94c531b431773fbefbd0ccf6f19db17}{Thomas}{T\bibinitperiod}{R\bbxinitsep\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{f94c531b431773fbefbd0ccf6f19db17}
-      \strng{fullhash}{f94c531b431773fbefbd0ccf6f19db17}
-      \field{sortinit}{T}
-      \field{labeltitle}{Recent developments in eminent domain: Public use}
-      \field{journaltitle}{Urban Lawyer}
-      \field{number}{3}
-      \field{title}{Recent developments in eminent domain: Public use}
-      \field{volume}{45}
-      \field{year}{2013}
-      \field{pages}{809\bibrangedash 825}
-      \warn{\item Name "Murakami, M\bbxinitsep  M\bbxinitsep , Ace, B\bbxinitsep  C\bbxinitsep  K\bbxinitsep ," has too many commas: skipping name}
     \endentry
     \entry{thomas09}{article}{}
       \name{labelname}{1}{}{%
@@ -2572,11 +2783,28 @@
       \strng{fullhash}{87a32852f7d0d97526c056521fbba851}
       \field{sortinit}{U}
       \field{labeltitle}{Property as Constitutional Myth: Utilities and Dangers}
-      \true{singletitle}
       \field{journaltitle}{Cornell L. Rev.}
       \field{title}{Property as Constitutional Myth: Utilities and Dangers}
       \field{volume}{92}
       \field{pages}{1239}
+    \endentry
+    \entry{underkuffer06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=87a32852f7d0d97526c056521fbba851}{Underkuffer}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=87a32852f7d0d97526c056521fbba851}{Underkuffer}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{87a32852f7d0d97526c056521fbba851}
+      \strng{fullhash}{87a32852f7d0d97526c056521fbba851}
+      \field{sortinit}{U}
+      \field{labeltitle}{Kelo's moral failure}
+      \field{journaltitle}{William \& Mary Bill of Rights Journal}
+      \field{number}{2}
+      \field{title}{Kelo's moral failure}
+      \field{volume}{15}
+      \field{year}{2006}
+      \field{pages}{377\bibrangedash 388}
     \endentry
     \entry{underkuffle06}{article}{}
       \name{labelname}{1}{}{%
