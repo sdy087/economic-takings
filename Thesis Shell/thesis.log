@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  14 JUL 2014 14:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.4.29)  17 JUL 2014 23:13
 entering extended mode
-**C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/thesis.tex
-("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/thesis.tex"
+**thesis
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -55,18 +55,10 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: dvips.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count88
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip43
@@ -98,7 +90,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
-\babel@savecnt=\count89
+\babel@savecnt=\count88
 \U@D=\dimen103
 )
 \l@canadian = a dialect from \language\l@american 
@@ -111,7 +103,7 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: dvips.def on input line 130.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
@@ -136,13 +128,13 @@ Package: amsbsy 1999/11/29 v1.2d
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count90
+\inf@bad=\count89
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count91
-\leftroot@=\count92
+\uproot@=\count90
+\leftroot@=\count91
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count93
-\DOTSCASE@=\count94
+\classnum@=\count92
+\DOTSCASE@=\count93
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -151,15 +143,15 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen106
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count95
-\c@MaxMatrixCols=\count96
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
 \dotsspace@=\muskip10
-\c@parentequation=\count97
-\dspbrk@lvl=\count98
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
 \tag@help=\toks16
-\row@=\count99
-\column@=\count100
-\maxfields@=\count101
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
 \andhelp@=\toks17
 \eqnshift@=\dimen107
 \alignsep@=\dimen108
@@ -212,9 +204,9 @@ Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count102
+\et@xins=\count101
 )
-\etb@tempcnta=\count103
+\etb@tempcnta=\count102
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
@@ -223,9 +215,15 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
@@ -240,7 +238,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count104
+\lrq@indent=\count103
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -252,44 +250,44 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count105
-\c@listtotal=\count106
-\c@listcount=\count107
-\c@liststart=\count108
-\c@liststop=\count109
-\c@citecount=\count110
-\c@citetotal=\count111
-\c@multicitecount=\count112
-\c@multicitetotal=\count113
-\c@instcount=\count114
-\c@maxnames=\count115
-\c@minnames=\count116
-\c@maxitems=\count117
-\c@minitems=\count118
-\c@citecounter=\count119
-\c@savedcitecounter=\count120
-\c@uniquelist=\count121
-\c@uniquename=\count122
-\c@refsection=\count123
-\c@refsegment=\count124
-\c@maxextratitle=\count125
-\c@maxextratitleyear=\count126
-\c@maxextrayear=\count127
-\c@maxextraalpha=\count128
-\c@abbrvpenalty=\count129
-\c@highnamepenalty=\count130
-\c@lownamepenalty=\count131
-\c@maxparens=\count132
-\c@parenlevel=\count133
-\blx@tempcnta=\count134
-\blx@tempcntb=\count135
-\blx@tempcntc=\count136
-\blx@maxsection=\count137
-\blx@maxsegment@0=\count138
-\blx@notetype=\count139
-\blx@parenlevel@text=\count140
-\blx@parenlevel@foot=\count141
-\blx@sectionciteorder@0=\count142
+\c@tabx@nest=\count104
+\c@listtotal=\count105
+\c@listcount=\count106
+\c@liststart=\count107
+\c@liststop=\count108
+\c@citecount=\count109
+\c@citetotal=\count110
+\c@multicitecount=\count111
+\c@multicitetotal=\count112
+\c@instcount=\count113
+\c@maxnames=\count114
+\c@minnames=\count115
+\c@maxitems=\count116
+\c@minitems=\count117
+\c@citecounter=\count118
+\c@savedcitecounter=\count119
+\c@uniquelist=\count120
+\c@uniquename=\count121
+\c@refsection=\count122
+\c@refsegment=\count123
+\c@maxextratitle=\count124
+\c@maxextratitleyear=\count125
+\c@maxextrayear=\count126
+\c@maxextraalpha=\count127
+\c@abbrvpenalty=\count128
+\c@highnamepenalty=\count129
+\c@lownamepenalty=\count130
+\c@maxparens=\count131
+\c@parenlevel=\count132
+\blx@tempcnta=\count133
+\blx@tempcntb=\count134
+\blx@tempcntc=\count135
+\blx@maxsection=\count136
+\blx@maxsegment@0=\count137
+\blx@notetype=\count138
+\blx@parenlevel@text=\count139
+\blx@parenlevel@foot=\count140
+\blx@sectionciteorder@0=\count141
 \labelnumberwidth=\skip55
 \labelalphawidth=\skip56
 \shorthandwidth=\skip57
@@ -301,9 +299,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip63
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count143
-\c@maxcomprange=\count144
-\c@mincompwidth=\count145
+\c@mincomprange=\count142
+\c@maxcomprange=\count143
+\c@mincompwidth=\count144
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -312,72 +310,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'oscola.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count146
-\c@savedafterword=\count147
-\c@annotator=\count148
-\c@savedannotator=\count149
-\c@author=\count150
-\c@savedauthor=\count151
-\c@bookauthor=\count152
-\c@savedbookauthor=\count153
-\c@commentator=\count154
-\c@savedcommentator=\count155
-\c@editor=\count156
-\c@savededitor=\count157
-\c@editora=\count158
-\c@savededitora=\count159
-\c@editorb=\count160
-\c@savededitorb=\count161
-\c@editorc=\count162
-\c@savededitorc=\count163
-\c@foreword=\count164
-\c@savedforeword=\count165
-\c@holder=\count166
-\c@savedholder=\count167
-\c@introduction=\count168
-\c@savedintroduction=\count169
-\c@namea=\count170
-\c@savednamea=\count171
-\c@nameb=\count172
-\c@savednameb=\count173
-\c@namec=\count174
-\c@savednamec=\count175
-\c@shortauthor=\count176
-\c@savedshortauthor=\count177
-\c@shorteditor=\count178
-\c@savedshorteditor=\count179
-\c@translator=\count180
-\c@savedtranslator=\count181
-\c@labelname=\count182
-\c@savedlabelname=\count183
-\c@institution=\count184
-\c@savedinstitution=\count185
-\c@lista=\count186
-\c@savedlista=\count187
-\c@listb=\count188
-\c@savedlistb=\count189
-\c@listc=\count190
-\c@savedlistc=\count191
-\c@listd=\count192
-\c@savedlistd=\count193
-\c@liste=\count194
-\c@savedliste=\count195
-\c@listf=\count196
-\c@savedlistf=\count197
-\c@location=\count198
-\c@savedlocation=\count199
-\c@organization=\count200
-\c@savedorganization=\count201
-\c@origlocation=\count202
-\c@savedoriglocation=\count203
-\c@origpublisher=\count204
-\c@savedorigpublisher=\count205
-\c@publisher=\count206
-\c@savedpublisher=\count207
-\c@language=\count208
-\c@savedlanguage=\count209
-\c@pageref=\count210
-\c@savedpageref=\count211
+\c@afterword=\count145
+\c@savedafterword=\count146
+\c@annotator=\count147
+\c@savedannotator=\count148
+\c@author=\count149
+\c@savedauthor=\count150
+\c@bookauthor=\count151
+\c@savedbookauthor=\count152
+\c@commentator=\count153
+\c@savedcommentator=\count154
+\c@editor=\count155
+\c@savededitor=\count156
+\c@editora=\count157
+\c@savededitora=\count158
+\c@editorb=\count159
+\c@savededitorb=\count160
+\c@editorc=\count161
+\c@savededitorc=\count162
+\c@foreword=\count163
+\c@savedforeword=\count164
+\c@holder=\count165
+\c@savedholder=\count166
+\c@introduction=\count167
+\c@savedintroduction=\count168
+\c@namea=\count169
+\c@savednamea=\count170
+\c@nameb=\count171
+\c@savednameb=\count172
+\c@namec=\count173
+\c@savednamec=\count174
+\c@shortauthor=\count175
+\c@savedshortauthor=\count176
+\c@shorteditor=\count177
+\c@savedshorteditor=\count178
+\c@translator=\count179
+\c@savedtranslator=\count180
+\c@labelname=\count181
+\c@savedlabelname=\count182
+\c@institution=\count183
+\c@savedinstitution=\count184
+\c@lista=\count185
+\c@savedlista=\count186
+\c@listb=\count187
+\c@savedlistb=\count188
+\c@listc=\count189
+\c@savedlistc=\count190
+\c@listd=\count191
+\c@savedlistd=\count192
+\c@liste=\count193
+\c@savedliste=\count194
+\c@listf=\count195
+\c@savedlistf=\count196
+\c@location=\count197
+\c@savedlocation=\count198
+\c@organization=\count199
+\c@savedorganization=\count200
+\c@origlocation=\count201
+\c@savedoriglocation=\count202
+\c@origpublisher=\count203
+\c@savedorigpublisher=\count204
+\c@publisher=\count205
+\c@savedpublisher=\count206
+\c@language=\count207
+\c@savedlanguage=\count208
+\c@pageref=\count209
+\c@savedpageref=\count210
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -389,13 +387,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 
-\c@textcitecount=\count212
-\c@textcitetotal=\count213
-\c@textcitemaxnames=\count214
-\c@biburlnumpenalty=\count215
-\c@biburlucpenalty=\count216
-\c@biburllcpenalty=\count217
-\c@smartand=\count218
+\c@textcitecount=\count211
+\c@textcitetotal=\count212
+\c@textcitemaxnames=\count213
+\c@biburlnumpenalty=\count214
+\c@biburlucpenalty=\count215
+\c@biburllcpenalty=\count216
+\c@smartand=\count217
 )
 Package biblatex Info: Trying to load bibliography style 'oscola'...
 Package biblatex Info: ... file 'oscola.bbx' found.
@@ -413,12 +411,12 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count219
-\c@bbx:relatedtotal=\count220
+\c@bbx:relatedcount=\count218
+\c@bbx:relatedtotal=\count219
 ))
-\c@bbx@suppresspostnotedelim=\count221
-\c@blx@tmpcnt=\count222
-\c@bbx@legal@tempcounter=\count223
+\c@bbx@suppresspostnotedelim=\count220
+\c@blx@tmpcnt=\count221
+\c@bbx@legal@tempcounter=\count222
 )
 Package biblatex Info: Trying to load citation style 'oscola'...
 Package biblatex Info: ... file 'oscola.cbx' found.
@@ -438,7 +436,7 @@ Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
 )
-\c@bbx@lastcitedc=\count224
+\c@bbx@lastcitedc=\count223
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\footfullcite'.
 )
@@ -449,12 +447,12 @@ File: biblatex.cfg
 )))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
 Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
-\csq@reset=\count225
-\csq@gtype=\count226
-\csq@glevel=\count227
-\csq@qlevel=\count228
-\csq@maxlvl=\count229
-\csq@tshold=\count230
+\csq@reset=\count224
+\csq@gtype=\count225
+\csq@glevel=\count226
+\csq@qlevel=\count227
+\csq@maxlvl=\count228
+\csq@tshold=\count229
 \csq@ltx@everypar=\toks21
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
@@ -479,7 +477,7 @@ Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
-\XKV@depth=\count231
+\XKV@depth=\count230
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
@@ -491,7 +489,7 @@ Package: expl3 2014/05/06 v4751 L3 programming layer (loader)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2014/05/06 v4751 L3 programming layer (code) 
@@ -870,8 +868,11 @@ Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
-)
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
@@ -923,10 +924,16 @@ Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \@glossaryfile=\write4
 
 Writing glossary file thesis.glo 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
+)
+\epsfxsize=\dimen158
+\epsfysize=\dimen159
 )
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -1549,12 +1556,12 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box71
 \beforetitleunit=\skip109
 \aftertitleunit=\skip110
-\ttl@plus=\dimen158
-\ttl@minus=\dimen159
+\ttl@plus=\dimen160
+\ttl@minus=\dimen161
 \ttl@toksa=\toks28
-\titlewidth=\dimen160
-\titlewidthlast=\dimen161
-\titlewidthfirst=\dimen162
+\titlewidth=\dimen162
+\titlewidthlast=\dimen163
+\titlewidthfirst=\dimen164
 )
 \@indexfile=\write5
 
@@ -1581,6 +1588,10 @@ File: english-oscola.lbx 2014/05/22 v 1.4 Biblatex localisation file for OSCOLA
 Started index file trash
 
 Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 68.
+
+
+LaTeX Warning: Unused global option(s):
+    [pdftex].
 
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
@@ -1626,29 +1637,16 @@ LaTeX Font Info:    Try loading font information for LGR+cmr on input line 68.
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 68.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
-\scratchdimen=\dimen163
-\scratchbox=\box72
-\nofMPsegments=\count320
-\nofMParguments=\count321
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count322
-\MPscratchDim=\dimen164
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
-\everyMPtoPDFconversion=\toks30
-)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
- ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.bbl")
+
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.bbl")
 Package biblatex Info: Reference section=0 on input line 68.
 Package biblatex Info: Reference segment=0 on input line 68.
+\AtBeginShipoutBox=\box72
 
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.tex"
 [1
@@ -1657,8 +1655,7 @@ Package biblatex Info: Reference segment=0 on input line 68.
 
 
 
-{C:/Users/SjurK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
+]) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1696,93 +1693,250 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-[18] [19] [20] [21] [22] [23] [24] [25]
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
 
-LaTeX Warning: Reference `' on page 26 undefined on input line 140.
-
-[26] [27] [28] [29] [30] [31] [32] [33] [34]
-
-LaTeX Warning: Citation 'crawford12' on page 35 undefined on input line 324.
-
-[35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]) [64]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1.tex"
-Chapter 2.
-Package biblatex Info: Resetting trackers on input line 1.
-[65
+Package biblatex Warning: Nested notes on input line 81.
 
 
+Package biblatex Warning: Nested notes on input line 81.
 
-] [66] [67] [68] [69] [70] [71] [72]
+[12] [13]
 
-LaTeX Warning: Citation 'allen' on page 73 undefined on input line 51.
+LaTeX Warning: Reference `sec:?' on page 14 undefined on input line 89.
 
-[73] [74] [75] [76] [77] [78] [79] [80] [81] [82]
+[14]
 
-LaTeX Warning: Citation 'boxberg85' on page 83 undefined on input line 109.
+LaTeX Warning: Citation 'altermann12' on page 15 undefined on input line 95.
 
-[83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
-
-LaTeX Warning: Reference `subsec:1' on page 94 undefined on input line 177.
-
-[94] [95] [96] [97]
-
-Package biblatex Warning: Nested notes on input line 198.
-
-[98] [99]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 206.
+[15] [16] [17]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 108.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
+
+
+LaTeX Warning: Reference `sec:x' on page 18 undefined on input line 115.
+
+[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+[33] [34] [35] [36] [37]
+
+LaTeX Warning: Reference `' on page 38 undefined on input line 213.
+
+[38] [39]
+
+LaTeX Warning: Citation 'crawford12' on page 40 undefined on input line 225.
+
+[40] [41] [42] [43] [44]
+
+LaTeX Warning: Reference `cbx@34' on page 45 undefined on input line 260.
+
+[45]
+
+LaTeX Warning: Reference `cbx@34' on page 46 undefined on input line 266.
+
+[46]
+
+LaTeX Warning: Reference `cbx@34' on page 47 undefined on input line 268.
+
+[47]
+
+LaTeX Warning: Reference `cbx@34' on page 48 undefined on input line 274.
+
+
+LaTeX Warning: Reference `cbx@34' on page 48 undefined on input line 277.
+
+[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
+[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]) [77]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1.tex"
+Chapter 2.
+Package biblatex Info: Resetting trackers on input line 1.
+[78
+
+
+
+] [79] [80] [81] [82] [83]
+
+LaTeX Warning: Reference `cbx@57' on page 84 undefined on input line 47.
+
+[84] [85]
+
+LaTeX Warning: Citation 'allen' on page 86 undefined on input line 51.
+
+[86] [87] [88] [89]
+
+LaTeX Warning: Reference `cbx@63' on page 90 undefined on input line 79.
+
+
+LaTeX Warning: Reference `cbx@63' on page 90 undefined on input line 79.
+
+[90] [91] [92] [93] [94] [95]
+
+LaTeX Warning: Citation 'boxberg85' on page 96 undefined on input line 109.
+
+[96] [97] [98] [99] [100] [101] [102] [103]
+
+LaTeX Warning: Reference `cbx@81' on page 104 undefined on input line 145.
+
+
+LaTeX Warning: Reference `cbx@54' on page 104 undefined on input line 147.
+
+
+LaTeX Warning: Reference `cbx@54' on page 104 undefined on input line 147.
+
+[104] [105] [106]
+
+LaTeX Warning: Reference `subsec:1' on page 107 undefined on input line 177.
+
+[107]
+
+LaTeX Warning: Reference `cbx@98' on page 108 undefined on input line 179.
+
+
+LaTeX Warning: Reference `cbx@98' on page 108 undefined on input line 179.
+
+
+LaTeX Warning: Reference `cbx@103' on page 108 undefined on input line 181.
+
+[108]
+
+LaTeX Warning: Reference `cbx@103' on page 109 undefined on input line 183.
+
+
+LaTeX Warning: Reference `cbx@103' on page 109 undefined on input line 183.
+
+[109]
+
+LaTeX Warning: Reference `cbx@115' on page 110 undefined on input line 192.
+
+[110]
+
+Package biblatex Warning: Nested notes on input line 198.
+
+[111] [112]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 206.
+ [113]
 
-[100] [101] [102] [103] [104] [105] [106] [107] [108]
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 246.
- [109] [110] [111]
-[112]
+LaTeX Warning: Reference `cbx@129' on page 114 undefined on input line 211.
 
-LaTeX Warning: Citation 'midkiff' on page 113 undefined on input line 267.
 
-[113] [114]
+LaTeX Warning: Reference `cbx@129' on page 114 undefined on input line 214.
 
-LaTeX Warning: Citation 'underkuffler09' on page 115 undefined on input line 27
+[114]
+
+LaTeX Warning: Reference `cbx@129' on page 115 undefined on input line 216.
+
+
+LaTeX Warning: Reference `cbx@129' on page 115 undefined on input line 219.
+
+[115] [116]
+
+LaTeX Warning: Reference `cbx@127' on page 117 undefined on input line 228.
+
+[117] [118]
+
+LaTeX Warning: Reference `cbx@85' on page 119 undefined on input line 234.
+
+
+LaTeX Warning: Reference `cbx@115' on page 119 undefined on input line 234.
+
+[119]
+
+LaTeX Warning: Reference `cbx@150' on page 120 undefined on input line 238.
+
+[120] [121]
+
+LaTeX Warning: Reference `cbx@153' on page 122 undefined on input line 246.
+
+
+LaTeX Warning: Reference `cbx@90' on page 122 undefined on input line 249.
+
+[122]
+
+LaTeX Warning: Reference `cbx@90' on page 123 undefined on input line 252.
+
+[123]
+
+LaTeX Warning: Reference `cbx@90' on page 124 undefined on input line 263.
+
+[124]
+
+LaTeX Warning: Reference `cbx@153' on page 125 undefined on input line 265.
+
+
+LaTeX Warning: Reference `cbx@90' on page 125 undefined on input line 265.
+
+[125]
+
+LaTeX Warning: Citation 'midkiff' on page 126 undefined on input line 267.
+
+[126] [127]
+
+LaTeX Warning: Citation 'underkuffler09' on page 128 undefined on input line 27
 6.
 
-[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
+[128] [129] [130]
 
-LaTeX Warning: Citation 'schwarz94' on page 126 undefined on input line 354.
-
-
-LaTeX Warning: Citation 'schwarz13' on page 126 undefined on input line 354.
+LaTeX Warning: Reference `cbx@174' on page 131 undefined on input line 289.
 
 
-LaTeX Warning: Citation 'legavi07' on page 126 undefined on input line 354.
+LaTeX Warning: Reference `cbx@174' on page 131 undefined on input line 289.
 
-[126]
 
-LaTeX Warning: Citation 'lehavi06' on page 127 undefined on input line 356.
+LaTeX Warning: Reference `cbx@174' on page 131 undefined on input line 291.
 
-[127] [128] [129] [130]
 
-LaTeX Warning: Citation 'See \cite [1496]{heller08}. However' on page 131 undef
+LaTeX Warning: Reference `cbx@174' on page 131 undefined on input line 291.
+
+[131]
+
+LaTeX Warning: Reference `cbx@174' on page 132 undefined on input line 295.
+
+
+LaTeX Warning: Reference `cbx@174' on page 132 undefined on input line 295.
+
+[132] [133] [134] [135] [136]
+
+LaTeX Warning: Reference `cbx@169' on page 137 undefined on input line 344.
+
+[137] [138]
+
+LaTeX Warning: Citation 'schwarz94' on page 139 undefined on input line 354.
+
+
+LaTeX Warning: Citation 'schwarz13' on page 139 undefined on input line 354.
+
+
+LaTeX Warning: Citation 'legavi07' on page 139 undefined on input line 354.
+
+[139]
+
+LaTeX Warning: Citation 'lehavi06' on page 140 undefined on input line 356.
+
+[140]
+
+LaTeX Warning: Reference `cbx@208' on page 141 undefined on input line 362.
+
+[141] [142] [143]
+
+LaTeX Warning: Citation 'See \cite [1496]{heller08}. However' on page 144 undef
 ined on input line 386.
 
 
 LaTeX Warning: Citation 'when many of the owners are non-residents who only see
- their land as an investment' on page 131 undefined on input line 386.
+ their land as an investment' on page 144 undefined on input line 386.
 
 
 LaTeX Warning: Citation 'Heller and Hills note that it might be necessary to co
-nsider more complicated voting procedure' on page 131 undefined on input line 3
+nsider more complicated voting procedure' on page 144 undefined on input line 3
 86.
 
 
 LaTeX Warning: Citation 'for instance by requiring separate majorities from dif
-ferent groups of owners. See \cite [1523-1524]{heller08}.' on page 131 undefine
+ferent groups of owners. See \cite [1523-1524]{heller08}.' on page 144 undefine
 d on input line 386.
 
 
@@ -1800,268 +1954,268 @@ Overfull \hbox (128.82387pt too wide) in paragraph at lines 386--386
 []\OT1/cmr/m/n/10 .| 
  []
 
-[131] [132] [133] [134] [135] [136] [137] [138] [139]
+[144] [145] [146] [147] [148] [149] [150] [151] [152]
 
-LaTeX Warning: Reference `sec:appraise' on page 140 undefined on input line 416
+LaTeX Warning: Reference `sec:appraise' on page 153 undefined on input line 416
 .
 
-[140]
+[153]
 
-LaTeX Warning: Reference `sec:landcons' on page 141 undefined on input line 420
+LaTeX Warning: Reference `sec:landcons' on page 154 undefined on input line 420
 .
 
-[141] [142]) [143]
+[154] [155]) [156]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2.tex"
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 1.
-[144
+[157
 
 
 
-] [145]
+] [158]
 
-LaTeX Warning: Citation 'falk' on page 146 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'Tf1' on page 146 undefined on input line 11.
+LaTeX Warning: Citation 'falk' on page 159 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'Tf2' on page 146 undefined on input line 11.
+LaTeX Warning: Citation 'Tf1' on page 159 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'Tf3' on page 146 undefined on input line 11.
+LaTeX Warning: Citation 'Tf2' on page 159 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'Tf1' on page 146 undefined on input line 11.
+LaTeX Warning: Citation 'Tf3' on page 159 undefined on input line 11.
 
-[146] [147] [148]
 
-LaTeX Warning: Citation 'falk' on page 149 undefined on input line 24.
+LaTeX Warning: Citation 'Tf1' on page 159 undefined on input line 11.
 
-[149]
+[159] [160] [161]
+
+LaTeX Warning: Citation 'falk' on page 162 undefined on input line 24.
+
+[162]
 Overfull \hbox (1.0775pt too wide) in paragraph at lines 31--32
 [] \OT1/cmr/m/n/10 ([])
  []
 
-[150] [151]
+[163] [164]
 
-LaTeX Warning: Citation 'ar2010' on page 152 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'Hammer2' on page 152 undefined on input line 47.
-
-[152]
-
-LaTeX Warning: Citation 'liberal' on page 153 undefined on input line 51.
-
-[153]
-
-LaTeX Warning: Citation 'Hindrum' on page 154 undefined on input line 53.
+LaTeX Warning: Citation 'ar2010' on page 165 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'Koht' on page 154 undefined on input line 55.
+LaTeX Warning: Citation 'Hammer2' on page 165 undefined on input line 47.
 
-[154]
+[165]
 
-LaTeX Warning: Citation 'Aanesland' on page 155 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Gloppen' on page 155 undefined on input line 57.
-
-[155] [156] [157]
-
-LaTeX Warning: Citation 'rettleiar' on page 158 undefined on input line 69.
-
-
-LaTeX Warning: Citation 'falk' on page 158 undefined on input line 69.
-
-[158] [159]
-
-LaTeX Warning: Citation 'kartlegging' on page 160 undefined on input line 75.
-
-
-LaTeX Warning: Citation 'investment' on page 160 undefined on input line 75.
-
-[160]
-
-LaTeX Warning: Citation 'kartlegging' on page 161 undefined on input line 81.
-
-[161] [162] [163] [164] [165]
-
-LaTeX Warning: Citation 'Efvl' on page 166 undefined on input line 107.
-
-
-LaTeX Warning: Citation 'flei' on page 166 undefined on input line 107.
+LaTeX Warning: Citation 'liberal' on page 166 undefined on input line 51.
 
 [166]
 
-LaTeX Warning: Citation 'Efvl' on page 167 undefined on input line 113.
+LaTeX Warning: Citation 'Hindrum' on page 167 undefined on input line 53.
 
-[167] [168]
 
-LaTeX Warning: Citation 'Efvl' on page 169 undefined on input line 146.
+LaTeX Warning: Citation 'Koht' on page 167 undefined on input line 55.
 
-[169] [170] [171] [172] [173] [174] [175] [176] [177] [178]
+[167]
 
-LaTeX Warning: Citation 'backer1' on page 179 undefined on input line 205.
+LaTeX Warning: Citation 'Aanesland' on page 168 undefined on input line 57.
 
-[179] [180] [181]) [182]
+
+LaTeX Warning: Citation 'Gloppen' on page 168 undefined on input line 57.
+
+[168] [169] [170]
+
+LaTeX Warning: Citation 'rettleiar' on page 171 undefined on input line 69.
+
+
+LaTeX Warning: Citation 'falk' on page 171 undefined on input line 69.
+
+[171] [172]
+
+LaTeX Warning: Citation 'kartlegging' on page 173 undefined on input line 75.
+
+
+LaTeX Warning: Citation 'investment' on page 173 undefined on input line 75.
+
+[173]
+
+LaTeX Warning: Citation 'kartlegging' on page 174 undefined on input line 81.
+
+[174] [175] [176] [177] [178]
+
+LaTeX Warning: Citation 'Efvl' on page 179 undefined on input line 107.
+
+
+LaTeX Warning: Citation 'flei' on page 179 undefined on input line 107.
+
+[179]
+
+LaTeX Warning: Citation 'Efvl' on page 180 undefined on input line 113.
+
+[180] [181]
+
+LaTeX Warning: Citation 'Efvl' on page 182 undefined on input line 146.
+
+[182] [183] [184] [185] [186] [187] [188] [189] [190] [191]
+
+LaTeX Warning: Citation 'backer1' on page 192 undefined on input line 205.
+
+[192] [193] [194]) [195]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.tex"
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 1.
 
-LaTeX Warning: Citation 'AllenCom' on page 183 undefined on input line 7.
+LaTeX Warning: Citation 'AllenCom' on page 196 undefined on input line 7.
 
-[183
+[196
 
 
 
 ]
 
-LaTeX Warning: Citation 'notimminent' on page 184 undefined on input line 9.
+LaTeX Warning: Citation 'notimminent' on page 197 undefined on input line 9.
 
-[184]
+[197]
 
-LaTeX Warning: Citation 'lcdisc' on page 185 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'newuk' on page 185 undefined on input line 11.
+LaTeX Warning: Citation 'lcdisc' on page 198 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'kelouk' on page 185 undefined on input line 11.
-
-[185] [186]
-
-LaTeX Warning: Citation 'lcdisc' on page 187 undefined on input line 22.
-
-[187] [188] [189] [190] [191] [192] [193]
-
-LaTeX Warning: Citation 'newuk' on page 194 undefined on input line 94.
-
-[194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205]
-[206] [207] [208] [209] [210]
-
-LaTeX Warning: Citation 'Falk' on page 211 undefined on input line 191.
-
-[211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221]
-
-LaTeX Warning: Citation '....' on page 222 undefined on input line 306.
-
-[222] [223] [224] [225] [226]
-
-LaTeX Warning: Citation 'tf1' on page 227 undefined on input line 325.
+LaTeX Warning: Citation 'newuk' on page 198 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'tf2' on page 227 undefined on input line 325.
+LaTeX Warning: Citation 'kelouk' on page 198 undefined on input line 11.
+
+[198] [199]
+
+LaTeX Warning: Citation 'lcdisc' on page 200 undefined on input line 22.
+
+[200] [201] [202] [203] [204] [205] [206]
+
+LaTeX Warning: Citation 'newuk' on page 207 undefined on input line 94.
+
+[207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218]
+[219] [220] [221] [222] [223]
+
+LaTeX Warning: Citation 'Falk' on page 224 undefined on input line 191.
+
+[224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234]
+
+LaTeX Warning: Citation '....' on page 235 undefined on input line 306.
+
+[235] [236] [237] [238] [239]
+
+LaTeX Warning: Citation 'tf1' on page 240 undefined on input line 325.
 
 
-LaTeX Warning: Citation 'tf3' on page 227 undefined on input line 325.
+LaTeX Warning: Citation 'tf2' on page 240 undefined on input line 325.
 
-[227] [228] [229] [230] [231] [232] [233] [234] [235] [236]) [237]
+
+LaTeX Warning: Citation 'tf3' on page 240 undefined on input line 325.
+
+[240] [241] [242] [243] [244] [245] [246] [247] [248] [249]) [250]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.tex"
 Chapter 5.
 Package biblatex Info: Resetting trackers on input line 1.
-[238
+[251
 
 
 
-] [239] [240] [241]
+] [252] [253] [254]
 
-LaTeX Warning: Citation 'schj' on page 242 undefined on input line 40.
+LaTeX Warning: Citation 'schj' on page 255 undefined on input line 40.
 
-[242]
+[255]
 
-LaTeX Warning: Citation 'castberg' on page 243 undefined on input line 46.
+LaTeX Warning: Citation 'castberg' on page 256 undefined on input line 46.
 
-[243]
+[256]
 
-LaTeX Warning: Citation 'newuk' on page 244 undefined on input line 53.
+LaTeX Warning: Citation 'newuk' on page 257 undefined on input line 53.
 
-[244] [245] [246] [247] [248] [249] [250] [251]
+[257] [258] [259] [260] [261] [262] [263] [264]
 
-LaTeX Warning: Citation 'asch' on page 252 undefined on input line 96.
+LaTeX Warning: Citation 'asch' on page 265 undefined on input line 96.
 
-[252] [253] [254] [255]
+[265] [266] [267] [268]
 
-LaTeX Warning: Citation 'knoph' on page 256 undefined on input line 120.
-
-
-LaTeX Warning: Citation 'grunn' on page 256 undefined on input line 126.
+LaTeX Warning: Citation 'knoph' on page 269 undefined on input line 120.
 
 
-LaTeX Warning: Citation 'opshal' on page 256 undefined on input line 126.
+LaTeX Warning: Citation 'grunn' on page 269 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'robb2' on page 256 undefined on input line 126.
+LaTeX Warning: Citation 'opshal' on page 269 undefined on input line 126.
 
 
-LaTeX Warning: Citation 'schj' on page 256 undefined on input line 126.
+LaTeX Warning: Citation 'robb2' on page 269 undefined on input line 126.
 
-[256] [257] [258] [259] [260] [261] [262] [263] [264]
+
+LaTeX Warning: Citation 'schj' on page 269 undefined on input line 126.
+
+[269] [270] [271] [272] [273] [274] [275] [276] [277]
 
 Package Fancyhdr Warning: \headheight is too small (28.85274pt): 
  Make it at least 41.68335pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[265] [266] [267] [268] [269]
+[278] [279] [280] [281] [282]
 
-LaTeX Warning: Citation 'stor' on page 270 undefined on input line 220.
+LaTeX Warning: Citation 'stor' on page 283 undefined on input line 220.
 
-[270] [271]
+[283] [284]
 
-LaTeX Warning: Citation 'skog' on page 272 undefined on input line 228.
+LaTeX Warning: Citation 'skog' on page 285 undefined on input line 228.
 
-[272] [273] [274] [275] [276]
+[285] [286] [287] [288] [289]
 
-LaTeX Warning: Citation 'stor' on page 277 undefined on input line 244.
+LaTeX Warning: Citation 'stor' on page 290 undefined on input line 244.
 
 
-LaTeX Warning: Citation 'regeksp' on page 277 undefined on input line 244.
+LaTeX Warning: Citation 'regeksp' on page 290 undefined on input line 244.
 
-[277] [278] [279] [280] [281]) [282]
+[290] [291] [292] [293] [294]) [295]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.tex"
 Chapter 6.
 Package biblatex Info: Resetting trackers on input line 1.
 
-LaTeX Warning: Citation 'vittikainen2004' on page 283 undefined on input line 5
+LaTeX Warning: Citation 'vittikainen2004' on page 296 undefined on input line 5
 .
 
-[283
+[296
 
 
 
-] [284]
+] [297]
 
-LaTeX Warning: Citation 'rygg1998' on page 285 undefined on input line 15.
+LaTeX Warning: Citation 'rygg1998' on page 298 undefined on input line 15.
 
-[285] [286] [287] [288] [289] [290] [291] [292] [293] [294] [295] [296]
-[297] [298] [299] [300] [301] [302] [303] [304] [305] [306] [307] [308]
+[298] [299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309]
+[310] [311] [312] [313] [314] [315] [316] [317] [318] [319] [320] [321]
 
-LaTeX Warning: Citation 'master' on page 309 undefined on input line 144.
+LaTeX Warning: Citation 'master' on page 322 undefined on input line 144.
 
-[309] [310] [311]
+[322] [323] [324]
 
-LaTeX Warning: Citation 'master' on page 312 undefined on input line 158.
+LaTeX Warning: Citation 'master' on page 325 undefined on input line 158.
 
 
-LaTeX Warning: Citation 'master' on page 312 undefined on input line 160.
+LaTeX Warning: Citation 'master' on page 325 undefined on input line 160.
 
-[312]
+[325]
 
-LaTeX Warning: Citation 'master' on page 313 undefined on input line 162.
+LaTeX Warning: Citation 'master' on page 326 undefined on input line 162.
 
-[313] [314]
+[326] [327]
 
-LaTeX Warning: Citation 'master' on page 315 undefined on input line 172.
+LaTeX Warning: Citation 'master' on page 328 undefined on input line 172.
 
-[315] [316] [317] [318] [319] [320] [321]) [322] [323]
+[328] [329] [330] [331] [332] [333] [334]) [335] [336]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.tex"
-[324
+[337
 
 
 
-] [325] [326] [327] [328] [329] [330] [331] [332] [333]) [334]
+] [338] [339] [340] [341] [342] [343] [344] [345] [346] [347]) [348]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.aux")
@@ -2086,33 +2240,12 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 18569 strings out of 493921
- 323860 string characters out of 3144876
- 780832 words of memory out of 3000000
- 21523 multiletter control sequences out of 15000+200000
+ 18398 strings out of 493922
+ 321980 string characters out of 3144899
+ 769537 words of memory out of 3000000
+ 21353 multiletter control sequences out of 15000+200000
  16480 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,12n,69p,10486b,3036s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (340 pages, 1057855 bytes).
-PDF statistics:
- 1160 PDF objects out of 1200 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51i,12n,69p,10429b,3038s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on thesis.dvi (354 pages, 1003940 bytes).

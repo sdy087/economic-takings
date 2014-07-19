@@ -231,6 +231,39 @@
       \field{year}{2010}
       \field{pages}{1055\bibrangedash 1078}
     \endentry
+    \entry{andrus79}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Andrus v Allard}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Andrus v Allard}
+      \field{volume}{444}
+      \field{year}{1979}
+      \field{pages}{51}
+      \keyw{us}
+    \endentry
+    \entry{yale49}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{Anonymous}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{Anonymous}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{fullhash}{7079c72c21415131774625ba1d64f4b0}
+      \field{sortinit}{A}
+      \field{labeltitle}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
+      \true{singletitle}
+      \field{journaltitle}{The Yale Law Journal}
+      \field{number}{4}
+      \field{title}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
+      \field{volume}{58}
+      \field{year}{1949}
+      \field{pages}{599\bibrangedash 614}
+    \endentry
     \entry{arnold02}{article}{}
       \name{labelname}{1}{}{%
         {{hash=6f7673d7677efda76501a8c89174a753}{Arnold}{A\bibinitperiod}{Craig\bibnamedelima Anthony}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -550,6 +583,28 @@
       \field{pages}{570}
       \keyw{us}
     \endentry
+    \entry{calabresi72}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=56b6a3220eb7ca6fbed521bad898c288}{Calabresi}{C\bibinitperiod}{Guido}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=896f0edc0fec58be05fd41fa752e4f38}{Melamed}{M\bibinitperiod}{A\bbxinitsep\bibnamedelima Douglas}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=56b6a3220eb7ca6fbed521bad898c288}{Calabresi}{C\bibinitperiod}{Guido}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=896f0edc0fec58be05fd41fa752e4f38}{Melamed}{M\bibinitperiod}{A\bbxinitsep\bibnamedelima Douglas}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{47dd75fd9a4bdf5587dd2b02efaa8f37}
+      \strng{fullhash}{47dd75fd9a4bdf5587dd2b02efaa8f37}
+      \field{sortinit}{C}
+      \field{labeltitle}{Property Rules, Liability Rules, and Inalienability: {O}ne View of the Cathedral}
+      \true{singletitle}
+      \field{abstract}{Professor Calabresi and Mr. Melamed develop a framework for legal analysis which they believe serves to integrate various legal relationships which are traditionally analyzed in separate subject areas such as Property and Torts. By using their model to suggest solutions to the pollution problem that have been overlooked by writers in the field, and by applying the model to the question of criminal sanctions, they demonstrate the utility of such an integrated approach.}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Property Rules, Liability Rules, and Inalienability: {O}ne View of the Cathedral}
+      \field{volume}{85}
+      \field{year}{1972}
+      \field{pages}{1089\bibrangedash 1128}
+    \endentry
     \entry{calder98}{jurisdiction}{}
       \field{sortinit}{C}
       \field{labeltitle}{Calder}
@@ -601,6 +656,27 @@
       \field{volume}{13}
       \field{year}{2011}
       \field{pages}{685}
+    \endentry
+    \entry{chang12}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=9f51580fb411609d9e88552afe140223}{Chang}{C\bibinitperiod}{Y\bbxinitsep\bibnamedelima C\bbxinitsep}{Y\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1bba78581981d2c4b80a5215862e31f}{Smih}{S\bibinitperiod}{H\bbxinitsep\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=9f51580fb411609d9e88552afe140223}{Chang}{C\bibinitperiod}{Y\bbxinitsep\bibnamedelima C\bbxinitsep}{Y\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1bba78581981d2c4b80a5215862e31f}{Smih}{S\bibinitperiod}{H\bbxinitsep\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c331f3e3b7dacb702360f2a596792385}
+      \strng{fullhash}{c331f3e3b7dacb702360f2a596792385}
+      \field{sortinit}{C}
+      \field{labeltitle}{An Economic Analysis of Civil versus Common Law Property}
+      \true{singletitle}
+      \field{journaltitle}{Notre Dame Law Review}
+      \field{number}{1}
+      \field{title}{An Economic Analysis of Civil versus Common Law Property}
+      \field{volume}{88}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 55}
     \endentry
     \entry{chicago97}{jurisdiction}{}
       \field{sortinit}{C}
@@ -928,6 +1004,25 @@
       \verb http://www.jstor.org/stable/797596
       \endverb
     \endentry
+    \entry{darling05}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a1d8805eb55972edd2628a0f5c86ca9b}{Darling}{D\bibinitperiod}{Eliza}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a1d8805eb55972edd2628a0f5c86ca9b}{Darling}{D\bibinitperiod}{Eliza}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a1d8805eb55972edd2628a0f5c86ca9b}
+      \strng{fullhash}{a1d8805eb55972edd2628a0f5c86ca9b}
+      \field{sortinit}{D}
+      \field{labeltitle}{The city in the country: {W}ilderness gentrification and the rent gap}
+      \true{singletitle}
+      \field{journaltitle}{Environment and Planning A}
+      \field{number}{6}
+      \field{title}{The city in the country: {W}ilderness gentrification and the rent gap}
+      \field{volume}{37}
+      \field{year}{2005}
+      \field{pages}{1015\bibrangedash 1032}
+    \endentry
     \entry{seawell76}{jurisdiction}{}
       \field{sortinit}{D}
       \field{labeltitle}{Dayton Gold \& Silver Mining Co v Seawell}
@@ -1135,6 +1230,41 @@
       \field{pages}{985}
       \keyw{echr}
     \endentry
+    \entry{ellickson11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7d857207a06e6ba982346d8dda7b5bfe}{Ellickson}{E\bibinitperiod}{R\bbxinitsep\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7d857207a06e6ba982346d8dda7b5bfe}{Ellickson}{E\bibinitperiod}{R\bbxinitsep\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7d857207a06e6ba982346d8dda7b5bfe}
+      \strng{fullhash}{7d857207a06e6ba982346d8dda7b5bfe}
+      \field{sortinit}{E}
+      \field{labeltitle}{Two Cheers for the Bundle-of-Sticks Metaphor, Three Cheers for Merrill and Smith}
+      \true{singletitle}
+      \field{number}{3}
+      \field{title}{Two Cheers for the Bundle-of-Sticks Metaphor, Three Cheers for Merrill and Smith}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{215\bibrangedash 222}
+    \endentry
+    \entry{epstein11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ddf08bce35ce8a543fee57f3f9220a21}{Epstein}{E\bibinitperiod}{R\bbxinitsep\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ddf08bce35ce8a543fee57f3f9220a21}{Epstein}{E\bibinitperiod}{R\bbxinitsep\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ddf08bce35ce8a543fee57f3f9220a21}
+      \strng{fullhash}{ddf08bce35ce8a543fee57f3f9220a21}
+      \field{sortinit}{E}
+      \field{labeltitle}{Bundle-of-Rights Theory as a Bulwark Against Statist Conceptions of Private Property}
+      \field{number}{3}
+      \field{title}{Bundle-of-Rights Theory as a Bulwark Against Statist Conceptions of Private Property}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{223\bibrangedash 235}
+    \endentry
     \entry{epstein85}{book}{}
       \name{labelname}{1}{}{%
         {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -1270,6 +1400,26 @@
       \field{year}{1988}
       \field{pages}{269\bibrangedash 293}
     \endentry
+    \entry{foster10}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=91d90b517b8fbf081cda59dbce198f95}{Foster}{F\bibinitperiod}{Nigel}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e90f438fa3642eb4351f0d3cd80c8958}{Sule}{S\bibinitperiod}{Satish}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=91d90b517b8fbf081cda59dbce198f95}{Foster}{F\bibinitperiod}{Nigel}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e90f438fa3642eb4351f0d3cd80c8958}{Sule}{S\bibinitperiod}{Satish}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c36d9a57f98e1e5dd6446db49a91dc2c}
+      \strng{fullhash}{c36d9a57f98e1e5dd6446db49a91dc2c}
+      \field{sortinit}{F}
+      \field{labeltitle}{German legal system and laws}
+      \true{singletitle}
+      \field{title}{German legal system and laws}
+      \field{year}{2010}
+    \endentry
     \entry{foster11}{article}{}
       \name{labelname}{2}{}{%
         {{hash=61d149adbc634e6709b516cb3abb1dea}{Foster}{F\bibinitperiod}{Sheila\bibnamedelima R\bbxinitsep}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
@@ -1289,6 +1439,45 @@
       \field{volume}{80}
       \field{year}{2011}
       \field{pages}{1003}
+    \endentry
+    \entry{gallent07}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=d2189dc73cba5f7ad250301a852c7066}{Gallent}{G\bibinitperiod}{N\bbxinitsep}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=090c69e5c208e656509139a511e537aa}{Tewdwr-Jones}{T\bibinithyphendelim J\bibinitperiod}{M\bbxinitsep}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d2189dc73cba5f7ad250301a852c7066}{Gallent}{G\bibinitperiod}{N\bbxinitsep}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=090c69e5c208e656509139a511e537aa}{Tewdwr-Jones}{T\bibinithyphendelim J\bibinitperiod}{M\bbxinitsep}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{11ae97714e8bdcc1568323817834de17}
+      \strng{fullhash}{11ae97714e8bdcc1568323817834de17}
+      \field{sortinit}{G}
+      \field{labeltitle}{Decent homes for all?}
+      \true{singletitle}
+      \field{title}{Decent homes for all?}
+      \field{year}{2007}
+    \endentry
+    \entry{gallent09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=f9691937146ab94ef47c2437ea1b49e9}{Gallent}{G\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f9691937146ab94ef47c2437ea1b49e9}{Gallent}{G\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f9691937146ab94ef47c2437ea1b49e9}
+      \strng{fullhash}{f9691937146ab94ef47c2437ea1b49e9}
+      \field{sortinit}{G}
+      \field{labeltitle}{Affordable Housing in ``Village England'': {T}owards a More Systematic Approach}
+      \true{singletitle}
+      \field{journaltitle}{Planning Practice and Research}
+      \field{number}{2}
+      \field{title}{Affordable Housing in ``Village England'': {T}owards a More Systematic Approach}
+      \field{volume}{24}
+      \field{year}{2009}
+      \field{pages}{263\bibrangedash 283}
     \endentry
     \entry{garnett06}{article}{}
       \name{labelname}{1}{}{%
@@ -1321,6 +1510,69 @@
       \field{pages}{522}
       \keyw{us}
     \endentry
+    \entry{scott12}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ad64b2c5cbaad289dcb08949c1a450d0}{Gkartzios}{G\bibinitperiod}{Menelaos}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ead3a155a8cddfc670a82d9abef90559}{Scott}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ad64b2c5cbaad289dcb08949c1a450d0}{Gkartzios}{G\bibinitperiod}{Menelaos}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ead3a155a8cddfc670a82d9abef90559}{Scott}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{58dabfbc693f2fd06f62538b570914cd}
+      \strng{fullhash}{58dabfbc693f2fd06f62538b570914cd}
+      \field{sortinit}{G}
+      \field{labeltitle}{Gentrifying the Rural? {P}lanning and Market Processes in Rural Ireland}
+      \true{singletitle}
+      \field{journaltitle}{International Planning Studies}
+      \field{number}{3}
+      \field{title}{Gentrifying the Rural? {P}lanning and Market Processes in Rural Ireland}
+      \field{volume}{17}
+      \field{year}{2012}
+      \field{pages}{253\bibrangedash 276}
+    \endentry
+    \entry{godden11}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=7398b827e96378219e36457549fa52b2}{Godden}{G\bibinitperiod}{Lee}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7398b827e96378219e36457549fa52b2}{Godden}{G\bibinitperiod}{Lee}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d5b39c7ccd72ac0b1f106634a133aba5}{Grinlinton}{G\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=44a8f328c24b388bcf142552c0edf297}{Taylor}{T\bibinitperiod}{Prudence}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Martinus Nijhoff Publishers}%
+      }
+      \strng{namehash}{7398b827e96378219e36457549fa52b2}
+      \strng{fullhash}{7398b827e96378219e36457549fa52b2}
+      \field{sortinit}{G}
+      \field{labeltitle}{Communal Governance of Land and Resources as a Sustainable Property Institution}
+      \true{singletitle}
+      \field{booktitle}{Property Rights and Sustainability: {T}he Evolution of Property Rights to Meet Ecological Challenges}
+      \field{title}{Communal Governance of Land and Resources as a Sustainable Property Institution}
+      \field{year}{2011}
+    \endentry
+    \entry{gray91}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{904eddc68d91c8e66406bcc3f679e990}
+      \strng{fullhash}{904eddc68d91c8e66406bcc3f679e990}
+      \field{sortinit}{G}
+      \field{labeltitle}{Property in Thin Air}
+      \true{singletitle}
+      \field{journaltitle}{The Cambridge Law Journal}
+      \field{number}{2}
+      \field{title}{Property in Thin Air}
+      \field{volume}{50}
+      \field{year}{1991}
+      \field{pages}{252\bibrangedash 307}
+    \endentry
     \entry{arnold11}{incollection}{}
       \name{labelname}{2}{}{%
         {{hash=d5b39c7ccd72ac0b1f106634a133aba5}{Grinlinton}{G\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
@@ -1342,6 +1594,27 @@
       \field{title}{Sustainable Webs of Interests: {P}roperty in an Interconnected Environment}
       \field{year}{2011}
     \endentry
+    \entry{gurran11}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=190eed0dd24b4350cbffd72f7d87196d}{Gurran}{G\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=aedcc89297f3f454cb1b036867c11358}{Whitehead}{W\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=190eed0dd24b4350cbffd72f7d87196d}{Gurran}{G\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=aedcc89297f3f454cb1b036867c11358}{Whitehead}{W\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f725324616bc473b21523f9a69526162}
+      \strng{fullhash}{f725324616bc473b21523f9a69526162}
+      \field{sortinit}{G}
+      \field{labeltitle}{Planning and Affordable Housing in Australia and the UK: {A} Comparative Perspective}
+      \true{singletitle}
+      \field{journaltitle}{Housing Studies}
+      \field{number}{7-8}
+      \field{title}{Planning and Affordable Housing in Australia and the UK: {A} Comparative Perspective}
+      \field{volume}{26}
+      \field{year}{2011}
+      \field{pages}{1193\bibrangedash 1214}
+    \endentry
     \entry{hairston08}{jurisdiction}{}
       \field{sortinit}{H}
       \field{labeltitle}{Hairston v Danville \& W R Co}
@@ -1352,6 +1625,25 @@
       \field{year}{1908}
       \field{pages}{598}
       \keyw{us}
+    \endentry
+    \entry{hale22}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0a9f5e06306a807ed9b25a1dcc9b662d}{Hale}{H\bibinitperiod}{Robert\bibnamedelima L\bbxinitsep}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0a9f5e06306a807ed9b25a1dcc9b662d}{Hale}{H\bibinitperiod}{Robert\bibnamedelima L\bbxinitsep}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0a9f5e06306a807ed9b25a1dcc9b662d}
+      \strng{fullhash}{0a9f5e06306a807ed9b25a1dcc9b662d}
+      \field{sortinit}{H}
+      \field{labeltitle}{Rate Making and the Revision of the Property Concept}
+      \true{singletitle}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{3}
+      \field{title}{Rate Making and the Revision of the Property Concept}
+      \field{volume}{22}
+      \field{year}{1922}
+      \field{pages}{209\bibrangedash 216}
     \endentry
     \entry{midkiff84}{jurisdiction}{}
       \field{sortinit}{H}
@@ -1405,7 +1697,6 @@
       \strng{fullhash}{9b32b2a7114d7be3f9764661fde43ccd}
       \field{sortinit}{H}
       \field{labeltitle}{The Tragedy of the Anticommons: Property in the Transition from Marx to Markets}
-      \true{singletitle}
       \field{abstract}{Why are many storefronts in Moscow empty, while street kiosks in front are full of goods? In this Article, Professor Heller develops a theory of anticommons property to help explain the puzzle of empty storefronts and full kiosks. Anticommons property can be understood as the mirror image of commons property. By definition, in a commons, multiple owners are each endowed with the privilege to use a given resource, and no one has the right to exclude another. When too many owners hold such privileges of use, the resource is prone to overuse - a tragedy of the commons. Depleted fisheries and overgrazed fields are canonical examples of this familiar tragedy. In an anticommons, according to this Article, multiple owners are each endowed with the right to exclude others from a scarce resource, and no one has an effective privilege of use. When too many owners hold such rights of exclusion, the resource is prone to underuse - a tragedy of the anticommons. Empty Moscow storefronts are a canonical example of the tragedy of underuse. Anticommons property may appear whenever governments define new property rights in both post-socialist and developed market economies. Once an anticommons emerges, collecting rights into usable private property bundles can be brutal and slow. The difficulties of overcoming a tragedy of the anticommons suggest that policymakers should pay more attention to the content of property bundles, rather than focusing just on the clairty of rights.}
       \field{issn}{0017811X}
       \field{journaltitle}{Harvard Law Review}
@@ -1417,6 +1708,24 @@
       \verb{url}
       \verb http://www.jstor.org/stable/1342203
       \endverb
+    \endentry
+    \entry{heller99}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9b32b2a7114d7be3f9764661fde43ccd}
+      \strng{fullhash}{9b32b2a7114d7be3f9764661fde43ccd}
+      \field{sortinit}{H}
+      \field{labeltitle}{The Boundaries of Private Property}
+      \field{journaltitle}{The Yale Law Journal}
+      \field{number}{6}
+      \field{title}{The Boundaries of Private Property}
+      \field{volume}{108}
+      \field{year}{1999}
+      \field{pages}{1163\bibrangedash 1223}
     \endentry
     \entry{heller08}{article}{}
       \name{labelname}{2}{}{%
@@ -1696,6 +2005,27 @@
       \field{title}{Commentaries on American law}
       \field{volume}{2}
       \field{year}{1827}
+    \endentry
+    \entry{klein11}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=94838920da7ddc107e3a46d2e14e3da4}{Klein}{K\bibinitperiod}{Daniel\bibnamedelima B\bbxinitsep}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=ae5c51dbc9c561361f824c9a21f1e371}{Robinson}{R\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=94838920da7ddc107e3a46d2e14e3da4}{Klein}{K\bibinitperiod}{Daniel\bibnamedelima B\bbxinitsep}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=ae5c51dbc9c561361f824c9a21f1e371}{Robinson}{R\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{432770a6bb37dfb417c1339c2421f010}
+      \strng{fullhash}{432770a6bb37dfb417c1339c2421f010}
+      \field{sortinit}{K}
+      \field{labeltitle}{Property: {A} Bundle of Rights? Prologue to the Property Symposium}
+      \true{singletitle}
+      \field{journaltitle}{Econ Journal Watch}
+      \field{number}{3}
+      \field{title}{Property: {A} Bundle of Rights? Prologue to the Property Symposium}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{193\bibrangedash 204}
     \endentry
     \entry{kohl75}{jurisdiction}{}
       \field{sortinit}{K}
@@ -1997,6 +2327,47 @@
       \field{year}{1986}
       \field{pages}{61\bibrangedash 116}
     \endentry
+    \entry{merrill01b}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05c6ce7d5738d76489304e6b8f5153f9}
+      \strng{fullhash}{05c6ce7d5738d76489304e6b8f5153f9}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Property/Contract Interface}
+      \field{abstract}{This Article explores the distinction between in personam contract rights and in rem property rights. It presents a functional explanation for why the legal system utilizes these two modalities of rights, grounded in the pattern of information costs associated with each modality. To test this theory, the Article examines four legal institutions that fall along the property/contract interface--bailments, landlord-tenant law, security interests, and trusts--in order to determine how the legal doctrine varies as the underlying situation shifts from in personam, to in rem, to certain relations intermediate between these poles. With respect to each institution, we generally find that in personam relations are governed by flexible default rules; in rem relations are governed by bright-line rules that impose immutable and standardized obligations; intermediate relations, as befits their intermediate level of information costs, feature a type and degree of standardization beyond pure contract but short of pure property.}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{4}
+      \field{title}{The Property/Contract Interface}
+      \field{volume}{101}
+      \field{year}{2001}
+      \field{pages}{773\bibrangedash 852}
+    \endentry
+    \entry{merrill01}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05c6ce7d5738d76489304e6b8f5153f9}
+      \strng{fullhash}{05c6ce7d5738d76489304e6b8f5153f9}
+      \field{sortinit}{M}
+      \field{labeltitle}{What Happened to Property in Law and Economics?}
+      \field{journaltitle}{The Yale Law Journal}
+      \field{number}{2}
+      \field{title}{What Happened to Property in Law and Economics?}
+      \field{volume}{111}
+      \field{year}{2001}
+      \field{pages}{357\bibrangedash 398}
+    \endentry
     \entry{minn06}{jurisdiction}{}
       \field{sortinit}{M}
       \field{labeltitle}{Minnesota Canal \& Power Co v Koochiching Co}
@@ -2025,6 +2396,27 @@
       \field{volume}{22}
       \field{year}{2010}
       \field{pages}{191}
+    \endentry
+    \entry{moore12}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=cde33f4861ab782e5e7b99ce4d181cd7}{Moore}{M\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=eefcec81c904fc26863debdd23002264}{McKee}{M\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=cde33f4861ab782e5e7b99ce4d181cd7}{Moore}{M\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=eefcec81c904fc26863debdd23002264}{McKee}{M\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f9163092a79cda89c61be0ac567bd3b6}
+      \strng{fullhash}{f9163092a79cda89c61be0ac567bd3b6}
+      \field{sortinit}{M}
+      \field{labeltitle}{Empowering Local Communities? {A}n International Review of Community Land Trusts}
+      \true{singletitle}
+      \field{journaltitle}{Housing Studies}
+      \field{number}{2}
+      \field{title}{Empowering Local Communities? {A}n International Review of Community Land Trusts}
+      \field{volume}{27}
+      \field{year}{2012}
+      \field{pages}{280\bibrangedash 290}
     \endentry
     \entry{vernon16}{jurisdiction}{}
       \field{sortinit}{M}
@@ -2329,6 +2721,63 @@
       \field{volume}{76}
       \field{year}{2012}
       \field{pages}{484\bibrangedash 497}
+    \endentry
+    \entry{penner96}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=011b4b88a4342ed129d104b996239eb9}{Penner}{P\bibinitperiod}{J\bbxinitsep\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=011b4b88a4342ed129d104b996239eb9}{Penner}{P\bibinitperiod}{J\bbxinitsep\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{011b4b88a4342ed129d104b996239eb9}
+      \strng{fullhash}{011b4b88a4342ed129d104b996239eb9}
+      \field{sortinit}{P}
+      \field{labeltitle}{The ``bundle of rights'' picture of property}
+      \true{singletitle}
+      \field{journaltitle}{UCLA Law Review}
+      \field{number}{3}
+      \field{title}{The ``bundle of rights'' picture of property}
+      \field{volume}{43}
+      \field{pages}{711\bibrangedash 820}
+    \endentry
+    \entry{phillips93}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=074273a440a2b1e457382575d9d9e7e5}{Phillips}{P\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=074273a440a2b1e457382575d9d9e7e5}{Phillips}{P\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{074273a440a2b1e457382575d9d9e7e5}
+      \strng{fullhash}{074273a440a2b1e457382575d9d9e7e5}
+      \field{sortinit}{P}
+      \field{labeltitle}{Rural gentrification and the processes of class colonisation}
+      \field{journaltitle}{Journal of Rural Studies}
+      \field{number}{2}
+      \field{title}{Rural gentrification and the processes of class colonisation}
+      \field{volume}{9}
+      \field{year}{1993}
+      \field{pages}{123\bibrangedash 140}
+    \endentry
+    \entry{phillips10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=074273a440a2b1e457382575d9d9e7e5}{Phillips}{P\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=074273a440a2b1e457382575d9d9e7e5}{Phillips}{P\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{074273a440a2b1e457382575d9d9e7e5}
+      \strng{fullhash}{074273a440a2b1e457382575d9d9e7e5}
+      \field{sortinit}{P}
+      \field{labeltitle}{Counterurbanisation and rural gentrification: an exploration of the terms}
+      \field{journaltitle}{Population, Space and Place}
+      \field{number}{6}
+      \field{title}{Counterurbanisation and rural gentrification: an exploration of the terms}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{pages}{539\bibrangedash 558}
     \endentry
     \entry{gourde47}{jurisdiction}{year-essential=true}
       \field{sortinit}{P}
@@ -2787,6 +3236,25 @@
       \field{title}{Entitlement: {T}he paradoxes of property}
       \field{year}{2000}
     \endentry
+    \entry{slater06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3c11320fa3b4da3aed2d334fbd4f6cca}{Slater}{S\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3c11320fa3b4da3aed2d334fbd4f6cca}{Slater}{S\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c11320fa3b4da3aed2d334fbd4f6cca}
+      \strng{fullhash}{3c11320fa3b4da3aed2d334fbd4f6cca}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Eviction of Critical Perspectives from Gentrification Research}
+      \true{singletitle}
+      \field{journaltitle}{International Journal of Urban and Regional Research}
+      \field{number}{4}
+      \field{title}{The Eviction of Critical Perspectives from Gentrification Research}
+      \field{volume}{30}
+      \field{year}{2006}
+      \field{pages}{737\bibrangedash 757}
+    \endentry
     \entry{smith08}{jurisdiction}{}
       \field{sortinit}{S}
       \field{labeltitle}{Smith and Others v Secretary of State for Trade and Industry}
@@ -2799,6 +3267,22 @@
       \field{pages}{394}
       \keyw{gb}
     \endentry
+    \entry{smith12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{261929a86125f52e2b2548984b52cc9a}
+      \strng{fullhash}{261929a86125f52e2b2548984b52cc9a}
+      \field{sortinit}{S}
+      \field{labeltitle}{Property as the Law of Things}
+      \field{journaltitle}{Harvard Law Review}
+      \field{title}{Property as the Law of Things}
+      \field{volume}{125}
+      \field{pages}{1691}
+    \endentry
     \entry{smith03}{article}{}
       \name{labelname}{1}{}{%
         {{hash=078b1127bb442dffa740db5edad58c2f}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E\bbxinitsep}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
@@ -2810,7 +3294,6 @@
       \strng{fullhash}{078b1127bb442dffa740db5edad58c2f}
       \field{sortinit}{S}
       \field{labeltitle}{Land tenure reform in Africa: a shift to the defensive}
-      \true{singletitle}
       \field{journaltitle}{Progress in Development Studies}
       \field{number}{3}
       \field{title}{Land tenure reform in Africa: a shift to the defensive}
@@ -3069,26 +3552,16 @@
       \field{title}{Expropriation, Public Purpose and the Constitution}
       \field{year}{1998}
     \endentry
-    \entry{yale49}{article}{}
-      \list{language}{1}{%
-        {English}%
-      }
-      \list{publisher}{1}{%
-        {The Yale Law Journal Company, Inc}%
-      }
+    \entry{merrill11}{article}{}
       \field{sortinit}{T}
-      \field{labeltitle}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
+      \field{labeltitle}{The property prism}
       \true{singletitle}
-      \field{issn}{00440094}
-      \field{journaltitle}{The Yale Law Journal}
-      \field{number}{4}
-      \field{title}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
-      \field{volume}{58}
-      \field{year}{1949}
-      \field{pages}{pages}
-      \verb{url}
-      \verb http://www.jstor.org/stable/793084
-      \endverb
+      \field{journaltitle}{Econ Journal Watch}
+      \field{number}{3}
+      \field{title}{The property prism}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{247\bibrangedash 254}
     \endentry
     \entry{thomas09}{article}{}
       \name{labelname}{1}{}{%
@@ -3232,6 +3705,17 @@
       \field{year}{2006}
       \field{pages}{377\bibrangedash 388}
     \endentry
+    \entry{craft02}{jurisdiction}{}
+      \field{sortinit}{U}
+      \field{labeltitle}{United States v Craft}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{United States v Craft}
+      \field{volume}{535}
+      \field{year}{2002}
+      \field{pages}{274}
+      \keyw{us}
+    \endentry
     \entry{halpern14}{jurisdiction}{year-essential=true}
       \list{institution}{1}{%
         {Upper Tribunal (LC)}%
@@ -3338,6 +3822,25 @@
       \field{title}{The prevalence of private takings}
       \field{year}{2013}
     \endentry
+    \entry{weesep94}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d494617c063d7acff9d59e9d151f77f6}{Weesep}{W\bibinitperiod}{Jan}{J\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d494617c063d7acff9d59e9d151f77f6}{Weesep}{W\bibinitperiod}{Jan}{J\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{d494617c063d7acff9d59e9d151f77f6}
+      \strng{fullhash}{d494617c063d7acff9d59e9d151f77f6}
+      \field{sortinit}{W}
+      \field{labeltitle}{Gentrification as a research frontier}
+      \true{singletitle}
+      \field{journaltitle}{Progress in Human Geography}
+      \field{number}{1}
+      \field{title}{Gentrification as a research frontier}
+      \field{volume}{18}
+      \field{year}{1994}
+      \field{pages}{74\bibrangedash 83}
+    \endentry
     \entry{yellin11}{article}{}
       \name{labelname}{1}{}{%
         {{hash=fa0adc91080536ec576fa1d4de0124b7}{Yellin}{Y\bibinitperiod}{David\bibnamedelima S\bbxinitsep}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -3348,10 +3851,10 @@
       \strng{namehash}{fa0adc91080536ec576fa1d4de0124b7}
       \strng{fullhash}{fa0adc91080536ec576fa1d4de0124b7}
       \field{sortinit}{Y}
-      \field{labeltitle}{Masters of Their Own Eminent Domain: The Case for a Reliance Interest Associated with Economic Development Takings}
+      \field{labeltitle}{Masters of Their Own Eminent Domain: {T}he Case for a Reliance Interest Associated with Economic Development Takings}
       \true{singletitle}
       \field{journaltitle}{Geo. L.J.}
-      \field{title}{Masters of Their Own Eminent Domain: The Case for a Reliance Interest Associated with Economic Development Takings}
+      \field{title}{Masters of Their Own Eminent Domain: {T}he Case for a Reliance Interest Associated with Economic Development Takings}
       \field{volume}{99}
       \field{year}{2011}
       \field{pages}{651}
