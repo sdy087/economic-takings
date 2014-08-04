@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  18 JUN 2014 00:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  3 AUG 2014 14:45
 entering extended mode
 **C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/Chapter1/Chapter1.tex
 ("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/Chapter1/Chapter1.tex"
@@ -13,23 +13,33 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-! Undefined control sequence.
-l.1 \chapter
-            {Economic development takings and the public purpose: Tensions a...
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 T
+     ensions reached new heights following the Supreme Court case of {\it Ke...
 
 ? 
 ! Emergency stop.
-l.1 \chapter
-            {Economic development takings and the public purpose: Tensions a...
-End of file on the terminal!
+ ...                                              
+                                                  
+l.1 T
+     ensions reached new heights following the Supreme Court case of {\it Ke...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
  
 Here is how much of TeX's memory you used:
- 7 strings out of 493921
- 278 string characters out of 3144876
+ 8 strings out of 493921
+ 411 string characters out of 3144876
  49031 words of memory out of 3000000
  3400 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 5i,0n,1p,160b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,4p,736b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
