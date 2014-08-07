@@ -19,6 +19,16 @@
 
 \refsection{0}
   \sortlist{entry}{niyt}
+    \entry{ala81}{legislation}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Acquisition of Land Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Acquisition of Land Act}
+      \field{year}{1981}
+      \keyw{en}
+    \endentry
     \entry{alexander88}{article}{}
       \name{labelname}{1}{}{%
         {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -381,8 +391,9 @@
       \strng{namehash}{0fdde595c4fd7fdefe47ec7cf401f0d7}
       \strng{fullhash}{0fdde595c4fd7fdefe47ec7cf401f0d7}
       \field{sortinit}{A}
+      \field{labeltitle}{Takings International: A Comparative Perspective on Land Use Regulations and Compensation Rights}
       \true{singletitle}
-      \field{booktitle}{Takings International: A Comparative Perspective on Land Use Regulations and Compensation Rights}
+      \field{title}{Takings International: A Comparative Perspective on Land Use Regulations and Compensation Rights}
       \field{year}{2010}
     \endentry
     \entry{andrus79}{jurisdiction}{}
@@ -530,6 +541,16 @@
       \field{volume}{83}
       \field{year}{2009}
       \field{pages}{645}
+    \endentry
+    \entry{basic49}{legislation}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Basic Law for the Federal Republic of Germany in the revised version published in the Federal Law Gazette Part III, classification number 100-1, as last amended by the Act of 21 July 2010 (Federal Law Gazette I p 944)}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{article}
+      \field{title}{Basic Law for the Federal Republic of Germany in the revised version published in the Federal Law Gazette Part III, classification number 100-1, as last amended by the Act of 21 July 2010 (Federal Law Gazette I p 944)}
+      \keyw{en}
+      \warn{\item Datamodel: Entry 'basic49' (thesis.bib): Invalid format 'May 23, 1949' of date field 'date' - ignoring}
     \endentry
     \entry{baude13}{article}{}
       \name{labelname}{1}{}{%
@@ -912,6 +933,31 @@
       \field{volume}{7}
       \field{year}{2008}
       \field{pages}{2}
+    \endentry
+    \entry{brown78}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Brown v Secretary for the Environment}
+      \true{singletitle}
+      \field{journaltitle}{P \& CR}
+      \field{title}{Brown v Secretary for the Environment}
+      \field{volume}{40}
+      \field{year}{1978}
+      \field{pages}{285}
+      \keyw{gb}
+    \endentry
+    \entry{rothschild89}{jurisdiction}{}
+      \list{institution}{1}{%
+        {CA}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{R v Secretary of State for Transport, ex p de Rothschild}
+      \true{singletitle}
+      \field{journaltitle}{All ER}
+      \field{title}{R v Secretary of State for Transport, ex p de Rothschild}
+      \field{volume}{1}
+      \field{year}{1989}
+      \field{pages}{933}
+      \keyw{gb}
     \endentry
     \entry{boomer}{jurisdiction}{}
       \list{institution}{1}{%
@@ -1636,10 +1682,10 @@
     \endentry
     \entry{durkheimer81}{jurisdiction}{}
       \field{sortinit}{D}
-      \field{labeltitle}{D{\''u}rkheimer Gondelbahn}
+      \field{labeltitle}{D\''{u}rkheimer Gondelbahn}
       \true{singletitle}
       \field{number}{BVerfGE 56, 249 [1981]}
-      \field{title}{D{\''u}rkheimer Gondelbahn}
+      \field{title}{D\''{u}rkheimer Gondelbahn}
       \field{year}{1981}
       \keyw{ge}
     \endentry
@@ -2593,6 +2639,16 @@
       \field{year}{2010}
       \field{pages}{1280}
     \endentry
+    \entry{hra98}{legislation}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Human Rights Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Human Rights Act}
+      \field{year}{1998}
+      \keyw{en}
+    \endentry
     \entry{jacobs98}{book}{}
       \name{labelname}{1}{}{%
         {{hash=aa8d1c7db646cb44fc60b94d54777a84}{Jacobs}{J\bibinitperiod}{Harvey\bibnamedelima M\bbxinitsep}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -2912,6 +2968,16 @@
       \field{volume}{22}
       \field{year}{2014}
       \field{pages}{113\bibrangedash 139}
+    \endentry
+    \entry{lca61}{legislation}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Land Compensation Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Land Compensation Act}
+      \field{year}{1961}
+      \keyw{en}
     \endentry
     \entry{lanza13}{article}{}
       \name{labelname}{4}{}{%
@@ -3593,10 +3659,11 @@
       \field{title}{Women and human development: the capabilities approach}
       \field{year}{2000}
     \endentry
-    \entry{dominion25}{legislation}{}
+    \entry{dominion25}{jurisdiction}{}
       \field{sortinit}{O}
       \field{labeltitle}{Old Dominion Land Co v US}
       \true{singletitle}
+      \field{journaltitle}{US}
       \field{title}{Old Dominion Land Co v US}
       \field{volume}{269}
       \field{year}{1925}
@@ -3811,6 +3878,16 @@
       \field{volume}{16}
       \field{year}{2010}
       \field{pages}{539\bibrangedash 558}
+    \endentry
+    \entry{pcpa04}{legislation}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Planning and Compulsory Purchase Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Planning and Compulsory Purchase Act}
+      \field{year}{2004}
+      \keyw{en}
     \endentry
     \entry{gourde47}{jurisdiction}{year-essential=true}
       \field{sortinit}{P}
@@ -4915,6 +4992,16 @@
       \field{year}{2012}
       \field{pages}{705}
     \endentry
+    \entry{tcpa90}{legislation}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Town and Country Planning Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Town and Country Planning Act}
+      \field{year}{1990}
+      \keyw{en}
+    \endentry
     \entry{trapenberg13}{article}{}
       \name{labelname}{1}{}{%
         {{hash=d46b4faab2c09083bb016d968349181c}{Trapenberg\bibnamedelima Frick}{T\bibinitperiod\bibinitdelim F\bibinitperiod}{Karen}{K\bibinitperiod}{}{}{}{}}%
@@ -4934,10 +5021,11 @@
       \field{year}{2013}
       \field{pages}{190\bibrangedash 200}
     \endentry
-    \entry{trombley71}{legislation}{}
+    \entry{trombley71}{jurisdiction}{}
       \field{sortinit}{T}
       \field{labeltitle}{Trombley v Humphery}
       \true{singletitle}
+      \field{journaltitle}{Mich}
       \field{title}{Trombley v Humphery}
       \field{volume}{23}
       \field{year}{1871}
