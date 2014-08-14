@@ -1,0 +1,193 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {british}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Cases Cited}{iv}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{England and Wales}{iv}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{The United States}{v}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Jurisdictions}{vi}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Legislation Cited}{viii}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{United Kingdom}{viii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Property, protection and privilege}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Introduction}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Donald Trump in Scotland}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Theories of property}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}The social function of property}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}Rooting out fascism: {T}he tree of property}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}Towards a normative stance}{50}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Human flourishing}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Economic development takings}{69}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Conclusion}{81}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Taking property for profit}{87}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introduction}{88}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}A European contrast}{93}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}England}{95}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Germany}{107}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}The Property Clause in the European Convention of Human Rights}{113}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}The US perspective on economic takings}{125}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}The history of the public use restriction}{127}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Legitimacy in state courts}{132}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Legitimacy as discussed in the Supreme Court}{139}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Economic development takings after Kelo}{150}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Institutional proposals for increased legitimacy}{154}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}Special Purpose Development Companies}{155}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}Land assembly districts}{165}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Conclusion}{173}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Norwegian waterfalls and hydropower}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introduction}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Norway in a nutshell}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Hydropower in the law}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Hydropower in practice}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}{\it Nordhordlandsmodellen}}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Conclusion}{178}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Introduction}{179}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}Background: local owners making their voices heard by suggesting small scale hydro-power}{183}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.9}The facts of the case}{192}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.10}The legal arguments, and the view taken by the national courts}{201}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.11}Consequences of the case and the questions it raises}{211}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.12}Conclusion}{216}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Taking waterfalls}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Introduction}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Norwegian expropriation law: A brief overview}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Special rulles for waterfalls}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Taking waterfalls for progress}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Taking waterfalls for profit}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Ola M\IeC {\r a}land v J\IeC {\o }rpeland Kraft AS}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Conclusion}{218}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.8}Introduction}{219}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.9}The no-scheme rule}{225}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.9.1}The no-scheme rule in Norwegian law}{238}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.10}The traditional method for compensating waterfalls}{244}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.10.1}Not so natural: The physics and the law behind the notion of a "natural horsepower"}{247}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.11}The new method}{261}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.12}Conclusion and future work}{273}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Just compensation}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}The ``no scheme'' principle}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}``Natural horsepowers''}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Appraisal courts and ``foreseeable alternatives''}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}{\it Kl\IeC {\o }vtveit} and {\it Otra Kraft}}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.6}Conclusion}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.7}Introduction}{274}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.8}Look to the constitution! The era of absolutism}{277}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.9}Give them what they deserve! The era of pragmatic, utilitarian reform}{291}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.10}Market value, but \emph {we} determine the market! The era of centralization and pragmatism by regulation}{302}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.11}Let their peers decide! Suggestions for an era of contextual compensation assessment}{312}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.12}Conclusion}{317}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Compulsory participation}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Introduction}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}The system of land consolidation courts}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Land consolidation and hydropower}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Master or servant?}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Sketches of a new regime}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Conclusion}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.7}Introduction}{320}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.8}Land consolidation in Norway}{324}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.8.1}The consolidation process and the consolidation courts}{332}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.9}Compulsory cooperation in consolidation law: Directives for joint use, joint action and joint investment}{339}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.10}Compulsory cooperation for local development of hydro-power}{347}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10.1}The case of \emph {Vika}}{348}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10.2}The case of \emph {Oma}}{351}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10.3}The case of \emph {Dj\IeC {\o }nno}}{355}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10.4}The case of \emph {Tokheim}}{358}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.11}Cooperation versus expropriation: Competing models of commercial land development in Norway}{360}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.12}Conclusion}{360}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{361}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{361}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Contributions to Collections}{364}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Articles}{365}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Works}{378}

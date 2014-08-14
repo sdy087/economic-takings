@@ -477,6 +477,25 @@
       \field{year}{2009}
       \field{pages}{337\bibrangedash 362}
     \endentry
+    \entry{baker03}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9cd5ae0041ace5f7925df1cbc47fed72}{Baker}{B\bibinitperiod}{C\bbxinitsep\bibnamedelima Richard}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9cd5ae0041ace5f7925df1cbc47fed72}{Baker}{B\bibinitperiod}{C\bbxinitsep\bibnamedelima Richard}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9cd5ae0041ace5f7925df1cbc47fed72}
+      \strng{fullhash}{9cd5ae0041ace5f7925df1cbc47fed72}
+      \field{sortinit}{B}
+      \field{labeltitle}{Investigating Enron as a public private partnership}
+      \true{singletitle}
+      \field{journaltitle}{Accounting, Auditing \& Accountability Journal}
+      \field{number}{3}
+      \field{title}{Investigating Enron as a public private partnership}
+      \field{volume}{16}
+      \field{year}{2003}
+      \field{pages}{446\bibrangedash 466}
+    \endentry
     \entry{balochdphil}{thesis}{}
       \name{labelname}{1}{}{%
         {{hash=187435e9c412e9a97a580b9379d4471d}{Baloch}{B\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
@@ -1682,10 +1701,10 @@
     \endentry
     \entry{durkheimer81}{jurisdiction}{}
       \field{sortinit}{D}
-      \field{labeltitle}{D\''{u}rkheimer Gondelbahn}
+      \field{labeltitle}{Dürkheimer Gondelbahn}
       \true{singletitle}
       \field{number}{BVerfGE 56, 249 [1981]}
-      \field{title}{D\''{u}rkheimer Gondelbahn}
+      \field{title}{Dürkheimer Gondelbahn}
       \field{year}{1981}
       \keyw{ge}
     \endentry
@@ -1774,10 +1793,11 @@
         {ECtHR}%
       }
       \field{sortinit}{E}
-      \field{labeltitle}{Hutten-Czapska v Poland}
+      \field{labeltitle}{Hutten-Czapska}
       \true{singletitle}
       \field{journaltitle}{ECHR}
       \field{number}{35014/97}
+      \field{shorttitle}{Hutten-Czapska}
       \field{title}{Hutten-Czapska v Poland}
       \field{volume}{8}
       \field{year}{2006}
@@ -1797,6 +1817,20 @@
       \field{volume}{5}
       \field{year}{2006}
       \field{pages}{276}
+      \keyw{echr}
+    \endentry
+    \entry{khamidov07}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Khamidov v Russia}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{72118/01}
+      \field{title}{Khamidov v Russia}
+      \field{year}{2007}
+      \field{pages}{928}
       \keyw{echr}
     \endentry
     \entry{hermann12}{jurisdiction}{}
@@ -5000,6 +5034,16 @@
       \field{pagination}{section}
       \field{title}{Town and Country Planning Act}
       \field{year}{1990}
+      \keyw{en}
+    \endentry
+    \entry{tcpsa97}{legislation}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Town and Country Planning (Scotland) Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Town and Country Planning (Scotland) Act}
+      \field{year}{1997}
       \keyw{en}
     \endentry
     \entry{trapenberg13}{article}{}
