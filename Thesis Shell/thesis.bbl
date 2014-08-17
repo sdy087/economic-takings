@@ -19,6 +19,24 @@
 
 \refsection{0}
   \sortlist{entry}{niyt}
+    \entry{aall04}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c648923bace6d2e4f74e3ea6b3a360b0}{Aall}{A\bibinitperiod}{Jørgen}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c648923bace6d2e4f74e3ea6b3a360b0}{Aall}{A\bibinitperiod}{Jørgen}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Fagbokforlaget}%
+      }
+      \strng{namehash}{c648923bace6d2e4f74e3ea6b3a360b0}
+      \strng{fullhash}{c648923bace6d2e4f74e3ea6b3a360b0}
+      \field{sortinit}{A}
+      \field{labeltitle}{Rettsstat og menneskerettigheter}
+      \true{singletitle}
+      \field{title}{Rettsstat og menneskerettigheter}
+      \field{year}{2004}
+    \endentry
     \entry{ala81}{legislation}{}
       \field{sortinit}{A}
       \field{labeltitle}{Acquisition of Land Act}
@@ -750,6 +768,24 @@
       \field{volume}{348}
       \field{pages}{26}
       \keyw{us}
+    \endentry
+    \entry{bertelsen11}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=97284368acab0689050c78a4263ef84a}{Bertelsen}{B\bibinitperiod}{Tor\bibnamedelima Ehlers}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=97284368acab0689050c78a4263ef84a}{Bertelsen}{B\bibinitperiod}{Tor\bibnamedelima Ehlers}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendal Norsk Forlag}%
+      }
+      \strng{namehash}{97284368acab0689050c78a4263ef84a}
+      \strng{fullhash}{97284368acab0689050c78a4263ef84a}
+      \field{sortinit}{B}
+      \field{labeltitle}{EMK: Kommentarer til bestemmelsene om individets rettigheter og firheter}
+      \true{singletitle}
+      \field{title}{EMK: Kommentarer til bestemmelsene om individets rettigheter og firheter}
+      \field{year}{2011}
     \endentry
     \entry{blackstone79}{book}{}
       \name{labelname}{1}{}{%
@@ -1664,6 +1700,17 @@
       \field{title}{The Emerging Human Right to Land}
       \field{volume}{12}
     \endentry
+    \entry{haltbrekken12}{article}{}
+      \field{sortinit}{D}
+      \field{labeltitle}{Det yppes til ny vassdragsstrid!}
+      \true{singletitle}
+      \field{journaltitle}{Plan}
+      \field{number}{03-04}
+      \field{title}{Det yppes til ny vassdragsstrid!}
+      \field{volume}{44}
+      \field{year}{2012}
+      \field{pages}{34\bibrangedash 40}
+    \endentry
     \entry{dickinson14}{article}{}
       \name{labelname}{1}{}{%
         {{hash=686866d3028d39f646d40c14733c5cc2}{Dickinson}{D\bibinitperiod}{Gerald\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -1875,6 +1922,15 @@
       \field{pages}{985}
       \keyw{echr}
     \endentry
+    \entry{eca11}{legislation}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Electricity Certificate Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Electricity Certificate Act}
+      \field{year}{2011}
+      \keyw{no}
+    \endentry
     \entry{ellickson11}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7d857207a06e6ba982346d8dda7b5bfe}{Ellickson}{E\bibinitperiod}{R\bbxinitsep\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
@@ -1923,6 +1979,15 @@
       \true{singletitle}
       \field{title}{The Guardian of Every Other Right: {A} Constitutional History of Property Rights}
       \field{year}{2007}
+    \endentry
+    \entry{ea90}{legislation}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Energy Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Energy Act}
+      \field{year}{1990}
+      \keyw{no}
     \endentry
     \entry{epstein11}{article}{}
       \name{labelname}{1}{}{%
@@ -2682,6 +2747,15 @@
       \field{title}{Human Rights Act}
       \field{year}{1998}
       \keyw{en}
+    \endentry
+    \entry{ica17}{legislation}{}
+      \field{sortinit}{I}
+      \field{labeltitle}{Industrial Licensing Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Industrial Licensing Act}
+      \field{year}{1917}
+      \keyw{no}
     \endentry
     \entry{jacobs98}{book}{}
       \name{labelname}{1}{}{%
@@ -3443,6 +3517,24 @@
       \field{year}{2012}
       \field{pages}{280\bibrangedash 290}
     \endentry
+    \entry{mose02}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=99da50a0af527cf2075d8230fc59f763}{Møse}{M\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=99da50a0af527cf2075d8230fc59f763}{Møse}{M\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cappelen Akademisk Forlag}%
+      }
+      \strng{namehash}{99da50a0af527cf2075d8230fc59f763}
+      \strng{fullhash}{99da50a0af527cf2075d8230fc59f763}
+      \field{sortinit}{M}
+      \field{labeltitle}{Menneskerettigheter}
+      \true{singletitle}
+      \field{title}{Menneskerettigheter}
+      \field{year}{2002}
+    \endentry
     \entry{vernon16}{jurisdiction}{}
       \field{sortinit}{M}
       \field{labeltitle}{Mt Vernon-Woodberry Cotton Duck Co}
@@ -3617,6 +3709,24 @@
       \field{volume}{28}
       \field{year}{2008}
       \field{pages}{157\bibrangedash 165}
+    \endentry
+    \entry{nilsen08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c3a0d41c110b9d3853b95511dae940e9}{Nilsen}{N\bibinitperiod}{Yngve}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c3a0d41c110b9d3853b95511dae940e9}{Nilsen}{N\bibinitperiod}{Yngve}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c3a0d41c110b9d3853b95511dae940e9}
+      \strng{fullhash}{c3a0d41c110b9d3853b95511dae940e9}
+      \field{sortinit}{N}
+      \field{labeltitle}{Ideologi eller kompleksitet? Motstand mot vannkraftutbygging i Norge i 1970-årene}
+      \true{singletitle}
+      \field{journaltitle}{Historisk tidsskrift}
+      \field{number}{01}
+      \field{title}{Ideologi eller kompleksitet? Motstand mot vannkraftutbygging i Norge i 1970-årene}
+      \field{volume}{87}
+      \field{year}{2008}
     \endentry
     \entry{banin98}{jurisdiction}{}
       \list{institution}{1}{%
@@ -4138,6 +4248,24 @@
       \field{subtitle}{Toward a History of Expropriation of Land for the Common Good}
       \field{title}{Before Eminent Domain}
       \field{year}{2010}
+    \endentry
+    \entry{richards08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d75c01f4f405f73636355354b0023b92}{Richards}{R\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d75c01f4f405f73636355354b0023b92}{Richards}{R\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Birlinn}%
+      }
+      \strng{namehash}{d75c01f4f405f73636355354b0023b92}
+      \strng{fullhash}{d75c01f4f405f73636355354b0023b92}
+      \field{sortinit}{R}
+      \field{labeltitle}{The Highland Clearances}
+      \true{singletitle}
+      \field{title}{The Highland Clearances}
+      \field{year}{2008}
     \endentry
     \entry{robilant13}{article}{}
       \name{labelname}{1}{}{%
@@ -5344,6 +5472,24 @@
       \field{booktitle}{Modern studies in property law: Volume 7}
       \field{title}{The prevalence of private takings}
       \field{year}{2013}
+    \endentry
+    \entry{wra00}{legislation}{}
+      \field{sortinit}{W}
+      \field{labeltitle}{Water Resources Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Water Resources Act}
+      \field{year}{2000}
+      \keyw{no}
+    \endentry
+    \entry{wra17}{legislation}{}
+      \field{sortinit}{W}
+      \field{labeltitle}{Watercourse Regulation Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Watercourse Regulation Act}
+      \field{year}{1917}
+      \keyw{no}
     \endentry
     \entry{weesep94}{article}{}
       \name{labelname}{1}{}{%

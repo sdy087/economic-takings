@@ -1,25 +1,25 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [1] Config.pm:321> INFO - Logfile is 'thesis.blg'
-[110] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
-[111] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[302] Biber.pm:607> INFO - Using all citekeys in bib section 0
-[347] Biber.pm:3053> INFO - Processing section 0
-[392] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[463] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[515] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
-[553] Utils.pm:169> WARN - Duplicate entry key: 'halpern14' in file 'thesis.bib', skipping ...
-[1067] Utils.pm:169> WARN - Datamodel: Entry 'basic49' (thesis.bib): Invalid format 'May 23, 1949' of date field 'date' - ignoring
-[1107] Utils.pm:169> WARN - BibTeX subsystem: C:\Users\SjurK\AppData\Local\Temp\DfGS6Pyo_g\thesis.bib_1856.utf8, line 692, warning: 11 characters of junk seen at toplevel
-[1108] Utils.pm:169> WARN - BibTeX subsystem: C:\Users\SjurK\AppData\Local\Temp\DfGS6Pyo_g\thesis.bib_1856.utf8, line 1186, warning: 145 characters of junk seen at toplevel
-[1173] Utils.pm:169> WARN - The field 'publisher' in entry 'salsich00' cannot be null, deleting it
-[1174] Utils.pm:169> WARN - The field 'publisher' in entry 'dagan11' cannot be null, deleting it
-[1175] Utils.pm:169> WARN - The field 'publisher' in entry 'singer00' cannot be null, deleting it
-[1176] Utils.pm:169> WARN - The field 'publisher' in entry 'mattei00' cannot be null, deleting it
-[1177] Utils.pm:169> WARN - The field 'abstract' in entry 'libcom01' cannot be null, deleting it
-[1183] Utils.pm:169> WARN - The field 'number' in entry 'carruthers04' cannot be null, deleting it
-[2018] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[2019] Biber.pm:2945> INFO - Sorting 'entry' list 'niyt' keys
-[2020] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
-[4155] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[4237] bbl.pm:555> INFO - Output to thesis.bbl
-[4239] Biber.pm:105> INFO - WARNINGS: 10
+[150] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
+[152] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[423] Biber.pm:607> INFO - Using all citekeys in bib section 0
+[472] Biber.pm:3053> INFO - Processing section 0
+[554] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[744] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[859] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[941] Utils.pm:169> WARN - Duplicate entry key: 'halpern14' in file 'thesis.bib', skipping ...
+[1723] Utils.pm:169> WARN - Datamodel: Entry 'basic49' (thesis.bib): Invalid format 'May 23, 1949' of date field 'date' - ignoring
+[1764] Utils.pm:169> WARN - BibTeX subsystem: C:\Users\SjurK\AppData\Local\Temp\0iUsoSTxMZ\thesis.bib_24440.utf8, line 710, warning: 11 characters of junk seen at toplevel
+[1765] Utils.pm:169> WARN - BibTeX subsystem: C:\Users\SjurK\AppData\Local\Temp\0iUsoSTxMZ\thesis.bib_24440.utf8, line 1204, warning: 145 characters of junk seen at toplevel
+[1861] Utils.pm:169> WARN - The field 'publisher' in entry 'salsich00' cannot be null, deleting it
+[1863] Utils.pm:169> WARN - The field 'publisher' in entry 'dagan11' cannot be null, deleting it
+[1864] Utils.pm:169> WARN - The field 'publisher' in entry 'singer00' cannot be null, deleting it
+[1864] Utils.pm:169> WARN - The field 'publisher' in entry 'mattei00' cannot be null, deleting it
+[1867] Utils.pm:169> WARN - The field 'abstract' in entry 'libcom01' cannot be null, deleting it
+[1875] Utils.pm:169> WARN - The field 'number' in entry 'carruthers04' cannot be null, deleting it
+[2865] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[2866] Biber.pm:2945> INFO - Sorting 'entry' list 'niyt' keys
+[2867] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
+[5558] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[5684] bbl.pm:555> INFO - Output to thesis.bbl
+[5686] Biber.pm:105> INFO - WARNINGS: 10
