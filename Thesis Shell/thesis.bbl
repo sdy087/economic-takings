@@ -514,6 +514,30 @@
       \field{year}{2003}
       \field{pages}{446\bibrangedash 466}
     \endentry
+    \entry{bakken12}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=e453de8fc78a6fe25d3c93df02e594e3}{Bakken}{B\bibinitperiod}{Tor\bibnamedelima Haakon}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=88eeba1ca7e3f980e942869e6c014cc6}{Sundt}{S\bibinitperiod}{Håkon}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=daef2741b3687f279d7f912f22f3d9c5}{Ruud}{R\bibinitperiod}{Audun}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=89f574ebf0d3da497d181a9ded0ad341}{Harby}{H\bibinitperiod}{Atle}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e453de8fc78a6fe25d3c93df02e594e3}{Bakken}{B\bibinitperiod}{Tor\bibnamedelima Haakon}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=88eeba1ca7e3f980e942869e6c014cc6}{Sundt}{S\bibinitperiod}{Håkon}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=daef2741b3687f279d7f912f22f3d9c5}{Ruud}{R\bibinitperiod}{Audun}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=89f574ebf0d3da497d181a9ded0ad341}{Harby}{H\bibinitperiod}{Atle}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c0bf4a1829475f48b202624fecdc4339}
+      \strng{fullhash}{9c34fe8b8bc9c1acbc028c25bb50b772}
+      \field{sortinit}{B}
+      \field{labeltitle}{Development of Small Versus Large Hydropower in Norway– Comparison of Environmental Impacts}
+      \true{singletitle}
+      \field{journaltitle}{Energy Procedia}
+      \field{title}{Development of Small Versus Large Hydropower in Norway– Comparison of Environmental Impacts}
+      \field{volume}{20}
+      \field{year}{2012}
+      \field{pages}{185\bibrangedash 199}
+    \endentry
     \entry{balochdphil}{thesis}{}
       \name{labelname}{1}{}{%
         {{hash=187435e9c412e9a97a580b9379d4471d}{Baloch}{B\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
@@ -786,6 +810,24 @@
       \true{singletitle}
       \field{title}{EMK: Kommentarer til bestemmelsene om individets rettigheter og firheter}
       \field{year}{2011}
+    \endentry
+    \entry{bibow03}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=422ccaa5b525e8252e4aab1661b0915b}{Bibow}{B\bibinitperiod}{Jens}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=422ccaa5b525e8252e4aab1661b0915b}{Bibow}{B\bibinitperiod}{Jens}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{422ccaa5b525e8252e4aab1661b0915b}
+      \strng{fullhash}{422ccaa5b525e8252e4aab1661b0915b}
+      \field{sortinit}{B}
+      \field{labeltitle}{Energiloven, forvaltningspraksis og {EØS}-retten: {O}rganisatoriske krav til energiselskaper}
+      \true{singletitle}
+      \field{number}{10}
+      \field{title}{Energiloven, forvaltningspraksis og {EØS}-retten: {O}rganisatoriske krav til energiselskaper}
+      \field{volume}{42}
+      \field{year}{2003}
+      \field{pages}{579\bibrangedash 595}
     \endentry
     \entry{blackstone79}{book}{}
       \name{labelname}{1}{}{%
@@ -1222,7 +1264,7 @@
       \field{year}{2004}
       \field{pages}{877\bibrangedash 928}
     \endentry
-    \entry{claeys09}{artile}{}
+    \entry{claeys09}{article}{}
       \name{labelname}{1}{}{%
         {{hash=cf4989ab778c5ea358af99c0ff46409e}{Claeys}{C\bibinitperiod}{Eric\bibnamedelima R\bbxinitsep}{E\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
       }
@@ -1922,6 +1964,27 @@
       \field{pages}{985}
       \keyw{echr}
     \endentry
+    \entry{egre02}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1da760279a3766b9c74aff687d8aaa2a}{Egré}{E\bibinitperiod}{Dominique}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ceb2ce264447916cc341dd56124704da}{Milewski}{M\bibinitperiod}{Joseph\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1da760279a3766b9c74aff687d8aaa2a}{Egré}{E\bibinitperiod}{Dominique}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ceb2ce264447916cc341dd56124704da}{Milewski}{M\bibinitperiod}{Joseph\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{006ee8fac21cd04fc49dea114db6d5fc}
+      \strng{fullhash}{006ee8fac21cd04fc49dea114db6d5fc}
+      \field{sortinit}{E}
+      \field{labeltitle}{The diversity of hydropower projects}
+      \true{singletitle}
+      \field{journaltitle}{Energy Policy}
+      \field{number}{14}
+      \field{title}{The diversity of hydropower projects}
+      \field{volume}{30}
+      \field{year}{2002}
+      \field{pages}{1225\bibrangedash 1230}
+    \endentry
     \entry{eca11}{legislation}{}
       \field{sortinit}{E}
       \field{labeltitle}{Electricity Certificate Act}
@@ -1930,6 +1993,17 @@
       \field{title}{Electricity Certificate Act}
       \field{year}{2011}
       \keyw{no}
+    \endentry
+    \entry{midtun96}{article}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Electricity liberalization policies in Norway and Sweden: Political trade offs under cognitive limitations}
+      \true{singletitle}
+      \field{journaltitle}{Energy Policy}
+      \field{number}{1}
+      \field{title}{Electricity liberalization policies in Norway and Sweden: Political trade offs under cognitive limitations}
+      \field{volume}{24}
+      \field{year}{1996}
+      \field{pages}{53\bibrangedash 65}
     \endentry
     \entry{ellickson11}{article}{}
       \name{labelname}{1}{}{%
@@ -2425,6 +2499,25 @@
       \field{year}{1908}
       \field{pages}{598}
       \keyw{us}
+    \endentry
+    \entry{inderberg11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=62c668ca264f5faf2425ddf70ffaaf6d}{Håkon\bibnamedelima Inderberg}{H\bibinitperiod\bibinitdelim I\bibinitperiod}{Tor}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=62c668ca264f5faf2425ddf70ffaaf6d}{Håkon\bibnamedelima Inderberg}{H\bibinitperiod\bibinitdelim I\bibinitperiod}{Tor}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62c668ca264f5faf2425ddf70ffaaf6d}
+      \strng{fullhash}{62c668ca264f5faf2425ddf70ffaaf6d}
+      \field{sortinit}{H}
+      \field{labeltitle}{Institutional constraints to adaptive capacity: adaptability to climate change in the Norwegian electricity sector}
+      \true{singletitle}
+      \field{journaltitle}{Local Environment}
+      \field{number}{4}
+      \field{title}{Institutional constraints to adaptive capacity: adaptability to climate change in the Norwegian electricity sector}
+      \field{volume}{16}
+      \field{year}{2011}
+      \field{pages}{303\bibrangedash 317}
     \endentry
     \entry{hale22}{article}{}
       \name{labelname}{1}{}{%

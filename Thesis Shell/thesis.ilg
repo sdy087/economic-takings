@@ -1755,7 +1755,31 @@ Scanning input file thesis.idx...
 !! Input index error (file = thesis.idx, line = 877):
    -- Unknown index keyword \indexentry[trash].
 !! Input index error (file = thesis.idx, line = 878):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 879):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 880):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 881):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 882):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 883):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 884):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 885):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 886):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 887):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 888):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 889):
+   -- Unknown index keyword \indexentry[trash].
+!! Input index error (file = thesis.idx, line = 890):
    -- Unknown index keyword \indexentry[casesgb].
-done (0 entries accepted, 878 rejected).
+done (0 entries accepted, 890 rejected).
 Nothing written in thesis.ind.
 Transcript written in thesis.ilg.
