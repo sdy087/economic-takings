@@ -80,21 +80,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.4}Energy Act}{198}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}Electricity Certificate Act}{200}
+\contentsline {subsection}{\numberline {3.3.5}Steps towards a license for hydropower development}{200}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}A step-by-step presentation of an application to develop hydropower}{201}
+\contentsline {section}{\numberline {3.4}Hydropower in practice}{207}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Hydropower in practice}{208}
+\contentsline {section}{\numberline {3.5}{\it Nordhordlandsmodellen}}{215}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}{\it Nordhordlandsmodellen}}{216}
+\contentsline {section}{\numberline {3.6}Conclusion}{223}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Conclusion}{224}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Introduction}{224}
+\contentsline {section}{\numberline {3.7}Introduction}{225}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.8}Background: local owners making their voices heard by suggesting small scale hydro-power}{229}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.9}The facts of the case}{237}
+\contentsline {section}{\numberline {3.9}The facts of the case}{238}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.10}The legal arguments, and the view taken by the national courts}{245}
 \defcounter {refsection}{0}\relax 
