@@ -134,37 +134,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.1}Introduction}{375}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}The system of land consolidation courts}{375}
+\contentsline {section}{\numberline {6.2}The system of land consolidation courts}{378}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Land consolidation and hydropower}{375}
+\contentsline {subsection}{\numberline {6.2.1}The consolidation process in brief}{387}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Master or servant?}{375}
+\contentsline {subsection}{\numberline {6.2.2}Joint use, joint action and joint investment}{394}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Sketches of a new regime}{375}
+\contentsline {section}{\numberline {6.3}Compulsory participation in hydropower development}{401}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.6}Conclusion}{375}
+\contentsline {subsection}{\numberline {6.3.1}\emph {Vika}}{402}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.7}Introduction}{375}
+\contentsline {subsection}{\numberline {6.3.2}\emph {Oma}}{405}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.8}Land consolidation in Norway}{379}
+\contentsline {subsection}{\numberline {6.3.3}\emph {Dj\IeC {\o }nno}}{409}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.1}The consolidation process and the consolidation courts}{387}
+\contentsline {subsection}{\numberline {6.3.4}\emph {Tokheim}}{412}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.9}Compulsory cooperation in consolidation law: Directives for joint use, joint action and joint investment}{394}
+\contentsline {section}{\numberline {6.4}Master or servant?}{415}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.10}Compulsory cooperation for local development of hydro-power}{402}
+\contentsline {section}{\numberline {6.5}Sketches of a new regime}{415}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.10.1}The case of \emph {Vika}}{403}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.10.2}The case of \emph {Oma}}{406}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.10.3}The case of \emph {Dj\IeC {\o }nno}}{410}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.10.4}The case of \emph {Tokheim}}{413}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.11}Cooperation versus expropriation: Competing models of commercial land development in Norway}{415}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.12}Conclusion}{415}
+\contentsline {section}{\numberline {6.6}Conclusion}{415}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Bibliography}{416}
 \defcounter {refsection}{0}\relax 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  7 SEP 2014 03:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  7 SEP 2014 18:00
 entering extended mode
 **C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/thesis.tex
 ("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/thesis.tex"
@@ -2092,8 +2092,8 @@ LaTeX Warning: Reference `sec:noscheme' on page 370 undefined on input line 576
 Chapter 6.
 Package biblatex Info: Resetting trackers on input line 1.
 
-LaTeX Warning: Citation 'vittikainen2004' on page 375 undefined on input line 1
-9.
+LaTeX Warning: Citation 'vittikainen2004' on page 375 undefined on input line 5
+.
 
 [375
 
@@ -2101,30 +2101,42 @@ LaTeX Warning: Citation 'vittikainen2004' on page 375 undefined on input line 1
 
 ] [376]
 
-LaTeX Warning: Citation 'rygg1998' on page 377 undefined on input line 29.
+LaTeX Warning: Citation 'rygg1998' on page 377 undefined on input line 15.
 
-[377] [378] [379] [380] [381] [382] [383] [384] [385] [386] [387] [388]
-[389] [390] [391] [392] [393] [394] [395] [396] [397] [398] [399] [400]
-[401]
+[377]
 
-LaTeX Warning: Citation 'master' on page 402 undefined on input line 158.
+LaTeX Warning: Reference `sec:2' on page 378 undefined on input line 19.
 
-[402] [403]
 
-LaTeX Warning: Citation 'master' on page 404 undefined on input line 172.
+LaTeX Warning: Reference `sec:4' on page 378 undefined on input line 19.
+
+
+LaTeX Warning: Reference `sec:5' on page 378 undefined on input line 19.
+
+
+LaTeX Warning: Reference `sec:6' on page 378 undefined on input line 19.
+
+[378] [379] [380] [381] [382] [383] [384] [385] [386] [387] [388] [389]
+[390] [391] [392] [393] [394] [395] [396] [397] [398] [399] [400]
+
+LaTeX Warning: Citation 'master' on page 401 undefined on input line 144.
+
+[401] [402] [403]
+
+LaTeX Warning: Citation 'master' on page 404 undefined on input line 158.
+
+
+LaTeX Warning: Citation 'master' on page 404 undefined on input line 160.
 
 [404]
 
-LaTeX Warning: Citation 'master' on page 405 undefined on input line 174.
+LaTeX Warning: Citation 'master' on page 405 undefined on input line 162.
 
+[405] [406]
 
-LaTeX Warning: Citation 'master' on page 405 undefined on input line 176.
+LaTeX Warning: Citation 'master' on page 407 undefined on input line 172.
 
-[405] [406] [407]
-
-LaTeX Warning: Citation 'master' on page 408 undefined on input line 186.
-
-[408] [409] [410] [411] [412] [413] [414]) [415]
+[407] [408] [409] [410] [411] [412] [413]) [414] [415]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.tex"
 [416
 
@@ -2159,10 +2171,10 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 19528 strings out of 493921
- 337057 string characters out of 3144876
- 786049 words of memory out of 3000000
- 22480 multiletter control sequences out of 15000+200000
+ 19527 strings out of 493921
+ 337050 string characters out of 3144876
+ 785986 words of memory out of 3000000
+ 22479 multiletter control sequences out of 15000+200000
  16827 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  51i,14n,69p,10486b,3036s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2183,7 +2195,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (443 pages, 1313077 bytes).
+Output written on thesis.pdf (443 pages, 1311684 bytes).
 PDF statistics:
  1490 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
