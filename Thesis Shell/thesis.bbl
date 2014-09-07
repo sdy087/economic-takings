@@ -396,6 +396,17 @@
       \field{year}{2010}
       \field{pages}{1055\bibrangedash 1078}
     \endentry
+    \entry{alta82}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Alta}
+      \true{singletitle}
+      \field{journaltitle}{Rt}
+      \field{shorttitle}{Alta}
+      \field{title}{Alta Laksefiskeri Interessentskap mfl v Staten v/NVE}
+      \field{year}{1983}
+      \field{pages}{241}
+      \keyw{no}
+    \endentry
     \entry{alterman10}{book}{}
       \name{labelname}{1}{}{%
         {{hash=0fdde595c4fd7fdefe47ec7cf401f0d7}{Alterman}{A\bibinitperiod}{R\bbxinitsep}{R\bibinitperiod}{}{}{}{}}%
@@ -1964,6 +1975,16 @@
       \field{pages}{985}
       \keyw{echr}
     \endentry
+    \entry{efta07}{jurisdiction}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{EFTA Surveillance Authority v The Kingdom of Norway}
+      \true{singletitle}
+      \field{journaltitle}{EFTA Court Report}
+      \field{title}{EFTA Surveillance Authority v The Kingdom of Norway}
+      \field{year}{2007}
+      \field{pages}{164}
+      \keyw{efta}
+    \endentry
     \entry{egre02}{article}{}
       \name{labelname}{2}{}{%
         {{hash=1da760279a3766b9c74aff687d8aaa2a}{Egré}{E\bibinitperiod}{Dominique}{D\bibinitperiod}{}{}{}{}}%
@@ -2147,6 +2168,15 @@
       \field{title}{Alliance Spring Co Ltd v The First Secretary of State}
       \field{year}{2005}
       \keyw{gb}
+    \endentry
+    \entry{ea59}{legislation}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Expropriation Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Expropriation Act}
+      \field{year}{1959}
+      \keyw{no}
     \endentry
     \entry{fallsburg03}{jurisdiction}{}
       \field{sortinit}{F}
@@ -4116,6 +4146,15 @@
       \field{year}{2010}
       \field{pages}{539\bibrangedash 558}
     \endentry
+    \entry{pb08}{legislation}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Planning and Building Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Planning and Building Act}
+      \field{year}{2008}
+      \keyw{no}
+    \endentry
     \entry{pcpa04}{legislation}{}
       \field{sortinit}{P}
       \field{labeltitle}{Planning and Compulsory Purchase Act}
@@ -4175,6 +4214,15 @@
       \field{year}{1982}
       \field{pages}{193}
       \keyw{gb}
+    \endentry
+    \entry{paa67}{legislation}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Public Administration Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Public Administration Act}
+      \field{year}{1967}
+      \keyw{no}
     \endentry
     \entry{purdue10}{inbook}{}
       \name{labelname}{1}{}{%
