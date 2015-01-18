@@ -2906,4 +2906,201 @@
     <bcf:citekey order="586">wra17</bcf:citekey>
     <bcf:citekey order="587">wra17</bcf:citekey>
     <bcf:citekey order="588">m\IeC {\r a}land11</bcf:citekey>
-  
+    <bcf:citekey order="589">ea59</bcf:citekey>
+    <bcf:citekey order="590">wra17</bcf:citekey>
+    <bcf:citekey order="591">wra17</bcf:citekey>
+    <bcf:citekey order="592">ea59</bcf:citekey>
+    <bcf:citekey order="593">wra17</bcf:citekey>
+    <bcf:citekey order="594">paa67</bcf:citekey>
+    <bcf:citekey order="595">wra17</bcf:citekey>
+    <bcf:citekey order="596">ea59</bcf:citekey>
+    <bcf:citekey order="597">m\IeC {\r a}land11</bcf:citekey>
+    <bcf:citekey order="598">ea90</bcf:citekey>
+    <bcf:citekey order="599">amundsen..</bcf:citekey>
+    <bcf:citekey order="600">wra00</bcf:citekey>
+    <bcf:citekey order="601">alta8.</bcf:citekey>
+    <bcf:citekey order="602">alta82</bcf:citekey>
+    <bcf:citekey order="603">wra17</bcf:citekey>
+    <bcf:citekey order="604">wra17</bcf:citekey>
+    <bcf:citekey order="605">alta82</bcf:citekey>
+    <bcf:citekey order="606">alta82</bcf:citekey>
+    <bcf:citekey order="607">wra17</bcf:citekey>
+    <bcf:citekey order="608">paa67</bcf:citekey>
+    <bcf:citekey order="609">alta82</bcf:citekey>
+    <bcf:citekey order="610">alta82</bcf:citekey>
+    <bcf:citekey order="611">alta82</bcf:citekey>
+    <bcf:citekey order="612">alta82</bcf:citekey>
+    <bcf:citekey order="613">alta82</bcf:citekey>
+    <bcf:citekey order="614">wra00</bcf:citekey>
+    <bcf:citekey order="615">wra00</bcf:citekey>
+    <bcf:citekey order="616">wra00</bcf:citekey>
+    <bcf:citekey order="617">nou94</bcf:citekey>
+    <bcf:citekey order="618">nou94</bcf:citekey>
+    <bcf:citekey order="619">wra40</bcf:citekey>
+    <bcf:citekey order="620">nou94</bcf:citekey>
+    <bcf:citekey order="621">wra00</bcf:citekey>
+    <bcf:citekey order="622">wra00</bcf:citekey>
+    <bcf:citekey order="623">sauda08</bcf:citekey>
+    <bcf:citekey order="624">ea59</bcf:citekey>
+    <bcf:citekey order="625">wra00</bcf:citekey>
+    <bcf:citekey order="626">m\IeC {\o }llen08</bcf:citekey>
+    <bcf:citekey order="627">sauda08</bcf:citekey>
+    <bcf:citekey order="628">m\IeC {\r a}land13</bcf:citekey>
+    <bcf:citekey order="629">alta82</bcf:citekey>
+    <bcf:citekey order="630">m\IeC {\r a}land13</bcf:citekey>
+    <bcf:citekey order="631">kartlegging</bcf:citekey>
+    <bcf:citekey order="632">investment</bcf:citekey>
+    <bcf:citekey order="633">kartlegging</bcf:citekey>
+    <bcf:citekey order="634">Efvl</bcf:citekey>
+    <bcf:citekey order="635">flei</bcf:citekey>
+    <bcf:citekey order="636">Efvl</bcf:citekey>
+    <bcf:citekey order="637">Efvl</bcf:citekey>
+    <bcf:citekey order="638">backer1</bcf:citekey>
+    <bcf:citekey order="639">wra00</bcf:citekey>
+    <bcf:citekey order="640">m\IeC {\r a}land11</bcf:citekey>
+    <bcf:citekey order="641">m\IeC {\r a}land11</bcf:citekey>
+    <bcf:citekey order="642">sky07;viliainen04</bcf:citekey>
+    <bcf:citekey order="643">heller08</bcf:citekey>
+    <bcf:citekey order="644">....</bcf:citekey>
+    <bcf:citekey order="645">lca79</bcf:citekey>
+    <bcf:citekey order="646">lca79</bcf:citekey>
+    <bcf:citekey order="647">master</bcf:citekey>
+    <bcf:citekey order="648">master</bcf:citekey>
+    <bcf:citekey order="649">master</bcf:citekey>
+    <bcf:citekey order="650">master</bcf:citekey>
+    <bcf:citekey order="651">master</bcf:citekey>
+    <bcf:citekey order="0">*</bcf:citekey>
+  </bcf:section>
+  <bcf:sortlist section="0" type="entry" label="niyt">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">institution</bcf:sortitem>
+      <bcf:sortitem order="6">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="7">title</bcf:sortitem>
+      <bcf:sortitem order="8">booktitle</bcf:sortitem>
+      <bcf:sortitem order="9">maintitle</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
+      <bcf:sortitem order="2">0000</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="0" type="entry" label="niyt">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">institution</bcf:sortitem>
+      <bcf:sortitem order="6">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="7">title</bcf:sortitem>
+      <bcf:sortitem order="8">booktitle</bcf:sortitem>
+      <bcf:sortitem order="9">maintitle</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
+      <bcf:sortitem order="2">0000</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="0" type="entry" label="niyt">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">institution</bcf:sortitem>
+      <bcf:sortitem order="6">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="7">title</bcf:sortitem>
+      <bcf:sortitem order="8">booktitle</bcf:sortitem>
+      <bcf:sortitem order="9">maintitle</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
+      <bcf:sortitem order="2">0000</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="0" type="entry" label="niyt">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">institution</bcf:sortitem>
+      <bcf:sortitem order="6">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="7">title</bcf:sortitem>
+      <bcf:sortitem order="8">booktitle</bcf:sortitem>
+      <bcf:sortitem order="9">maintitle</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
+      <bcf:sortitem order="2">0000</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+</bcf:controlfile>

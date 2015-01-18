@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  25 OCT 2014 14:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  17 JAN 2015 21:18
 entering extended mode
 **thesis.tex
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.tex"
@@ -1592,7 +1592,6 @@ aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2_final.
 aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter4/Chapter4.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -1665,23 +1664,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-] [2])
+])
 \tf@toc=\write6
-
-[3] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.tex"
+ [2]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.tex"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesgb.ind")
 No file thesis-casessc.ind.
 No file thesis-casesau.ind.
 No file thesis-casesnz.ind.
 No file thesis-casesca.ind.
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesus.ind"
-[4
+[3
 
 
-] [5])
+] [4])
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-casesother.ind"
-[6]) [7] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-legis.in
-d")) [8
+[5]) [6] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis-legis.in
+d")) [7
 
 ]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/introduction.te
@@ -1747,8 +1746,12 @@ Chapter 2.
 Package biblatex Info: Resetting trackers on input line 6.
 [87
 
-] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
-[102] [103] [104] [105] [106] [107] [108] [109] [110]
+] [88] [89] [90] [91] [92] [93] [94] [95] [96]
+
+LaTeX Warning: Reference `chap:5' on page 97 undefined on input line 80.
+
+[97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
+[110]
 
 Package biblatex Warning: Nested notes on input line 168.
 
@@ -1767,6 +1770,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 LaTeX Warning: Citation 'berman84' on page 175 undefined on input line 472.
 
+
+LaTeX Warning: Reference `chap:5' on page 175 undefined on input line 480.
+
 [175] [176]) [177]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2_final.
 tex"
@@ -1776,7 +1782,11 @@ Package biblatex Info: Resetting trackers on input line 1.
 
 
 
-] [179] [180] [181] [182] [183] [184] [185] [186] [187]
+] [179] [180] [181]
+
+LaTeX Warning: Reference `chap:5' on page 182 undefined on input line 29.
+
+[182] [183] [184] [185] [186] [187]
 Overfull \hbox (1.0775pt too wide) in paragraph at lines 70--71
 [] \OT1/cmr/m/n/10 ([])
  []
@@ -1789,11 +1799,23 @@ LaTeX Warning: Citation 'ac67' on page 190 undefined on input line 96.
 
 LaTeX Warning: Reference `sec:wra17' on page 191 undefined on input line 102.
 
-[191] [192] [193] [194] [195] [196]
+[191] [192]
+
+LaTeX Warning: Reference `chap:5' on page 193 undefined on input line 112.
+
+[193] [194] [195]
+
+LaTeX Warning: Reference `chap:5' on page 196 undefined on input line 130.
+
+[196]
 
 LaTeX Warning: Citation '...' on page 197 undefined on input line 132.
 
-[197] [198] [199]
+[197] [198]
+
+LaTeX Warning: Reference `chap:5' on page 199 undefined on input line 144.
+
+[199]
 
 LaTeX Warning: Citation 'ar2010' on page 200 undefined on input line 152.
 
@@ -1817,7 +1839,11 @@ LaTeX Warning: Reference `sec:wra00-ea90' on page 204 undefined on input line 1
 
 LaTeX Warning: Citation 'Hindrum' on page 210 undefined on input line 257.
 
-[210] [211] [212] [213]
+[210] [211] [212]
+
+LaTeX Warning: Reference `chap:5' on page 213 undefined on input line 276.
+
+[213]
 
 LaTeX Warning: Citation 'agnell11' on page 214 undefined on input line 280.
 
@@ -1833,7 +1859,14 @@ LaTeX Warning: Citation 'Gloppen' on page 217 undefined on input line 296.
 
 LaTeX Warning: Reference `sec:hp' on page 218 undefined on input line 326.
 
-[218] [219] [220] [221] [222] [223] [224] [225] [226] [227]) [228]
+
+LaTeX Warning: Reference `chap:5' on page 218 undefined on input line 330.
+
+[218] [219] [220] [221] [222]
+
+LaTeX Warning: Reference `chap:5' on page 223 undefined on input line 352.
+
+[223] [224] [225] [226] [227]) [228]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.tex"
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 1.
@@ -1846,6 +1879,9 @@ Package biblatex Info: Resetting trackers on input line 1.
 LaTeX Warning: Reference `sec:...' on page 231 undefined on input line 35.
 
 [231]
+
+LaTeX Warning: Reference `chap:5' on page 232 undefined on input line 41.
+
 
 LaTeX Warning: Reference `wra00' on page 232 undefined on input line 41.
 
@@ -1948,4 +1984,153 @@ LaTeX Warning: Citation 'investment' on page 261 undefined on input line 207.
 
 [261]
 
-LaTeX Warning: Citation 'kartlegging' on page 262 undef
+LaTeX Warning: Citation 'kartlegging' on page 262 undefined on input line 213.
+
+[262] [263] [264] [265] [266]
+
+LaTeX Warning: Citation 'Efvl' on page 267 undefined on input line 239.
+
+
+LaTeX Warning: Citation 'flei' on page 267 undefined on input line 239.
+
+[267]
+
+LaTeX Warning: Citation 'Efvl' on page 268 undefined on input line 245.
+
+[268] [269]
+
+LaTeX Warning: Citation 'Efvl' on page 270 undefined on input line 278.
+
+[270] [271] [272]
+
+LaTeX Warning: Reference `sum' on page 273 undefined on input line 300.
+
+[273] [274] [275] [276] [277] [278]
+
+LaTeX Warning: Citation 'backer1' on page 279 undefined on input line 333.
+
+[279] [280] [281] [282]
+
+LaTeX Warning: Citation 'm\IeC {\r a}land11' on page 283 undefined on input lin
+e 356.
+
+
+LaTeX Warning: Citation 'm\IeC {\r a}land11' on page 283 undefined on input lin
+e 356.
+
+[283]) [284]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.tex"
+Chapter 5.
+Package biblatex Info: Resetting trackers on input line 1.
+[285
+
+
+
+] [286] [287]
+
+LaTeX Warning: Citation 'sky07;viliainen04' on page 288 undefined on input line
+ 23.
+
+[288] [289] [290]
+
+LaTeX Warning: Citation '....' on page 291 undefined on input line 39.
+
+[291] [292]
+
+LaTeX Warning: Reference `sec:x' on page 293 undefined on input line 53.
+
+[293] [294]
+
+LaTeX Warning: Citation 'lca79' on page 295 undefined on input line 97.
+
+[295] [296] [297]
+
+LaTeX Warning: Citation 'lca79' on page 298 undefined on input line 115.
+
+[298] [299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309]
+[310] [311] [312] [313] [314] [315]
+
+LaTeX Warning: Citation 'master' on page 316 undefined on input line 200.
+
+[316] [317] [318]
+
+LaTeX Warning: Citation 'master' on page 319 undefined on input line 214.
+
+
+LaTeX Warning: Citation 'master' on page 319 undefined on input line 216.
+
+[319]
+
+LaTeX Warning: Citation 'master' on page 320 undefined on input line 218.
+
+[320] [321]
+
+LaTeX Warning: Citation 'master' on page 322 undefined on input line 228.
+
+[322] [323] [324] [325] [326] [327] [328] [329] [330] [331] [332]
+
+LaTeX Warning: Reference `chap:x' on page 333 undefined on input line 287.
+
+[333] [334] [335] [336]) [337]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.tex"
+[338
+
+
+
+] [339] [340] [341] [342] [343] [344] [345] [346] [347] [348] [349]
+[350] [351] [352] [353] [354] [355] [356]
+
+Package biblatex Warning: No driver for entry type 'alegislation'.
+(biblatex)                Using fallback driver on input line 30.
+
+[357]) [358] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\tables.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/introduction.au
+x")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/Chapter1_final.
+aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2_final.
+aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter3.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\bibliography.aux"))
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+ ) 
+Here is how much of TeX's memory you used:
+ 19588 strings out of 493921
+ 337790 string characters out of 3144876
+ 783633 words of memory out of 3000000
+ 22549 multiletter control sequences out of 15000+200000
+ 16109 words of font info for 60 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 51i,14n,69p,10433b,2438s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmu10.pfb>
+Output written on thesis.pdf (366 pages, 1099057 bytes).
+PDF statistics:
+ 1235 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
