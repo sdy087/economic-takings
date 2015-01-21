@@ -2,50 +2,74 @@
 \defcounter {refsection}{0}\relax 
 \select@language {british}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Cases Cited}{ii}
+\contentsline {chapter}{Cases Cited}{iii}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{England and Wales}{ii}
+\contentsline {section}{England and Wales}{iii}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{The United States}{ii}
+\contentsline {section}{The United States}{iii}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Other Jurisdictions}{iv}
+\contentsline {section}{Other Jurisdictions}{v}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Legislation Cited}{vi}
+\contentsline {chapter}{Legislation Cited}{vii}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{United Kingdom}{vi}
+\contentsline {section}{United Kingdom}{vii}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Compulsory participation in economic development projects}{1}
+\contentsline {part}{I\hspace {1em}Towards a Theory of Takings for Commercial Gain}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Introduction}{1}
+\contentsline {chapter}{\numberline {1}Property, protection and privilege}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Land consolidation as an alternative to expropriation}{3}
+\contentsline {section}{\numberline {1.1}Introduction}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}The system of land consolidation courts}{9}
+\contentsline {section}{\numberline {1.2}Donald Trump in Scotland}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}A Brief Presentation of the Consolidation Process}{17}
+\contentsline {section}{\numberline {1.3}Theories of property}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}Joint use, joint action and joint investment}{23}
+\contentsline {section}{\numberline {1.4}The social function of property}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Compulsory participation in hydropower development}{30}
+\contentsline {subsection}{\numberline {1.4.1}Rooting out fascism: {T}he tree of property}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}\emph {Vika}}{31}
+\contentsline {subsection}{\numberline {1.4.2}Towards a normative stance}{44}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.2}\emph {Oma}}{34}
+\contentsline {section}{\numberline {1.5}Human flourishing}{45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.3}\emph {Dj\IeC {\o }nno}}{37}
+\contentsline {section}{\numberline {1.6}Economic development takings}{60}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.4}\emph {Tokheim}}{40}
+\contentsline {section}{\numberline {1.7}Conclusion}{70}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Assessment and Future Challenges}{42}
+\contentsline {part}{II\hspace {1em}A Case Study of Norwegian Hydropower}{74}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Conclusion}{48}
+\contentsline {chapter}{\numberline {2}Compulsory participation in economic development projects}{75}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{51}
+\contentsline {section}{\numberline {2.1}Introduction}{75}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{51}
+\contentsline {section}{\numberline {2.2}Land Consolidation as an Alternative to Expropriation}{77}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Contributions to Collections}{54}
+\contentsline {section}{\numberline {2.3}Land Consolidation in Norway}{84}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{56}
+\contentsline {subsection}{\numberline {2.3.1}The Consolidation Process}{91}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Other Works}{68}
+\contentsline {subsection}{\numberline {2.3.2}Joint use, joint action and joint investment}{96}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Compulsory participation in hydropower development}{101}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}\emph {Vika}}{102}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}\emph {Oma}}{104}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}\emph {Dj\IeC {\o }nno}}{107}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}\emph {Tokheim}}{110}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Assessment and Future Challenges}{112}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Conclusion}{117}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{120}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{120}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Contributions to Collections}{123}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Articles}{124}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Works}{135}

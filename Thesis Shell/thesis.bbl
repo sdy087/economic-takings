@@ -2065,6 +2065,33 @@
       \field{year}{1981}
       \keyw{ge}
     \endentry
+    \entry{dyrkolbotn15}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=ae2a85de6cf08907b77b18f45cd204c4}{Mostert}{M\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=170c57342c6a953788090d84fc02fb88}{Verstappen}{V\bibinitperiod}{L\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=c6ad82d38acf8f6e3982fa22f7832ee9}{Sluysman}{S\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ae5ab0ee1c1a7de4bf9f67a262126860}{Hoops}{H\bibinitperiod}{Bj{\''o}rn}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ius Commune}%
+      }
+      \strng{namehash}{b78b9d3370907e9829f7637e3b6acd24}
+      \strng{fullhash}{b78b9d3370907e9829f7637e3b6acd24}
+      \field{sortinit}{D}
+      \field{labeltitle}{On the compensatory approach to economic development takings}
+      \true{singletitle}
+      \field{booktitle}{The Context, Criteria, and Consequences of Expropriation}
+      \field{note}{forthcoming}
+      \field{title}{On the compensatory approach to economic development takings}
+      \field{year}{2015}
+    \endentry
     \entry{eagle08}{article}{}
       \name{labelname}{2}{}{%
         {{hash=f0c9c31fc8b005b5ec0610942f543c2b}{Eagle}{E\bibinitperiod}{Steven\bibnamedelima J\bbxinitsep}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -2129,6 +2156,36 @@
       \field{title}{Lithgow v United Kingdom}
       \field{year}{1986}
       \field{pages}{102}
+      \keyw{echr}
+    \endentry
+    \entry{erkner87}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Erkner}
+      \true{singletitle}
+      \field{journaltitle}{Series A}
+      \field{number}{117}
+      \field{shorttitle}{Erkner}
+      \field{title}{Erkner and Hofauer v Austria}
+      \field{year}{1987}
+      \field{pages}{61}
+      \keyw{echr}
+    \endentry
+    \entry{poiss87}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Poiss}
+      \true{singletitle}
+      \field{journaltitle}{Series A}
+      \field{number}{117-C}
+      \field{shorttitle}{Poiss}
+      \field{title}{Poiss v Austria}
+      \field{year}{1987}
+      \field{pages}{103}
       \keyw{echr}
     \endentry
     \entry{chassagnou99}{jurisdiction}{}
@@ -2915,6 +2972,24 @@
       \field{year}{1922}
       \field{pages}{209\bibrangedash 216}
     \endentry
+    \entry{hardin68}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e4ca7243ceeb4db20fa37fdf6dcabe27}{Hardin}{H\bibinitperiod}{Garrett}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e4ca7243ceeb4db20fa37fdf6dcabe27}{Hardin}{H\bibinitperiod}{Garrett}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e4ca7243ceeb4db20fa37fdf6dcabe27}
+      \strng{fullhash}{e4ca7243ceeb4db20fa37fdf6dcabe27}
+      \field{sortinit}{H}
+      \field{labeltitle}{The Tragedy of the Commons}
+      \true{singletitle}
+      \field{journaltitle}{Science}
+      \field{number}{3859}
+      \field{title}{The Tragedy of the Commons}
+      \field{volume}{162}
+      \field{pages}{1243\bibrangedash 1248}
+    \endentry
     \entry{midkiff84}{jurisdiction}{}
       \field{sortinit}{H}
       \field{labeltitle}{Midkiff}
@@ -2950,34 +3025,23 @@
       \field{pages}{9}
       \keyw{us}
     \endentry
-    \entry{anticommons98}{article}{}
+    \entry{heller98}{article}{}
       \name{labelname}{1}{}{%
         {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
         {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \list{language}{1}{%
-        {English}%
-      }
-      \list{publisher}{1}{%
-        {The Harvard Law Review Association}%
-      }
       \strng{namehash}{9b32b2a7114d7be3f9764661fde43ccd}
       \strng{fullhash}{9b32b2a7114d7be3f9764661fde43ccd}
       \field{sortinit}{H}
       \field{labeltitle}{The Tragedy of the Anticommons: Property in the Transition from Marx to Markets}
-      \field{abstract}{Why are many storefronts in Moscow empty, while street kiosks in front are full of goods? In this Article, Professor Heller develops a theory of anticommons property to help explain the puzzle of empty storefronts and full kiosks. Anticommons property can be understood as the mirror image of commons property. By definition, in a commons, multiple owners are each endowed with the privilege to use a given resource, and no one has the right to exclude another. When too many owners hold such privileges of use, the resource is prone to overuse - a tragedy of the commons. Depleted fisheries and overgrazed fields are canonical examples of this familiar tragedy. In an anticommons, according to this Article, multiple owners are each endowed with the right to exclude others from a scarce resource, and no one has an effective privilege of use. When too many owners hold such rights of exclusion, the resource is prone to underuse - a tragedy of the anticommons. Empty Moscow storefronts are a canonical example of the tragedy of underuse. Anticommons property may appear whenever governments define new property rights in both post-socialist and developed market economies. Once an anticommons emerges, collecting rights into usable private property bundles can be brutal and slow. The difficulties of overcoming a tragedy of the anticommons suggest that policymakers should pay more attention to the content of property bundles, rather than focusing just on the clairty of rights.}
-      \field{issn}{0017811X}
       \field{journaltitle}{Harvard Law Review}
       \field{number}{3}
       \field{title}{The Tragedy of the Anticommons: Property in the Transition from Marx to Markets}
       \field{volume}{111}
       \field{year}{1998}
-      \field{pages}{pages}
-      \verb{url}
-      \verb http://www.jstor.org/stable/1342203
-      \endverb
+      \field{pages}{621\bibrangedash 688}
     \endentry
     \entry{heller99}{article}{}
       \name{labelname}{1}{}{%
@@ -3072,6 +3136,17 @@
       \field{pages}{61}
       \keyw{gb}
     \endentry
+    \entry{hodel87}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hodel v Irving}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Hodel v Irving}
+      \field{volume}{481}
+      \field{year}{1987}
+      \field{pages}{704}
+      \keyw{us}
+    \endentry
     \entry{hoffman13}{article}{}
       \name{labelname}{1}{}{%
         {{hash=1ae5610884b2c4a6066ea29d027a23df}{Hoffman}{H\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
@@ -3158,6 +3233,16 @@
       \field{volume}{40}
       \field{year}{1973}
       \field{pages}{248\bibrangedash 290}
+    \endentry
+    \entry{herlandsfossen22}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Herlandsfossen}
+      \true{singletitle}
+      \field{number}{Rt-1922-489}
+      \field{shorttitle}{Herlandsfossen}
+      \field{title}{Hosanger, Haus og Hamre kommunale kraftverk v Askild Fusesen Vare and others}
+      \field{year}{1922}
+      \keyw{no}
     \endentry
     \entry{householder07}{article}{}
       \name{labelname}{1}{}{%
@@ -3448,6 +3533,46 @@
       \field{volume}{2}
       \field{year}{1827}
     \endentry
+    \entry{king83}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1894e4d31b4044368102d500ca2221aa}{King}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f190353a05a00d4ef78b24d1f2f3194c}{Burton}{B\bibinitperiod}{Steve}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1894e4d31b4044368102d500ca2221aa}{King}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f190353a05a00d4ef78b24d1f2f3194c}{Burton}{B\bibinitperiod}{Steve}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{94be43896d03c07c956589dc18d4976e}
+      \strng{fullhash}{94be43896d03c07c956589dc18d4976e}
+      \field{sortinit}{K}
+      \field{labeltitle}{Structural change in agriculture: the geography of land consolidation}
+      \field{journaltitle}{Progress in Human Geography}
+      \field{number}{4}
+      \field{title}{Structural change in agriculture: the geography of land consolidation}
+      \field{volume}{7}
+      \field{year}{1983}
+      \field{pages}{471\bibrangedash 501}
+    \endentry
+    \entry{king89}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1894e4d31b4044368102d500ca2221aa}{King}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f190353a05a00d4ef78b24d1f2f3194c}{Burton}{B\bibinitperiod}{Steve}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1894e4d31b4044368102d500ca2221aa}{King}{K\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f190353a05a00d4ef78b24d1f2f3194c}{Burton}{B\bibinitperiod}{Steve}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{94be43896d03c07c956589dc18d4976e}
+      \strng{fullhash}{94be43896d03c07c956589dc18d4976e}
+      \field{sortinit}{K}
+      \field{labeltitle}{Land ownership values and rural structural change in Cyprus}
+      \field{journaltitle}{Journal of Rural Studies}
+      \field{number}{3}
+      \field{title}{Land ownership values and rural structural change in Cyprus}
+      \field{volume}{5}
+      \field{year}{1989}
+      \field{pages}{267\bibrangedash 277}
+    \endentry
     \entry{klein11}{article}{}
       \name{labelname}{2}{}{%
         {{hash=94838920da7ddc107e3a46d2e14e3da4}{Klein}{K\bibinitperiod}{Daniel\bibnamedelima B\bbxinitsep}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
@@ -3633,6 +3758,15 @@
       \field{year}{2014}
       \field{pages}{113\bibrangedash 139}
     \endentry
+    \entry{la95}{legislation}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Land Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Land Act}
+      \field{year}{1995}
+      \keyw{no}
+    \endentry
     \entry{lca61}{legislation}{}
       \field{sortinit}{L}
       \field{labeltitle}{Land Compensation Act}
@@ -3658,6 +3792,29 @@
       \field{title}{Land Consolidation Act}
       \field{year}{2013}
       \keyw{no}
+    \endentry
+    \entry{langbach09}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=77e0964cebd92e2faba9d1dd46170797}{Langbach}{L\bibinitperiod}{Tor}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=77e0964cebd92e2faba9d1dd46170797}{Langbach}{L\bibinitperiod}{Tor}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendal Akademisk}%
+      }
+      \strng{namehash}{77e0964cebd92e2faba9d1dd46170797}
+      \strng{fullhash}{77e0964cebd92e2faba9d1dd46170797}
+      \field{sortinit}{L}
+      \field{labeltitle}{Jordskiftedomstolene og de alminnelige domstoler -- likheter og ulikheter}
+      \true{singletitle}
+      \field{booktitle}{Perspektiver på jordskifte}
+      \field{title}{Jordskiftedomstolene og de alminnelige domstoler -- likheter og ulikheter}
+      \field{year}{2009}
+      \field{pages}{35\bibrangedash 48}
     \endentry
     \entry{nielsen69}{article}{}
       \name{labelname}{1}{}{%
@@ -3797,6 +3954,27 @@
       \field{volume}{107}
       \field{year}{2007}
       \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{lerman06}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dde5c27ae68ecb4829e2658ed2dea9e5}{Lerman}{L\bibinitperiod}{Zvi}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=c9358a7ecb218055ecb8049c04ac0edd}{Cimpoieş}{C\bibinitperiod}{Dragoş}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dde5c27ae68ecb4829e2658ed2dea9e5}{Lerman}{L\bibinitperiod}{Zvi}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=c9358a7ecb218055ecb8049c04ac0edd}{Cimpoieş}{C\bibinitperiod}{Dragoş}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7442e40327c1e13c1c26e7b6b47b5d09}
+      \strng{fullhash}{7442e40327c1e13c1c26e7b6b47b5d09}
+      \field{sortinit}{L}
+      \field{labeltitle}{Land Consolidation as a Factor for Rural Development in Moldova}
+      \true{singletitle}
+      \field{journaltitle}{Europe-Asia Studies}
+      \field{number}{3}
+      \field{title}{Land Consolidation as a Factor for Rural Development in Moldova}
+      \field{volume}{58}
+      \field{year}{2006}
+      \field{pages}{439\bibrangedash 455}
     \endentry
     \entry{lewis09}{book}{}
       \name{labelname}{1}{}{%
@@ -3983,6 +4161,24 @@
       \true{singletitle}
       \field{title}{Principples of property law: {A} Comperative Legal and Economic Introduction}
       \field{year}{2000}
+    \endentry
+    \entry{mayhew09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b89b2766f885c6bc88494fbe510abaf2}{Mayhew}{M\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b89b2766f885c6bc88494fbe510abaf2}{Mayhew}{M\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b89b2766f885c6bc88494fbe510abaf2}
+      \strng{fullhash}{b89b2766f885c6bc88494fbe510abaf2}
+      \field{sortinit}{M}
+      \field{labeltitle}{A Dictionary of Geography}
+      \true{singletitle}
+      \field{title}{A Dictionary of Geography}
+      \field{year}{2009}
     \endentry
     \entry{meidinger80}{article}{}
       \name{labelname}{1}{}{%
@@ -4658,6 +4854,20 @@
       \field{indextitle}{Ot.prp. nr. 56 (1970-1971)}
       \field{title}{Ot.prp. nr. 56 (1970-1971)}
     \endentry
+    \entry{otprp56}{misc}{}
+      \field{sortinit}{O}
+      \field{labeltitle}{Ot.prp. nr. 56 (1978-1979)}
+      \true{singletitle}
+      \field{indextitle}{Ot.prp. nr. 56 (1978-1979)}
+      \field{title}{Ot.prp. nr. 56 (1978-1979)}
+    \endentry
+    \entry{otprp57}{misc}{}
+      \field{sortinit}{O}
+      \field{labeltitle}{Ot.prp. nr. 57 (1997-1998)}
+      \true{singletitle}
+      \field{indextitle}{Ot.prp. nr. 57 (1997-1998)}
+      \field{title}{Ot.prp. nr. 57 (1997-1998)}
+    \endentry
     \entry{otprp78}{misc}{}
       \field{sortinit}{O}
       \field{labeltitle}{Ot.prp. nr. 78 (2004-2005)}
@@ -5052,7 +5262,7 @@
       \field{year}{2009}
       \field{pages}{284\bibrangedash 310}
     \endentry
-    \entry{ravno08}{book}{}
+    \entry{ravna08}{book}{}
       \name{labelname}{1}{}{%
         {{hash=7c9728ee7b4f111dfb3621a5cf6b5588}{Ravnå}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
       }
@@ -5093,6 +5303,44 @@
       \field{pages}{437}
       \keyw{gb}
     \endentry
+    \entry{reiten95}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e9f12b901f29ffe110af8ca82aaabc08}{Reiten}{R\bibinitperiod}{Magne}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e9f12b901f29ffe110af8ca82aaabc08}{Reiten}{R\bibinitperiod}{Magne}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e9f12b901f29ffe110af8ca82aaabc08}
+      \strng{fullhash}{e9f12b901f29ffe110af8ca82aaabc08}
+      \field{sortinit}{R}
+      \field{labeltitle}{Jordskifteverkets fremtidige arbeidsoppgaver}
+      \field{journaltitle}{Kart of Plan}
+      \field{title}{Jordskifteverkets fremtidige arbeidsoppgaver}
+      \field{year}{1995}
+      \field{pages}{214\bibrangedash 218}
+    \endentry
+    \entry{reiten09}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=e9f12b901f29ffe110af8ca82aaabc08}{Reiten}{R\bibinitperiod}{Magne}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e9f12b901f29ffe110af8ca82aaabc08}{Reiten}{R\bibinitperiod}{Magne}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendal Akademisk}%
+      }
+      \strng{namehash}{e9f12b901f29ffe110af8ca82aaabc08}
+      \strng{fullhash}{e9f12b901f29ffe110af8ca82aaabc08}
+      \field{sortinit}{R}
+      \field{labeltitle}{Avgjerd om fremme av jordskiftesak}
+      \field{booktitle}{Perspektiver på jordskifte}
+      \field{title}{Avgjerd om fremme av jordskiftesak}
+      \field{year}{2009}
+      \field{pages}{235\bibrangedash 259}
+    \endentry
     \entry{malvik93}{jurisdiction}{}
       \field{sortinit}{R}
       \field{labeltitle}{Malvik}
@@ -5112,6 +5360,15 @@
       \field{title}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
       \field{volume}{2}
       \field{year}{1969}
+    \endentry
+    \entry{nou76}{misc}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Revisjon av jordskifteloven}
+      \true{singletitle}
+      \field{indextitle}{Revisjon av jordskifteloven}
+      \field{journaltitle}{NOU 1976:50}
+      \field{note}{Report to the Ministry of Agriculture from special committee appointed by the King in Council 12 May 1972}
+      \field{title}{Revisjon av jordskifteloven}
     \endentry
     \entry{reynolds63}{article}{}
       \name{labelname}{1}{}{%
@@ -5232,6 +5489,93 @@
       \field{year}{1904}
       \field{pages}{531}
       \keyw{us}
+    \endentry
+    \entry{rognes98}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=0507b95f3fe0b2c8add77274cc49077f}{Rognes}{R\bibinitperiod}{Jørn}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0507b95f3fe0b2c8add77274cc49077f}{Rognes}{R\bibinitperiod}{Jørn}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {University of Wisconsin-Madison, Land Tenure Center}%
+      }
+      \strng{namehash}{8073b4909bc1f174d8c365a9d232c753}
+      \strng{fullhash}{8073b4909bc1f174d8c365a9d232c753}
+      \field{sortinit}{R}
+      \field{labeltitle}{Mediation in the Norwegian Land Consolidation Courts}
+      \field{entrysubtype}{Working Papers}
+      \field{number}{12808}
+      \field{title}{Mediation in the Norwegian Land Consolidation Courts}
+      \field{type}{Working Papers}
+      \field{year}{1998}
+      \verb{url}
+      \verb http://EconPapers.repec.org/RePEc:ags:uwltwp:12808
+      \endverb
+    \endentry
+    \entry{rognes03}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0507b95f3fe0b2c8add77274cc49077f}{Rognes}{R\bibinitperiod}{Jørn}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0507b95f3fe0b2c8add77274cc49077f}{Rognes}{R\bibinitperiod}{Jørn}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8073b4909bc1f174d8c365a9d232c753}
+      \strng{fullhash}{8073b4909bc1f174d8c365a9d232c753}
+      \field{sortinit}{R}
+      \field{labeltitle}{Intervention methods in land disputes}
+      \field{journaltitle}{European Planning Studies}
+      \field{number}{8}
+      \field{title}{Intervention methods in land disputes}
+      \field{volume}{11}
+      \field{year}{2003}
+      \field{pages}{965\bibrangedash 978}
+    \endentry
+    \entry{rognes00}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a5d1be4da3d68a3cf89340b1dc0d9c4a}{Rognes}{R\bibinitperiod}{Kjell\bibnamedelima Jørn}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a5d1be4da3d68a3cf89340b1dc0d9c4a}{Rognes}{R\bibinitperiod}{Kjell\bibnamedelima Jørn}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ac2faf379fea97ac530847e3b9b44e4}
+      \strng{fullhash}{2ac2faf379fea97ac530847e3b9b44e4}
+      \field{sortinit}{R}
+      \field{labeltitle}{Megling i domstolene, særlig i jordskifteretten}
+      \field{journaltitle}{Lov og Rett}
+      \field{title}{Megling i domstolene, særlig i jordskifteretten}
+      \field{year}{2000}
+      \field{pages}{101\bibrangedash 112}
+    \endentry
+    \entry{rognes07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a5d1be4da3d68a3cf89340b1dc0d9c4a}{Rognes}{R\bibinitperiod}{Kjell\bibnamedelima Jørn}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a5d1be4da3d68a3cf89340b1dc0d9c4a}{Rognes}{R\bibinitperiod}{Kjell\bibnamedelima Jørn}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{2ac2faf379fea97ac530847e3b9b44e4}
+      \strng{fullhash}{2ac2faf379fea97ac530847e3b9b44e4}
+      \field{sortinit}{R}
+      \field{labeltitle}{Konfliktløsning og fast eiendom -- ekisterende og nye arenaer}
+      \field{booktitle}{Areal og eiendomsrett}
+      \field{title}{Konfliktløsning og fast eiendom -- ekisterende og nye arenaer}
+      \field{year}{2007}
+      \field{pages}{511\bibrangedash 530}
     \endentry
     \entry{rogstad56}{article}{}
       \name{labelname}{1}{}{%
@@ -5742,20 +6086,6 @@
       \field{year}{2008}
       \field{pages}{193\bibrangedash 194}
     \endentry
-    \entry{sky07}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{2365676395ab04c897a3ae78f339c59c}
-      \strng{fullhash}{2365676395ab04c897a3ae78f339c59c}
-      \field{sortinit}{S}
-      \field{labeltitle}{Internasjonal perspektiv på jordskifte}
-      \field{journaltitle}{Areal og eiendomsrett}
-      \field{title}{Internasjonal perspektiv på jordskifte}
-    \endentry
     \entry{sky01}{article}{}
       \name{labelname}{1}{}{%
         {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
@@ -5771,6 +6101,49 @@
       \field{title}{Jordskifte i andre land -- organisering og prosess}
       \field{year}{2001}
       \field{pages}{43}
+    \endentry
+    \entry{sky07}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{2365676395ab04c897a3ae78f339c59c}
+      \strng{fullhash}{2365676395ab04c897a3ae78f339c59c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Internasjonalt perspektiv på jordskifte}
+      \field{booktitle}{Areal og eiendomsrett}
+      \field{title}{Internasjonalt perspektiv på jordskifte}
+      \field{year}{2007}
+    \endentry
+    \entry{sky09}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendal Akademisk}%
+      }
+      \strng{namehash}{2365676395ab04c897a3ae78f339c59c}
+      \strng{fullhash}{2365676395ab04c897a3ae78f339c59c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Jordskiftets ulike effekter}
+      \field{booktitle}{Perspektiver på jordskifte}
+      \field{title}{Jordskiftets ulike effekter}
+      \field{year}{2009}
+      \field{pages}{369\bibrangedash 396}
     \endentry
     \entry{slater06}{article}{}
       \name{labelname}{1}{}{%
@@ -6063,6 +6436,46 @@
       \field{pages}{297}
       \keyw{us}
     \endentry
+    \entry{stenseth07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \field{sortinit}{S}
+      \field{labeltitle}{De nye reglene om ``urbant jordskifte''. En presentasjon og vurdering}
+      \field{journaltitle}{Tidsskrift for Eiendomsrett}
+      \field{title}{De nye reglene om ``urbant jordskifte''. En presentasjon og vurdering}
+      \field{year}{2007}
+      \field{pages}{293\bibrangedash 319}
+    \endentry
+    \entry{stenseth10a}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=93a631a28344700f06f12555a850a174}{Bull}{B\bibinitperiod}{Kirsti\bibnamedelima Strøm}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Akademisk Publisering}%
+      }
+      \strng{namehash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \field{sortinit}{S}
+      \field{labeltitle}{Bygdeallmenningenes rettshistorie og dens møte med fremtidens landbruk}
+      \field{booktitle}{Natur, Rett, Historie}
+      \field{number}{5}
+      \field{series}{Oslo Studies in Legal History}
+      \field{title}{Bygdeallmenningenes rettshistorie og dens møte med fremtidens landbruk}
+      \field{year}{2010}
+      \field{pages}{81\bibrangedash 95}
+    \endentry
     \entry{stenseth10}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
@@ -6074,7 +6487,6 @@
       \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
       \field{sortinit}{S}
       \field{labeltitle}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
-      \true{singletitle}
       \field{journaltitle}{Tidsskrift for Rettsvitenskap}
       \field{number}{04-05}
       \field{title}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
@@ -6565,6 +6977,26 @@
       \field{year}{1896}
       \field{pages}{668}
       \keyw{us}
+    \endentry
+    \entry{utgard09}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=cf79e91faf3ce2ab2e1f081d0137cf6b}{Utgård}{U\bibinitperiod}{Karl\bibnamedelima Arne}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cf79e91faf3ce2ab2e1f081d0137cf6b}{Utgård}{U\bibinitperiod}{Karl\bibnamedelima Arne}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cf79e91faf3ce2ab2e1f081d0137cf6b}
+      \strng{fullhash}{cf79e91faf3ce2ab2e1f081d0137cf6b}
+      \field{sortinit}{U}
+      \field{labeltitle}{Jordskiftedomstolane og Den europeiske menneskerettskonvensjonen}
+      \true{singletitle}
+      \field{booktitle}{Perspektiver på jordskifte}
+      \field{title}{Jordskiftedomstolane og Den europeiske menneskerettskonvensjonen}
+      \field{year}{2009}
+      \field{pages}{163\bibrangedash 183}
     \endentry
     \entry{vanhorne95}{jurisdiction}{}
       \field{sortinit}{V}
