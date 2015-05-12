@@ -4,13 +4,13 @@
 %\includeonly{Chapter1/Chapter1}
 %NOTE: if you want to work on just one Chapter, you can take out the `%' sign on the previous line and compile the thesis accordingly. The above command, for instance, will give you just the first Chapter. The bonus of doing it this way is that your cross references and page numbers will remain as they are in the full file. 
 
-
 \documentclass[a4paper,oneside,10pt]{thesisPSnPDF}
 
 \usepackage[utf8]{inputenc}
 \usepackage{babel}
 %\DeclareUnicodeCharacter{00A0}{ }
 
+\newcommand{\noo}[1]{}
 \newcommand{\sjur}[1]{SJUR: #1}
 \newcommand{\nathp}[1]{NatHp(#1)}
 
@@ -22,8 +22,6 @@
 \newenvironment{aquote}[1]
   {\savebox\mybox{#1}\begin{quote}}
   {\signed{\usebox\mybox}\end{quote}}
-
-\newcommand{\noo}[1]{}
 
 \usepackage{titlesec}
 \titleformat{\chapter}[hang]
@@ -105,10 +103,14 @@
 \mainmatter
 %\include{Chapter1/introduction}
 %\include{Chapter1/Chapter1_final}
+\include{Chapter1/newintro}
+\include{Chapter1/chap1_isr}
+\include{Chapter2/chap2_isr}
 \include{Chapter2/Chapter2_final}
 \include{Chapter3/Chapter_3_15}
 %\include{Chapter4/chapter4_final}
-%\include{Chapter5/Chapter5} 
+\include{Chapter5/Chapter5} 
+\include{Chapter1/conc}
 %\include{Chapter6/Chapter6}		
 %\include{Chapter7/Chapter7}
 %\include{Chapter8/Chapter8} 

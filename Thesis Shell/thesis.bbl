@@ -89,6 +89,15 @@
       \field{year}{2008}
       \keyw{no}
     \endentry
+    \entry{sauda09}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Aktieselskabet Saudefaldene v Hallingstad and others}
+      \true{singletitle}
+      \field{number}{LG-2007-176723}
+      \field{title}{Aktieselskabet Saudefaldene v Hallingstad and others}
+      \field{year}{2009}
+      \keyw{no}
+    \endentry
     \entry{alexander88}{article}{}
       \name{labelname}{1}{}{%
         {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -100,7 +109,7 @@
       \strng{fullhash}{700d6191a6cc63ffcd40389ccc5ff24f}
       \field{sortinit}{A}
       \field{labeltitle}{Takings, Narratives, and Power}
-      \field{journaltitle}{Colum. L. Rev.}
+      \field{journaltitle}{Columbia Law Review}
       \field{title}{Takings, Narratives, and Power}
       \field{volume}{88}
       \field{year}{1988}
@@ -135,7 +144,7 @@
       \strng{fullhash}{700d6191a6cc63ffcd40389ccc5ff24f}
       \field{sortinit}{A}
       \field{labeltitle}{Property as a Fundamental Constitutional Right? {T}he German Example}
-      \field{journaltitle}{Cornell L. Rev.}
+      \field{journaltitle}{Cornell Law Review}
       \field{title}{Property as a Fundamental Constitutional Right? {T}he German Example}
       \field{volume}{88}
       \field{year}{2003}
@@ -240,7 +249,7 @@
       \strng{fullhash}{700d6191a6cc63ffcd40389ccc5ff24f}
       \field{sortinit}{A}
       \field{labeltitle}{Pluralism and Property}
-      \field{journaltitle}{Fordham L. Rev.}
+      \field{journaltitle}{Fordham Law Review}
       \field{title}{Pluralism and Property}
       \field{volume}{80}
       \field{year}{2011}
@@ -569,7 +578,7 @@
       \field{sortinit}{A}
       \field{labeltitle}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
       \true{singletitle}
-      \field{journaltitle}{The Yale Law Journal}
+      \field{journaltitle}{Yale Law Journal}
       \field{number}{4}
       \field{title}{The Public Use Limitation on Eminent Domain: An Advance Requiem}
       \field{volume}{58}
@@ -672,6 +681,23 @@
       \field{year}{2009}
       \field{pages}{337\bibrangedash 362}
     \endentry
+    \entry{backer86}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=076b004808a912563d94639d38a83504}{Backer}{B\bibinitperiod}{Inge\bibnamedelima Lorange}{I\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=076b004808a912563d94639d38a83504}{Backer}{B\bibinitperiod}{Inge\bibnamedelima Lorange}{I\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{076b004808a912563d94639d38a83504}
+      \strng{fullhash}{076b004808a912563d94639d38a83504}
+      \field{sortinit}{B}
+      \field{labeltitle}{Naturvern og Naturinngrep}
+      \field{title}{Naturvern og Naturinngrep}
+      \field{year}{1986}
+    \endentry
     \entry{backer12}{book}{}
       \name{labelname}{1}{}{%
         {{hash=076b004808a912563d94639d38a83504}{Backer}{B\bibinitperiod}{Inge\bibnamedelima Lorange}{I\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -686,7 +712,6 @@
       \strng{fullhash}{076b004808a912563d94639d38a83504}
       \field{sortinit}{B}
       \field{labeltitle}{Innføring i naturressurs- og miljørett}
-      \true{singletitle}
       \field{edition}{5}
       \field{title}{Innføring i naturressurs- og miljørett}
       \field{year}{2012}
@@ -727,12 +752,38 @@
       \strng{fullhash}{9c34fe8b8bc9c1acbc028c25bb50b772}
       \field{sortinit}{B}
       \field{labeltitle}{Development of Small Versus Large Hydropower in Norway– Comparison of Environmental Impacts}
-      \true{singletitle}
       \field{journaltitle}{Energy Procedia}
       \field{title}{Development of Small Versus Large Hydropower in Norway– Comparison of Environmental Impacts}
       \field{volume}{20}
       \field{year}{2012}
       \field{pages}{185\bibrangedash 199}
+    \endentry
+    \entry{bakken14}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=e453de8fc78a6fe25d3c93df02e594e3}{Bakken}{B\bibinitperiod}{Tor\bibnamedelima Haakon}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=57862c3c461f15936dc0e0fe02d6fd6f}{Aase}{A\bibinitperiod}{Anne\bibnamedelima Guri}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=23b4942bb1055d7daba886aad8e700f0}{Hagen}{H\bibinitperiod}{Dagmar}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=88eeba1ca7e3f980e942869e6c014cc6}{Sundt}{S\bibinitperiod}{Håkon}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=14bb1042c03a3518421c2f849afa67cc}{Barton}{B\bibinitperiod}{David\bibnamedelima N\bbxinitsep}{D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c5bf13f339aeed4c5c4329c0a55b3e9b}{Lujala}{L\bibinitperiod}{Päivi}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=e453de8fc78a6fe25d3c93df02e594e3}{Bakken}{B\bibinitperiod}{Tor\bibnamedelima Haakon}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=57862c3c461f15936dc0e0fe02d6fd6f}{Aase}{A\bibinitperiod}{Anne\bibnamedelima Guri}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=23b4942bb1055d7daba886aad8e700f0}{Hagen}{H\bibinitperiod}{Dagmar}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=88eeba1ca7e3f980e942869e6c014cc6}{Sundt}{S\bibinitperiod}{Håkon}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=14bb1042c03a3518421c2f849afa67cc}{Barton}{B\bibinitperiod}{David\bibnamedelima N\bbxinitsep}{D\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c5bf13f339aeed4c5c4329c0a55b3e9b}{Lujala}{L\bibinitperiod}{Päivi}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c0bf4a1829475f48b202624fecdc4339}
+      \strng{fullhash}{e0a7f6bbbaf521048ce39f9aaf35c4f1}
+      \field{sortinit}{B}
+      \field{labeltitle}{Demonstrating a new framework for the comparison of environmental impacts from small- and large-scale hydropower and wind power projects}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{title}{Demonstrating a new framework for the comparison of environmental impacts from small- and large-scale hydropower and wind power projects}
+      \field{volume}{140}
+      \field{year}{2014}
+      \field{pages}{93\bibrangedash 101}
     \endentry
     \entry{balochdphil}{thesis}{}
       \name{labelname}{1}{}{%
@@ -832,7 +883,7 @@
       \field{sortinit}{B}
       \field{labeltitle}{Rethinking the Federal Eminent Domain Power}
       \true{singletitle}
-      \field{journaltitle}{Yale L. J.}
+      \field{journaltitle}{Yale Law Journal}
       \field{title}{Rethinking the Federal Eminent Domain Power}
       \field{volume}{122}
       \field{year}{2013}
@@ -864,6 +915,29 @@
       \field{edition}{4}
       \field{title}{Statutory Valuations}
       \field{year}{2014}
+    \endentry
+    \entry{baxter11}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=b1172e8e726e14a1ed25425484793854}{Baxter}{B\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b1172e8e726e14a1ed25425484793854}{Baxter}{B\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b1172e8e726e14a1ed25425484793854}
+      \strng{fullhash}{b1172e8e726e14a1ed25425484793854}
+      \field{sortinit}{B}
+      \field{labeltitle}{You've been Trumped}
+      \true{singletitle}
+      \field{day}{03}
+      \field{month}{05}
+      \field{title}{You've been Trumped}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://www.youvebeentrumped.com/youvebeentrumped.com/THE_MOVIE.html
+      \endverb
     \endentry
     \entry{begum06}{jurisdiction}{}
       \field{sortinit}{B}
@@ -1192,7 +1266,7 @@
       \field{sortinit}{B}
       \field{labeltitle}{Public Outcry: {K}elo v. City of New London -- {A} Proposed Solution}
       \true{singletitle}
-      \field{journaltitle}{Environmental law}
+      \field{journaltitle}{Environmental Law}
       \field{number}{2}
       \field{title}{Public Outcry: {K}elo v. City of New London -- {A} Proposed Solution}
       \field{volume}{39}
@@ -1245,6 +1319,30 @@
       \field{pages}{pages}
       \verb{url}
       \verb http://www.jstor.org/stable/40599209
+      \endverb
+    \endentry
+    \entry{booth12}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=5e3f80673c1bc5888af804f8d8e54763}{Booth}{B\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5e3f80673c1bc5888af804f8d8e54763}{Booth}{B\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5e3f80673c1bc5888af804f8d8e54763}
+      \strng{fullhash}{5e3f80673c1bc5888af804f8d8e54763}
+      \field{sortinit}{B}
+      \field{labeltitle}{Donald Trump opens £100m golf course}
+      \true{singletitle}
+      \field{day}{10}
+      \field{journaltitle}{The Guardian}
+      \field{month}{07}
+      \field{title}{Donald Trump opens £100m golf course}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.theguardian.com/world/2012/jul/10/donald-trump-100m-golf-course
       \endverb
     \endentry
     \entry{borras11}{article}{}
@@ -1346,6 +1444,7 @@
       \field{number}{1}
       \field{title}{Småkraftverk og ekspropriasjon -- replikk til NVE}
       \field{year}{2008}
+      \field{pages}{21}
     \endentry
     \entry{brannan08}{article}{}
       \name{labelname}{1}{}{%
@@ -1515,6 +1614,34 @@
       \field{year}{2009}
       \field{pages}{2447\bibrangedash 2461}
     \endentry
+    \entry{carrell08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=57758520c922e629e4efb74205f8b712}{Carrell}{C\bibinitperiod}{Severin}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=57758520c922e629e4efb74205f8b712}{Carrell}{C\bibinitperiod}{Severin}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{57758520c922e629e4efb74205f8b712}
+      \strng{fullhash}{57758520c922e629e4efb74205f8b712}
+      \field{sortinit}{C}
+      \field{labeltitle}{`World's best golf course' approved - complete with 23-acre eyesore}
+      \true{singletitle}
+      \field{day}{04}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Guardian}
+      \field{month}{11}
+      \field{title}{`World's best golf course' approved - complete with 23-acre eyesore}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.theguardian.com/world/2008/nov/04/donald-trump-scottish-golf-course
+      \endverb
+    \endentry
     \entry{carruthers04}{article}{}
       \name{labelname}{2}{}{%
         {{hash=2c4f5b16e9f84df05b389971a890cac5}{Carruthers}{C\bibinitperiod}{Bruce\bibnamedelima G\bbxinitsep}{B\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
@@ -1574,6 +1701,18 @@
       \field{edition}{3}
       \field{title}{Norges Statsforfatning, Bind 2}
       \field{year}{1964}
+    \endentry
+    \entry{castle15}{online}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Castle Coalition}
+      \true{singletitle}
+      \field{title}{Castle Coalition}
+      \field{urlday}{18}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \verb{url}
+      \verb http://castlecoalition.org/
+      \endverb
     \endentry
     \entry{cavazos11}{article}{}
       \name{labelname}{1}{}{%
@@ -2048,7 +2187,7 @@
       \strng{fullhash}{5c146a7b7996847f33243e0bc1e32a20}
       \field{sortinit}{D}
       \field{labeltitle}{The Social Responsibility of Ownership}
-      \field{journaltitle}{Cornell L. Rev.}
+      \field{journaltitle}{Cornell Law Review}
       \field{title}{The Social Responsibility of Ownership}
       \field{volume}{92}
       \field{year}{2007}
@@ -2079,6 +2218,9 @@
       }
       \name{author}{1}{}{%
         {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
       }
       \strng{namehash}{5c146a7b7996847f33243e0bc1e32a20}
       \strng{fullhash}{5c146a7b7996847f33243e0bc1e32a20}
@@ -2146,7 +2288,7 @@
       \field{labeltitle}{The Liberal Commons}
       \true{singletitle}
       \field{issn}{00440094}
-      \field{journaltitle}{The Yale Law Journal}
+      \field{journaltitle}{Yale Law Journal}
       \field{number}{4}
       \field{title}{The Liberal Commons}
       \field{volume}{110}
@@ -2155,6 +2297,24 @@
       \verb{url}
       \verb http://www.jstor.org/stable/797596
       \endverb
+    \endentry
+    \entry{dahl88}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e0bf191098035a074942086c420951dd}{Dahl}{D\bibinitperiod}{W\bbxinitsep\bibnamedelima S\bbxinitsep}{W\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e0bf191098035a074942086c420951dd}{Dahl}{D\bibinitperiod}{W\bbxinitsep\bibnamedelima S\bbxinitsep}{W\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Den Norske Forlagsforening}%
+      }
+      \strng{namehash}{e0bf191098035a074942086c420951dd}
+      \strng{fullhash}{e0bf191098035a074942086c420951dd}
+      \field{sortinit}{D}
+      \field{labeltitle}{Den Norske Vasdragsret}
+      \true{singletitle}
+      \field{title}{Den Norske Vasdragsret}
+      \field{year}{1888}
     \endentry
     \entry{darling05}{article}{}
       \name{labelname}{1}{}{%
@@ -2240,6 +2400,26 @@
       \field{title}{The Emerging Human Right to Land}
       \field{volume}{12}
     \endentry
+    \entry{bbc10b}{article}{}
+      \list{location}{1}{%
+        {London}%
+      }
+      \field{sortinit}{D}
+      \field{labeltitle}{Degree returned over Donald Trump's RGU award}
+      \true{singletitle}
+      \field{day}{28}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{BBC News}
+      \field{month}{09}
+      \field{title}{Degree returned over Donald Trump's RGU award}
+      \field{urlday}{17}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-11421376
+      \endverb
+    \endentry
     \entry{haltbrekken12}{article}{}
       \field{sortinit}{D}
       \field{labeltitle}{Det yppes til ny vassdragsstrid!}
@@ -2278,6 +2458,46 @@
       \field{title}{Djønno Indre Kaland}
       \field{year}{2006}
       \keyw{no}
+    \endentry
+    \entry{scotsman10}{article}{}
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \field{sortinit}{D}
+      \field{labeltitle}{Donald Trump's plea to homeowners on the Menie Estate}
+      \true{singletitle}
+      \field{day}{12}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Scotsman}
+      \field{month}{11}
+      \field{title}{Donald Trump's plea to homeowners on the Menie Estate}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.scotsman.com/news/donald-trump-s-plea-to-homeowners-on-the-menie-estate-1-1370270
+      \endverb
+    \endentry
+    \entry{dorfman10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2f2f192dab54779825a47dc872d6131e}{Dorfman}{D\bibinitperiod}{Avihay}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2f2f192dab54779825a47dc872d6131e}{Dorfman}{D\bibinitperiod}{Avihay}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2f2f192dab54779825a47dc872d6131e}
+      \strng{fullhash}{2f2f192dab54779825a47dc872d6131e}
+      \field{sortinit}{D}
+      \field{labeltitle}{Private Ownership}
+      \true{singletitle}
+      \field{issue}{1}
+      \field{journaltitle}{Legal Theory}
+      \field{month}{3}
+      \field{title}{Private Ownership}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 35}
     \endentry
     \entry{dorum13}{article}{}
       \name{labelname}{1}{}{%
@@ -2410,6 +2630,23 @@
       \field{volume}{42}
       \field{year}{2008}
       \field{pages}{799\bibrangedash 850}
+    \endentry
+    \entry{eckhoff82}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0e2ff35869e3d9ff137d4b41c8287cf2}{Eckhoff}{E\bibinitperiod}{Torstein}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0e2ff35869e3d9ff137d4b41c8287cf2}{Eckhoff}{E\bibinitperiod}{Torstein}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0e2ff35869e3d9ff137d4b41c8287cf2}
+      \strng{fullhash}{0e2ff35869e3d9ff137d4b41c8287cf2}
+      \field{sortinit}{E}
+      \field{labeltitle}{Alta-dommen}
+      \true{singletitle}
+      \field{journaltitle}{Lov og Rett}
+      \field{title}{Alta-dommen}
+      \field{year}{1982}
+      \field{pages}{399}
     \endentry
     \entry{eckhoff14}{book}{}
       \name{labelname}{2}{}{%
@@ -2859,6 +3096,24 @@
       \field{title}{Rett til Nett: Konkurranse i Nettbundne Sektorer}
       \field{year}{2004}
     \endentry
+    \entry{falkanger87}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ed316c775bfe87a1037cb041003a255b}{Falkanger}{F\bibinitperiod}{Thor}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ed316c775bfe87a1037cb041003a255b}{Falkanger}{F\bibinitperiod}{Thor}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ed316c775bfe87a1037cb041003a255b}
+      \strng{fullhash}{ed316c775bfe87a1037cb041003a255b}
+      \field{sortinit}{F}
+      \field{labeltitle}{Acquisition of Real Property and State Approval}
+      \true{singletitle}
+      \field{journaltitle}{Scandinavian Studies in Law}
+      \field{title}{Acquisition of Real Property and State Approval}
+      \field{volume}{31}
+      \field{year}{1987}
+      \field{pages}{57\bibrangedash 79}
+    \endentry
     \entry{fallsburg03}{jurisdiction}{}
       \field{sortinit}{F}
       \field{labeltitle}{Fallsburg Power \& Mfg Co v Alexander}
@@ -2881,7 +3136,7 @@
       \field{sortinit}{F}
       \field{labeltitle}{The Takings Clause as a Comparative Right}
       \true{singletitle}
-      \field{journaltitle}{S. Cal. L. Rev.}
+      \field{journaltitle}{Southern California Law Review}
       \field{title}{The Takings Clause as a Comparative Right}
       \field{volume}{76}
       \field{year}{2003}
@@ -2927,6 +3182,34 @@
       \field{year}{2004}
       \field{pages}{957}
     \endentry
+    \entry{ferguson12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1ef2be5c40ec978c0520e879b5f72ab6}{Ferguson}{F\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1ef2be5c40ec978c0520e879b5f72ab6}{Ferguson}{F\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \strng{namehash}{1ef2be5c40ec978c0520e879b5f72ab6}
+      \strng{fullhash}{1ef2be5c40ec978c0520e879b5f72ab6}
+      \field{sortinit}{F}
+      \field{labeltitle}{Farmer who took on Trump triumphs in Spirit awards}
+      \true{singletitle}
+      \field{day}{29}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Scotsman}
+      \field{month}{11}
+      \field{title}{Farmer who took on Trump triumphs in Spirit awards}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.scotsman.com/news/scotland/top-stories/farmer-who-took-on-trump-triumphs-in-spirit-awards-1-2668649
+      \endverb
+    \endentry
     \entry{sellers95}{article}{}
       \name{labelname}{1}{}{%
         {{hash=e67d697bc51225ba8224e59117a60f08}{Firmin-Sellers}{F\bibinithyphendelim S\bibinitperiod}{Kathryn}{K\bibinitperiod}{}{}{}{}}%
@@ -2968,6 +3251,44 @@
       \field{year}{1988}
       \field{pages}{269\bibrangedash 293}
     \endentry
+    \entry{cnn07}{article}{}
+      \list{location}{1}{%
+        {Atlanta, Georgia}%
+      }
+      \field{sortinit}{F}
+      \field{labeltitle}{Fisherman bunkers Trump golf plan}
+      \true{singletitle}
+      \field{day}{10}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{CNN}
+      \field{month}{10}
+      \field{title}{Fisherman bunkers Trump golf plan}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://edition.cnn.com/2007/WORLD/europe/10/10/trump.golf/
+      \endverb
+    \endentry
+    \entry{flatby08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=48e106b7060ee216933ff5753b1bab1d}{Flatby}{F\bibinitperiod}{Rune}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=48e106b7060ee216933ff5753b1bab1d}{Flatby}{F\bibinitperiod}{Rune}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{48e106b7060ee216933ff5753b1bab1d}
+      \strng{fullhash}{48e106b7060ee216933ff5753b1bab1d}
+      \field{sortinit}{F}
+      \field{labeltitle}{Småkraftverk og ekspropriasjon -- NVEs praksis}
+      \true{singletitle}
+      \field{journaltitle}{Småkraftnytt}
+      \field{number}{1}
+      \field{title}{Småkraftverk og ekspropriasjon -- NVEs praksis}
+      \field{year}{2008}
+      \field{pages}{20\bibrangedash 21}
+    \endentry
     \entry{fleischer68}{book}{}
       \name{labelname}{1}{}{%
         {{hash=99fd758f7080cd2d0b46701ee55a3149}{Fleischer}{F\bibinitperiod}{Carl\bibnamedelima August}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -2982,9 +3303,24 @@
       \strng{fullhash}{99fd758f7080cd2d0b46701ee55a3149}
       \field{sortinit}{F}
       \field{labeltitle}{Grunnlovens Grenser}
-      \true{singletitle}
       \field{title}{Grunnlovens Grenser}
       \field{year}{1968}
+    \endentry
+    \entry{fleischer86}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=99fd758f7080cd2d0b46701ee55a3149}{Fleischer}{F\bibinitperiod}{Carl\bibnamedelima August}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=99fd758f7080cd2d0b46701ee55a3149}{Fleischer}{F\bibinitperiod}{Carl\bibnamedelima August}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{99fd758f7080cd2d0b46701ee55a3149}
+      \strng{fullhash}{99fd758f7080cd2d0b46701ee55a3149}
+      \field{sortinit}{F}
+      \field{labeltitle}{Grunnlovens § 105}
+      \field{journaltitle}{Jussens Venner}
+      \field{title}{Grunnlovens § 105}
+      \field{year}{1986}
+      \field{pages}{1\bibrangedash 23}
     \endentry
     \entry{fosen99}{jurisdiction}{}
       \field{sortinit}{F}
@@ -3168,6 +3504,32 @@
       \field{pages}{522}
       \keyw{us}
     \endentry
+    \entry{gillespie08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=bbd5f6b870d283e08d4758a169cdcd9e}{Gillespie}{G\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bbd5f6b870d283e08d4758a169cdcd9e}{Gillespie}{G\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Los Angeles}%
+      }
+      \strng{namehash}{bbd5f6b870d283e08d4758a169cdcd9e}
+      \strng{fullhash}{bbd5f6b870d283e08d4758a169cdcd9e}
+      \field{sortinit}{G}
+      \field{labeltitle}{Litigating for Liberty}
+      \true{singletitle}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{Reason}
+      \field{title}{Litigating for Liberty}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \verb{url}
+      \verb http://reason.com/archives/2008/03/03/litigating-for-liberty/4
+      \endverb
+      \warn{\item Datamodel: Entry 'gillespie08' (thesis.bib): Invalid format 'March 2008' of date field 'date' - ignoring}
+    \endentry
     \entry{scott12}{article}{}
       \name{labelname}{2}{}{%
         {{hash=ad64b2c5cbaad289dcb08949c1a450d0}{Gkartzios}{G\bibinitperiod}{Menelaos}{M\bibinitperiod}{}{}{}{}}%
@@ -3261,7 +3623,7 @@
         {{hash=44a8f328c24b388bcf142552c0edf297}{Taylor}{T\bibinitperiod}{Prudence}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {Mar tinus Nijhoff Publishers}%
+        {Martinus Nijhoff Publishers}%
       }
       \strng{namehash}{9e9d43ed84171b40539998b328e0ad0d}
       \strng{fullhash}{9e9d43ed84171b40539998b328e0ad0d}
@@ -3406,6 +3768,15 @@
       \field{year}{1996}
       \field{pages}{390}
     \endentry
+    \entry{bo99}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Harald Bø v Radøy kommune}
+      \true{singletitle}
+      \field{number}{Rt-1999-513}
+      \field{title}{Harald Bø v Radøy kommune}
+      \field{year}{1999}
+      \keyw{no}
+    \endentry
     \entry{hardin68}{article}{}
       \name{labelname}{1}{}{%
         {{hash=e4ca7243ceeb4db20fa37fdf6dcabe27}{Hardin}{H\bibinitperiod}{Garrett}{G\bibinitperiod}{}{}{}{}}%
@@ -3423,6 +3794,15 @@
       \field{title}{The Tragedy of the Commons}
       \field{volume}{162}
       \field{pages}{1243\bibrangedash 1248}
+    \endentry
+    \entry{hauge00}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hauge v Staten (Landbruksdepartementet)}
+      \true{singletitle}
+      \field{number}{Rt-2000-1066}
+      \field{title}{Hauge v Staten (Landbruksdepartementet)}
+      \field{year}{2000}
+      \keyw{no}
     \endentry
     \entry{midkiff84}{jurisdiction}{}
       \field{sortinit}{H}
@@ -3488,7 +3868,7 @@
       \strng{fullhash}{9b32b2a7114d7be3f9764661fde43ccd}
       \field{sortinit}{H}
       \field{labeltitle}{The Boundaries of Private Property}
-      \field{journaltitle}{The Yale Law Journal}
+      \field{journaltitle}{Yale Law Journal}
       \field{number}{6}
       \field{title}{The Boundaries of Private Property}
       \field{volume}{108}
@@ -3618,6 +3998,43 @@
       \field{year}{2013}
       \field{pages}{289\bibrangedash 297}
     \endentry
+    \entry{hogberg11}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e6aefcca21b481f5b74b083a05537242}{Høgberg}{H\bibinitperiod}{Alf\bibnamedelima Petter}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=7d6872f7fd6280ada30cc3e271a5be31}{Kinander}{K\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e6aefcca21b481f5b74b083a05537242}{Høgberg}{H\bibinitperiod}{Alf\bibnamedelima Petter}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=7d6872f7fd6280ada30cc3e271a5be31}{Kinander}{K\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b1e7c3e1e0eb4526979903cb410bbbe}
+      \strng{fullhash}{6b1e7c3e1e0eb4526979903cb410bbbe}
+      \field{sortinit}{H}
+      \field{labeltitle}{Det formelle legalitetsprinsippet og rettskildelæren}
+      \true{singletitle}
+      \field{journaltitle}{Tidsskrift for Rettsvitenskap}
+      \field{title}{Det formelle legalitetsprinsippet og rettskildelæren}
+      \field{year}{2011}
+      \field{pages}{15\bibrangedash 55}
+    \endentry
+    \entry{hohfeld17}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4845cc842b6d2a8bd911d16f267d270a}{Hohfeld}{H\bibinitperiod}{Wesley\bibnamedelima Newcomb}{W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4845cc842b6d2a8bd911d16f267d270a}{Hohfeld}{H\bibinitperiod}{Wesley\bibnamedelima Newcomb}{W\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4845cc842b6d2a8bd911d16f267d270a}
+      \strng{fullhash}{4845cc842b6d2a8bd911d16f267d270a}
+      \field{sortinit}{H}
+      \field{labeltitle}{Fundamental Legal Conceptions as Applied in Judicial Reasoning}
+      \true{singletitle}
+      \field{journaltitle}{Yale Law Journal}
+      \field{title}{Fundamental Legal Conceptions as Applied in Judicial Reasoning}
+      \field{volume}{26}
+      \field{year}{1917}
+      \field{pages}{710}
+    \endentry
     \entry{holen95}{jurisdiction}{}
       \field{sortinit}{H}
       \field{labeltitle}{Holen}
@@ -3666,6 +4083,26 @@
       \true{singletitle}
       \field{title}{Politiske bønder - Bondestrategene og kampen om demokratiet 1814–1837}
       \field{year}{2014}
+    \endentry
+    \entry{honore61}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=739a2c02b4365dab3a4caa24ded31faf}{Honorè}{H\bibinitperiod}{Anthony\bibnamedelima M\bbxinitsep}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=739a2c02b4365dab3a4caa24ded31faf}{Honorè}{H\bibinitperiod}{Anthony\bibnamedelima M\bbxinitsep}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d6631bff81d984e9715366f9a0a1eeba}{Guest}{G\bibinitperiod}{A\bbxinitsep\bibnamedelima G\bbxinitsep}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{739a2c02b4365dab3a4caa24ded31faf}
+      \strng{fullhash}{739a2c02b4365dab3a4caa24ded31faf}
+      \field{sortinit}{H}
+      \field{labeltitle}{Ownership}
+      \true{singletitle}
+      \field{booktitle}{Oxford Essays in Jurisprudence}
+      \field{title}{Ownership}
+      \field{year}{1961}
+      \field{pages}{107}
     \endentry
     \entry{hoppit11}{article}{}
       \name{labelname}{1}{}{%
@@ -3821,6 +4258,27 @@
       \field{year}{1917}
       \keyw{no}
     \endentry
+    \entry{institute15}{online}{}
+      \field{sortinit}{I}
+      \field{labeltitle}{Institute for Justice, Private Property Rights}
+      \true{singletitle}
+      \field{title}{Institute for Justice, Private Property Rights}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \verb{url}
+      \verb https://www.ij.org/cases/privateproperty
+      \endverb
+    \endentry
+    \entry{isene81}{jurisdiction}{}
+      \field{sortinit}{I}
+      \field{labeltitle}{Isene}
+      \true{singletitle}
+      \field{shorttitle}{Isene}
+      \field{title}{Isene v Staten (Landbruksdepartementet)}
+      \field{year}{1981}
+      \keyw{no}
+    \endentry
     \entry{jacobs98}{book}{}
       \name{labelname}{1}{}{%
         {{hash=aa8d1c7db646cb44fc60b94d54777a84}{Jacobs}{J\bibinitperiod}{Harvey\bibnamedelima M\bbxinitsep}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -3859,6 +4317,49 @@
       \field{volume}{63}
       \field{year}{2011}
       \field{pages}{3\bibrangedash 8}
+    \endentry
+    \entry{jenkins08}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=f23a3dc7b059d15f425396a05597be9a}{Jenkins}{J\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f23a3dc7b059d15f425396a05597be9a}{Jenkins}{J\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f23a3dc7b059d15f425396a05597be9a}
+      \strng{fullhash}{f23a3dc7b059d15f425396a05597be9a}
+      \field{sortinit}{J}
+      \field{labeltitle}{Scotland's gullible politicians are the victims of a colossal Trump try-on}
+      \true{singletitle}
+      \field{day}{13}
+      \field{journaltitle}{The Guardian}
+      \field{month}{06}
+      \field{title}{Scotland's gullible politicians are the victims of a colossal Trump try-on}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.theguardian.com/commentisfree/2008/jun/13/donaldtrump.scotland
+      \endverb
+    \endentry
+    \entry{jensen04}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=61380307242a73fcf376ba767ce4b98d}{Jensen}{J\bibinitperiod}{Torodd}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=61380307242a73fcf376ba767ce4b98d}{Jensen}{J\bibinitperiod}{Torodd}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {NVE}%
+      }
+      \strng{namehash}{61380307242a73fcf376ba767ce4b98d}
+      \strng{fullhash}{61380307242a73fcf376ba767ce4b98d}
+      \field{sortinit}{J}
+      \field{labeltitle}{Beregning av Potensial for Små Kraftverk i Norge}
+      \true{singletitle}
+      \field{note}{Rapport nr. 19-2004}
+      \field{title}{Beregning av Potensial for Små Kraftverk i Norge}
+      \field{year}{2004}
     \endentry
     \entry{johansen18}{jurisdiction}{}
       \field{sortinit}{J}
@@ -4156,6 +4657,27 @@
       \field{edition}{2}
       \field{title}{Knut Robberstad}
       \field{year}{1957}
+    \endentry
+    \entry{koen13}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f3e581ebb4c638e762d2a76248b5538a}{Koen}{K\bibinitperiod}{Arts}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=99d97eb02f99365b4e090381b62c237a}{Maffrey}{M\bibinitperiod}{Gina}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f3e581ebb4c638e762d2a76248b5538a}{Koen}{K\bibinitperiod}{Arts}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=99d97eb02f99365b4e090381b62c237a}{Maffrey}{M\bibinitperiod}{Gina}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e337258d0e1d277df61935d50332b977}
+      \strng{fullhash}{e337258d0e1d277df61935d50332b977}
+      \field{sortinit}{K}
+      \field{labeltitle}{Trump’s golf course -- Society’s nature. The death and resurrection of nature conservation}
+      \true{singletitle}
+      \field{journaltitle}{ECOS}
+      \field{number}{1}
+      \field{title}{Trump’s golf course -- Society’s nature. The death and resurrection of nature conservation}
+      \field{volume}{34}
+      \field{year}{2013}
+      \field{pages}{49\bibrangedash 58}
     \endentry
     \entry{kohl75}{jurisdiction}{}
       \field{sortinit}{K}
@@ -4621,6 +5143,34 @@
       \field{year}{2011}
       \field{pages}{739}
     \endentry
+    \entry{macaskill09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7d8e38339daf2bc674df6f492ade83a9}{Macaskill}{M\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7d8e38339daf2bc674df6f492ade83a9}{Macaskill}{M\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{7d8e38339daf2bc674df6f492ade83a9}
+      \strng{fullhash}{7d8e38339daf2bc674df6f492ade83a9}
+      \field{sortinit}{M}
+      \field{labeltitle}{Donald Trump accused of new clearance}
+      \true{singletitle}
+      \field{day}{06}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Sunday Times}
+      \field{month}{09}
+      \field{title}{Donald Trump accused of new clearance}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.thesundaytimes.co.uk/sto/news/uk_news/article184090.ece
+      \endverb
+    \endentry
     \entry{madison79}{book}{}
       \name{labelname}{1}{}{%
         {{hash=e9b3a02bc7a59603757916090587291c}{Madison}{M\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
@@ -4714,12 +5264,15 @@
       \name{author}{1}{}{%
         {{hash=9dc80e20bfe3d8a2bbfb0cf05ec67781}{Mattei}{M\bibinitperiod}{Ugo}{U\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {Greenwood Press}%
+      }
       \strng{namehash}{9dc80e20bfe3d8a2bbfb0cf05ec67781}
       \strng{fullhash}{9dc80e20bfe3d8a2bbfb0cf05ec67781}
       \field{sortinit}{M}
-      \field{labeltitle}{Principples of property law: {A} Comperative Legal and Economic Introduction}
+      \field{labeltitle}{Principles of property law: {A} Comperative Legal and Economic Introduction}
       \true{singletitle}
-      \field{title}{Principples of property law: {A} Comperative Legal and Economic Introduction}
+      \field{title}{Principles of property law: {A} Comperative Legal and Economic Introduction}
       \field{year}{2000}
     \endentry
     \entry{mayhew09}{book}{}
@@ -4832,7 +5385,7 @@
       \strng{fullhash}{05c6ce7d5738d76489304e6b8f5153f9}
       \field{sortinit}{M}
       \field{labeltitle}{What Happened to Property in Law and Economics?}
-      \field{journaltitle}{The Yale Law Journal}
+      \field{journaltitle}{Yale Law Journal}
       \field{number}{2}
       \field{title}{What Happened to Property in Law and Economics?}
       \field{volume}{111}
@@ -5214,6 +5767,15 @@
       \field{title}{Eiendomsrett til Vannområder}
       \field{year}{1938}
     \endentry
+    \entry{namsos98}{jurisdiction}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{Namsos Kommune v Braaholmen sameie}
+      \true{singletitle}
+      \field{number}{Rt-1998-416}
+      \field{title}{Namsos Kommune v Braaholmen sameie}
+      \field{year}{1998}
+      \keyw{no}
+    \endentry
     \entry{narula13}{article}{}
       \name{labelname}{1}{}{%
         {{hash=c22fc2309635d2dc000889842c1af7e8}{Narula}{N\bibinitperiod}{Smita}{S\bibinitperiod}{}{}{}{}}%
@@ -5403,6 +5965,22 @@
       \field{title}{Women and human development: the capabilities approach}
       \field{year}{2000}
     \endentry
+    \entry{nut54}{misc}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{NUT 1954:1}
+      \true{singletitle}
+      \field{indextitle}{NUT 1954:1}
+      \field{note}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
+      \field{title}{NUT 1954:1}
+    \endentry
+    \entry{nut58}{misc}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{NUT 1958:3}
+      \true{singletitle}
+      \field{indextitle}{NUT 1958:3}
+      \field{note}{Innstilling fra Komiteen til å utrede spørsmålet om mer betryggende former for den offentlige forvaltning}
+      \field{title}{NUT 1958:3}
+    \endentry
     \entry{jorpeland11}{jurisdiction}{}
       \field{sortinit}{O}
       \field{labeltitle}{Jørpeland}
@@ -5500,7 +6078,7 @@
       \field{sortinit}{O}
       \field{labeltitle}{Damages for Breach of Contract Terminated under Express Terms}
       \true{singletitle}
-      \field{journaltitle}{LQR}
+      \field{journaltitle}{Law Quarterly Review}
       \field{title}{Damages for Breach of Contract Terminated under Express Terms}
       \field{volume}{106}
       \field{year}{1990}
@@ -5672,6 +6250,30 @@
       \field{volume}{76}
       \field{year}{2012}
       \field{pages}{484\bibrangedash 497}
+    \endentry
+    \entry{passow12}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=2d57692f1162d5cedcad804242f16216}{Passow}{P\bibinitperiod}{Joe}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2d57692f1162d5cedcad804242f16216}{Passow}{P\bibinitperiod}{Joe}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2d57692f1162d5cedcad804242f16216}
+      \strng{fullhash}{2d57692f1162d5cedcad804242f16216}
+      \field{sortinit}{P}
+      \field{labeltitle}{Trump Scotland is on its way to being one of the best courses in the world}
+      \true{singletitle}
+      \field{day}{13}
+      \field{journaltitle}{Golf Magazine}
+      \field{month}{07}
+      \field{title}{Trump Scotland is on its way to being one of the best courses in the world}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.golf.com/courses-and-travel/donald-trump-scotland-golf-course-lives-hype
+      \endverb
     \endentry
     \entry{penalver11}{article}{}
       \name{labelname}{1}{}{%
@@ -5954,7 +6556,7 @@
       \field{sortinit}{R}
       \field{labeltitle}{Governing the Anticommons in Aggregate Litigation}
       \true{singletitle}
-      \field{journaltitle}{Vand. L. Rev.}
+      \field{journaltitle}{Vanderbilt Law Review}
       \field{title}{Governing the Anticommons in Aggregate Litigation}
       \field{volume}{66}
       \field{year}{2013}
@@ -6102,7 +6704,7 @@
       \strng{fullhash}{efa84e948e4fccca29e69b7f33c439e7}
       \field{sortinit}{R}
       \field{labeltitle}{Warranty, Condition and Fundamental Term}
-      \field{journaltitle}{LQR}
+      \field{journaltitle}{Law Quarterly Review}
       \field{title}{Warranty, Condition and Fundamental Term}
       \field{volume}{79}
       \field{year}{1963}
@@ -6119,7 +6721,7 @@
       \strng{fullhash}{efa84e948e4fccca29e69b7f33c439e7}
       \field{sortinit}{R}
       \field{labeltitle}{Discharge of Contract by Breach}
-      \field{journaltitle}{LQR}
+      \field{journaltitle}{Law Quarterly Review}
       \field{title}{Discharge of Contract by Breach}
       \field{volume}{97}
       \field{year}{1981}
@@ -6390,6 +6992,22 @@
       \field{year}{1998}
       \field{pages}{179}
     \endentry
+    \entry{rygh12}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=8d0bc8891d1452b4cfdffa556b33b1f6}{Rygh}{R\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8d0bc8891d1452b4cfdffa556b33b1f6}{Rygh}{R\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8d0bc8891d1452b4cfdffa556b33b1f6}
+      \strng{fullhash}{8d0bc8891d1452b4cfdffa556b33b1f6}
+      \field{sortinit}{R}
+      \field{labeltitle}{Ekspropriantens raadighet over ekspropriert ting}
+      \true{singletitle}
+      \field{indextitle}{Ekspropriantens raadighet over ekspropriert ting}
+      \field{number}{Rt-1912-113}
+      \field{title}{Ekspropriantens raadighet over ekspropriert ting}
+    \endentry
     \entry{sadler59}{jurisdiction}{}
       \field{sortinit}{S}
       \field{labeltitle}{Sadler v Langham}
@@ -6539,6 +7157,26 @@
       \field{pages}{758}
       \keyw{ca}
     \endentry
+    \entry{scotsman11}{article}{}
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \field{sortinit}{S}
+      \field{labeltitle}{Scepticism as Donald Trump claims no evictions over Menie}
+      \true{singletitle}
+      \field{day}{31}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{The Scotsman}
+      \field{month}{01}
+      \field{title}{Scepticism as Donald Trump claims no evictions over Menie}
+      \field{urlday}{17}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://www.scotsman.com/news/scepticism-as-donald-trump-claims-no-evictions-over-menie-1-1499167
+      \endverb
+    \endentry
     \entry{schjodt47}{book}{}
       \name{labelname}{1}{}{%
         {{hash=d3e583732c3620d1193aeec98fa1edf7}{Schjødt}{S\bibinitperiod}{Magne}{M\bibinitperiod}{}{}{}{}}%
@@ -6588,7 +7226,7 @@
       \field{sortinit}{S}
       \field{labeltitle}{The Green Rush: the Global Race for Farmland and the Rights of Land Users}
       \true{singletitle}
-      \field{journaltitle}{Harvard international law journal}
+      \field{journaltitle}{Harvard International Law Journal}
       \field{number}{2}
       \field{title}{The Green Rush: the Global Race for Farmland and the Rights of Land Users}
       \field{volume}{52}
@@ -6785,7 +7423,7 @@
       \strng{fullhash}{9d340a1044dbf24f4cf48adf26fe72f6}
       \field{sortinit}{S}
       \field{labeltitle}{Property as the Law of Democracy}
-      \field{journaltitle}{Duke L.J.}
+      \field{journaltitle}{Duke Law Journal}
       \field{title}{Property as the Law of Democracy}
       \field{volume}{63}
       \field{year}{2014}
@@ -6797,6 +7435,9 @@
       }
       \name{author}{1}{}{%
         {{hash=26d5f4d6a7ded62a5e204cd03dfe51b0}{Singer}{S\bibinitperiod}{Jospeh\bibnamedelima William}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
       }
       \strng{namehash}{26d5f4d6a7ded62a5e204cd03dfe51b0}
       \strng{fullhash}{26d5f4d6a7ded62a5e204cd03dfe51b0}
@@ -7090,7 +7731,7 @@
       \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
       \field{sortinit}{S}
       \field{labeltitle}{The Politics of Economic Development Takings}
-      \field{journaltitle}{Case W. Res. L. Rev.}
+      \field{journaltitle}{Case Western Reserve University Law Review}
       \field{title}{The Politics of Economic Development Takings}
       \field{volume}{58}
       \field{year}{2008}
@@ -7302,7 +7943,7 @@
         {{hash=aeb7dbcd9fe4976b98bb46700f2fb42c}{Stevens}{S\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {OUP}%
+        {Oxford University Press}%
       }
       \strng{namehash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
       \strng{fullhash}{aeb7dbcd9fe4976b98bb46700f2fb42c}
@@ -7348,7 +7989,7 @@
       \field{sortinit}{S}
       \field{labeltitle}{A General Theory of Eminent Domain}
       \true{singletitle}
-      \field{journaltitle}{Wash. L. Rev.}
+      \field{journaltitle}{Washington Law Review}
       \field{title}{A General Theory of Eminent Domain}
       \field{volume}{47}
       \field{year}{1972}
@@ -7404,12 +8045,27 @@
       \strng{fullhash}{7a35a86e2c3de5cf497877b27c081ba7}
       \field{sortinit}{S}
       \field{labeltitle}{Ekspropriasjonsretten i utvikling - ny praksis mot Kløfta-dommen}
-      \true{singletitle}
       \field{journaltitle}{Lov og Rett}
       \field{title}{Ekspropriasjonsretten i utvikling - ny praksis mot Kløfta-dommen}
       \field{volume}{1994}
       \field{year}{1994}
       \field{pages}{407\bibrangedash 413}
+    \endentry
+    \entry{stordrange07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7a35a86e2c3de5cf497877b27c081ba7}{Stordrange}{S\bibinitperiod}{Bjørn}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7a35a86e2c3de5cf497877b27c081ba7}{Stordrange}{S\bibinitperiod}{Bjørn}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7a35a86e2c3de5cf497877b27c081ba7}
+      \strng{fullhash}{7a35a86e2c3de5cf497877b27c081ba7}
+      \field{sortinit}{S}
+      \field{labeltitle}{Reguleringsplaner og ekspropriasjonserstatning}
+      \field{journaltitle}{Lov og Rett}
+      \field{title}{Reguleringsplaner og ekspropriasjonserstatning}
+      \field{year}{2007}
+      \field{pages}{107\bibrangedash 113}
     \endentry
     \entry{stowell14}{jurisdiction}{}
       \field{sortinit}{S}
@@ -7497,7 +8153,7 @@
       \strng{fullhash}{1e6ee55880029c224e72ab3bdab7ce3e}
       \field{sortinit}{T}
       \field{labeltitle}{Recent Developments in Public Use and Pretext in Eminent Domain}
-      \field{journaltitle}{The Urban Lawyer}
+      \field{journaltitle}{Urban Lawyer}
       \field{number}{3}
       \field{title}{Recent Developments in Public Use and Pretext in Eminent Domain}
       \field{volume}{41}
@@ -7637,6 +8293,18 @@
       \field{year}{2013}
       \field{pages}{190\bibrangedash 200}
     \endentry
+    \entry{tripping15}{online}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Tripping up Trump}
+      \true{singletitle}
+      \field{title}{Tripping up Trump}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \verb{url}
+      \verb http://www.trippinguptrump.co.uk
+      \endverb
+    \endentry
     \entry{trombley71}{jurisdiction}{}
       \field{sortinit}{T}
       \field{labeltitle}{Trombley v Humphery}
@@ -7647,6 +8315,66 @@
       \field{year}{1871}
       \field{pages}{471}
       \keyw{us}
+    \endentry
+    \entry{bbc10}{article}{}
+      \list{location}{1}{%
+        {London}%
+      }
+      \field{sortinit}{T}
+      \field{labeltitle}{Trump may pursue housing laws over golf `slum'}
+      \true{singletitle}
+      \field{day}{01}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{BBC News}
+      \field{month}{06}
+      \field{title}{Trump may pursue housing laws over golf `slum'}
+      \field{urlday}{16}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.bbc.com/news/10205781
+      \endverb
+    \endentry
+    \entry{bbc07}{article}{}
+      \list{location}{1}{%
+        {London}%
+      }
+      \field{sortinit}{T}
+      \field{labeltitle}{Trump's £1bn golf plan rejected}
+      \true{singletitle}
+      \field{day}{29}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{BBC News}
+      \field{month}{11}
+      \field{title}{Trump's £1bn golf plan rejected}
+      \field{urlday}{18}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/7118105.stm
+      \endverb
+    \endentry
+    \entry{bbc07b}{article}{}
+      \list{location}{1}{%
+        {London}%
+      }
+      \field{sortinit}{T}
+      \field{labeltitle}{Trump's golf submission swings in}
+      \true{singletitle}
+      \field{day}{30}
+      \field{entrysubtype}{newspaper}
+      \field{journaltitle}{BBC News}
+      \field{month}{03}
+      \field{title}{Trump's golf submission swings in}
+      \field{urlday}{18}
+      \field{urlmonth}{04}
+      \field{urlyear}{2015}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/6506923.stm
+      \endverb
     \endentry
     \entry{turnbull10}{article}{}
       \name{labelname}{1}{}{%
@@ -7722,7 +8450,7 @@
       \strng{fullhash}{87a32852f7d0d97526c056521fbba851}
       \field{sortinit}{U}
       \field{labeltitle}{Property as Constitutional Myth: Utilities and Dangers}
-      \field{journaltitle}{Cornell L. Rev.}
+      \field{journaltitle}{Cornell Law Review}
       \field{title}{Property as Constitutional Myth: Utilities and Dangers}
       \field{volume}{92}
       \field{pages}{1239}
@@ -8039,6 +8767,22 @@
       \field{year}{2000}
       \keyw{no}
     \endentry
+    \entry{wra88}{legislation}{}
+      \field{sortinit}{W}
+      \field{labeltitle}{Water Systems Act}
+      \field{pagination}{section}
+      \field{title}{Water Systems Act}
+      \field{year}{1888}
+      \keyw{no}
+    \endentry
+    \entry{wra40}{legislation}{}
+      \field{sortinit}{W}
+      \field{labeltitle}{Water Systems Act}
+      \field{pagination}{section}
+      \field{title}{Water Systems Act}
+      \field{year}{1940}
+      \keyw{no}
+    \endentry
     \entry{wra17}{legislation}{}
       \field{sortinit}{W}
       \field{labeltitle}{Watercourse Regulation Act}
@@ -8160,7 +8904,7 @@
       \field{sortinit}{Y}
       \field{labeltitle}{Masters of Their Own Eminent Domain: {T}he Case for a Reliance Interest Associated with Economic Development Takings}
       \true{singletitle}
-      \field{journaltitle}{Geo. L.J.}
+      \field{journaltitle}{Georgetown Law Journal}
       \field{title}{Masters of Their Own Eminent Domain: {T}he Case for a Reliance Interest Associated with Economic Development Takings}
       \field{volume}{99}
       \field{year}{2011}
