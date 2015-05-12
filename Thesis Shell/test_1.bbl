@@ -1,0 +1,79 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{niyt}
+    \entry{james86}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{James}
+      \field{journaltitle}{Series A}
+      \field{shorttitle}{James}
+      \field{title}{James and others v United Kingdom}
+      \field{year}{1986}
+      \field{pages}{98}
+      \keyw{echr}
+    \endentry
+    \entry{untest}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{James}
+      \field{number}{34538/08}
+      \field{shorttitle}{James}
+      \field{title}{James and others v United Kingdom}
+      \field{year}{1986}
+      \field{pages}{98}
+      \keyw{echr}
+    \endentry
+    \entry{uktest}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{James}
+      \field{journaltitle}{EHRR}
+      \field{shorttitle}{James}
+      \field{title}{James and others v United Kingdom}
+      \field{volume}{44}
+      \field{year}{1986}
+      \field{pages}{98}
+      \keyw{echr}
+    \endentry
+    \entry{chassagnou99}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Chassagnou and Others v France}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{title}{Chassagnou and Others v France}
+      \field{volume}{3}
+      \field{year}{1999}
+      \field{pages}{22}
+      \keyw{echr}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

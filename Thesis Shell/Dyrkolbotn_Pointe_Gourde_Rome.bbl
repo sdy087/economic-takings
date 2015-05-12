@@ -1,0 +1,901 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{niyt}
+    \entry{uleberg08}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Uleberg}
+      \true{singletitle}
+      \field{number}{Rt-2008-82}
+      \field{shorttitle}{Uleberg}
+      \field{title}{Agder Energi Produksjon AS v Magne Møllen}
+      \field{year}{2008}
+      \keyw{no}
+    \endentry
+    \entry{alexander05}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{700d6191a6cc63ffcd40389ccc5ff24f}
+      \strng{fullhash}{700d6191a6cc63ffcd40389ccc5ff24f}
+      \field{sortinit}{A}
+      \field{labeltitle}{Eminent Domain and Secondary Rent-Seeking}
+      \true{singletitle}
+      \field{journaltitle}{New York University Journal of Law \& Liberty}
+      \field{number}{3}
+      \field{title}{Eminent Domain and Secondary Rent-Seeking}
+      \field{volume}{1}
+      \field{year}{2005}
+      \field{pages}{958}
+    \endentry
+    \entry{alexander09a}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=9624e6b5fe5212aa5b397d846b24632d}{Peñalver}{P\bibinitperiod}{Eduardo\bibnamedelima M\bbxinitsep}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=9d340a1044dbf24f4cf48adf26fe72f6}{Singer}{S\bibinitperiod}{Joseph\bibnamedelima William}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9e7926a10cd80feca235dfec19c6e7f1}{Underkuffler}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=9624e6b5fe5212aa5b397d846b24632d}{Peñalver}{P\bibinitperiod}{Eduardo\bibnamedelima M\bbxinitsep}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=9d340a1044dbf24f4cf48adf26fe72f6}{Singer}{S\bibinitperiod}{Joseph\bibnamedelima William}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9e7926a10cd80feca235dfec19c6e7f1}{Underkuffler}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6bbcf1d0c1abdccbdfe7724b05fa1318}
+      \strng{fullhash}{4d0e9a6b15aa553574fdb630ea972482}
+      \field{sortinit}{A}
+      \field{labeltitle}{A Statement of Progressive Property}
+      \true{singletitle}
+      \field{journaltitle}{Cornell Law Review}
+      \field{number}{4}
+      \field{title}{A Statement of Progressive Property}
+      \field{volume}{94}
+      \field{year}{2009}
+      \field{pages}{743}
+    \endentry
+    \entry{aa17}{legislation}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Appraisal Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Appraisal Act}
+      \field{year}{1917}
+      \keyw{no}
+    \endentry
+    \entry{nou03}{misc}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Arealplaner og Ekspropriasjonserstatning}
+      \true{singletitle}
+      \field{indextitle}{Arealplaner og Ekspropriasjonserstatning}
+      \field{journaltitle}{NOU (Norwegian Governmental Reports)}
+      \field{title}{Arealplaner og Ekspropriasjonserstatning}
+      \field{volume}{29}
+      \field{year}{2003}
+    \endentry
+    \entry{marmor56}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Marmor}
+      \true{singletitle}
+      \field{number}{Rt-1956-493}
+      \field{shorttitle}{Marmor}
+      \field{title}{A/S Den Ankerske Marmorforretning v Norges Statsbaner}
+      \field{year}{1956}
+      \keyw{no}
+    \endentry
+    \entry{batchelor89}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Batchelor v Kent County Council}
+      \true{singletitle}
+      \field{journaltitle}{P \& CR}
+      \field{title}{Batchelor v Kent County Council}
+      \field{volume}{59}
+      \field{year}{1989}
+      \field{pages}{357}
+      \keyw{gb}
+    \endentry
+    \entry{baum14}{book}{}
+      \name{labelname}{5}{}{%
+        {{hash=4803364495f69f574bc8d0797d6fd562}{Baum}{B\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8690dfb9e228a386285641cb232bae92}{Sams}{S\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=4ad7a9412630ad073e4dc64dd6759703}{Ellis}{E\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6410b87db58c7e942b7aa55fd59c17c2}{Hampson}{H\bibinitperiod}{Claire}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9d074b2cc282f3a7c33d6ad049fd8f19}{Stevens}{S\bibinitperiod}{Douglas}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=4803364495f69f574bc8d0797d6fd562}{Baum}{B\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8690dfb9e228a386285641cb232bae92}{Sams}{S\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=4ad7a9412630ad073e4dc64dd6759703}{Ellis}{E\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6410b87db58c7e942b7aa55fd59c17c2}{Hampson}{H\bibinitperiod}{Claire}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9d074b2cc282f3a7c33d6ad049fd8f19}{Stevens}{S\bibinitperiod}{Douglas}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{981060ebc97f511a37d0c0a670742d83}
+      \strng{fullhash}{5c0a936af029b8917e7ea46637cc850e}
+      \field{sortinit}{B}
+      \field{labeltitle}{Statutory Valuations}
+      \true{singletitle}
+      \field{edition}{4}
+      \field{title}{Statutory Valuations}
+      \field{year}{2014}
+    \endentry
+    \entry{bell07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=52f99231bc9680ce09cea115243fd6ac}{Parchomovsky}{P\bibinitperiod}{Gideon}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=52f99231bc9680ce09cea115243fd6ac}{Parchomovsky}{P\bibinitperiod}{Gideon}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{892cfae6487768a65d695f6cb1d40488}
+      \strng{fullhash}{892cfae6487768a65d695f6cb1d40488}
+      \field{sortinit}{B}
+      \field{labeltitle}{Taking Compensation Private}
+      \true{singletitle}
+      \field{abstract}{In light of the expansive interpretation of the "public use" requirement, the payment of "just compensation" remains the only meaningful limit on the government's eminent domain power and, correspondingly, the only safeguard of private property owners' rights against abusive takings. Yet, the current compensation regime is suboptimal. While both efficiency and fairness require paying full compensation for seizures by eminent domain, current law limits the compensation to market value. Despite the virtual consensus about the inadequacy of market compensation, courts adhere to it for a purely practical reason: there is no way to measure the true subjective value of property to its owner. Subjective value is neither observable nor verifiable to third parties and courts cannot rely upon owners' reports of the value they attach to their properties. To date, the challenge of screening truthful from exaggerated evaluation has proven insurmountable. This Article solves the undercompensation conundrum. It offers a novel self-assessment mechanism that enables the payment of full compensation at subjective value when private property is taken by eminent domain. Under the proposed mechanism, property owners would get to set the price of the property designated for condemnation. The government could then either take the property at the designated price or abstain, leaving the property subject to two new proposed restrictions. First, for the life of the owner, the property could not be sold for less than the self-assessed price, adjusted on the basis of the local housing price index. Second, the self-assessed price--discounted to take account of the peculiarities of property tax assessments--would become the new benchmark for the owner's property tax liability. This Article shows that under most conditions, these restrictions will induce honest reporting by owners while reducing the transaction costs created by the compensation process. The result is a dramatically more efficient law of eminent domain that is also far more respectful of private property rights.}
+      \field{journaltitle}{Stanford Law Review}
+      \field{number}{4}
+      \field{title}{Taking Compensation Private}
+      \field{volume}{59}
+      \field{year}{2007}
+      \field{pages}{871\bibrangedash 906}
+    \endentry
+    \entry{benz08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=77dde4c4e057603fd74dc9561c151a44}{Benz}{B\bibinitperiod}{Matthias}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ef87cf9386fc98609363eef45eb1f309}{Frey}{F\bibinitperiod}{Bruno\bibnamedelima S\bbxinitsep}{B\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=77dde4c4e057603fd74dc9561c151a44}{Benz}{B\bibinitperiod}{Matthias}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ef87cf9386fc98609363eef45eb1f309}{Frey}{F\bibinitperiod}{Bruno\bibnamedelima S\bbxinitsep}{B\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{72300aeb38af010a956aeefa94a25aff}
+      \strng{fullhash}{72300aeb38af010a956aeefa94a25aff}
+      \field{sortinit}{B}
+      \field{labeltitle}{Being Independent Is a Great Thing: Subjective Evaluations of Self-Employment and Hierarchy}
+      \true{singletitle}
+      \field{abstract}{One can be independent, or one can be subject to decisions made by others. This paper argues that this difference, embodied in the institutional distinction between the decision-making procedures 'market' and 'hierarchy', affects individual wellbeing beyond outcomes. Taking self-employment as an important case of independence, it is shown that the self-employed derive higher satisfaction from work than those employed in organizations, irrespective of income gained or hours worked. This is evidence for procedural utility: people value not only outcomes, but also the processes leading to outcomes.}
+      \field{journaltitle}{Economica}
+      \field{number}{298}
+      \field{title}{Being Independent Is a Great Thing: Subjective Evaluations of Self-Employment and Hierarchy}
+      \field{volume}{75}
+      \field{year}{2008}
+      \field{pages}{362\bibrangedash 383}
+    \endentry
+    \entry{otra13}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Otra II}
+      \true{singletitle}
+      \field{number}{Rt-2013-612}
+      \field{shorttitle}{Otra II}
+      \field{title}{Bjørnarå and others v Otra Kraft DA, Otteraaens Brugseierforening}
+      \keyw{no}
+    \endentry
+    \entry{klovtveit11}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Kløvtveit}
+      \true{singletitle}
+      \field{number}{Rt-2011-1683}
+      \field{shorttitle}{Kløvtveit}
+      \field{title}{{BKK} Produksjon AS v Austgulen and others}
+      \field{year}{2011}
+      \keyw{no}
+    \endentry
+    \entry{castberg64b}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0bafb502826e7fc518532ed4822ed36b}{Castberg}{C\bibinitperiod}{Frede}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0bafb502826e7fc518532ed4822ed36b}{Castberg}{C\bibinitperiod}{Frede}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{0bafb502826e7fc518532ed4822ed36b}
+      \strng{fullhash}{0bafb502826e7fc518532ed4822ed36b}
+      \field{sortinit}{C}
+      \field{labeltitle}{Norges Statsforfatning, Bind 2}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{Norges Statsforfatning, Bind 2}
+      \field{year}{1964}
+    \endentry
+    \entry{da05}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Civil Dispute Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Civil Dispute Act}
+      \field{year}{2005}
+      \keyw{no}
+    \endentry
+    \entry{lawcom01}{misc}{}
+      \list{publisher}{1}{%
+        {Law Commission}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Compulsory Purchase and Compensation: Disregarding the Scheme}
+      \true{singletitle}
+      \field{indextitle}{Compulsory Purchase and Compensation: Disregarding the Scheme}
+      \field{note}{Discussion Paper}
+      \field{title}{Compulsory Purchase and Compensation: Disregarding the Scheme}
+      \field{year}{2001}
+    \endentry
+    \entry{crow07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5661c02640618c3610861e9376ae7d79}{Crow}{C\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5661c02640618c3610861e9376ae7d79}{Crow}{C\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5661c02640618c3610861e9376ae7d79}
+      \strng{fullhash}{5661c02640618c3610861e9376ae7d79}
+      \field{sortinit}{C}
+      \field{labeltitle}{Compulsory purchase for economic development: {A}n international perspective}
+      \true{singletitle}
+      \field{journaltitle}{Journal of Planning \& Environmental Law}
+      \field{month}{08}
+      \field{title}{Compulsory purchase for economic development: {A}n international perspective}
+      \field{year}{2007}
+      \field{pages}{1102\bibrangedash 1115}
+    \endentry
+    \entry{ca73}{legislation}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Expropriation Compensation Act}
+      \field{pagination}{section}
+      \field{title}{Expropriation Compensation Act}
+      \field{year}{1973}
+      \keyw{no}
+    \endentry
+    \entry{ca84}{legislation}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{Expropriation Compensation Act}
+      \field{pagination}{section}
+      \field{title}{Expropriation Compensation Act}
+      \field{year}{1984}
+      \keyw{no}
+    \endentry
+    \entry{fennell04}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=72209f6dabe6e3a0054adfe6328ae055}{Fennell}{F\bibinitperiod}{Lee\bibnamedelima Anne}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=72209f6dabe6e3a0054adfe6328ae055}{Fennell}{F\bibinitperiod}{Lee\bibnamedelima Anne}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{72209f6dabe6e3a0054adfe6328ae055}
+      \strng{fullhash}{72209f6dabe6e3a0054adfe6328ae055}
+      \field{sortinit}{F}
+      \field{labeltitle}{Taking Eminent Domain Apart}
+      \true{singletitle}
+      \field{journaltitle}{Michigan State Law Review}
+      \field{title}{Taking Eminent Domain Apart}
+      \field{volume}{2004}
+      \field{year}{2004}
+      \field{pages}{957}
+    \endentry
+    \entry{fraser17}{jurisdiction}{year-essential=true}
+      \field{sortinit}{F}
+      \field{labeltitle}{Fraser v City of Fraserville}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{title}{Fraser v City of Fraserville}
+      \field{year}{1917}
+      \field{pages}{187}
+      \keyw{ca}
+    \endentry
+    \entry{freilich06}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=6f339e91b5a34610205a265d0f83a81f}{Freilich}{F\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6f339e91b5a34610205a265d0f83a81f}{Freilich}{F\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Bar Association}%
+      }
+      \strng{namehash}{6f339e91b5a34610205a265d0f83a81f}
+      \strng{fullhash}{6f339e91b5a34610205a265d0f83a81f}
+      \field{sortinit}{F}
+      \field{labeltitle}{Condemnation Blight: Analysis and Suggested Solutions}
+      \true{singletitle}
+      \field{booktitle}{Current Condemnation Law: Takings, Compensation and Benefits}
+      \field{title}{Condemnation Blight: Analysis and Suggested Solutions}
+      \field{year}{2006}
+    \endentry
+    \entry{heller08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8939e5396faff17ee612722b28279b60}
+      \strng{fullhash}{8939e5396faff17ee612722b28279b60}
+      \field{sortinit}{H}
+      \field{labeltitle}{Land Assembly Districts}
+      \true{singletitle}
+      \field{abstract}{Eminent domain for economic development is both attractive and appalling. States need the power to condemn because so much land in America is inefficiently fragmented. But public land assembly provokes hostility because vulnerable communities get bulldozed. Courts offer no help. The academic literature is a muddle. Is it possible to assemble land without harming the poor and powerless? Yes. This Article proposes the creation of Land Assembly Districts, or "LADs." This new property form solves the age-old tensions in eminent domain and shows, more generally, how careful redesign of property rights can enhance both welfare and fairness. The economic and moral intuition underlying LADs is simple: when the only justification for assembly is over-fragmentation of land, neighbors should be able to decide collectively whether their land will be assembled. Our legal theory solution is equally simple: use property law to retrofit communities with a condominium-like structure tailored to land assembly. Let's try giving those burdened by condemnation a way to share in its benefits and to veto projects they decide are not worth their while.}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Land Assembly Districts}
+      \field{volume}{121}
+      \field{year}{2008}
+      \field{pages}{1465\bibrangedash 1527}
+    \endentry
+    \entry{householder07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=74c820f70cf7fa9a9e88141e048ac8c9}{Householder}{H\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=74c820f70cf7fa9a9e88141e048ac8c9}{Householder}{H\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{74c820f70cf7fa9a9e88141e048ac8c9}
+      \strng{fullhash}{74c820f70cf7fa9a9e88141e048ac8c9}
+      \field{sortinit}{H}
+      \field{labeltitle}{Kelo Compensation: The Future of Economic Development Takings}
+      \true{singletitle}
+      \field{journaltitle}{Chicago-Kent Law Review}
+      \field{title}{Kelo Compensation: The Future of Economic Development Takings}
+      \field{volume}{82}
+      \field{year}{2007}
+      \field{pages}{1029\bibrangedash 1061}
+    \endentry
+    \entry{tuddal56}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Tuddal}
+      \true{singletitle}
+      \field{number}{Rt-1956-109}
+      \field{shorttitle}{Tuddal}
+      \field{title}{Hovedstyret for Norges Vassdrags- og Elektrisitetsvesen v A/S Tuddal}
+      \keyw{no}
+    \endentry
+    \entry{klofta76}{jurisdiction}{}
+      \field{sortinit}{J}
+      \field{labeltitle}{Kløfta}
+      \true{singletitle}
+      \field{number}{Rt-1976-1}
+      \field{shorttitle}{Kløfta}
+      \field{title}{Johnsrud and others v Ullensaker kommune}
+      \field{year}{1976}
+      \keyw{no}
+    \endentry
+    \entry{kleven11}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ea0e3b88482a322956d33cdfa4a13c6}{Kleven}{K\bibinitperiod}{T\bbxinitsep}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ea0e3b88482a322956d33cdfa4a13c6}{Kleven}{K\bibinitperiod}{T\bbxinitsep}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Tapir Akademiske Forlag}%
+      }
+      \strng{namehash}{3ea0e3b88482a322956d33cdfa4a13c6}
+      \strng{fullhash}{3ea0e3b88482a322956d33cdfa4a13c6}
+      \field{sortinit}{K}
+      \field{labeltitle}{Fra Gjenreisning til Samfunnsplanlegging: Norsk Kommuneplanlegging 1965–2005}
+      \true{singletitle}
+      \field{title}{Fra Gjenreisning til Samfunnsplanlegging: Norsk Kommuneplanlegging 1965–2005}
+      \field{year}{2011}
+    \endentry
+    \entry{krier04}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d9cc73b55d8cac16808e7313ba8270a8}{Krier}{K\bibinitperiod}{James\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=89b268505a78a46f9b1bca58ea1bda3f}{Serkin}{S\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d9cc73b55d8cac16808e7313ba8270a8}{Krier}{K\bibinitperiod}{James\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=89b268505a78a46f9b1bca58ea1bda3f}{Serkin}{S\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c774f449a7505fc3ca99438f976db47e}
+      \strng{fullhash}{c774f449a7505fc3ca99438f976db47e}
+      \field{sortinit}{K}
+      \field{labeltitle}{Public Ruses}
+      \true{singletitle}
+      \field{journaltitle}{Michigan State Law Review}
+      \field{title}{Public Ruses}
+      \field{volume}{2004}
+      \field{year}{2004}
+      \field{pages}{859}
+    \endentry
+    \entry{lca79}{legislation}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Land Consolidation Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Land Consolidation Act}
+      \field{year}{1979}
+      \keyw{no}
+    \endentry
+    \entry{larsen06}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=fa9392a8e932af74c7de82566cbb9592}{Larsen}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=772baf33edf5c432b521794e6924cacf}{Lund}{L\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72ee07cc7a62eb79c5e44988ed60307a}{Stinessen}{S\bibinitperiod}{Stein\bibnamedelima Erik}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=fa9392a8e932af74c7de82566cbb9592}{Larsen}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=772baf33edf5c432b521794e6924cacf}{Lund}{L\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72ee07cc7a62eb79c5e44988ed60307a}{Stinessen}{S\bibinitperiod}{Stein\bibnamedelima Erik}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cc504966ebc26467a4b8139cb8308271}
+      \strng{fullhash}{cc504966ebc26467a4b8139cb8308271}
+      \field{sortinit}{L}
+      \field{labeltitle}{Erstatning for erverv av fallrettigheter}
+      \field{journaltitle}{Tidsskrift for eiendomsrett}
+      \field{title}{Erstatning for erverv av fallrettigheter}
+      \field{volume}{2006}
+      \field{year}{2006}
+      \field{pages}{175\bibrangedash 202}
+    \endentry
+    \entry{larsen08}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=fa9392a8e932af74c7de82566cbb9592}{Larsen}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=772baf33edf5c432b521794e6924cacf}{Lund}{L\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72ee07cc7a62eb79c5e44988ed60307a}{Stinessen}{S\bibinitperiod}{Stein\bibnamedelima Erik}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=fa9392a8e932af74c7de82566cbb9592}{Larsen}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=772baf33edf5c432b521794e6924cacf}{Lund}{L\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72ee07cc7a62eb79c5e44988ed60307a}{Stinessen}{S\bibinitperiod}{Stein\bibnamedelima Erik}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cc504966ebc26467a4b8139cb8308271}
+      \strng{fullhash}{cc504966ebc26467a4b8139cb8308271}
+      \field{sortinit}{L}
+      \field{labeltitle}{Fallerstatning -- Uleberg-dommen}
+      \field{journaltitle}{Tidsskrift for eiendomsrett}
+      \field{title}{Fallerstatning -- Uleberg-dommen}
+      \field{volume}{2008}
+      \field{year}{2008}
+      \field{pages}{46\bibrangedash 64}
+    \endentry
+    \entry{larsen12}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=fa9392a8e932af74c7de82566cbb9592}{Larsen}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=772baf33edf5c432b521794e6924cacf}{Lund}{L\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72ee07cc7a62eb79c5e44988ed60307a}{Stinessen}{S\bibinitperiod}{Stein\bibnamedelima Erik}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=fa9392a8e932af74c7de82566cbb9592}{Larsen}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=772baf33edf5c432b521794e6924cacf}{Lund}{L\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72ee07cc7a62eb79c5e44988ed60307a}{Stinessen}{S\bibinitperiod}{Stein\bibnamedelima Erik}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cc504966ebc26467a4b8139cb8308271}
+      \strng{fullhash}{cc504966ebc26467a4b8139cb8308271}
+      \field{sortinit}{L}
+      \field{labeltitle}{Er naturhestekraftmetoden rettshistorie?}
+      \field{journaltitle}{Tidsskrift for eiendomsrett}
+      \field{number}{1}
+      \field{title}{Er naturhestekraftmetoden rettshistorie?}
+      \field{volume}{2012}
+      \field{year}{2012}
+      \field{pages}{21\bibrangedash 54}
+    \endentry
+    \entry{lehavi07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \strng{fullhash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \field{sortinit}{L}
+      \field{labeltitle}{Eminent Domain, Inc.}
+      \true{singletitle}
+      \field{abstract}{This Essay proposes a novel solution for "squaring the eminent domain circle" when large-scale, for-profit development projects require the assembly of land from numerous private property owners. Such "anticommons" situations may justify government intervention through eminent domain, yet they often leave landowners undercompensated. This may skew the incentives for initiating land development projects and lead to considerable injustice. Although the taking component of eminent domain may need to remain an involuntary nonmarket transaction, we propose a market-based mechanism for the compensation component in the form of a Special-Purpose Development Corporation (SPDC). An SPDC would acquire unified ownership of the land and the development project, and would offer condemnees a choice between receiving pre-project "fair market value" compensation or pro rata shares in the SPDC. This would make it more likely that compensation is closely linked to the true economic value of the land and, consequently, that land assembly projects are both more just and genuinely social welfare maximizing.}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{7}
+      \field{title}{Eminent Domain, Inc.}
+      \field{volume}{107}
+      \field{year}{2007}
+      \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{merrill86}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \strng{fullhash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Economics of Public Use}
+      \true{singletitle}
+      \field{journaltitle}{Cornell Law Review}
+      \field{title}{The Economics of Public Use}
+      \field{volume}{72}
+      \field{year}{1986}
+      \field{pages}{61\bibrangedash 116}
+    \endentry
+    \entry{otprp70}{misc}{}
+      \field{sortinit}{O}
+      \field{labeltitle}{Ot.prp.nr.56 (1970-1971)}
+      \true{singletitle}
+      \field{indextitle}{Ot.prp.nr.56 (1970-1971)}
+      \field{title}{Ot.prp.nr.56 (1970-1971)}
+    \endentry
+    \entry{otra10}{jurisdiction}{}
+      \field{sortinit}{O}
+      \field{labeltitle}{Otra I}
+      \true{singletitle}
+      \field{number}{Rt-2010-1056}
+      \field{shorttitle}{Otra I}
+      \field{title}{Otra Kraft DA, Otteraaen Brugseierforening v Bjørnarå and others}
+      \field{year}{2010}
+      \keyw{no}
+    \endentry
+    \entry{gourde47}{jurisdiction}{year-essential=true}
+      \field{sortinit}{P}
+      \field{labeltitle}{Pointe Gourde Quarring \& Transport Company Limited v Sub-Intendent of Crown Lands (Trinidad and Tobago)}
+      \true{singletitle}
+      \field{journaltitle}{UKPC}
+      \field{title}{Pointe Gourde Quarring \& Transport Company Limited v Sub-Intendent of Crown Lands (Trinidad and Tobago)}
+      \field{year}{1947}
+      \field{pages}{71}
+      \keyw{gb}
+    \endentry
+    \entry{poletown81}{jurisdiction}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Poletown Neighborhood Council v City of Detroit}
+      \true{singletitle}
+      \field{journaltitle}{Mich}
+      \field{title}{Poletown Neighborhood Council v City of Detroit}
+      \field{volume}{410}
+      \field{year}{1981}
+      \field{pages}{616}
+      \keyw{us}
+    \endentry
+    \entry{radin93}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=2b25151deda6bca0f3811d5bf1a9ef57}{Radin}{R\bibinitperiod}{Margaret\bibnamedelima Jane}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2b25151deda6bca0f3811d5bf1a9ef57}{Radin}{R\bibinitperiod}{Margaret\bibnamedelima Jane}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{2b25151deda6bca0f3811d5bf1a9ef57}
+      \strng{fullhash}{2b25151deda6bca0f3811d5bf1a9ef57}
+      \field{sortinit}{R}
+      \field{labeltitle}{Reinterpreting Property}
+      \true{singletitle}
+      \field{title}{Reinterpreting Property}
+      \field{year}{1993}
+    \endentry
+    \entry{ravno08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7c9728ee7b4f111dfb3621a5cf6b5588}{Ravnå}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7c9728ee7b4f111dfb3621a5cf6b5588}{Ravnå}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendahl}%
+      }
+      \strng{namehash}{7c9728ee7b4f111dfb3621a5cf6b5588}
+      \strng{fullhash}{7c9728ee7b4f111dfb3621a5cf6b5588}
+      \field{sortinit}{R}
+      \field{labeltitle}{Perspektiver på Jordskifte}
+      \true{singletitle}
+      \field{title}{Perspektiver på Jordskifte}
+      \field{year}{2008}
+    \endentry
+    \entry{nut69}{misc}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
+      \true{singletitle}
+      \field{indextitle}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
+      \field{journaltitle}{NUT (Norwegian Governmental Reports)}
+      \field{title}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
+      \field{volume}{2}
+      \field{year}{1969}
+    \endentry
+    \entry{rogstad56}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4581020c752d9f1edccdaf724b0a9d6a}{Rogstad}{R\bibinitperiod}{Olaf}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4581020c752d9f1edccdaf724b0a9d6a}{Rogstad}{R\bibinitperiod}{Olaf}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4581020c752d9f1edccdaf724b0a9d6a}
+      \strng{fullhash}{4581020c752d9f1edccdaf724b0a9d6a}
+      \field{sortinit}{R}
+      \field{labeltitle}{Verdien av Rå Vannkraft}
+      \true{singletitle}
+      \field{journaltitle}{Fossekallen}
+      \field{number}{4}
+      \field{title}{Verdien av Rå Vannkraft}
+      \field{year}{1956}
+    \endentry
+    \entry{skjold06}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=bbd2bcfc203dc80b381728081bdfedb6}{Skjold}{S\bibinitperiod}{Dag\bibnamedelima Ove}{D\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bbd2bcfc203dc80b381728081bdfedb6}{Skjold}{S\bibinitperiod}{Dag\bibnamedelima Ove}{D\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{bbd2bcfc203dc80b381728081bdfedb6}
+      \strng{fullhash}{bbd2bcfc203dc80b381728081bdfedb6}
+      \field{sortinit}{S}
+      \field{labeltitle}{Statens Kraft 1947–1965: For Velferd og Industri}
+      \true{singletitle}
+      \field{title}{Statens Kraft 1947–1965: For Velferd og Industri}
+      \field{year}{2006}
+    \endentry
+    \entry{sluysmans14}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=070e962010f3cdfeb92439fb5af5fbe5}{Sluysmans}{S\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f015cd88526e81a8082c6b2b94de4ea4}{Verbist}{V\bibinitperiod}{Stijn}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f70c2e1e3d680ba9a4eb618b09203313}{Graaff}{G\bibinitperiod}{Regien}{R\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=070e962010f3cdfeb92439fb5af5fbe5}{Sluysmans}{S\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f015cd88526e81a8082c6b2b94de4ea4}{Verbist}{V\bibinitperiod}{Stijn}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f70c2e1e3d680ba9a4eb618b09203313}{Graaff}{G\bibinitperiod}{Regien}{R\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{14821d2fca13506a3f04c0d01714fb56}
+      \strng{fullhash}{14821d2fca13506a3f04c0d01714fb56}
+      \field{sortinit}{S}
+      \field{labeltitle}{Compensation for Expropriation: How Compensation Reflects a Vision on Property.}
+      \true{singletitle}
+      \field{journaltitle}{European Property Law Journal}
+      \field{number}{1}
+      \field{title}{Compensation for Expropriation: How Compensation Reflects a Vision on Property.}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \field{pages}{3\bibrangedash 33}
+    \endentry
+    \entry{somin07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
+      \field{abstract}{The Supreme Court’s controversial decision in Kelo v. City of New London upheld the condemnation of private property for purposes of economic development. This Article argues that Kelo was wrongly decided and that courts should forbid economic development takings. Part I analyzes the flaws of economic development takings generally. Such condemnations allow politically powerful interest groups to capture the condemnation process for the purpose of enriching themselves at the expense of the poor and politically weak. This Part also shows that the need to eliminate holdout problems that could block desirable assembly projects cannot justify permitting economic development takings. In most cases, private developers can prevent holdouts by such noncoercive methods as assembling property in secret and adopting precommitment strategies that prevent holdouts from using their bargaining power. Part {II} considers the major alternatives to a categorical ban. While these proposals are not without merit, none can prevent eminent domain abuse as effectively as forbidding the economic development rationale altogether. In Part {III}, I consider the Kelo case itself. In advocating broad deference to local governments on public use issues, the Kelo majority unfortunately ignored the serious defects in the political processes that control economic development takings. The Court’s analysis of history and precedent also has significant weaknesses. Nonetheless, Kelo actually represents a modest improvement on the Court’s previous public use decisions, by holding out the possibility of at least slightly greater judicial scrutiny. Part {III} also provides a very preliminary assessment of the political backlash against Kelo, showing that much of the proposed anti-Kelo legislation provides little or no real protection for property owners. Part {IV} strikes an additional note of caution, showing that even a categorical ban on economic development takings is not a comprehensive solution to the underlying problem of eminent domain abuse. A ban on economic development takings can potentially be circumvented in several ways, most notably because such bans still permit condemnations to alleviate blight. Courts in many states have already defined blight so broadly that the definition could encompass virtually any property.}
+      \field{journaltitle}{Supreme Court Economic Review}
+      \field{number}{1}
+      \field{title}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
+      \field{volume}{15}
+      \field{year}{2007}
+      \field{pages}{183\bibrangedash 271}
+    \endentry
+    \entry{somin09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{journaltitle}{Minnesota Law Review}
+      \field{title}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{volume}{93}
+      \field{year}{2009}
+      \field{pages}{2100}
+    \endentry
+    \entry{sofienlund07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4cec86f9b041b8fe21d15bf1b47acb34}{Sontum}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f975ee2d05f987da9e9353b6fd04a34d}{Sofienlund}{S\bibinitperiod}{Einar}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4cec86f9b041b8fe21d15bf1b47acb34}{Sontum}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f975ee2d05f987da9e9353b6fd04a34d}{Sofienlund}{S\bibinitperiod}{Einar}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3328f5340c67c0b2fcb28761a40f032a}
+      \strng{fullhash}{3328f5340c67c0b2fcb28761a40f032a}
+      \field{sortinit}{S}
+      \field{labeltitle}{Ekspropriasjon av vannkraft -- hvorfor den historiske metoden fra norsk rettspraksis ikke er relevant i dagens marked}
+      \true{singletitle}
+      \field{journaltitle}{Småkraftnytt}
+      \field{number}{4}
+      \field{title}{Ekspropriasjon av vannkraft -- hvorfor den historiske metoden fra norsk rettspraksis ikke er relevant i dagens marked}
+      \field{volume}{2007}
+      \field{year}{2007}
+    \endentry
+    \entry{stokstad11}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=995560b58b5bf3c66908c543677e4011}{Stokstad}{S\bibinitperiod}{Sæmund}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=995560b58b5bf3c66908c543677e4011}{Stokstad}{S\bibinitperiod}{Sæmund}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetet for Miljø- og Biovitenskap}%
+      }
+      \strng{namehash}{995560b58b5bf3c66908c543677e4011}
+      \strng{fullhash}{995560b58b5bf3c66908c543677e4011}
+      \field{sortinit}{S}
+      \field{labeltitle}{Bruksordning ved Jordskifte i Samband med Utbygging av Småskalakraftverk}
+      \true{singletitle}
+      \field{entrysubtype}{Master Thesis}
+      \field{title}{Bruksordning ved Jordskifte i Samband med Utbygging av Småskalakraftverk}
+      \field{type}{Master Thesis}
+      \field{year}{2011}
+    \endentry
+    \entry{grunnloven14}{legislation}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{The Constitution of the Kingdom of Norway}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{The Constitution of the Kingdom of Norway}
+      \field{year}{1814}
+      \keyw{no}
+    \endentry
+    \entry{thomassen97}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=01edc85ed84422415b84c6b4e0a27a05}{Thomassen}{T\bibinitperiod}{Ø\bbxinitsep}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=01edc85ed84422415b84c6b4e0a27a05}{Thomassen}{T\bibinitperiod}{Ø\bbxinitsep}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{01edc85ed84422415b84c6b4e0a27a05}
+      \strng{fullhash}{01edc85ed84422415b84c6b4e0a27a05}
+      \field{sortinit}{T}
+      \field{labeltitle}{Herlege Tider: Norsk Fysisk Planlegging 1930–1965}
+      \true{singletitle}
+      \field{entrysubtype}{PhD Thesis}
+      \field{title}{Herlege Tider: Norsk Fysisk Planlegging 1930–1965}
+      \field{type}{PhD Thesis}
+      \field{year}{1997}
+    \endentry
+    \entry{thue06b}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=c3587072bb6f16f354ef05f9db604966}{Thue}{T\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c3a0d41c110b9d3853b95511dae940e9}{Nilsen}{N\bibinitperiod}{Yngve}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c3587072bb6f16f354ef05f9db604966}{Thue}{T\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c3a0d41c110b9d3853b95511dae940e9}{Nilsen}{N\bibinitperiod}{Yngve}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{9a7c906a1e259ec7ec2ed25c4e4d9bea}
+      \strng{fullhash}{9a7c906a1e259ec7ec2ed25c4e4d9bea}
+      \field{sortinit}{T}
+      \field{labeltitle}{Statens Kraft 1965-2006: Miljø og Marked}
+      \true{singletitle}
+      \field{title}{Statens Kraft 1965-2006: Miljø og Marked}
+      \field{year}{2006}
+    \endentry
+    \entry{lawcom03}{misc}{}
+      \list{publisher}{1}{%
+        {Law Commission}%
+      }
+      \field{sortinit}{T}
+      \field{labeltitle}{Towards a Compulsory Purchase Code: (1) Compensation}
+      \true{singletitle}
+      \field{indextitle}{Towards a Compulsory Purchase Code: (1) Compensation}
+      \field{note}{Report no. 286}
+      \field{title}{Towards a Compulsory Purchase Code: (1) Compensation}
+      \field{year}{2003}
+    \endentry
+    \entry{bocardo10}{jurisdiction}{}
+      \list{institution}{1}{%
+        {UKSC}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{Star Energy Weald Basin Ltd \& Anor v Bocardo SA}
+      \true{singletitle}
+      \field{journaltitle}{WLR}
+      \field{title}{Star Energy Weald Basin Ltd \& Anor v Bocardo SA}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{654}
+      \keyw{gb}
+    \endentry
+    \entry{underkuffer06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=87a32852f7d0d97526c056521fbba851}{Underkuffer}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=87a32852f7d0d97526c056521fbba851}{Underkuffer}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{87a32852f7d0d97526c056521fbba851}
+      \strng{fullhash}{87a32852f7d0d97526c056521fbba851}
+      \field{sortinit}{U}
+      \field{labeltitle}{Kelo's moral failure}
+      \true{singletitle}
+      \field{journaltitle}{William \& Mary Bill of Rights Journal}
+      \field{number}{2}
+      \field{title}{Kelo's moral failure}
+      \field{volume}{15}
+      \field{year}{2006}
+      \field{pages}{377\bibrangedash 388}
+    \endentry
+    \entry{vislie02}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=313292b84f91bd7c767dec366eba521d}{Vislie}{V\bibinitperiod}{Ingolf}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=313292b84f91bd7c767dec366eba521d}{Vislie}{V\bibinitperiod}{Ingolf}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{313292b84f91bd7c767dec366eba521d}
+      \strng{fullhash}{313292b84f91bd7c767dec366eba521d}
+      \field{sortinit}{V}
+      \field{labeltitle}{Ekspropriasjon og Skjønn i Vassdrag}
+      \true{singletitle}
+      \field{booktitle}{Vassdrags- og energirett}
+      \field{edition}{2}
+      \field{title}{Ekspropriasjon og Skjønn i Vassdrag}
+      \field{year}{2002}
+    \endentry
+    \entry{indian39}{jurisdiction}{year-essential=true}
+      \field{sortinit}{V}
+      \field{labeltitle}{Vyricherla Narayana Gajapatiraju v Revenue Divisional officer, Vizagapatam}
+      \true{singletitle}
+      \field{journaltitle}{AC}
+      \field{title}{Vyricherla Narayana Gajapatiraju v Revenue Divisional officer, Vizagapatam}
+      \field{year}{1939}
+      \field{pages}{302}
+      \keyw{gb}
+    \endentry
+    \entry{wra17}{legislation}{}
+      \field{sortinit}{W}
+      \field{labeltitle}{Watercourse Regulation Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Watercourse Regulation Act}
+      \field{year}{1917}
+      \keyw{no}
+    \endentry
+    \entry{waters04}{jurisdiction}{year-essential=true}
+      \field{sortinit}{W}
+      \field{labeltitle}{Waters and other v Welsh National Assembly}
+      \true{singletitle}
+      \field{journaltitle}{UKHL}
+      \field{title}{Waters and other v Welsh National Assembly}
+      \field{year}{2004}
+      \field{pages}{19}
+      \keyw{gb}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

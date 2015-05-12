@@ -1,0 +1,200 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{niyt}
+    \entry{allen05}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hart Publishing}%
+      }
+      \strng{namehash}{ae5b656e83f5b6469631cc157635756c}
+      \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
+      \field{sortinit}{A}
+      \field{labeltitle}{Property and the Human Rights Act 1998}
+      \true{singletitle}
+      \field{title}{Property and the Human Rights Act 1998}
+      \field{year}{2005}
+    \endentry
+    \entry{lindheim12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Lindheim and others v Norway}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{13221/08; 2139/10}
+      \field{title}{Lindheim and others v Norway}
+      \field{year}{2012}
+      \field{pages}{985}
+      \keyw{echr}
+    \endentry
+    \entry{epstein85}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \strng{fullhash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \field{sortinit}{E}
+      \field{labeltitle}{Takings: Private property and eminent domain}
+      \true{singletitle}
+      \field{title}{Takings: Private property and eminent domain}
+      \field{year}{1985}
+    \endentry
+    \entry{heller08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8939e5396faff17ee612722b28279b60}
+      \strng{fullhash}{8939e5396faff17ee612722b28279b60}
+      \field{sortinit}{H}
+      \field{labeltitle}{Land Assembly Districts}
+      \true{singletitle}
+      \field{abstract}{Eminent domain for economic development is both attractive and appalling. States need the power to condemn because so much land in America is inefficiently fragmented. But public land assembly provokes hostility because vulnerable communities get bulldozed. Courts offer no help. The academic literature is a muddle. Is it possible to assemble land without harming the poor and powerless? Yes. This Article proposes the creation of Land Assembly Districts, or "LADs." This new property form solves the age-old tensions in eminent domain and shows, more generally, how careful redesign of property rights can enhance both welfare and fairness. The economic and moral intuition underlying LADs is simple: when the only justification for assembly is over-fragmentation of land, neighbors should be able to decide collectively whether their land will be assembled. Our legal theory solution is equally simple: use property law to retrofit communities with a condominium-like structure tailored to land assembly. Let's try giving those burdened by condemnation a way to share in its benefits and to veto projects they decide are not worth their while.}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Land Assembly Districts}
+      \field{volume}{121}
+      \field{year}{2008}
+      \field{pages}{1465\bibrangedash 1527}
+    \endentry
+    \entry{kelo05}{jurisdiction}{}
+      \field{sortinit}{K}
+      \field{labeltitle}{Kelo}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Kelo}
+      \field{title}{Kelo v City of New London}
+      \field{volume}{545}
+      \field{year}{2010}
+      \field{pages}{469}
+      \keyw{us}
+    \endentry
+    \entry{malloy08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=56c0ca12433a8f88b1df8122f6dc5b16}{Malloy}{M\bibinitperiod}{Robin\bibnamedelima Paul}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=56c0ca12433a8f88b1df8122f6dc5b16}{Malloy}{M\bibinitperiod}{Robin\bibnamedelima Paul}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ashgate}%
+      }
+      \strng{namehash}{56c0ca12433a8f88b1df8122f6dc5b16}
+      \strng{fullhash}{56c0ca12433a8f88b1df8122f6dc5b16}
+      \field{sortinit}{M}
+      \field{labeltitle}{Private Property, Community Development and Eminent Domain}
+      \true{singletitle}
+      \field{title}{Private Property, Community Development and Eminent Domain}
+      \field{year}{2008}
+    \endentry
+    \entry{merrill86}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \strng{fullhash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Economics of Public Use}
+      \true{singletitle}
+      \field{journaltitle}{Cornell Law Review}
+      \field{title}{The Economics of Public Use}
+      \field{volume}{72}
+      \field{year}{1986}
+      \field{pages}{61\bibrangedash 116}
+    \endentry
+    \entry{somin09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \true{singletitle}
+      \field{journaltitle}{Minn. L. Rev.}
+      \field{title}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{volume}{93}
+      \field{year}{2009}
+      \field{pages}{2100}
+    \endentry
+    \entry{stenseth10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \field{sortinit}{S}
+      \field{labeltitle}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
+      \true{singletitle}
+      \field{journaltitle}{Tidsskrift for Rettsvitenskap}
+      \field{title}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
+      \field{volume}{123}
+      \field{year}{2010}
+      \field{pages}{774\bibrangedash 808}
+    \endentry
+    \entry{walt11}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=36da9dd4b4fc7702fec12dd8a893c59d}{Walt}{W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{van\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=36da9dd4b4fc7702fec12dd8a893c59d}{Walt}{W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{van\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Juta}%
+      }
+      \strng{namehash}{36da9dd4b4fc7702fec12dd8a893c59d}
+      \strng{fullhash}{36da9dd4b4fc7702fec12dd8a893c59d}
+      \field{sortinit}{W}
+      \field{labeltitle}{Constitutional Property Law}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{Constitutional Property Law}
+      \field{year}{2011}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

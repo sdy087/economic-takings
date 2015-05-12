@@ -1,0 +1,11 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.33pt}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{The problem of economic development takings}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Compensation, elimination, and benefit sharing}{17}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Norwegian waterfalls and hydropower}{28}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Discussion}{39}{0}{4}

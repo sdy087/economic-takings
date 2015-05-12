@@ -1,0 +1,467 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{niyt}
+    \entry{alexander06}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=700d6191a6cc63ffcd40389ccc5ff24f}{Alexander}{A\bibinitperiod}{Gregory\bibnamedelima S\bbxinitsep}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{700d6191a6cc63ffcd40389ccc5ff24f}
+      \strng{fullhash}{700d6191a6cc63ffcd40389ccc5ff24f}
+      \field{sortinit}{A}
+      \field{labeltitle}{The Global Debate over Constitutional Property: Lessons for American Takings Jurisprudence}
+      \true{singletitle}
+      \field{title}{The Global Debate over Constitutional Property: Lessons for American Takings Jurisprudence}
+      \field{year}{2006}
+    \endentry
+    \entry{allen00}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ae5b656e83f5b6469631cc157635756c}
+      \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
+      \field{sortinit}{A}
+      \field{labeltitle}{The Right to Property in Commonwealth Constitutions}
+      \field{title}{The Right to Property in Commonwealth Constitutions}
+      \field{year}{2000}
+    \endentry
+    \entry{allen05}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5b656e83f5b6469631cc157635756c}{Allen}{A\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Hart Publishing}%
+      }
+      \strng{namehash}{ae5b656e83f5b6469631cc157635756c}
+      \strng{fullhash}{ae5b656e83f5b6469631cc157635756c}
+      \field{sortinit}{A}
+      \field{labeltitle}{Property and the Human Rights Act 1998}
+      \field{title}{Property and the Human Rights Act 1998}
+      \field{year}{2005}
+    \endentry
+    \entry{berman54}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Berman v Parker}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Berman v Parker}
+      \field{volume}{348}
+      \field{pages}{26}
+      \keyw{us}
+    \endentry
+    \entry{chicago97}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Chicago, Burlington \& Quincy RR Co v City of Chicago}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Chicago, Burlington \& Quincy RR Co v City of Chicago}
+      \field{volume}{166}
+      \field{year}{1897}
+      \field{pages}{226}
+      \keyw{us}
+    \endentry
+    \entry{vester30}{jurisdiction}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{City of Cincinnati v Vester}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{City of Cincinnati v Vester}
+      \field{volume}{281}
+      \field{year}{1930}
+      \field{pages}{439}
+      \keyw{us}
+    \endentry
+    \entry{crow07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5661c02640618c3610861e9376ae7d79}{Crow}{C\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5661c02640618c3610861e9376ae7d79}{Crow}{C\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5661c02640618c3610861e9376ae7d79}
+      \strng{fullhash}{5661c02640618c3610861e9376ae7d79}
+      \field{sortinit}{C}
+      \field{labeltitle}{Compulsory purchase for economic development: an international perspective}
+      \true{singletitle}
+      \field{journaltitle}{Journal of Planning \& Environmental Law}
+      \field{month}{08}
+      \field{title}{Compulsory purchase for economic development: an international perspective}
+      \field{year}{2007}
+      \field{pages}{1102\bibrangedash 1115}
+    \endentry
+    \entry{dagan07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5c146a7b7996847f33243e0bc1e32a20}
+      \strng{fullhash}{5c146a7b7996847f33243e0bc1e32a20}
+      \field{sortinit}{D}
+      \field{labeltitle}{The Social Responsibility of Ownership}
+      \true{singletitle}
+      \field{journaltitle}{Cornell L. Rev.}
+      \field{title}{The Social Responsibility of Ownership}
+      \field{volume}{92}
+      \field{year}{2007}
+      \field{pages}{1255}
+    \endentry
+    \entry{lindheim12}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Lindheim and others v Norway}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{13221/08; 2139/10}
+      \field{title}{Lindheim and others v Norway}
+      \field{year}{2012}
+      \field{pages}{985}
+      \keyw{echr}
+    \endentry
+    \entry{epstein85}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5ff061ae0f4f4936c21288f1012a02b9}{Epstein}{E\bibinitperiod}{Richard\bibnamedelima A\bbxinitsep}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \strng{fullhash}{5ff061ae0f4f4936c21288f1012a02b9}
+      \field{sortinit}{E}
+      \field{labeltitle}{Takings: Private property and eminent domain}
+      \true{singletitle}
+      \field{title}{Takings: Private property and eminent domain}
+      \field{year}{1985}
+    \endentry
+    \entry{hairston08}{jurisdiction}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hairston v Danville \& W R Co}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Hairston v Danville \& W R Co}
+      \field{volume}{208}
+      \field{year}{1908}
+      \field{pages}{598}
+      \keyw{us}
+    \endentry
+    \entry{heller08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8939e5396faff17ee612722b28279b60}
+      \strng{fullhash}{8939e5396faff17ee612722b28279b60}
+      \field{sortinit}{H}
+      \field{labeltitle}{Land Assembly Districts}
+      \true{singletitle}
+      \field{abstract}{Eminent domain for economic development is both attractive and appalling. States need the power to condemn because so much land in America is inefficiently fragmented. But public land assembly provokes hostility because vulnerable communities get bulldozed. Courts offer no help. The academic literature is a muddle. Is it possible to assemble land without harming the poor and powerless? Yes. This Article proposes the creation of Land Assembly Districts, or "LADs." This new property form solves the age-old tensions in eminent domain and shows, more generally, how careful redesign of property rights can enhance both welfare and fairness. The economic and moral intuition underlying LADs is simple: when the only justification for assembly is over-fragmentation of land, neighbors should be able to decide collectively whether their land will be assembled. Our legal theory solution is equally simple: use property law to retrofit communities with a condominium-like structure tailored to land assembly. Let's try giving those burdened by condemnation a way to share in its benefits and to veto projects they decide are not worth their while.}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Land Assembly Districts}
+      \field{volume}{121}
+      \field{year}{2008}
+      \field{pages}{1465\bibrangedash 1527}
+    \endentry
+    \entry{kelo05}{jurisdiction}{}
+      \field{sortinit}{K}
+      \field{labeltitle}{Kelo}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Kelo}
+      \field{title}{Kelo v City of New London}
+      \field{volume}{545}
+      \field{year}{2010}
+      \field{pages}{469}
+      \keyw{us}
+    \endentry
+    \entry{lehavi07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \strng{fullhash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \field{sortinit}{L}
+      \field{labeltitle}{Eminent Domain, Inc.}
+      \true{singletitle}
+      \field{abstract}{This Essay proposes a novel solution for "squaring the eminent domain circle" when large-scale, for-profit development projects require the assembly of land from numerous private property owners. Such "anticommons" situations may justify government intervention through eminent domain, yet they often leave landowners undercompensated. This may skew the incentives for initiating land development projects and lead to considerable injustice. Although the taking component of eminent domain may need to remain an involuntary nonmarket transaction, we propose a market-based mechanism for the compensation component in the form of a Special-Purpose Development Corporation (SPDC). An SPDC would acquire unified ownership of the land and the development project, and would offer condemnees a choice between receiving pre-project "fair market value" compensation or pro rata shares in the SPDC. This would make it more likely that compensation is closely linked to the true economic value of the land and, consequently, that land assembly projects are both more just and genuinely social welfare maximizing.}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{7}
+      \field{title}{Eminent Domain, Inc.}
+      \field{volume}{107}
+      \field{year}{2007}
+      \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{malloy08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=56c0ca12433a8f88b1df8122f6dc5b16}{Malloy}{M\bibinitperiod}{Robin\bibnamedelima Paul}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=56c0ca12433a8f88b1df8122f6dc5b16}{Malloy}{M\bibinitperiod}{Robin\bibnamedelima Paul}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ashgate}%
+      }
+      \strng{namehash}{56c0ca12433a8f88b1df8122f6dc5b16}
+      \strng{fullhash}{56c0ca12433a8f88b1df8122f6dc5b16}
+      \field{sortinit}{M}
+      \field{labeltitle}{Private Property, Community Development and Eminent Domain}
+      \true{singletitle}
+      \field{title}{Private Property, Community Development and Eminent Domain}
+      \field{year}{2008}
+    \endentry
+    \entry{merrill86}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \strng{fullhash}{4f8ca6d3df927cdc36f2e846b06228bf}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Economics of Public Use}
+      \true{singletitle}
+      \field{journaltitle}{Cornell Law Review}
+      \field{title}{The Economics of Public Use}
+      \field{volume}{72}
+      \field{year}{1986}
+      \field{pages}{61\bibrangedash 116}
+    \endentry
+    \entry{narula13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c22fc2309635d2dc000889842c1af7e8}{Narula}{N\bibinitperiod}{Smita}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c22fc2309635d2dc000889842c1af7e8}{Narula}{N\bibinitperiod}{Smita}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c22fc2309635d2dc000889842c1af7e8}
+      \strng{fullhash}{c22fc2309635d2dc000889842c1af7e8}
+      \field{sortinit}{N}
+      \field{labeltitle}{The Global Land Rush: Markets, Rights, and the Politics of Food}
+      \true{singletitle}
+      \field{journaltitle}{Stanford Journal of International Law}
+      \field{number}{1}
+      \field{title}{The Global Land Rush: Markets, Rights, and the Politics of Food}
+      \field{year}{2013}
+      \field{pages}{140}
+    \endentry
+    \entry{nichols40}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=61c5b99c933b635beb0d96c7fa23350b}{Nichols}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=61c5b99c933b635beb0d96c7fa23350b}{Nichols}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{61c5b99c933b635beb0d96c7fa23350b}
+      \strng{fullhash}{61c5b99c933b635beb0d96c7fa23350b}
+      \field{sortinit}{N}
+      \field{labeltitle}{The Meaning of Public Use in the Law of Eminent Domain}
+      \true{singletitle}
+      \field{journaltitle}{Boston University Law Review}
+      \field{title}{The Meaning of Public Use in the Law of Eminent Domain}
+      \field{volume}{20}
+      \field{year}{1940}
+      \field{pages}{615}
+    \endentry
+    \entry{gourde47}{jurisdiction}{year-essential=true}
+      \field{sortinit}{P}
+      \field{labeltitle}{Pointe Gourde Quarring \& Transport Company Limited v Sub-Intendent of Crown Lands (Trinidad and Tobago)}
+      \true{singletitle}
+      \field{journaltitle}{UKPC}
+      \field{title}{Pointe Gourde Quarring \& Transport Company Limited v Sub-Intendent of Crown Lands (Trinidad and Tobago)}
+      \field{year}{1947}
+      \field{pages}{71}
+    \endentry
+    \entry{poletown81}{jurisdiction}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Poletown Neighborhood Council v City of Detroit}
+      \true{singletitle}
+      \field{journaltitle}{Mich}
+      \field{title}{Poletown Neighborhood Council v City of Detroit}
+      \field{volume}{410}
+      \field{year}{1981}
+      \field{pages}{616}
+      \keyw{us}
+    \endentry
+    \entry{smith03}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=078b1127bb442dffa740db5edad58c2f}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E\bbxinitsep}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=078b1127bb442dffa740db5edad58c2f}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E\bbxinitsep}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{078b1127bb442dffa740db5edad58c2f}
+      \strng{fullhash}{078b1127bb442dffa740db5edad58c2f}
+      \field{sortinit}{S}
+      \field{labeltitle}{Land tenure reform in Africa: a shift to the defensive}
+      \true{singletitle}
+      \field{journaltitle}{Progress in Development Studies}
+      \field{number}{3}
+      \field{title}{Land tenure reform in Africa: a shift to the defensive}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{210\bibrangedash 222}
+    \endentry
+    \entry{somin07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
+      \field{abstract}{The Supreme Court’s controversial decision in Kelo v. City of New London upheld the condemnation of private property for purposes of economic development. This Article argues that Kelo was wrongly decided and that courts should forbid economic development takings. Part I analyzes the flaws of economic development takings generally. Such condemnations allow politically powerful interest groups to capture the condemnation process for the purpose of enriching themselves at the expense of the poor and politically weak. This Part also shows that the need to eliminate holdout problems that could block desirable assembly projects cannot justify permitting economic development takings. In most cases, private developers can prevent holdouts by such noncoercive methods as assembling property in secret and adopting precommitment strategies that prevent holdouts from using their bargaining power. Part {II} considers the major alternatives to a categorical ban. While these proposals are not without merit, none can prevent eminent domain abuse as effectively as forbidding the economic development rationale altogether. In Part {III}, I consider the Kelo case itself. In advocating broad deference to local governments on public use issues, the Kelo majority unfortunately ignored the serious defects in the political processes that control economic development takings. The Court’s analysis of history and precedent also has significant weaknesses. Nonetheless, Kelo actually represents a modest improvement on the Court’s previous public use decisions, by holding out the possibility of at least slightly greater judicial scrutiny. Part {III} also provides a very preliminary assessment of the political backlash against Kelo, showing that much of the proposed anti-Kelo legislation provides little or no real protection for property owners. Part {IV} strikes an additional note of caution, showing that even a categorical ban on economic development takings is not a comprehensive solution to the underlying problem of eminent domain abuse. A ban on economic development takings can potentially be circumvented in several ways, most notably because such bans still permit condemnations to alleviate blight. Courts in many states have already defined blight so broadly that the definition could encompass virtually any property.}
+      \field{journaltitle}{Supreme Court Economic Review}
+      \field{number}{1}
+      \field{title}{Controlling the Grasping Hand: Economic Development Takings after Kelo}
+      \field{volume}{15}
+      \field{year}{2007}
+      \field{pages}{183\bibrangedash 271}
+    \endentry
+    \entry{somin09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=627158d6a9ad1fb229436a707403fa08}{Somin}{S\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{627158d6a9ad1fb229436a707403fa08}
+      \strng{fullhash}{627158d6a9ad1fb229436a707403fa08}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{journaltitle}{Minn. L. Rev.}
+      \field{title}{The Limits of Backlash: Assessing the Political Response to Kelo}
+      \field{volume}{93}
+      \field{year}{2009}
+      \field{pages}{2100}
+    \endentry
+    \entry{stenseth10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \field{sortinit}{S}
+      \field{labeltitle}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
+      \true{singletitle}
+      \field{journaltitle}{Tidsskrift for Rettsvitenskap}
+      \field{title}{Noen internasjonale utviklingstrekk i ekspropriasjonsretten}
+      \field{volume}{123}
+      \field{year}{2010}
+      \field{pages}{774\bibrangedash 808}
+    \endentry
+    \entry{thomas09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1e6ee55880029c224e72ab3bdab7ce3e}{Thomas}{T\bibinitperiod}{Robert\bibnamedelima H\bbxinitsep}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1e6ee55880029c224e72ab3bdab7ce3e}
+      \strng{fullhash}{1e6ee55880029c224e72ab3bdab7ce3e}
+      \field{sortinit}{T}
+      \field{labeltitle}{Recent Developments in Public Use and Pretext in Eminent Domain}
+      \true{singletitle}
+      \field{journaltitle}{The Urban Lawyer}
+      \field{number}{3}
+      \field{title}{Recent Developments in Public Use and Pretext in Eminent Domain}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{563\bibrangedash 577}
+    \endentry
+    \entry{underkuffer07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=87a32852f7d0d97526c056521fbba851}{Underkuffer}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=87a32852f7d0d97526c056521fbba851}{Underkuffer}{U\bibinitperiod}{Laura\bibnamedelima S\bbxinitsep}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{87a32852f7d0d97526c056521fbba851}
+      \strng{fullhash}{87a32852f7d0d97526c056521fbba851}
+      \field{sortinit}{U}
+      \field{labeltitle}{Property as Constitutional Myth: Utilities and Dangers}
+      \true{singletitle}
+      \field{journaltitle}{Cornell L. Rev.}
+      \field{title}{Property as Constitutional Myth: Utilities and Dangers}
+      \field{volume}{92}
+      \field{pages}{1239}
+    \endentry
+    \entry{walt11}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=36da9dd4b4fc7702fec12dd8a893c59d}{Walt}{W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{van\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=36da9dd4b4fc7702fec12dd8a893c59d}{Walt}{W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{van\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Juta}%
+      }
+      \strng{namehash}{36da9dd4b4fc7702fec12dd8a893c59d}
+      \strng{fullhash}{36da9dd4b4fc7702fec12dd8a893c59d}
+      \field{sortinit}{W}
+      \field{labeltitle}{Constitutional Property Law}
+      \true{singletitle}
+      \field{edition}{3}
+      \field{title}{Constitutional Property Law}
+      \field{year}{2011}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

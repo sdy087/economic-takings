@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2014.6.5)  6 JUN 2014 18:20
+entering extended mode
+**C:/Users/SjurK/Desktop/economic-takings/Thesis*Shell/oscola.bbx
+("C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/oscola.bbx"
+! Undefined control sequence.
+l.16 \ProvidesFile
+                  {oscola.bbx}[2014/05/22 v1.4 Biblatex bibliography style f...
+
+? 
+! Emergency stop.
+l.16 \ProvidesFile
+                  {oscola.bbx}[2014/05/22 v1.4 Biblatex bibliography style f...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,5 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is 'Dyrkolbotn_Pointe_Gourde_Rome.tex.blg'
+[109] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
+[334] Utils.pm:185> ERROR - Cannot find control file 'Dyrkolbotn_Pointe_Gourde_Rome.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[334] Biber.pm:109> INFO - ERRORS: 1
