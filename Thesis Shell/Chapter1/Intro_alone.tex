@@ -1,10 +1,64 @@
-\chapter{Introduction and Summary of Main Themes}\label{chap:intro}
+\documentclass{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+\usepackage{url}
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+% \geometry{margin=2in} % for example, change the margins to 2 inches all round
+% \geometry{landscape} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage[style=oscola,
+            backend=biber,
+            babel=hyphen]{biblatex}
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+\newcommand{\noo}[1]{}
+
+\addbibresource{thesis.bib}
+
+%%% END Article customizations
+
+%%% The "real" document content comes below...
+
+\title{Introduction and Summary of Main Themes}\label{chap:intro}
+
+\begin{document}
 
 \begin{quote}
 Thieves respect property; they merely wish the property to become their property that they may more perfectly respect it.\footnote{G.K. Chesterton, {\it The man who was Thursday: A nightmare}.}
-\end{quote}
-\begin{quote}
-A takings power, then, may not be viewed as an act that wrenches away property rights and places an asset outside the world of property protection. Rather, it may be seen as an act within the larger super-structure of property.\footnote{Abraham Bell, Private Takings, p. 583.}
 \end{quote}
 %
 %A human being needs only a small plot of ground on which to be happy, and even less to lie beneath. %\footnote{Johan Wolfgang von Goethe, {\it The sorrows of young Werther and selected writings}.}
@@ -16,48 +70,65 @@ A takings power, then, may not be viewed as an act that wrenches away property r
 %
 \section{Property Lost; Takings and Legitimacy}
 
-Property can be an elusive concept, especially to property lawyers. Indeed, in the law of property, the word itself typically only functions as a metaphor -- an imprecise shorthand that refers to a complex and diverse web of doctrines, rules, and practices, each pertaining to different ``sticks'' in a ``bundle'' of rights. Indeed, this bundle perspective dominates legal scholarship, especially in the common law world. Some even go as far as to argue that words such as ``property'' and ``ownership'' should be removed from the legal vocabulary altogether. 
+%Judging from academic literature on the subject, property is a difficult and often paradoxical concept,
+Throughout the history of philosophy, much work has been devoted to the study of private property as a concept. But as these things often go, no consensus regarding its nature has been forthcoming. Moreover, property has proven to be something of a problem child, particularly in western philosophy. There has been no shortage of interests in it, but time and again property has demonstrated its recalcitrant nature, most notably its inherent tendency to stir up divergences that blur the line between conceptual analysis and politics. \noo{This might not be a problem in itself, depending on one's methodological stance, but in practice it has had an unfortunate tendency to disrupt attempts at conducting a principled and inclusive academic debate.}
 
-So is property as a unifying concept lost to the law? It certainly seems hard to pin it down. In the words of Kevin Gray, when a close scrutiny of property law gets under way, property itself seems like it ``vanishes into thin air''.\footnote{See \cite[306-307]{gray91}.} %Indeed, one may argue that different ideas of property, practical and theoretical, are behind most, if not all, the major conflicts and confrontations that have shaped the society in which we live.
+Indeed, from radical Marxism on the one hand to extreme libertarianism on the other, there are plenty of politically charged accounts of what private property is, not to mention what it {\it should} be, assuming, of course, that it should be allowed to exist at all.
+%one may be left with the impression that %evangelical praise bestowed on it by libertarians, there is no shortage of politically charged accounts of what property is, not to mention what it {\it should} be, assuming, of course, that it is entitled to exist at all. 
+Moreover, there appears to be little room for rapprochement between many leading strands of thought. %Indeed, one is sometimes left with the impression that different philosophical theories of property tend to diverge largely due to sympathies, rather than differences based on reasoned argument.
+
+In a response to this, many legal scholars from the late 19th century onwards have chosen to focus their attention on developing more modest theories, taking property as a legal construct without worrying too much about pre-legal intuitions. This trend has been influential, and even political philosophers may now commonly be found endorsing an agnostic position on the role of property in a just society.\footnote{See, e.g., \cite[274]{rawls71}.} Rather than viewing this question as foundational, these scholars tend to regard it from a practical angle, as a question of design.
+
+Some legal theorists have gone even further, by denying that there even is such a thing as property and by arguing that the word itself, along with ``ownership'', should be removed from legal language altogether. Indeed, while legal professionals often talk about property, they rarely need to consider the philosophical underpinnings of the notion, much less pledge any allegiances in this regard. In addition, when grappling with hard cases, lawyers will soon abandon conceptual clarity in favour of considerations based on social values, politics and expediency.
+
+In a sense, therefore, one may wonder if property has not in fact been lost to the law. As one prominent UK property scholar put it, as soon a close scrutiny of property law gets under way, property itself ``vanishes into thin air''.\footnote{See \cite[306-307]{gray91}.}
+%Indeed, one may argue that different ideas of property, practical and theoretical, are behind most, if not all, the major conflicts and confrontations that have shaped the society in which we live.
 %Responding to this, some prominent philosophers have taken the view that property is not a concept suitable for philosophical study at all.
 %According to some philosophers, property as a concept is a lost cause, not suitable for conceptual analysis at all. Instead, these scholars have suggested that property should be taken as a pragmatic and contingent derivative of other notions, such as the social order, or, on a normative account, by regarding it as an expedient of {\it justice}.
 %Moreover, legal scholars are usually content with theories of property that remain largely descriptive, settling for the more modest aim of exploring how best to think of property given the prevailing legal order, rather than trying to come up with theories to explicate its nature as a pre-legal concept. Indeed, even legal philosophers are sometimes found doubting that there even is such a thing as property.
-Arguably, however, property never truly disappears. Indeed, there is empirical evidence to suggest that humans come equipped with a {\it primitive} concept of property, one which pre-exists any particular arrangements used to distribute it or mould it as a legal category.\footnote{See\cite{stake06}.} Perhaps most notably, humans, along with a seemingly select group of other animals, appear to have an innate ability to recognise {\it thievery}, the taking of property (not necessarily one's own) by someone who is not entitled to do so.\footnote{See \cite[11-13]{brosnan11}.}
 
-Taken in this light, Proudhon's famous dictum ``property is theft'', might be more than a seemingly contradictory comment on the origins of inequality. It might point to a deeply rooted aspect of property itself, namely its role as an anchor for the distinction between legitimate and illegitimate acts of taking.
+At the same time, there is empirical evidence to support the claim that humans do in fact possess a working {\it primitive} notion of property, one which pre-exists any particular social arrangements used to mould property as a socio-political or legal category.\footnote{See\cite{stake06}.} Perhaps most notably, humans, along with a seemingly rather select group of other animals, appear to have an innate and non-trivial ability to recognise {\it thievery}, the taking of property by someone who is not entitled to do so.\footnote{See \cite[11-13]{brosnan11}.}
 
-But what is a taking, and when is it legitimate? In this thesis, I will aim to make a contribution to this question. I will study takings of a special kind, namely those that are implemented, or at least formally sanctioned, by a government. In legal language, especially in the US, such acts of government takings are often referred to as takings {\it simpliciter}, while talk of other kinds of ``takings'' require further qualification, e.g., in case of ``takings'' based on contract, tax or occupation. 
+Taken in this light, Proudhon's the famous dictum ``property is theft'', may be more than a flippant and seemingly self-contradictory comment on the origins of inequality. It might point to a possible alternative direction for investigating the nature of ownership, as a concept that emerges from a distinction between legitimate and illegitimate acts of taking, broadly construed. It seems quite tempting, after all, to describe a person's property as that which has been taken by them (or for them) by legitimate means, and which may not be taken from them without due process.
 
-The US terminology brings the issue of legitimacy to the forefront in an illustrative manner. We are reminded, in particular, that under the rule of law, taking is not the same as theft. Rather, the default assumption is that the takings that take place under the rule of law are legitimate. If they are not, we may call them by a different name, but not before. At the same time, it falls to the legal order to spell out in further detail what restrictions may be placed on the power to take. 
+Interestingly, while the abstract notion of property has arguably received more than its fair share of attention from disciplines other than law, the common-sense notion of a taking has not received much academic attention outside of the legal community. No great philosophical debates have revolved around this notion, and no chasms has opened as to the correct way to understand it. Moreover, legal scholars rarely attempt to define takings as an abstract notion, preferring instead to regard it as a derivative of the legal order surrounding property. In relation to the act of taking, the pragmatic and often jurisdiction-bound perspective of the lawyer appears to reign supreme.
 
-Indeed, restrictions appear implicit in the very notion of taking. The idea that someone might find occasion to resist an act of taking, and may or may not have good grounds for doing so, appears fundamental to our pre-legal intuitions. But how should we approach the question of legitimacy of takings from the point of view of legal reasoning, and what conceptual categories can we benefit from when doing so? This is the key question that is addressed in this thesis. I will limit attention to a special case, namely the so-called economic development takings, when government sanctions the taking of property in order to further economic development.
+This is problematic, since the notion of property itself is so contested that it might not provide a secure foundation for thinking about such acts. But it also suggests an interesting possibility; perhaps studying takings is a path towards a better understanding of property as well? After all, this is where vastly different accounts of property do seem to share at least an important common point of reference.
 
-My primary interest lies in the legal questions that arise, not the overarching philosophical reflections that these might give rise to. However, I think it is worth reflecting for a minute on how  many different, ideologically tinged, perspectives on property may come together when focus is shifted away from the thing itself towards the legitimacy of the act of taking it. This is clearly demonstrated by recent case law from the US.
+In this thesis, I will study a certain kind of taking, namely that which is implemented, or at least formally sanctioned, by a government. In legal language, especially as developed in the US, such acts of government may be referred to as takings {\it simpliciter}, while talk of other kinds of ``takings'' require further qualification, e.g., in case of contract, theft, tax or occupation. This somewhat counter-intuitive terminology might in itself be cause for reflection as to the ideological commitments inherent in legal language. More importantly to me, however, is that it brings the issue of legitimacy to the forefront in a nice way.
 
-The best example is the case of {\it Kelo v City of New London}, which brought the category of economic development takings into focus, first on the political scene, then by causing a surge of academic work by US legal scholars.\footcite{kelo05}. The {\it Kelo} case concerned a house that was taken by the government in order to accommodate private enterprise, namely the construction of new research facilities for Pfizer, the multi-national pharmaceutical company.
+We are reminded, in particular, that under the rule of law, taking is not the same as theft. Rather, the default assumption is that the takings that take place under the rule of law are legitimate. If they are not, we may call them by a different name, but not before. At the same time, it falls to the legal order to spell out in further detail what restrictions may be placed on the power to take. 
+
+Indeed, restrictions appear implicit in the very notion of taking. If the power to take was unrestricted, how could one distinguish the act of taking something from the act of putting something to use, for a while, waiting for the next taker to come along? In particular, the idea that someone might have occasion to resist an act of taking, and may or may not have good grounds for doing so, appears fundamental to our pre-legal intuitions.
+
+But how should we approach the question of legitimacy of takings from the point of view of legal reasoning, and what conceptual categories can we benefit from when doing so? In this thesis, I aim to make a contribution to this question. I will focus on a special case, namely the so-called economic development takings, when government sanctions the taking of property in order to further economic development.
+
+My primary interest lies in the legal questions that arise, not the overarching philosophical reflections that these might give rise to. However, I believe my introductory remarks here serve to at least sketch an interesting broader perspective on my topic, one which I should like to explore in more detail in the future. I have found it striking, in particular, how recent case law from the US shows that vastly different perspectives on property may indeed come together when focus is shifted away from the thing itself towards the legitimacy of the act of taking it.
+
+The best example is the case of {\it Kelo v City of New London}, which propelled the category of economic development takings forward, first to the political scene, then by causing a surge of academic work by US scholars.\footcite{kelo05}. The {\it Kelo} case concerned a house that was taken by the government in order to accommodate private enterprise, namely the construction of new research facilities for Pfizer, the multi-national pharmaceutical company.
 
 The homeowner, Suzanne Kelo, protested the taking on the basis that it served no public use and was therefore illegitimate under thee Fifth Amendment of the US Constitution. The Supreme Court eventually rejected her arguments, but this decision created a backlash that appears to be unique in the history of US jurisprudence. In their mutual condemnation of the {\it Kelo} decision, commentators from very different ideological backgrounds came together in a shared scepticism towards the legitimacy of economic development takings.
 
-Interestingly, their scepticism lacked a clear foundation in US law at the time, as the {\it Kelo} decision itself did not appear particularly controversial in light of established eminent domain doctrines in the US. Hence, when the response was overwhelmingly negative, from both sides of the political spectrum, it seems that people were responding to a deeper notion of what counts as a legitimate act of taking.
+Interestingly, however, their scepticism lacked a clear foundation in US law at the time, as the {\it Kelo} decision itself did not appear particularly controversial to most property lawyers. Hence, when the response was overwhelmingly negative, from both sides of the political spectrum, it seems that people may have been responding to a deeper notion of what counts as a legitimate act of taking.
 
-In particular, the critical response to {\it Kelo} did not appear to have been primed by the prevailing legal order. It may have been a reflection of widely shared political sentiments, but as such it arguably also involved pre-legal notions pertaining to legitimacy. Simply stated, people from across the political spectrum simply found the outcome {\it unfair}.
+The critical response to {\it Kelo}, specifically, did not appear to have been primed by the prevailing legal order. It may have been a reflection of widely shared political sentiments, but as such it arguably also involved pre-legal notions pertaining to legitimacy. Simply stated, people from across the political spectrum simply found the outcome {\it unfair}.
 
-If the law is about delivering justice to the people, this phenomenon deserves attention from legal scholars. In the US, it has received plenty of it. In the context of US law, it is now hard or impossible to deny that cases such as {\it Kelo} belong to a separate category of takings that raises special legal questions. Moreover, after {\it Kelo}, most US states have passed some sort of legislation to limit economic development takings, in a direct response to the controversy following the {\it Kelo} case. 
+This is surely worthy of consideration from legal scholars, and in the US it has received plenty of it. There, it is now hard or impossible to deny that cases such as {\it Kelo} belong to a separate category of takings that raises special questions that are also legally relevant. Moreover, after {\it Kelo}, most US states have passed some sort of legislation to limit economic development takings, in a direct response to the controversy following the {\it Kelo} case. 
 
-In my opinion, it is appropriate to dwell for a while on the fact that this upheaval of US takings law was largely the result of a popular movement. In particular, I think this suggests the possible relevance of economic development takings as a legal category more generally, also outside of the US. There are significant differences between takings law and practice in the US compared to many other jurisdictions, e.g., in Europe. However, the backlash of {\it Kelo}, particularly the clear divergence between public opinion on the one hand and established case law on the other, suggests to me the transformational potential inherent in the category of economic development takings itself.
+In my opinion, it is appropriate to dwell for a while on the fact that this upheaval of US takings law was largely the result of a popular movement. In particular, I think this suggests the possible relevance of economic development takings as a legal category quite generally, also outside of the US. There are certainly significant differences between takings law and practice in the US compared to many other jurisdictions, e.g., in Europe. However, the backlash of {\it Kelo}, particularly the clear divergence between public opinion on the one hand and established case law on the other, suggests to me the transformational potential inherent in the category of economic development takings itself.
 
-As soon as the special issues that arise in cases such as {\it Kelo} are brought into focus, it might be that people will have a tendency to judge the issue of fairness similarly, irrespectively of differences in the surrounding legal framework. Indeed, it seems quite natural that characterising certain kinds of takings as takings for profit can lead to a changed perception of their legitimacy.
+As soon as critical attention is directed at the special issues that arise in cases such as {\it Kelo}, it might well be that people will have a tendency to judge the issue of fairness similarly, irrespectively of differences in the surrounding legal framework used to deal with such cases. After all, it seems only natural that characterising certain kinds of takings as takings for profit can lead to a changed perception of their legitimacy.
 
-The question becomes to what extent one may appropriately speak of economic development takings in this way. Here I believe the first important step is to acknowledge that there is at least a {\it risk} that takings for economic development can be improperly influenced by commercial interests. The risk of capture, moreover, is clearly higher in such cases than in cases when takings take place to benefit a concretely identified public interest, such as the building of a new school or a public road. Hence, the presence of strong commercial interests on the side of the taker in economic development cases deserves to be singled out as a relevant additional dimension along which to asses legitimacy.
+The question, then, becomes to what extent one may appropriately speak of economic development takings in this way. Here, I believe the first important step is to acknowledge at least the {\it risk} that takings for economic development can be improperly influenced by commercial interests. The risk of capture, moreover, is clearly higher in such cases than in cases when takings take place to benefit a concretely identified public interest, such as the building of a new school or a public road. By contrast, the presence of strong commercial interests on the side of the taker in economic development cases deserve to be singled out as a relevant additional dimension along which to asses such cases.
 
-This claim is by no means self-evident. For instance, it seems that many European jurisdictions implicitly reject such a perspective. This is because they fail to recognise that the category of economic development takings can be a useful category in the first place; they do not in fact use it as an anchor for reasoning about legitimacy in takings law. This brings me to the first key contribution of this thesis, which is a detailed analysis of economic development takings as a conceptual category for legal reasoning.
+This claim is by no means self-evident. For instance, it seems that many European jurisdictions implicitly reject such a perspective, already by failing to recognise that the category of economic development takings can be a useful anchor for reasoning about legitimacy in takings law. This brings me to the first key contribution of this thesis, which is a detailed analysis of economic development takings as a conceptual category for legal reasoning.
 
 \section{Economic Development Takings as a Conceptual Category}
 
 %This thesis investigates the category of property interferences that are known as {\it economic development takings} in the US. This category came to prominence only quite recently, following the influential {\it Kelo} case.\footnote{See \cite{kelo05}.} 
-The category of economic development takings is not well established outside of the US, but the influence of the US debate is beginning to show, including in Europe.\footnote{See, e.g., \cite{verstappen14}.} It is a problem, however, that the exact meaning of the category may differ depending on who you ask. It is quite common, for instance, to speak of ``private'' takings, more or less as a synonym to economic development takings. But there are some differences here that I believe we should highlight and keep in mind.
+While the category of economic development takings does not yet appear to be well established outside of the US, the influence of the US debate is beginning to show elsewhere, including in Europe.\footnote{See, e.g., \cite{verstappen14}.} It is a problem, however, that the exact meaning of the category may differ depending on who you ask. It is quite common, for instance, to speak of ``private'' takings, at first sight often more or less as a synonym to economic development takings. But there are some differences here that I think one should keep in mind, especially if one is aiming for conceptual precision.
 
-First, speaking of a private taking already carries with it an implicit pointer to a lack of legitimacy, at least in jurisdictions that explicitly single out {\it public} interests as the only permissible justification for a taking. Speaking of an economic development taking, on the other hand, does not carry with it any such implicit critique. If economic development takings are in need of special scrutiny, the reason cannot be simply that they also involve private interests. After all, economic development itself is usually in the public interest, regardless of whether a public or private body is tasked with carrying it out.
+First, a private taking already carries with it an implicit pointer to a lack of legitimacy, at least in jurisdictions that explicitly single out {\it public} interests as those that must be used to justify takings. Speaking of an economic development taking, on the other hand, does not appear to carry with it any such implicit commitment, quite the contrary. Indeed, if economic development takings are in need of special scrutiny, the reason cannot be simply that it involves ``private'' interests. After all, many would agree that economic development itself is usually in the public interest.
 
 A second difference between private takings and economic development takings is that the former notion is far easier to define. In fact, I think it is {\it too} easy. It is very tempting, in particular, to simply say that a private taking occurs whenever the legal person taking title to the property in question is a private company or individual. But this is too simple. It might well be, in particular, that a private organisation, for instance a tightly regulated charity, functionally mimics the quintessential ``public'' takers. On the other hand, it is equally easy to imagine public bodies that are functionally equivalent to private enterprises. Or consider a taking that benefits a publicly owned limited liability company. According to the simple definition of a private taking, this would not qualify, even if the interests involved are completely or predominantly of a private-law nature, directed at maximising profit, rather than providing a public service.
 
@@ -237,3 +308,5 @@ My second aim is to present first steps towards a possible solution, again based
 Finally, I offer a conclusion that aims to present in short form the main problems investigated, and the solution concepts offered, through the course of this thesis.
 
 }
+
+\end{document}

@@ -1,0 +1,181 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{niyt}
+    \entry{brosnan11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=32ded85367d29fb8869ffadd2517c2e8}{Brosnan}{B\bibinitperiod}{Sarah\bibnamedelima F\bbxinitsep}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=32ded85367d29fb8869ffadd2517c2e8}{Brosnan}{B\bibinitperiod}{Sarah\bibnamedelima F\bbxinitsep}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32ded85367d29fb8869ffadd2517c2e8}
+      \strng{fullhash}{32ded85367d29fb8869ffadd2517c2e8}
+      \field{sortinit}{B}
+      \field{labeltitle}{Property in nonhuman primates}
+      \true{singletitle}
+      \field{journaltitle}{New Directions for Child and Adolescent Development}
+      \field{number}{132}
+      \field{title}{Property in nonhuman primates}
+      \field{volume}{2011}
+      \field{year}{2011}
+      \field{pages}{9\bibrangedash 22}
+    \endentry
+    \entry{gray91}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{904eddc68d91c8e66406bcc3f679e990}
+      \strng{fullhash}{904eddc68d91c8e66406bcc3f679e990}
+      \field{sortinit}{G}
+      \field{labeltitle}{Property in Thin Air}
+      \true{singletitle}
+      \field{journaltitle}{The Cambridge Law Journal}
+      \field{number}{2}
+      \field{title}{Property in Thin Air}
+      \field{volume}{50}
+      \field{year}{1991}
+      \field{pages}{252\bibrangedash 307}
+    \endentry
+    \entry{heller08}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a968d2cd8f817df516da112c3656e74e}{Heller}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2138d1ff58e836c028f3c336408582ee}{Hills}{H\bibinitperiod}{Rick}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8939e5396faff17ee612722b28279b60}
+      \strng{fullhash}{8939e5396faff17ee612722b28279b60}
+      \field{sortinit}{H}
+      \field{labeltitle}{Land Assembly Districts}
+      \true{singletitle}
+      \field{abstract}{Eminent domain for economic development is both attractive and appalling. States need the power to condemn because so much land in America is inefficiently fragmented. But public land assembly provokes hostility because vulnerable communities get bulldozed. Courts offer no help. The academic literature is a muddle. Is it possible to assemble land without harming the poor and powerless? Yes. This Article proposes the creation of Land Assembly Districts, or "LADs." This new property form solves the age-old tensions in eminent domain and shows, more generally, how careful redesign of property rights can enhance both welfare and fairness. The economic and moral intuition underlying LADs is simple: when the only justification for assembly is over-fragmentation of land, neighbors should be able to decide collectively whether their land will be assembled. Our legal theory solution is equally simple: use property law to retrofit communities with a condominium-like structure tailored to land assembly. Let's try giving those burdened by condemnation a way to share in its benefits and to veto projects they decide are not worth their while.}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Land Assembly Districts}
+      \field{volume}{121}
+      \field{year}{2008}
+      \field{pages}{1465\bibrangedash 1527}
+    \endentry
+    \entry{kelo05}{jurisdiction}{}
+      \field{sortinit}{K}
+      \field{labeltitle}{Kelo}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{shorttitle}{Kelo}
+      \field{title}{Kelo v City of New London}
+      \field{volume}{545}
+      \field{year}{2005}
+      \field{pages}{469}
+      \keyw{us}
+    \endentry
+    \entry{lehavi07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=63a210bc2bbe2ce9526fde3cafa09f65}{Licht}{L\bibinitperiod}{Amir\bibnamedelima N\bbxinitsep}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \strng{fullhash}{856a01a6dc7aa6d71e1117373b92b7fa}
+      \field{sortinit}{L}
+      \field{labeltitle}{Eminent Domain, Inc.}
+      \true{singletitle}
+      \field{abstract}{This Essay proposes a novel solution for "squaring the eminent domain circle" when large-scale, for-profit development projects require the assembly of land from numerous private property owners. Such "anticommons" situations may justify government intervention through eminent domain, yet they often leave landowners undercompensated. This may skew the incentives for initiating land development projects and lead to considerable injustice. Although the taking component of eminent domain may need to remain an involuntary nonmarket transaction, we propose a market-based mechanism for the compensation component in the form of a Special-Purpose Development Corporation (SPDC). An SPDC would acquire unified ownership of the land and the development project, and would offer condemnees a choice between receiving pre-project "fair market value" compensation or pro rata shares in the SPDC. This would make it more likely that compensation is closely linked to the true economic value of the land and, consequently, that land assembly projects are both more just and genuinely social welfare maximizing.}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{7}
+      \field{title}{Eminent Domain, Inc.}
+      \field{volume}{107}
+      \field{year}{2007}
+      \field{pages}{1704\bibrangedash 1748}
+    \endentry
+    \entry{rawls71}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=789e307f6a6f6a453ff0ca10f85cea17}{Rawls}{R\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=789e307f6a6f6a453ff0ca10f85cea17}{Rawls}{R\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{fullhash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \field{sortinit}{R}
+      \field{labeltitle}{A Theory of Justice}
+      \true{singletitle}
+      \field{title}{A Theory of Justice}
+      \field{year}{1971}
+    \endentry
+    \entry{stake06}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=977dbc6f3b88548e36fa2aa8ecd237ff}{Stake}{S\bibinitperiod}{Jeffrey}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=977dbc6f3b88548e36fa2aa8ecd237ff}{Stake}{S\bibinitperiod}{Jeffrey}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c9d4d592f436253a7fd4dd626421ff7f}{Zeki}{Z\bibinitperiod}{Semir}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3ace2cf61d3199e3188ed1fbd0cbc2c0}{Goodenough}{G\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{977dbc6f3b88548e36fa2aa8ecd237ff}
+      \strng{fullhash}{977dbc6f3b88548e36fa2aa8ecd237ff}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Property ``Instinct''}
+      \true{singletitle}
+      \field{booktitle}{Law and the Brain}
+      \field{title}{The Property ``Instinct''}
+      \field{year}{2006}
+    \endentry
+    \entry{verstappen14}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=170c57342c6a953788090d84fc02fb88}{Verstappen}{V\bibinitperiod}{L\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=170c57342c6a953788090d84fc02fb88}{Verstappen}{V\bibinitperiod}{L\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ae2a85de6cf08907b77b18f45cd204c4}{Mostert}{M\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=170c57342c6a953788090d84fc02fb88}{Verstappen}{V\bibinitperiod}{L\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{170c57342c6a953788090d84fc02fb88}
+      \strng{fullhash}{170c57342c6a953788090d84fc02fb88}
+      \field{sortinit}{V}
+      \field{labeltitle}{Reconceptualisation of Expropriation}
+      \true{singletitle}
+      \field{booktitle}{Rethinking Public Interest in Expropriation Law}
+      \field{note}{Forthcoming}
+      \field{title}{Reconceptualisation of Expropriation}
+      \field{year}{2014}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

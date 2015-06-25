@@ -1241,6 +1241,38 @@
       \field{year}{1984}
       \field{pages}{71\bibrangedash 92}
     \endentry
+    \entry{blumenthal10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a8cb830526f6e031a55497b70b401aa4}{Blumenthal}{B\bibinitperiod}{Jeremy\bibnamedelima {A}}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a8cb830526f6e031a55497b70b401aa4}{Blumenthal}{B\bibinitperiod}{Jeremy\bibnamedelima {A}}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{a8cb830526f6e031a55497b70b401aa4}
+      \strng{fullhash}{a8cb830526f6e031a55497b70b401aa4}
+      \field{sortinit}{B}
+      \field{labeltitle}{Property law: {A} cognitive turn}
+      \true{singletitle}
+      \field{issn}{1069-9384}
+      \field{journaltitle}{Psychonomic Bulletin & Review}
+      \field{number}{2}
+      \field{title}{Property law: {A} cognitive turn}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{186\bibrangedash 191}
+      \verb{doi}
+      \verb 10.3758/PBR.17.2.186
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3758/PBR.17.2.186
+      \endverb
+    \endentry
     \entry{board91}{jurisdiction}{}
       \field{sortinit}{B}
       \field{labeltitle}{Board of Health of Portage Tp v Van Hoesen}
@@ -1462,6 +1494,25 @@
       \field{volume}{7}
       \field{year}{2008}
       \field{pages}{2}
+    \endentry
+    \entry{brosnan11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=32ded85367d29fb8869ffadd2517c2e8}{Brosnan}{B\bibinitperiod}{Sarah\bibnamedelima F\bbxinitsep}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=32ded85367d29fb8869ffadd2517c2e8}{Brosnan}{B\bibinitperiod}{Sarah\bibnamedelima F\bbxinitsep}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32ded85367d29fb8869ffadd2517c2e8}
+      \strng{fullhash}{32ded85367d29fb8869ffadd2517c2e8}
+      \field{sortinit}{B}
+      \field{labeltitle}{Property in nonhuman primates}
+      \true{singletitle}
+      \field{journaltitle}{New Directions for Child and Adolescent Development}
+      \field{number}{132}
+      \field{title}{Property in nonhuman primates}
+      \field{volume}{2011}
+      \field{year}{2011}
+      \field{pages}{9\bibrangedash 22}
     \endentry
     \entry{brown78}{jurisdiction}{}
       \field{sortinit}{B}
@@ -4249,6 +4300,25 @@
       \field{year}{1998}
       \keyw{en}
     \endentry
+    \entry{hutchinson99}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b24360f0f0ffafda15256f4b67639f30}{Hutchinson}{H\bibinitperiod}{Michael\bibnamedelima R\bbxinitsep}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b24360f0f0ffafda15256f4b67639f30}{Hutchinson}{H\bibinitperiod}{Michael\bibnamedelima R\bbxinitsep}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b24360f0f0ffafda15256f4b67639f30}
+      \strng{fullhash}{b24360f0f0ffafda15256f4b67639f30}
+      \field{sortinit}{H}
+      \field{labeltitle}{The Margin of Appreciation 				Doctrine in the European Court of 			Human Rights}
+      \true{singletitle}
+      \field{journaltitle}{The International and 				Comparative Law Quarterly}
+      \field{number}{3}
+      \field{title}{The Margin of Appreciation 				Doctrine in the European Court of 			Human Rights}
+      \field{volume}{48}
+      \field{year}{1999}
+      \field{pages}{638\bibrangedash 650}
+    \endentry
     \entry{ica17}{legislation}{}
       \field{sortinit}{I}
       \field{labeltitle}{Industrial Licensing Act}
@@ -6603,6 +6673,24 @@
       \field{title}{Perspektiver på Jordskifte}
       \field{year}{2008}
     \endentry
+    \entry{rawls71}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=789e307f6a6f6a453ff0ca10f85cea17}{Rawls}{R\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=789e307f6a6f6a453ff0ca10f85cea17}{Rawls}{R\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \strng{fullhash}{789e307f6a6f6a453ff0ca10f85cea17}
+      \field{sortinit}{R}
+      \field{labeltitle}{A Theory of Justice}
+      \true{singletitle}
+      \field{title}{A Theory of Justice}
+      \field{year}{1971}
+    \endentry
     \entry{barnsley12}{jurisdiction}{year-essential=true}
       \field{sortinit}{R}
       \field{labeltitle}{Regina (Barnsley Metropolitan Borough Council) v Secretary of State for Communities and Local Government}
@@ -6950,6 +7038,29 @@
       \field{number}{4}
       \field{title}{Verdien av Rå Vannkraft}
       \field{year}{1956}
+    \endentry
+    \entry{ron08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4b27aee827dfe8b1af4ed685be48df86}{Ron}{R\bibinitperiod}{Amit}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4b27aee827dfe8b1af4ed685be48df86}{Ron}{R\bibinitperiod}{Amit}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Imprint Academic}%
+      }
+      \strng{namehash}{4b27aee827dfe8b1af4ed685be48df86}
+      \strng{fullhash}{4b27aee827dfe8b1af4ed685be48df86}
+      \field{sortinit}{R}
+      \field{labeltitle}{Visions of Democracy in 'Property-Owning Democracy': Skelton to Rawls and Beyond}
+      \true{singletitle}
+      \field{abstract}{The idea of a 'property-owning democracy' became central to John Rawls's re-evaluation of his theory of justice. This article traces the origins of Rawls's concept of `property-owning democracy' first to the writings of the economist James Meade and then to those of early twentieth-century British conservatives, focusing on the question of how the meaning of democracy was defined and re-defined throughout this history. I argue that Rawls inherited a discursive matrix from the British conservatives in which the notion of 'property-owning democracy' refers to the limits that should be set on democratic practices to make democracy compatible with the needs and interests of property-owners. In addition to tracing the genealogy of the idea of a 'property-owning democracy', the article points toward more recent attempts, partially inspired by Rawls's 'political turn', to re-examine the distribution of property-ownership from the perspective of what is required for viable democratic deliberations. The article ends with an addendum lamenting the fact that when George W. Bush's administration adopted the British ideas and policies associated with 'property-owning democracy' it chose to omit 'democracy' altogether and to describe its initiative as 'ownership society'}
+      \field{journaltitle}{History of Political Thought}
+      \field{number}{1}
+      \field{title}{Visions of Democracy in 'Property-Owning Democracy': Skelton to Rawls and Beyond}
+      \field{volume}{29}
+      \field{year}{2008}
+      \field{pages}{89\bibrangedash 108}
     \endentry
     \entry{roxborough}{jurisdiction}{}
       \field{sortinit}{R}
@@ -7812,6 +7923,29 @@
       \field{volume}{47}
       \field{year}{2013}
       \field{pages}{466\bibrangedash 488}
+    \endentry
+    \entry{stake06}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=977dbc6f3b88548e36fa2aa8ecd237ff}{Stake}{S\bibinitperiod}{Jeffrey}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=977dbc6f3b88548e36fa2aa8ecd237ff}{Stake}{S\bibinitperiod}{Jeffrey}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c9d4d592f436253a7fd4dd626421ff7f}{Zeki}{Z\bibinitperiod}{Semir}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3ace2cf61d3199e3188ed1fbd0cbc2c0}{Goodenough}{G\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{977dbc6f3b88548e36fa2aa8ecd237ff}
+      \strng{fullhash}{977dbc6f3b88548e36fa2aa8ecd237ff}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Property ``Instinct''}
+      \true{singletitle}
+      \field{booktitle}{Law and the Brain}
+      \field{title}{The Property ``Instinct''}
+      \field{year}{2006}
     \endentry
     \entry{standard06}{jurisdiction}{year-essential=true}
       \field{sortinit}{S}
