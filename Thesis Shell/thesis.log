@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  25 JUN 2015 22:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  2 JUL 2015 23:20
 entering extended mode
 **thesis.tex
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.tex"
@@ -1702,55 +1702,73 @@ Package biblatex Info: Resetting trackers on input line 5.
 [23
 
 ] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40] [41] [42] [43]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 131.
+[38] [39] [40]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 142.
 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
- [44] [45]
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]
-[61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
-[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
-[91] [92] [93] [94] [95] [96]) [97]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
+
+[41] [42] [43] [44] [45] [46]
+
+LaTeX Warning: Reference `sec:germany' on page 47 undefined on input line 178.
+
+[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
+[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
+[77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]) [91]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/chap2_isr.tex"
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 3.
-[98
+[92
 
 
 
-] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110]
-[111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
+] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+[106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117]
+[118] [119] [120] [121] [122] [123] [124] [125] [126]
 
-Package biblatex Warning: Nested notes on input line 179.
+Package biblatex Warning: Nested notes on input line 281.
 
-[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
-[134] [135] [136] [137] [138]
+[127] [128]
 
-Package biblatex Warning: Nested notes on input line 271.
+LaTeX Warning: Citation 'merril86' on page 129 undefined on input line 287.
 
-[139] [140]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 279.
- [141] [142] [143] [144] [145] [146] [147] [148] [149] [150]
-[151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162]
-[163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174]
-[175] [176] [177]) [178]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 289.
+[129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140]
+[141] [142] [143] [144] [145] [146]
+
+LaTeX Warning: Reference `cbx@447' on page 147 undefined on input line 441.
+
+
+LaTeX Warning: Reference `cbx@447' on page 147 undefined on input line 441.
+
+
+LaTeX Warning: Reference `cbx@447' on page 147 undefined on input line 441.
+
+[147] [148]
+
+LaTeX Warning: Reference `cbx@447' on page 149 undefined on input line 445.
+
+[149] [150] [151]
+
+LaTeX Warning: Reference `cbx@472' on page 152 undefined on input line 463.
+
+[152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163]
+[164] [165]) [166]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/Chapter2_final.
-tex" [179
+tex" [167
 
 
 
 ]
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 3.
-[180
+[168
 
-] [181] [182] [183] [184] [185] [186] [187] [188]
+] [169] [170] [171] [172] [173] [174] [175] [176]
 Overfull \hbox (10.60565pt too wide) in paragraph at lines 80--81
 [] \OT1/cmr/m/n/8 ([])
  []
@@ -1760,42 +1778,214 @@ Overfull \hbox (11.87036pt too wide) in paragraph at lines 84--85
 [] \OT1/cmr/m/n/8 ([])
  []
 
-[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
-[201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
-[213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224]
-[225] [226] [227]) [228]
+[177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188]
+
+LaTeX Warning: Reference `cbx@597' on page 189 undefined on input line 172.
+
+
+LaTeX Warning: Reference `cbx@500' on page 189 undefined on input line 176.
+
+[189] [190] [191] [192]
+
+LaTeX Warning: Reference `cbx@610' on page 193 undefined on input line 225.
+
+
+LaTeX Warning: Reference `cbx@625' on page 193 undefined on input line 227.
+
+
+LaTeX Warning: Reference `cbx@625' on page 193 undefined on input line 227.
+
+[193]
+
+LaTeX Warning: Reference `cbx@537' on page 194 undefined on input line 251.
+
+
+LaTeX Warning: Reference `cbx@537' on page 194 undefined on input line 251.
+
+[194]
+
+LaTeX Warning: Reference `cbx@537' on page 195 undefined on input line 257.
+
+
+LaTeX Warning: Reference `cbx@610' on page 195 undefined on input line 257.
+
+
+LaTeX Warning: Reference `cbx@537' on page 195 undefined on input line 257.
+
+
+LaTeX Warning: Reference `cbx@537' on page 195 undefined on input line 259.
+
+
+LaTeX Warning: Reference `cbx@537' on page 195 undefined on input line 261.
+
+[195]
+
+LaTeX Warning: Reference `cbx@610' on page 196 undefined on input line 263.
+
+
+LaTeX Warning: Reference `cbx@537' on page 196 undefined on input line 263.
+
+[196] [197]
+
+LaTeX Warning: Reference `cbx@651' on page 198 undefined on input line 291.
+
+[198]
+
+LaTeX Warning: Reference `cbx@651' on page 199 undefined on input line 295.
+
+
+LaTeX Warning: Reference `cbx@651' on page 199 undefined on input line 295.
+
+
+LaTeX Warning: Reference `cbx@625' on page 199 undefined on input line 299.
+
+[199] [200]
+
+LaTeX Warning: Reference `cbx@663' on page 201 undefined on input line 311.
+
+
+LaTeX Warning: Reference `cbx@663' on page 201 undefined on input line 311.
+
+
+LaTeX Warning: Reference `cbx@663' on page 201 undefined on input line 315.
+
+
+LaTeX Warning: Reference `cbx@625' on page 201 undefined on input line 317.
+
+[201]
+
+LaTeX Warning: Reference `cbx@668' on page 202 undefined on input line 321.
+
+
+LaTeX Warning: Reference `cbx@668' on page 202 undefined on input line 323.
+
+[202] [203] [204] [205] [206]
+
+LaTeX Warning: Reference `cbx@668' on page 207 undefined on input line 380.
+
+[207] [208] [209] [210]
+
+LaTeX Warning: Reference `cbx@681' on page 211 undefined on input line 399.
+
+
+LaTeX Warning: Reference `cbx@691' on page 211 undefined on input line 401.
+
+[211] [212] [213] [214] [215]) [216]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/Chapter_3_15.te
 x"
 Chapter 5.
 Package biblatex Info: Resetting trackers on input line 1.
-[229
+[217
 
 
 
-] [230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240]
-[241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [251] [252]
-[253] [254] [255] [256] [257] [258] [259] [260] [261] [262] [263] [264]
-[265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275] [276]
-[277] [278] [279]) [280] [281]
+] [218] [219] [220] [221]
+
+LaTeX Warning: Reference `cbx@728' on page 222 undefined on input line 57.
+
+[222] [223]
+
+LaTeX Warning: Reference `cbx@738' on page 224 undefined on input line 67.
+
+[224] [225] [226]
+
+LaTeX Warning: Reference `cbx@738' on page 227 undefined on input line 87.
+
+[227]
+
+LaTeX Warning: Reference `cbx@781' on page 228 undefined on input line 93.
+
+[228]
+
+LaTeX Warning: Reference `cbx@781' on page 229 undefined on input line 95.
+
+
+LaTeX Warning: Reference `cbx@781' on page 229 undefined on input line 95.
+
+
+LaTeX Warning: Reference `cbx@781' on page 229 undefined on input line 97.
+
+[229]
+
+LaTeX Warning: Reference `cbx@779' on page 230 undefined on input line 101.
+
+[230]
+
+LaTeX Warning: Reference `cbx@801' on page 231 undefined on input line 109.
+
+[231]
+
+LaTeX Warning: Reference `cbx@804' on page 232 undefined on input line 117.
+
+
+LaTeX Warning: Reference `cbx@801' on page 232 undefined on input line 117.
+
+[232] [233] [234] [235]
+
+LaTeX Warning: Reference `cbx@738' on page 236 undefined on input line 145.
+
+[236] [237] [238] [239] [240] [241] [242] [243] [244]
+
+LaTeX Warning: Reference `cbx@738' on page 245 undefined on input line 213.
+
+[245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256]
+
+LaTeX Warning: Reference `cbx@856' on page 257 undefined on input line 324.
+
+[257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267]) [268]
+[269]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.tex"
 Chapter 6.
 Package biblatex Info: Resetting trackers on input line 1.
-[282
+[270
 
 
 
-] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293]
-[294] [295] [296] [297] [298] [299] [300] [301] [302] [303] [304] [305]
-[306] [307] [308] [309] [310] [311] [312] [313] [314] [315] [316] [317]
-[318] [319] [320] [321] [322] [323] [324] [325]) [326]
+] [271] [272] [273] [274] [275] [276] [277]
+
+LaTeX Warning: Reference `cbx@870' on page 278 undefined on input line 53.
+
+[278] [279] [280]
+
+LaTeX Warning: Reference `cbx@908' on page 281 undefined on input line 111.
+
+[281] [282] [283]
+
+LaTeX Warning: Reference `cbx@908' on page 284 undefined on input line 133.
+
+[284] [285] [286]
+
+LaTeX Warning: Reference `cbx@932' on page 287 undefined on input line 152.
+
+
+LaTeX Warning: Reference `cbx@888' on page 287 undefined on input line 154.
+
+[287] [288]
+
+LaTeX Warning: Reference `cbx@888' on page 289 undefined on input line 169.
+
+[289] [290]
+
+LaTeX Warning: Reference `cbx@951' on page 291 undefined on input line 181.
+
+[291]
+
+LaTeX Warning: Reference `cbx@908' on page 292 undefined on input line 189.
+
+[292]
+
+LaTeX Warning: Reference `cbx@908' on page 293 undefined on input line 193.
+
+[293] [294] [295] [296] [297] [298] [299] [300] [301] [302] [303] [304]
+[305] [306] [307] [308] [309] [310] [311] [312] [313]) [314]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/conc.tex"
 Chapter 7.
 Package biblatex Info: Resetting trackers on input line 1.
-[327
+[315
 
 
 
-] [328] [329] [330]) [331]
+] [316] [317] [318]) [319]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/newintro.aux")
@@ -1811,36 +2001,45 @@ x") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/conc.aux"))
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 20130 strings out of 493921
- 345483 string characters out of 3144876
- 847950 words of memory out of 3000000
- 23106 multiletter control sequences out of 15000+200000
- 16409 words of font info for 61 fonts, out of 3000000 for 9000
+ 20185 strings out of 493921
+ 345864 string characters out of 3144876
+ 847339 words of memory out of 3000000
+ 23160 multiletter control sequences out of 15000+200000
+ 16718 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,14n,69p,10433b,2321s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,14n,69p,10433b,2309s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on thesis.pdf (334 pages, 1162100 bytes).
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmu10.pfb>
+Output written on thesis.pdf (322 pages, 1139094 bytes).
 PDF statistics:
- 1141 PDF objects out of 1200 (max. 8388607)
+ 1106 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
