@@ -3855,6 +3855,23 @@
       \field{year}{2000}
       \keyw{no}
     \endentry
+    \entry{hauge15}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=a0cb7640ac24a9e6219411a9dba69d58}{Hauge}{H\bibinitperiod}{Katrine\bibnamedelima Broch}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a0cb7640ac24a9e6219411a9dba69d58}{Hauge}{H\bibinitperiod}{Katrine\bibnamedelima Broch}{K\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a0cb7640ac24a9e6219411a9dba69d58}
+      \strng{fullhash}{a0cb7640ac24a9e6219411a9dba69d58}
+      \field{sortinit}{H}
+      \field{labeltitle}{Erstatningsnivået ved tvangsovertaking av fallrettar}
+      \true{singletitle}
+      \field{entrysubtype}{PhD Thesis}
+      \field{title}{Erstatningsnivået ved tvangsovertaking av fallrettar}
+      \field{type}{PhD Thesis}
+      \field{year}{2015}
+    \endentry
     \entry{midkiff84}{jurisdiction}{}
       \field{sortinit}{H}
       \field{labeltitle}{Midkiff}
@@ -4902,6 +4919,15 @@
       \field{title}{Land Compensation Act}
       \field{year}{1961}
       \keyw{en}
+    \endentry
+    \entry{lca03}{legislation}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Land Concession Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Land Concession Act}
+      \field{year}{2003}
+      \keyw{no}
     \endentry
     \entry{lca79}{legislation}{}
       \field{sortinit}{L}
@@ -7061,6 +7087,116 @@
       \field{volume}{29}
       \field{year}{2008}
       \field{pages}{89\bibrangedash 108}
+    \endentry
+    \entry{rose96}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{Property as the keystone right?}
+      \field{journaltitle}{Notre Dame Law Review}
+      \field{number}{3}
+      \field{title}{Property as the keystone right?}
+      \field{volume}{71}
+      \field{year}{1996}
+      \field{pages}{329\bibrangedash 369}
+    \endentry
+    \entry{rose98}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{The several futures of property: of cyberspace and folk tales, emission trades and ecosystems}
+      \field{journaltitle}{Minnesota Law Review}
+      \field{number}{1}
+      \field{title}{The several futures of property: of cyberspace and folk tales, emission trades and ecosystems}
+      \field{volume}{83}
+      \field{year}{1998}
+      \field{pages}{129\bibrangedash 182}
+    \endentry
+    \entry{rose06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{Privatization - the road to democracy?}
+      \field{journaltitle}{Saint Louis University Law Journal}
+      \field{number}{3}
+      \field{title}{Privatization - the road to democracy?}
+      \field{volume}{50}
+      \field{year}{2006}
+      \field{pages}{691}
+    \endentry
+    \entry{rose07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{The moral subject of property}
+      \field{journaltitle}{William and Mary Law Review}
+      \field{number}{5}
+      \field{title}{The moral subject of property}
+      \field{volume}{48}
+      \field{year}{2007}
+      \field{pages}{1897}
+    \endentry
+    \entry{rose07b}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{What Federalism Tells Us about Takings Jurisprudence}
+      \field{journaltitle}{UCLA Law Review}
+      \field{number}{6}
+      \field{title}{What Federalism Tells Us about Takings Jurisprudence}
+      \field{volume}{54}
+      \field{year}{2007}
+      \field{pages}{1681}
+    \endentry
+    \entry{rose09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{Liberty, Property, Environmentalism}
+      \field{issn}{1471-6437}
+      \field{issue}{02}
+      \field{journaltitle}{Social Philosophy and Policy}
+      \field{month}{7}
+      \field{title}{Liberty, Property, Environmentalism}
+      \field{volume}{26}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 25}
     \endentry
     \entry{roxborough}{jurisdiction}{}
       \field{sortinit}{R}
