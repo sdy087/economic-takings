@@ -89,6 +89,15 @@
       \field{year}{2008}
       \keyw{no}
     \endentry
+    \entry{agri13}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Agri South Africa v Minister for Minerals and Energy}
+      \true{singletitle}
+      \field{number}{2013 (4) SA 1}
+      \field{title}{Agri South Africa v Minister for Minerals and Energy}
+      \field{year}{2013}
+      \keyw{sa}
+    \endentry
     \entry{sauda09}{jurisdiction}{}
       \field{sortinit}{A}
       \field{labeltitle}{Aktieselskabet Saudefaldene v Hallingstad and others}
@@ -394,6 +403,30 @@
       \field{year}{2009}
       \field{pages}{743}
     \endentry
+    \entry{alexandersen14}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=d3f7df9856d664b09ccd6c1f7e0051a1}{Alexandersen}{A\bibinitperiod}{Rune\bibnamedelima S\bbxinitsep}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d3f7df9856d664b09ccd6c1f7e0051a1}{Alexandersen}{A\bibinitperiod}{Rune\bibnamedelima S\bbxinitsep}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d3f7df9856d664b09ccd6c1f7e0051a1}
+      \strng{fullhash}{d3f7df9856d664b09ccd6c1f7e0051a1}
+      \field{sortinit}{A}
+      \field{labeltitle}{Troms kraft lobber for å stoppe konkurrent - vil bygge kraftverk til 649 mil}
+      \true{singletitle}
+      \field{day}{16}
+      \field{journaltitle}{Nord 24}
+      \field{month}{08}
+      \field{title}{Troms kraft lobber for å stoppe konkurrent - vil bygge kraftverk til 649 mil}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.nord24.no/nyheter/article7531155.ece
+      \endverb
+    \endentry
     \entry{lena96}{jurisdiction}{}
       \name{labelname}{2}{}{%
         {{hash=09421bdbe76ff44cd7f508fb9aed2889}{Alfstad}{A\bibinitperiod}{}{}{}{}{}{}}%
@@ -466,6 +499,22 @@
       \field{year}{2010}
       \field{pages}{1055\bibrangedash 1078}
     \endentry
+    \entry{altawiki}{online}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Alta Controversy}
+      \true{singletitle}
+      \field{day}{23}
+      \field{journaltitle}{Wikipedia, the free encyclopedia}
+      \field{month}{01}
+      \field{title}{Alta Controversy}
+      \field{urlday}{16}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Alta_controversy
+      \endverb
+    \endentry
     \entry{alta82}{jurisdiction}{}
       \field{sortinit}{A}
       \field{labeltitle}{Alta}
@@ -475,6 +524,16 @@
       \field{title}{Alta Laksefiskeri Interessentskap and others v Staten (Norges Vassdrags- og elektrisitetsvesen) and others}
       \field{year}{1982}
       \keyw{no}
+    \endentry
+    \entry{hagvar88}{article}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Alta-dommen og Høyesteretts oppgave. En studie i forholdet mellom jus og økologi}
+      \true{singletitle}
+      \field{journaltitle}{Kart og Plan}
+      \field{number}{4}
+      \field{title}{Alta-dommen og Høyesteretts oppgave. En studie i forholdet mellom jus og økologi}
+      \field{year}{1988}
+      \field{pages}{401\bibrangedash 408}
     \endentry
     \entry{alterman10}{book}{}
       \name{labelname}{1}{}{%
@@ -697,6 +756,23 @@
       \field{labeltitle}{Naturvern og Naturinngrep}
       \field{title}{Naturvern og Naturinngrep}
       \field{year}{1986}
+    \endentry
+    \entry{backer10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=076b004808a912563d94639d38a83504}{Backer}{B\bibinitperiod}{Inge\bibnamedelima Lorange}{I\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=076b004808a912563d94639d38a83504}{Backer}{B\bibinitperiod}{Inge\bibnamedelima Lorange}{I\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{076b004808a912563d94639d38a83504}
+      \strng{fullhash}{076b004808a912563d94639d38a83504}
+      \field{sortinit}{B}
+      \field{labeltitle}{Åpenhet - betraktninger fra en jurist}
+      \field{journaltitle}{Nytt norsk tidsskrift}
+      \field{title}{Åpenhet - betraktninger fra en jurist}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{pages}{186\bibrangedash 192}
     \endentry
     \entry{backer12}{book}{}
       \name{labelname}{1}{}{%
@@ -1073,6 +1149,31 @@
       \field{year}{2008}
       \field{pages}{362\bibrangedash 383}
     \endentry
+    \entry{berg15}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=74af0863ea4330e4f2a75164ac18c665}{Berg}{B\bibinitperiod}{Ole\bibnamedelima T\bbxinitsep}{O\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=74af0863ea4330e4f2a75164ac18c665}{Berg}{B\bibinitperiod}{Ole\bibnamedelima T\bbxinitsep}{O\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{74af0863ea4330e4f2a75164ac18c665}
+      \strng{fullhash}{74af0863ea4330e4f2a75164ac18c665}
+      \field{sortinit}{B}
+      \field{labeltitle}{Fylkeskommune}
+      \true{singletitle}
+      \field{day}{29}
+      \field{journaltitle}{Store norske leksikon}
+      \field{month}{04}
+      \field{title}{Fylkeskommune}
+      \field{urlday}{14}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://snl.no/fylkeskommune
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'berg15'}
+    \endentry
     \entry{hellandsfoss97}{jurisdiction}{}
       \field{sortinit}{B}
       \field{labeltitle}{Bergenshalvøens Kommunale Kraftselskap v Neset and others}
@@ -1283,6 +1384,25 @@
       \field{year}{1891}
       \field{pages}{533}
       \keyw{us}
+    \endentry
+    \entry{boe83}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=44b85534093f772b157baafa8b12295e}{Boe}{B\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=44b85534093f772b157baafa8b12295e}{Boe}{B\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{44b85534093f772b157baafa8b12295e}
+      \strng{fullhash}{44b85534093f772b157baafa8b12295e}
+      \field{sortinit}{B}
+      \field{labeltitle}{Altadommen -- en rettslig løsning på konflikten mellom energiforsyning, naturvern og minoritetsbeskyttelse}
+      \true{singletitle}
+      \field{journaltitle}{Retfærd}
+      \field{number}{3}
+      \field{title}{Altadommen -- en rettslig løsning på konflikten mellom energiforsyning, naturvern og minoritetsbeskyttelse}
+      \field{volume}{6}
+      \field{year}{1983}
+      \field{pages}{76\bibrangedash 89}
     \endentry
     \entry{boggs09}{article}{}
       \name{labelname}{2}{}{%
@@ -1525,6 +1645,25 @@
       \field{pages}{285}
       \keyw{gb}
     \endentry
+    \entry{brox13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4ba92b5f92cca604d56c65eb76a3c4f8}{Brox}{B\bibinitperiod}{Ottar}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4ba92b5f92cca604d56c65eb76a3c4f8}{Brox}{B\bibinitperiod}{Ottar}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4ba92b5f92cca604d56c65eb76a3c4f8}
+      \strng{fullhash}{4ba92b5f92cca604d56c65eb76a3c4f8}
+      \field{sortinit}{B}
+      \field{labeltitle}{Fattigdom og framgang: Alternative fortider? – Norsk industrialisering i komparativt lys}
+      \true{singletitle}
+      \field{journaltitle}{Norsk antropologisk tidsskrift}
+      \field{number}{3/4}
+      \field{title}{Fattigdom og framgang: Alternative fortider? – Norsk industrialisering i komparativt lys}
+      \field{volume}{24}
+      \field{year}{2013}
+      \field{pages}{169\bibrangedash 180}
+    \endentry
     \entry{bull94}{article}{}
       \name{labelname}{1}{}{%
         {{hash=1830c0582bb467efb0eeb375e98c0059}{Bull}{B\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
@@ -1536,12 +1675,28 @@
       \strng{fullhash}{1830c0582bb467efb0eeb375e98c0059}
       \field{sortinit}{B}
       \field{labeltitle}{The EEA Agreement and Norwegian Law}
-      \true{singletitle}
       \field{journaltitle}{European Business Law Review}
       \field{number}{12}
       \field{title}{The EEA Agreement and Norwegian Law}
       \field{year}{1994}
       \field{pages}{291}
+    \endentry
+    \entry{bull07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=93a631a28344700f06f12555a850a174}{Bull}{B\bibinitperiod}{Kirsti\bibnamedelima Strøm}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=93a631a28344700f06f12555a850a174}{Bull}{B\bibinitperiod}{Kirsti\bibnamedelima Strøm}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{93a631a28344700f06f12555a850a174}
+      \strng{fullhash}{93a631a28344700f06f12555a850a174}
+      \field{sortinit}{B}
+      \field{labeltitle}{Finnmarksloven: finnmarkseiendommen og kartlegging av rettigheter Finnmark}
+      \field{journaltitle}{Lov og rett}
+      \field{number}{9}
+      \field{title}{Finnmarksloven: finnmarkseiendommen og kartlegging av rettigheter Finnmark}
+      \field{volume}{46}
+      \field{year}{2007}
     \endentry
     \entry{bye05}{article}{}
       \name{labelname}{2}{}{%
@@ -2064,6 +2219,22 @@
       \field{year}{1814}
       \keyw{no}
     \endentry
+    \entry{echr}{legal}{}
+      \list{lista}{2}{%
+        {opened=1950-11-04}%
+        {inforce=1953-09-03}%
+      }
+      \field{sortinit}{C}
+      \field{labeltitle}{Convention for the Protection of Human Rights and Fundamental Freedoms}
+      \true{singletitle}
+      \field{entrysubtype}{piltreaty}
+      \field{journaltitle}{UNTS}
+      \field{note}{as amended by Protocol No 14 to the Convention for the Protection of Human Rights and Fundamental Freedoms (opened for signature 13 May 2004, entered into force 1 June 2010) CETS No 194}
+      \field{shorthand}{ECHR}
+      \field{title}{Convention for the Protection of Human Rights and Fundamental Freedoms}
+      \field{volume}{213}
+      \field{pages}{221}
+    \endentry
     \entry{ca15}{legislation}{}
       \field{sortinit}{C}
       \field{labeltitle}{Courts Act}
@@ -2318,7 +2489,7 @@
       \field{volume}{1}
       \field{year}{2014}
     \endentry
-    \entry{libcom01}{article}{}
+    \entry{heller01}{article}{}
       \name{labelname}{2}{}{%
         {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
         {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -2327,27 +2498,17 @@
         {{hash=5c146a7b7996847f33243e0bc1e32a20}{Dagan}{D\bibinitperiod}{Hanoch}{H\bibinitperiod}{}{}{}{}}%
         {{hash=9b32b2a7114d7be3f9764661fde43ccd}{Heller}{H\bibinitperiod}{Michael\bibnamedelima A\bbxinitsep}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \list{language}{1}{%
-        {English}%
-      }
-      \list{publisher}{1}{%
-        {The Yale Law Journal Company, Inc}%
-      }
       \strng{namehash}{f3d24dd763feac24fbab3f292b1b20ab}
       \strng{fullhash}{f3d24dd763feac24fbab3f292b1b20ab}
       \field{sortinit}{D}
       \field{labeltitle}{The Liberal Commons}
       \true{singletitle}
-      \field{issn}{00440094}
       \field{journaltitle}{Yale Law Journal}
       \field{number}{4}
       \field{title}{The Liberal Commons}
       \field{volume}{110}
       \field{year}{2001}
-      \field{pages}{pages}
-      \verb{url}
-      \verb http://www.jstor.org/stable/797596
-      \endverb
+      \field{pages}{549\bibrangedash 623}
     \endentry
     \entry{dahl88}{book}{}
       \name{labelname}{1}{}{%
@@ -2658,6 +2819,25 @@
       \field{title}{On the compensatory approach to economic development takings}
       \field{year}{2015}
     \endentry
+    \entry{dyrvik99}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=41005cb2bf9138f960a26b48d84c99d3}{Dyrvik}{D\bibinitperiod}{S\bbxinitsep}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=41005cb2bf9138f960a26b48d84c99d3}{Dyrvik}{D\bibinitperiod}{S\bbxinitsep}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Norske Samlaget}%
+      }
+      \strng{namehash}{41005cb2bf9138f960a26b48d84c99d3}
+      \strng{fullhash}{41005cb2bf9138f960a26b48d84c99d3}
+      \field{sortinit}{D}
+      \field{labeltitle}{Norsk historie 1625-1814: vegar til sjølvstende}
+      \true{singletitle}
+      \field{series}{Norsk historie 800-2000}
+      \field{title}{Norsk historie 1625-1814: vegar til sjølvstende}
+      \field{year}{1999}
+    \endentry
     \entry{eagle08}{article}{}
       \name{labelname}{2}{}{%
         {{hash=f0c9c31fc8b005b5ec0610942f543c2b}{Eagle}{E\bibinitperiod}{Steven\bibnamedelima J\bbxinitsep}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -2924,6 +3104,23 @@
       \field{year}{2002}
       \field{pages}{1225\bibrangedash 1230}
     \endentry
+    \entry{eide80}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c91312aa562558888d2c2247ce4c9134}{Eide}{E\bibinitperiod}{Arbjørn}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c91312aa562558888d2c2247ce4c9134}{Eide}{E\bibinitperiod}{Arbjørn}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c91312aa562558888d2c2247ce4c9134}
+      \strng{fullhash}{c91312aa562558888d2c2247ce4c9134}
+      \field{sortinit}{E}
+      \field{labeltitle}{Menneskerettigheter og samenes rettigheter}
+      \true{singletitle}
+      \field{journaltitle}{Lov og Rett}
+      \field{title}{Menneskerettigheter og samenes rettigheter}
+      \field{year}{1980}
+      \field{pages}{139\bibrangedash 153}
+    \endentry
     \entry{eca11}{legislation}{}
       \field{sortinit}{E}
       \field{labeltitle}{Electricity Certificate Act}
@@ -3001,6 +3198,34 @@
       \field{title}{Endre Vange and others v Fellesskapet Vikfalli}
       \field{year}{1971}
       \keyw{no}
+    \endentry
+    \entry{endresen14}{online}{}
+      \name{labelname}{3}{}{%
+        {{hash=d8c587ba2c9149ad6784881319bfa5ca}{Endresen}{E\bibinitperiod}{Rune}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a23074fc5b6b52ee2815476650bbd0e9}{Løvås}{L\bibinitperiod}{Jostein}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b5fcaa8c8ab4950a283088bf61d6ca8b}{Laugen}{L\bibinitperiod}{Stig\bibnamedelima Tore}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d8c587ba2c9149ad6784881319bfa5ca}{Endresen}{E\bibinitperiod}{Rune}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a23074fc5b6b52ee2815476650bbd0e9}{Løvås}{L\bibinitperiod}{Jostein}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b5fcaa8c8ab4950a283088bf61d6ca8b}{Laugen}{L\bibinitperiod}{Stig\bibnamedelima Tore}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0a815504365a100aa63bfcc0ccb0f832}
+      \strng{fullhash}{0a815504365a100aa63bfcc0ccb0f832}
+      \field{sortinit}{E}
+      \field{labeltitle}{Solgte før kraftflopp}
+      \true{singletitle}
+      \field{day}{20}
+      \field{journaltitle}{Dagens Næringsliv}
+      \field{month}{03}
+      \field{title}{Solgte før kraftflopp}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.dn.no/nyheter/2014/03/20/Energi/solgte-for-kraftflopp
+      \endverb
     \endentry
     \entry{nou129}{misc}{}
       \field{sortinit}{E}
@@ -3193,6 +3418,31 @@
       \field{year}{2003}
       \field{pages}{1003}
     \endentry
+    \entry{feeny90}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f8b2af348e0dc925aa68c14ed4d57c3d}{Feeny}{F\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a012301840aec73109b1090e27041078}{Berkes}{B\bibinitperiod}{Fikret}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=42a4341dad7b1b394994143f839d14a1}{McCay}{M\bibinitperiod}{Bonnie\bibnamedelima J\bbxinitsep}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d6535773152f5688496a8f793c562c83}{Acheson}{A\bibinitperiod}{James\bibnamedelima M\bbxinitsep}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f8b2af348e0dc925aa68c14ed4d57c3d}{Feeny}{F\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a012301840aec73109b1090e27041078}{Berkes}{B\bibinitperiod}{Fikret}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=42a4341dad7b1b394994143f839d14a1}{McCay}{M\bibinitperiod}{Bonnie\bibnamedelima J\bbxinitsep}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=d6535773152f5688496a8f793c562c83}{Acheson}{A\bibinitperiod}{James\bibnamedelima M\bbxinitsep}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aac1b85b3b85239f00530242351617f5}
+      \strng{fullhash}{3fa35bfaa41062f11e93e36273d61b03}
+      \field{sortinit}{F}
+      \field{labeltitle}{The Tragedy of the Commons: Twenty-Two Years Later}
+      \true{singletitle}
+      \field{journaltitle}{Human Ecology}
+      \field{number}{1}
+      \field{title}{The Tragedy of the Commons: Twenty-Two Years Later}
+      \field{volume}{18}
+      \field{year}{1990}
+      \field{pages}{1\bibrangedash 19}
+    \endentry
     \entry{fehr05}{article}{}
       \name{labelname}{3}{}{%
         {{hash=15ad82cd6488b01415a09eda96547489}{Fehr}{F\bibinitperiod}{Nils-Henrik\bibnamedelima M\bbxinitsep}{N\bibinithyphendelim H\bibinitperiod\bibinitdelim M\bibinitperiod}{von\bibnamedelima der}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
@@ -3259,6 +3509,22 @@
       \field{year}{2012}
       \verb{url}
       \verb http://www.scotsman.com/news/scotland/top-stories/farmer-who-took-on-trump-triumphs-in-spirit-awards-1-2668649
+      \endverb
+    \endentry
+    \entry{ulovlig10b}{online}{}
+      \field{sortinit}{F}
+      \field{labeltitle}{Fire av fem småkraftverk driver ulovlig}
+      \true{singletitle}
+      \field{day}{13}
+      \field{journaltitle}{Verdens Gang}
+      \field{month}{12}
+      \field{title}{Fire av fem småkraftverk driver ulovlig}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.vg.no/nyheter/innenriks/stroemprisene/fire-av-fem-smaakraftverk-driver-ulovlig/a/10020264/
       \endverb
     \endentry
     \entry{sellers95}{article}{}
@@ -3544,6 +3810,29 @@
       \field{year}{2006}
       \field{pages}{101\bibrangedash 150}
     \endentry
+    \entry{gauslaa07}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=f2ff54f781311499072078d79bfa25b3}{Gauslaa}{G\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f2ff54f781311499072078d79bfa25b3}{Gauslaa}{G\bibinitperiod}{Jon}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{f2ff54f781311499072078d79bfa25b3}
+      \strng{fullhash}{f2ff54f781311499072078d79bfa25b3}
+      \field{sortinit}{G}
+      \field{labeltitle}{Utviklingen av sameretten de siste 25 årene og betydningen for arealforvaltning og rettspleie}
+      \true{singletitle}
+      \field{booktitle}{Areal og Eiendomsrett}
+      \field{title}{Utviklingen av sameretten de siste 25 årene og betydningen for arealforvaltning og rettspleie}
+      \field{year}{2007}
+      \field{pages}{151\bibrangedash 180}
+    \endentry
     \entry{gaylord03}{jurisdiction}{}
       \field{sortinit}{G}
       \field{labeltitle}{Gaylord v Sanitary Dist of Chicago}
@@ -3625,6 +3914,24 @@
       \field{title}{Communal Governance of Land and Resources as a Sustainable Property Institution}
       \field{year}{2011}
     \endentry
+    \entry{graver88}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3124cb3613d984f4c33f1063470e7444}{Graver}{G\bibinitperiod}{Hans\bibnamedelima Petter}{H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3124cb3613d984f4c33f1063470e7444}{Graver}{G\bibinitperiod}{Hans\bibnamedelima Petter}{H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3124cb3613d984f4c33f1063470e7444}
+      \strng{fullhash}{3124cb3613d984f4c33f1063470e7444}
+      \field{sortinit}{G}
+      \field{labeltitle}{Norms and Decisions}
+      \true{singletitle}
+      \field{journaltitle}{Scandinavian studies in law}
+      \field{title}{Norms and Decisions}
+      \field{volume}{32}
+      \field{year}{1988}
+      \field{pages}{49\bibrangedash 67}
+    \endentry
     \entry{gray91}{article}{}
       \name{labelname}{1}{}{%
         {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
@@ -3702,6 +4009,22 @@
       \true{singletitle}
       \field{title}{Forvaltning for politikk: norsk forvaltningspolitikk etter 1945}
       \field{year}{2000}
+    \endentry
+    \entry{mestad14}{online}{}
+      \field{sortinit}{G}
+      \field{labeltitle}{Grunnlovas Historie}
+      \true{singletitle}
+      \field{day}{04}
+      \field{journaltitle}{Store norske leksikon}
+      \field{month}{10}
+      \field{title}{Grunnlovas Historie}
+      \field{urlday}{14}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://snl.no/Grunnlovas_historie
+      \endverb
     \endentry
     \entry{gurran11}{article}{}
       \name{labelname}{2}{}{%
@@ -3818,6 +4141,28 @@
       \field{title}{Hovedtrekk ved Organiseringen og Reguleringen av Kraftmarkedet}
       \field{year}{1996}
       \field{pages}{390}
+    \endentry
+    \entry{hanssen14}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=98f33e583ca408a4056566e4e69609c1}{Hanssen}{H\bibinitperiod}{Gro\bibnamedelima Sandkjær}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=cf93773c458ee2c748f547c1e665ece1}{Hovik}{H\bibinitperiod}{Sissel}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c9d8f422841971058ff7718da6b18d7f}{Hundere}{H\bibinitperiod}{Gunn\bibnamedelima Cecilie}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=98f33e583ca408a4056566e4e69609c1}{Hanssen}{H\bibinitperiod}{Gro\bibnamedelima Sandkjær}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=cf93773c458ee2c748f547c1e665ece1}{Hovik}{H\bibinitperiod}{Sissel}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c9d8f422841971058ff7718da6b18d7f}{Hundere}{H\bibinitperiod}{Gunn\bibnamedelima Cecilie}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d80131cc7a77938a5df6268c0f1557ca}
+      \strng{fullhash}{d80131cc7a77938a5df6268c0f1557ca}
+      \field{sortinit}{H}
+      \field{labeltitle}{Den nye vannforvaltningen - Nettverksstyring i skyggen av hierarki}
+      \true{singletitle}
+      \field{journaltitle}{Norsk statsvitenskapelig tidsskrift}
+      \field{title}{Den nye vannforvaltningen - Nettverksstyring i skyggen av hierarki}
+      \field{volume}{3}
+      \field{year}{2014}
+      \field{pages}{155\bibrangedash 180}
     \endentry
     \entry{bo99}{jurisdiction}{}
       \field{sortinit}{H}
@@ -4005,6 +4350,33 @@
       \true{singletitle}
       \field{title}{Elektrisitetsforsyning ved hjelp av statsstøtte}
       \field{year}{1994}
+    \endentry
+    \entry{nou04}{misc}{}
+      \field{sortinit}{H}
+      \field{labeltitle}{Hjemfall}
+      \true{singletitle}
+      \field{indextitle}{Hjemfall}
+      \field{journaltitle}{NOU 2004:26}
+      \field{note}{Report to the Ministry of Petroleum and Energy from a special committe appointed by the King in Council on 04 April 2003}
+      \field{title}{Hjemfall}
+    \endentry
+    \entry{hjorthol06}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1ef0a11ab88e4ba201567bda70f811ad}{Hjorthol}{H\bibinitperiod}{Lars\bibnamedelima Martin}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1ef0a11ab88e4ba201567bda70f811ad}{Hjorthol}{H\bibinitperiod}{Lars\bibnamedelima Martin}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendal akademisk}%
+      }
+      \strng{namehash}{1ef0a11ab88e4ba201567bda70f811ad}
+      \strng{fullhash}{1ef0a11ab88e4ba201567bda70f811ad}
+      \field{sortinit}{H}
+      \field{labeltitle}{Alta. Kraftkampen som utfordret statens makt}
+      \true{singletitle}
+      \field{title}{Alta. Kraftkampen som utfordret statens makt}
+      \field{year}{2006}
     \endentry
     \entry{hain}{jurisdiction}{}
       \list{institution}{1}{%
@@ -4336,6 +4708,34 @@
       \field{year}{1999}
       \field{pages}{638\bibrangedash 650}
     \endentry
+    \entry{ilo107}{misc}{}
+      \list{institution}{1}{%
+        {ILO}%
+      }
+      \field{sortinit}{I}
+      \field{labeltitle}{ILO 107}
+      \true{singletitle}
+      \field{day}{26}
+      \field{indextitle}{Indigenous and Tribal Populations Convention}
+      \field{month}{06}
+      \field{shorttitle}{ILO 107}
+      \field{title}{Indigenous and Tribal Populations Convention}
+      \field{year}{1957}
+    \endentry
+    \entry{ilo169}{misc}{}
+      \list{institution}{1}{%
+        {ILO}%
+      }
+      \field{sortinit}{I}
+      \field{labeltitle}{ILO 169}
+      \true{singletitle}
+      \field{day}{27}
+      \field{indextitle}{Indigenous and Tribal Peoples Convention}
+      \field{month}{06}
+      \field{shorttitle}{ILO 169}
+      \field{title}{Indigenous and Tribal Peoples Convention}
+      \field{year}{1989}
+    \endentry
     \entry{ica17}{legislation}{}
       \field{sortinit}{I}
       \field{labeltitle}{Industrial Licensing Act}
@@ -4344,6 +4744,14 @@
       \field{title}{Industrial Licensing Act}
       \field{year}{1917}
       \keyw{no}
+    \endentry
+    \entry{innst59}{misc}{}
+      \field{sortinit}{I}
+      \field{labeltitle}{Innst.O.I.}
+      \true{singletitle}
+      \field{indextitle}{Innst.O.I.}
+      \field{title}{Innst.O.I.}
+      \field{year}{1959}
     \endentry
     \entry{institute15}{online}{}
       \field{sortinit}{I}
@@ -4453,6 +4861,7 @@
       \field{labeltitle}{Konsesjonsdommen}
       \true{singletitle}
       \field{number}{Rt-1918-403}
+      \field{pagination}{page}
       \field{shorttitle}{Konsesjonsdommen}
       \field{title}{Johansen v Den norske Stat ved 1 Regjeringens chef, 2 A/S Furuberg ved dets direktions formand}
       \field{year}{1918}
@@ -4833,6 +5242,22 @@
       \field{year}{2004}
       \field{pages}{859}
     \endentry
+    \entry{kommuner14}{online}{}
+      \field{sortinit}{K}
+      \field{labeltitle}{Kriterier for god kommunestruktur}
+      \true{singletitle}
+      \field{day}{01}
+      \field{month}{12}
+      \field{note}{Sluttrapport fra ekspertgruppe for kommunereformen}
+      \field{title}{Kriterier for god kommunestruktur}
+      \field{urlday}{14}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://www.regjeringen.no/no/tema/kommuner-og-regioner/kommunereform/ekspertutvalg/sluttrapport/id751494/
+      \endverb
+    \endentry
     \entry{kube97}{article}{}
       \name{labelname}{1}{}{%
         {{hash=0198ee0bfd84fef4f3f9b777e85e74c4}{Kube}{K\bibinitperiod}{Hanno}{H\bibinitperiod}{}{}{}{}}%
@@ -5148,6 +5573,75 @@
       \field{volume}{1}
       \field{year}{1909}
     \endentry
+    \entry{tvilsom10}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=bf0e8ae16a1bba7f2a9f8ce558d189d5}{Lie}{L\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bf0e8ae16a1bba7f2a9f8ce558d189d5}{Lie}{L\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bf0e8ae16a1bba7f2a9f8ce558d189d5}
+      \strng{fullhash}{bf0e8ae16a1bba7f2a9f8ce558d189d5}
+      \field{sortinit}{L}
+      \field{labeltitle}{NVE inspiserte kraftverk som ikke finnes}
+      \field{day}{20}
+      \field{journaltitle}{Teknisk Ukeblad}
+      \field{month}{12}
+      \field{title}{NVE inspiserte kraftverk som ikke finnes}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.tu.no/kraft/2010/12/20/nve-inspiserte-kraftverk-som-ikke-finnes
+      \endverb
+    \endentry
+    \entry{lie12}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=bf0e8ae16a1bba7f2a9f8ce558d189d5}{Lie}{L\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bf0e8ae16a1bba7f2a9f8ce558d189d5}{Lie}{L\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bf0e8ae16a1bba7f2a9f8ce558d189d5}
+      \strng{fullhash}{bf0e8ae16a1bba7f2a9f8ce558d189d5}
+      \field{sortinit}{L}
+      \field{labeltitle}{NVE varsler flere småkraftavslag}
+      \field{day}{18}
+      \field{journaltitle}{Teknisk Ukeblad}
+      \field{month}{01}
+      \field{title}{NVE varsler flere småkraftavslag}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.tu.no/kraft/2012/01/18/nve-varsler-flere-smakraft-avslag
+      \endverb
+    \endentry
+    \entry{liemin14}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=bf0e8ae16a1bba7f2a9f8ce558d189d5}{Lie}{L\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bf0e8ae16a1bba7f2a9f8ce558d189d5}{Lie}{L\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bf0e8ae16a1bba7f2a9f8ce558d189d5}
+      \strng{fullhash}{bf0e8ae16a1bba7f2a9f8ce558d189d5}
+      \field{sortinit}{L}
+      \field{labeltitle}{Energiministeren etterlyser mer regulerbar kraft}
+      \field{day}{28}
+      \field{journaltitle}{Teknisk Ukeblad}
+      \field{month}{10}
+      \field{title}{Energiministeren etterlyser mer regulerbar kraft}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.tu.no/kraft/2014/10/28/energiministeren-etterlyser-mer-regulerbar-vannkraft
+      \endverb
+    \endentry
     \entry{lipton74}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=bc387a79adada0b664e33a57ec8dd847}{Lipton}{L\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
@@ -5352,6 +5846,42 @@
       \field{volume}{75}
       \field{year}{1959}
       \field{pages}{188}
+    \endentry
+    \entry{marais15a}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a883b8df05b27f16b150c1969713f773}
+      \strng{fullhash}{a883b8df05b27f16b150c1969713f773}
+      \field{sortinit}{M}
+      \field{labeltitle}{When does state interference with property (now) amount to expropriation? An analysis of the Agri SA court's state acquisition requirement (Part i)}
+      \field{journaltitle}{Potchefstroom Electronic Law Journal/Potchefstroomse Elektroniese Regsblad}
+      \field{number}{1}
+      \field{title}{When does state interference with property (now) amount to expropriation? An analysis of the Agri SA court's state acquisition requirement (Part i)}
+      \field{volume}{18}
+      \field{year}{2015}
+      \field{pages}{3032\bibrangedash 3069}
+    \endentry
+    \entry{marais15b}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a883b8df05b27f16b150c1969713f773}
+      \strng{fullhash}{a883b8df05b27f16b150c1969713f773}
+      \field{sortinit}{M}
+      \field{labeltitle}{When does state interference with property (now) amount to expropriation? An analysis of the Agri SA court's state acquisition requirement (Part ii)}
+      \field{journaltitle}{Potchefstroom Electronic Law Journal/Potchefstroomse Elektroniese Regsblad}
+      \field{number}{1}
+      \field{title}{When does state interference with property (now) amount to expropriation? An analysis of the Agri SA court's state acquisition requirement (Part ii)}
+      \field{volume}{18}
+      \field{year}{2015}
+      \field{pages}{3071\bibrangedash 3101}
     \endentry
     \entry{mattei00}{book}{}
       \name{labelname}{1}{}{%
@@ -5578,6 +6108,15 @@
       \field{title}{Three Legal Approaches to Rural Economic Development}
       \field{volume}{23}
       \field{year}{2014}
+    \endentry
+    \entry{mrdpa02}{legislation}{}
+      \field{sortinit}{M}
+      \field{labeltitle}{Mineral and Petroleum Resources Development Act}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Mineral and Petroleum Resources Development Act}
+      \field{year}{2002}
+      \keyw{sa}
     \endentry
     \entry{minn06}{jurisdiction}{}
       \field{sortinit}{M}
@@ -5890,6 +6429,49 @@
       \field{year}{2013}
       \field{pages}{140}
     \endentry
+    \entry{ambassade09}{jurisdiction}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{Naturvernforbundet i Oslo og Akershus med flere v Staten v/Miljøverndepartementet og Oslo Kommune}
+      \true{singletitle}
+      \field{number}{Rt-2009-661}
+      \field{title}{Naturvernforbundet i Oslo og Akershus med flere v Staten v/Miljøverndepartementet og Oslo Kommune}
+      \field{year}{2009}
+      \keyw{no}
+    \endentry
+    \entry{nesheim10}{inbook}{}
+      \name{labelname}{6}{}{%
+        {{hash=c189631fd425feeac59f2d0401b88896}{Nesheim}{N\bibinitperiod}{I}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=e9c0d54d33893038bed79142a1453fa3}{Stålnacke}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3e8e910e3873a1a9f496016367918c6}{Nagothu}{N\bibinitperiod}{U\bbxinitsep\bibnamedelima S\bbxinitsep}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=6b0e9962ecd2c83e151b7b1df2cdca12}{Skarbøvik}{S\bibinitperiod}{E\bbxinitsep}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=91d760daa3d3492f6f5620ef2d46205f}{Barkved}{B\bibinitperiod}{L\bbxinitsep\bibnamedelima J\bbxinitsep}{L\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8836f84e12abb7a2ed08c7ffb64ca14c}{Thaulow}{T\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=c189631fd425feeac59f2d0401b88896}{Nesheim}{N\bibinitperiod}{I}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=e9c0d54d33893038bed79142a1453fa3}{Stålnacke}{S\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b3e8e910e3873a1a9f496016367918c6}{Nagothu}{N\bibinitperiod}{U\bbxinitsep\bibnamedelima S\bbxinitsep}{U\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=6b0e9962ecd2c83e151b7b1df2cdca12}{Skarbøvik}{S\bibinitperiod}{E\bbxinitsep}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=91d760daa3d3492f6f5620ef2d46205f}{Barkved}{B\bibinitperiod}{L\bbxinitsep\bibnamedelima J\bbxinitsep}{L\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8836f84e12abb7a2ed08c7ffb64ca14c}{Thaulow}{T\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=037a0fae295c12c6450b06d1b087312b}{Gooch}{G\bibinitperiod}{Geoffrey\bibnamedelima D\bbxinitsep}{G\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=95cd07d48bc4574b559c71f016eaae13}{Rieu-Clarke}{R\bibinithyphendelim C\bibinitperiod}{Alistair}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=dd53b1a39c229559b91e14063729fe3b}{Stålnacke}{S\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IWA Publishing}%
+      }
+      \strng{namehash}{d77889056ae95617ab7c71ca8357107a}
+      \strng{fullhash}{279e9175703c659ddb49e06a7ad98bc2}
+      \field{sortinit}{N}
+      \field{labeltitle}{IWRM status in the Glomma River basin}
+      \true{singletitle}
+      \field{booktitle}{Integrating Water Resource Management: Interdisciplinary Methodologies and Strategies in Practice}
+      \field{title}{IWRM status in the Glomma River basin}
+      \field{year}{2010}
+    \endentry
     \entry{nichols40}{article}{}
       \name{labelname}{1}{}{%
         {{hash=61c5b99c933b635beb0d96c7fa23350b}{Nichols}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
@@ -5948,6 +6530,29 @@
       \field{year}{2008}
       \field{pages}{157\bibrangedash 165}
     \endentry
+    \entry{nilsen11}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=c22a4550ae05dad7047100a82ce0ffd3}{Nilsen}{N\bibinitperiod}{Jannicke}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c22a4550ae05dad7047100a82ce0ffd3}{Nilsen}{N\bibinitperiod}{Jannicke}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c22a4550ae05dad7047100a82ce0ffd3}
+      \strng{fullhash}{c22a4550ae05dad7047100a82ce0ffd3}
+      \field{sortinit}{N}
+      \field{labeltitle}{Vil ha større vannkraftverk}
+      \field{day}{14}
+      \field{journaltitle}{Teknisk Ukeblad}
+      \field{month}{10}
+      \field{title}{Vil ha større vannkraftverk}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://www.tu.no/kraft/2011/10/14/vil-ha-storre-vannkraftverk
+      \endverb
+    \endentry
     \entry{nilsen08}{article}{}
       \name{labelname}{1}{}{%
         {{hash=c3a0d41c110b9d3853b95511dae940e9}{Nilsen}{N\bibinitperiod}{Yngve}{Y\bibinitperiod}{}{}{}{}}%
@@ -5959,7 +6564,6 @@
       \strng{fullhash}{c3a0d41c110b9d3853b95511dae940e9}
       \field{sortinit}{N}
       \field{labeltitle}{Ideologi eller kompleksitet? Motstand mot vannkraftutbygging i Norge i 1970-årene}
-      \true{singletitle}
       \field{journaltitle}{Historisk tidsskrift}
       \field{number}{01}
       \field{title}{Ideologi eller kompleksitet? Motstand mot vannkraftutbygging i Norge i 1970-årene}
@@ -6025,6 +6629,16 @@
       \field{title}{Staten sin rett til naturforekomstar på privat grunn}
       \field{year}{1998}
       \field{pages}{749\bibrangedash 776}
+    \endentry
+    \entry{nutshell}{misc}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{Norway in a Nutshell}
+      \true{singletitle}
+      \field{indextitle}{Norway in a Nutshell}
+      \field{title}{Norway in a Nutshell}
+      \verb{url}
+      \verb http://www.norwaynutshell.com/en/explore-the-fjords/
+      \endverb
     \endentry
     \entry{nussbaum02}{article}{}
       \name{labelname}{1}{}{%
@@ -6201,6 +6815,23 @@
       \field{booktitle}{Ekspropriasjonsvederlaget}
       \field{title}{Grunnlovens regel om fuld erstatning}
       \field{year}{1968}
+    \endentry
+    \entry{ostrom90}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge}%
+      }
+      \strng{namehash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{fullhash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \field{sortinit}{O}
+      \field{labeltitle}{Governing the commons: the evolution of institutions for collective action}
+      \true{singletitle}
+      \field{title}{Governing the commons: the evolution of institutions for collective action}
     \endentry
     \entry{otprp70}{misc}{}
       \field{sortinit}{O}
@@ -6427,6 +7058,25 @@
       \field{volume}{43}
       \field{pages}{711\bibrangedash 820}
     \endentry
+    \entry{peris12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6b016730dfeafcb15b603e03916e5a68}{Peris}{P\bibinitperiod}{Sean\bibnamedelima Jones}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6b016730dfeafcb15b603e03916e5a68}{Peris}{P\bibinitperiod}{Sean\bibnamedelima Jones}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b016730dfeafcb15b603e03916e5a68}
+      \strng{fullhash}{6b016730dfeafcb15b603e03916e5a68}
+      \field{sortinit}{P}
+      \field{labeltitle}{Powering up the people? The politics of indigenous rights implementation: International Labour Organisation Convention 169 and hydroelectric power in Nepal}
+      \true{singletitle}
+      \field{journaltitle}{The International Journal of Human Rights}
+      \field{number}{4}
+      \field{title}{Powering up the people? The politics of indigenous rights implementation: International Labour Organisation Convention 169 and hydroelectric power in Nepal}
+      \field{volume}{16}
+      \field{year}{2012}
+      \field{pages}{624\bibrangedash 647}
+    \endentry
     \entry{phillips93}{article}{}
       \name{labelname}{1}{}{%
         {{hash=074273a440a2b1e457382575d9d9e7e5}{Phillips}{P\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
@@ -6542,6 +7192,24 @@
       \field{indextitle}{Prop. 101 L (2012-2013)}
       \field{title}{Prop. 101 L (2012-2013)}
     \endentry
+    \entry{pryser1999norsk}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b162aef8eb76bb16ba6485955a53a465}{Pryser}{P\bibinitperiod}{T\bbxinitsep}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b162aef8eb76bb16ba6485955a53a465}{Pryser}{P\bibinitperiod}{T\bbxinitsep}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Det Norske Samlaget}%
+      }
+      \strng{namehash}{b162aef8eb76bb16ba6485955a53a465}
+      \strng{fullhash}{b162aef8eb76bb16ba6485955a53a465}
+      \field{sortinit}{P}
+      \field{labeltitle}{Norsk historie 1814-1860: frå standssamfunn mot klassesamfunn}
+      \field{series}{Norsk historie}
+      \field{title}{Norsk historie 1814-1860: frå standssamfunn mot klassesamfunn}
+      \field{year}{1999}
+    \endentry
     \entry{pryser99}{book}{}
       \name{labelname}{1}{}{%
         {{hash=a3561e15b4e7d0356986c9c89e9cefae}{Pryser}{P\bibinitperiod}{Tore}{T\bibinitperiod}{}{}{}{}}%
@@ -6556,7 +7224,6 @@
       \strng{fullhash}{a3561e15b4e7d0356986c9c89e9cefae}
       \field{sortinit}{P}
       \field{labeltitle}{Norsk Historie 1814-1860: Frå Standssamfunn mot Klassesamfunn}
-      \true{singletitle}
       \field{title}{Norsk Historie 1814-1860: Frå Standssamfunn mot Klassesamfunn}
       \field{year}{1999}
     \endentry
@@ -6622,6 +7289,29 @@
       \field{pages}{532}
       \keyw{gb}
     \endentry
+    \entry{irr15}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=95764f900868df353bccfac44d164526}{Race\bibnamedelimb Relations\bibnamedelima NPC}{R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim N\bibinitperiod}{South\bibnamedelimb African\bibnamedelima Institute}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim I\bibinitperiod}{of}{o\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=95764f900868df353bccfac44d164526}{Race\bibnamedelimb Relations\bibnamedelima NPC}{R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim N\bibinitperiod}{South\bibnamedelimb African\bibnamedelima Institute}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim I\bibinitperiod}{of}{o\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{95764f900868df353bccfac44d164526}
+      \strng{fullhash}{95764f900868df353bccfac44d164526}
+      \field{sortinit}{R}
+      \field{labeltitle}{Submission to the Department of Agriculture, Forestry and Fisheries, regarding the Preservation and Development of Agricultural Land Framework Bill of 2014}
+      \true{singletitle}
+      \field{day}{29}
+      \field{month}{05}
+      \field{title}{Submission to the Department of Agriculture, Forestry and Fisheries, regarding the Preservation and Development of Agricultural Land Framework Bill of 2014}
+      \field{urlday}{12}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://irr.org.za/reports-and-publications/submissions-on-proposed-legislation/irr-full-submission-on-the-preservation-and-development-of-agricultural-land-framework-bill-2013-29-may-2015
+      \endverb
+    \endentry
     \entry{radin93}{book}{}
       \name{labelname}{1}{}{%
         {{hash=2b25151deda6bca0f3811d5bf1a9ef57}{Radin}{R\bibinitperiod}{Margaret\bibnamedelima Jane}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -6658,6 +7348,23 @@
       \field{year}{2013}
       \field{pages}{1219}
     \endentry
+    \entry{ravna05}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
+      \strng{fullhash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
+      \field{sortinit}{R}
+      \field{labeltitle}{Retten til jorden i Finnmark, samenes rettigheter og forslaget til Finnmarkslov}
+      \field{journaltitle}{Kritisk juss}
+      \field{number}{2}
+      \field{title}{Retten til jorden i Finnmark, samenes rettigheter og forslaget til Finnmarkslov}
+      \field{volume}{31}
+      \field{year}{2005}
+    \endentry
     \entry{ravna09a}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
@@ -6675,11 +7382,30 @@
       \strng{fullhash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
       \field{sortinit}{R}
       \field{labeltitle}{Skiftegrunnlaget i sameier}
-      \true{singletitle}
       \field{booktitle}{Perspektiver på jordskifte}
       \field{title}{Skiftegrunnlaget i sameier}
       \field{year}{2009}
       \field{pages}{284\bibrangedash 310}
+    \endentry
+    \entry{ravna12s}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ff2447c70ea67efc24af997f1fcf6909}{Øyvind\bibnamedelima Ravna}{Ø\bibinitperiod\bibinitdelim R\bibinitperiod}{Tore\bibnamedelima Henriksen}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{og}{o\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendal juridisk}%
+      }
+      \strng{namehash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
+      \strng{fullhash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
+      \field{sortinit}{R}
+      \field{labeltitle}{Samerett og samiske rettigheter i Norge}
+      \field{title}{Samerett og samiske rettigheter i Norge}
+      \field{year}{2012}
     \endentry
     \entry{ravna08}{book}{}
       \name{labelname}{1}{}{%
@@ -6797,6 +7523,25 @@
       \field{title}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
       \field{volume}{2}
       \field{year}{1969}
+    \endentry
+    \entry{sp}{online}{}
+      \name{labelname}{2}{}{%
+        {{hash=f097eb1c24b50337ce4ec8db39bfdc11}{Resources}{R\bibinitperiod}{Norwegian\bibnamedelima Water}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9e41007d27f0498b94bef874f99d8115}{Directorate}{D\bibinitperiod}{Energy}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f097eb1c24b50337ce4ec8db39bfdc11}{Resources}{R\bibinitperiod}{Norwegian\bibnamedelima Water}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=9e41007d27f0498b94bef874f99d8115}{Directorate}{D\bibinitperiod}{Energy}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{78079a8a5886ba266c5040bf0dcef1eb}
+      \strng{fullhash}{78079a8a5886ba266c5040bf0dcef1eb}
+      \field{sortinit}{R}
+      \field{labeltitle}{Samlet plan for vassdrag}
+      \true{singletitle}
+      \field{title}{Samlet plan for vassdrag}
+      \verb{url}
+      \verb http://www.nve.no/no/energi1/fornybar-energi/vannkraft/samlet-plan-for-vassdrag/
+      \endverb
     \endentry
     \entry{nou76}{misc}{}
       \field{sortinit}{R}
@@ -7087,6 +7832,24 @@
       \field{volume}{29}
       \field{year}{2008}
       \field{pages}{89\bibrangedash 108}
+    \endentry
+    \entry{rose90}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
+      \field{sortinit}{R}
+      \field{labeltitle}{Property as Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory}
+      \field{journaltitle}{Yale Journal of Law & the Humanities}
+      \field{number}{1}
+      \field{title}{Property as Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory}
+      \field{volume}{2}
+      \field{year}{1990}
+      \field{pages}{37\bibrangedash 57}
     \endentry
     \entry{rose96}{article}{}
       \name{labelname}{1}{}{%
@@ -7442,6 +8205,27 @@
       \field{title}{Norsk Ekspropriasjonsrett}
       \field{year}{1947}
     \endentry
+    \entry{schmidt14}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6a7506161692eb90e5ccbe1f3ba304e0}{Schmidt}{S\bibinitperiod}{Jeremy\bibnamedelima J\bbxinitsep}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=b9ce08e1f1fa97cd0446dab00c9b12d6}{Mitchell}{M\bibinitperiod}{Kyle\bibnamedelima R\bbxinitsep}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6a7506161692eb90e5ccbe1f3ba304e0}{Schmidt}{S\bibinitperiod}{Jeremy\bibnamedelima J\bbxinitsep}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=b9ce08e1f1fa97cd0446dab00c9b12d6}{Mitchell}{M\bibinitperiod}{Kyle\bibnamedelima R\bbxinitsep}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e03d6f70ea3b49616440e9fe2bccc0f0}
+      \strng{fullhash}{e03d6f70ea3b49616440e9fe2bccc0f0}
+      \field{sortinit}{S}
+      \field{labeltitle}{Property and the Right to Water: Toward a Non-Liberal Commons}
+      \true{singletitle}
+      \field{journaltitle}{Review of Radical Political Economics}
+      \field{number}{1}
+      \field{title}{Property and the Right to Water: Toward a Non-Liberal Commons}
+      \field{volume}{46}
+      \field{year}{2014}
+      \field{pages}{54\bibrangedash 69}
+    \endentry
     \entry{schnettler09}{article}{}
       \name{labelname}{1}{}{%
         {{hash=3a272e7cc70d58427524cc2374624f60}{Schnettler}{S\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
@@ -7545,6 +8329,31 @@
       \field{volume}{12}
       \field{year}{1994}
       \field{pages}{29\bibrangedash 91}
+    \endentry
+    \entry{sejersted15}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=016ae372582ff2cb0fe79272f7d15621}{Sejersted}{S\bibinitperiod}{Francis}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=016ae372582ff2cb0fe79272f7d15621}{Sejersted}{S\bibinitperiod}{Francis}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{016ae372582ff2cb0fe79272f7d15621}
+      \strng{fullhash}{016ae372582ff2cb0fe79272f7d15621}
+      \field{sortinit}{S}
+      \field{labeltitle}{Unionsoppløsningen i 1905}
+      \true{singletitle}
+      \field{day}{24}
+      \field{journaltitle}{Store norske leksikon}
+      \field{month}{04}
+      \field{title}{Unionsoppløsningen i 1905}
+      \field{urlday}{14}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://snl.no/Unionsoppl%C3%B8sningen_i_1905
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'sejersted15'}
     \endentry
     \entry{seafarm08}{jurisdiction}{}
       \field{sortinit}{S}
@@ -7751,6 +8560,24 @@
       \field{year}{2008}
       \field{pages}{479\bibrangedash 499}
     \endentry
+    \entry{skogvang02}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0505adb8003e9d7d1e06c2822e261585}{Skoglund}{S\bibinitperiod}{Susann\bibnamedelima Funderud}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0505adb8003e9d7d1e06c2822e261585}{Skoglund}{S\bibinitperiod}{Susann\bibnamedelima Funderud}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{0505adb8003e9d7d1e06c2822e261585}
+      \strng{fullhash}{0505adb8003e9d7d1e06c2822e261585}
+      \field{sortinit}{S}
+      \field{labeltitle}{Samerett: om samenes rett til en fortid, nåtid og fremtid}
+      \true{singletitle}
+      \field{title}{Samerett: om samenes rett til en fortid, nåtid og fremtid}
+      \field{year}{2002}
+    \endentry
     \entry{sky01}{article}{}
       \name{labelname}{1}{}{%
         {{hash=2365676395ab04c897a3ae78f339c59c}{Sky}{S\bibinitperiod}{Per\bibnamedelima Kåre}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
@@ -7852,6 +8679,22 @@
       \field{year}{2014}
       \field{pages}{3\bibrangedash 33}
     \endentry
+    \entry{ulovlig10}{online}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Små kraftverk driver ulovlig}
+      \true{singletitle}
+      \field{day}{13}
+      \field{journaltitle}{Teknisk Ukeblad}
+      \field{month}{12}
+      \field{title}{Små kraftverk driver ulovlig}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://www.tu.no/kraft/2010/12/13/sma-kraftverk-driver-ulovlig
+      \endverb
+    \endentry
     \entry{smith08}{jurisdiction}{}
       \field{sortinit}{S}
       \field{labeltitle}{Smith and Others v Secretary of State for Trade and Industry}
@@ -7879,6 +8722,42 @@
       \field{title}{Property as the Law of Things}
       \field{volume}{125}
       \field{pages}{1691}
+    \endentry
+    \entry{smith00}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{261929a86125f52e2b2548984b52cc9a}
+      \strng{fullhash}{261929a86125f52e2b2548984b52cc9a}
+      \field{sortinit}{S}
+      \field{labeltitle}{Semicommon Property Rights and Scattering in the Open Fields}
+      \field{journaltitle}{The Journal of Legal Studies}
+      \field{number}{1}
+      \field{title}{Semicommon Property Rights and Scattering in the Open Fields}
+      \field{volume}{29}
+      \field{year}{2000}
+      \field{pages}{131\bibrangedash 169}
+    \endentry
+    \entry{smith02}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=261929a86125f52e2b2548984b52cc9a}{Smith}{S\bibinitperiod}{Henry\bibnamedelima E\bbxinitsep}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{261929a86125f52e2b2548984b52cc9a}
+      \strng{fullhash}{261929a86125f52e2b2548984b52cc9a}
+      \field{sortinit}{S}
+      \field{labeltitle}{Exclusion versus Governance: Two Strategies for Delineating Property Rights}
+      \field{journaltitle}{The Journal of Legal Studies}
+      \field{number}{S2}
+      \field{title}{Exclusion versus Governance: Two Strategies for Delineating Property Rights}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{pages}{S453\bibrangedash S487}
     \endentry
     \entry{smith09}{article}{}
       \name{labelname}{1}{}{%
@@ -8247,6 +9126,30 @@
       \field{title}{Is There a Law of Unjust Enrichment?}
       \field{year}{2008}
     \endentry
+    \entry{steyn15}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=feb185145524af0c4a32b97cb7dcc81e}{Steyn}{S\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=feb185145524af0c4a32b97cb7dcc81e}{Steyn}{S\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{feb185145524af0c4a32b97cb7dcc81e}
+      \strng{fullhash}{feb185145524af0c4a32b97cb7dcc81e}
+      \field{sortinit}{S}
+      \field{labeltitle}{More time needed for comment on state ``custodianship'' of agri land Bill}
+      \true{singletitle}
+      \field{day}{29}
+      \field{journaltitle}{Democratic Alliance}
+      \field{month}{05}
+      \field{title}{More time needed for comment on state ``custodianship'' of agri land Bill}
+      \field{urlday}{12}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.da.org.za/2015/05/more-time-needed-for-comment-on-state-custodianship-of-agri-land-bill/
+      \endverb
+    \endentry
     \entry{stoebuck72}{article}{}
       \name{labelname}{1}{}{%
         {{hash=2c68941631ef3144558da118c1f196a8}{Stoebuck}{S\bibinitperiod}{William\bibnamedelima B\bbxinitsep}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
@@ -8372,6 +9275,52 @@
       \field{year}{2010}
       \field{pages}{679\bibrangedash 714}
     \endentry
+    \entry{sunde14b}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=0741575b038cf069c3a4d80363868bbb}{Sunde}{S\bibinitperiod}{Linda}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0741575b038cf069c3a4d80363868bbb}{Sunde}{S\bibinitperiod}{Linda}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0741575b038cf069c3a4d80363868bbb}
+      \strng{fullhash}{0741575b038cf069c3a4d80363868bbb}
+      \field{sortinit}{S}
+      \field{labeltitle}{Rekordmange småkraft-avslag}
+      \field{day}{06}
+      \field{journaltitle}{Bondebladet}
+      \field{month}{02}
+      \field{title}{Rekordmange småkraft-avslag}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.bondebladet.no/nyhet/rekordmange-smakraft-avslag/
+      \endverb
+    \endentry
+    \entry{sunde14}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=0741575b038cf069c3a4d80363868bbb}{Sunde}{S\bibinitperiod}{Linda}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0741575b038cf069c3a4d80363868bbb}{Sunde}{S\bibinitperiod}{Linda}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0741575b038cf069c3a4d80363868bbb}
+      \strng{fullhash}{0741575b038cf069c3a4d80363868bbb}
+      \field{sortinit}{S}
+      \field{labeltitle}{Småkraft: Kong Midas i revers}
+      \field{day}{08}
+      \field{journaltitle}{Bondebladet}
+      \field{month}{05}
+      \field{title}{Småkraft: Kong Midas i revers}
+      \field{urlday}{15}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.bondebladet.no/midten/smakraft-kong-midas-i-revers/
+      \endverb
+    \endentry
     \entry{taggart98}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=2f5b4cc1788fdf9f16f713eb9698c340}{Taggart}{T\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
@@ -8391,6 +9340,25 @@
       \field{subtitle}{Essays on public law in honour of Sir William Wade}
       \field{title}{Expropriation, Public Purpose and the Constitution}
       \field{year}{1998}
+    \endentry
+    \entry{templin10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=f03d5a9d912848b6a4a41c4b00a21ea5}{Templin}{T\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f03d5a9d912848b6a4a41c4b00a21ea5}{Templin}{T\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f03d5a9d912848b6a4a41c4b00a21ea5}
+      \strng{fullhash}{f03d5a9d912848b6a4a41c4b00a21ea5}
+      \field{sortinit}{T}
+      \field{labeltitle}{The Government Shareholder: Regulating Public Ownership of Private Enterprise}
+      \true{singletitle}
+      \field{journaltitle}{Administrative Law Review}
+      \field{number}{4}
+      \field{title}{The Government Shareholder: Regulating Public Ownership of Private Enterprise}
+      \field{volume}{62}
+      \field{year}{2010}
+      \field{pages}{1127\bibrangedash 1215}
     \endentry
     \entry{grunnloven14}{legislation}{}
       \field{sortinit}{T}
@@ -8464,6 +9432,23 @@
       \field{type}{PhD Thesis}
       \field{year}{1997}
     \endentry
+    \entry{thue96}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c3587072bb6f16f354ef05f9db604966}{Thue}{T\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c3587072bb6f16f354ef05f9db604966}{Thue}{T\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ad notam Gyldendal}%
+      }
+      \strng{namehash}{c3587072bb6f16f354ef05f9db604966}
+      \strng{fullhash}{c3587072bb6f16f354ef05f9db604966}
+      \field{sortinit}{T}
+      \field{labeltitle}{Strøm og styring: norsk kraftliberalisme i historisk perspektiv}
+      \field{title}{Strøm og styring: norsk kraftliberalisme i historisk perspektiv}
+      \field{year}{1996}
+    \endentry
     \entry{thue06}{book}{}
       \name{labelname}{1}{}{%
         {{hash=c3587072bb6f16f354ef05f9db604966}{Thue}{T\bibinitperiod}{Lars}{L\bibinitperiod}{}{}{}{}}%
@@ -8478,7 +9463,6 @@
       \strng{fullhash}{c3587072bb6f16f354ef05f9db604966}
       \field{sortinit}{T}
       \field{labeltitle}{Statens Kraft 1890-1947: Kraftutbygging og Samfunnsutvikling}
-      \true{singletitle}
       \field{title}{Statens Kraft 1890-1947: Kraftutbygging og Samfunnsutvikling}
       \field{year}{2006}
     \endentry
@@ -8778,6 +9762,38 @@
       \field{title}{The Idea of Property: {I}ts meaning and power}
       \field{year}{2010}
     \endentry
+    \entry{fne}{misc}{}
+      \list{institution}{1}{%
+        {UNGA}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{ICCPR}
+      \true{singletitle}
+      \field{day}{16}
+      \field{entrysubtype}{undoc}
+      \field{indextitle}{International Covenant on Civil and Political Rights}
+      \field{month}{12}
+      \field{shorttitle}{ICCPR}
+      \field{title}{International Covenant on Civil and Political Rights}
+      \field{titleaddon}{Res 2200A (XXI)}
+      \field{year}{1966}
+    \endentry
+    \entry{fnp}{misc}{}
+      \list{institution}{1}{%
+        {UNGA}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{ICESCR}
+      \true{singletitle}
+      \field{day}{16}
+      \field{entrysubtype}{undoc}
+      \field{indextitle}{International Covenant on Economic, Social and Cultural Rights}
+      \field{month}{12}
+      \field{shorttitle}{ICESCR}
+      \field{title}{International Covenant on Economic, Social and Cultural Rights}
+      \field{titleaddon}{Res 2200A (XXI)}
+      \field{year}{1966}
+    \endentry
     \entry{craft02}{jurisdiction}{}
       \field{sortinit}{U}
       \field{labeltitle}{United States v Craft}
@@ -8812,6 +9828,20 @@
       \field{year}{1896}
       \field{pages}{668}
       \keyw{us}
+    \endentry
+    \entry{utbygd46}{misc}{}
+      \list{location}{1}{%
+        {Oslo}%
+      }
+      \list{publisher}{1}{%
+        {Norges vassdrags- og elektrisitetsvesen}%
+      }
+      \field{sortinit}{U}
+      \field{labeltitle}{Utbygd vannkraft i Norge}
+      \true{singletitle}
+      \field{indextitle}{Utbygd vannkraft i Norge}
+      \field{title}{Utbygd vannkraft i Norge}
+      \field{year}{1946}
     \endentry
     \entry{utgard09}{inbook}{}
       \name{labelname}{1}{}{%
@@ -9027,6 +10057,26 @@
       \field{booktitle}{Modern studies in property law: Volume 7}
       \field{title}{The prevalence of private takings}
       \field{year}{2013}
+    \endentry
+    \entry{water00}{legislation}{}
+      \field{sortinit}{W}
+      \field{labeltitle}{Water Framework Directive}
+      \true{singletitle}
+      \field{entrysubtype}{directive}
+      \field{indextitle}{200000060}
+      \field{issue}{327}
+      \field{journaltitle}{OJ}
+      \field{number}{2000/60/EC}
+      \field{origday}{23}
+      \field{origmonth}{10}
+      \field{origyear}{2000}
+      \field{pagination}{article}
+      \field{series}{L}
+      \field{title}{Water Framework Directive}
+      \field{type}{directive}
+      \field{year}{2000}
+      \field{pages}{1\bibrangedash 73}
+      \keyw{eu}
     \endentry
     \entry{wra00}{legislation}{}
       \field{sortinit}{W}
