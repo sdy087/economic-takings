@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  17 JUL 2015 00:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  18 JUL 2015 11:05
 entering extended mode
 **thesis.tex
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.tex"
@@ -1586,10 +1586,10 @@ Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 66.
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/newintro.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/chapter1111.aux
-") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/chap2_isr.au
-x") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_3.aux
-") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/final_4.aux"
-) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux"
+") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_2.aux"
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_3.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/final_4.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux"
 
 LaTeX Warning: Label `cbx@871' multiply defined.
 
@@ -1716,85 +1716,76 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/SjurK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3])
 \tf@toc=\write6
  [4]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/final_4.tex"
-Chapter 5.
-Package biblatex Info: Resetting trackers on input line 1.
-[220
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_2.tex"
+Chapter 3.
+Package biblatex Info: Resetting trackers on input line 3.
+[93
 
 
 
 
 
+] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+
+LaTeX Warning: Citation 'waring09' on page 103 undefined on input line 98.
+
+[103]
+
+LaTeX Warning: Citation 'waring09' on page 104 undefined on input line 102.
 
 
-] [221]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+LaTeX Warning: Citation 'waring09' on page 104 undefined on input line 104.
+
+
+LaTeX Warning: Citation 'waring09' on page 104 undefined on input line 104.
+
+[104] [105] [106] [107] [108] [109] [110] [111] [112]
+
+LaTeX Warning: Reference `sec:x' on page 113 undefined on input line 214.
+
+[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
+
+LaTeX Warning: Citation 'head86' on page 124 undefined on input line 292.
+
+[124]
+
+LaTeX Warning: Citation 'head75' on page 125 undefined on input line 296.
+
+
+Package biblatex Warning: Nested notes on input line 298.
+
+[125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135]
+
+LaTeX Warning: Citation 'hawaii84' on page 136 undefined on input line 378.
+
+
+LaTeX Warning: Citation 'hawaii84' on page 136 undefined on input line 380.
+
+[136] [137]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 399.
+
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 399.
 
-[222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232]
+[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+[150] [151] [152] [153] [154] [155] [156] [157] [158]
 
-LaTeX Warning: Reference `sec:x' on page 233 undefined on input line 117.
-
-[233] [234]
-
-LaTeX Warning: Reference `sec:x' on page 235 undefined on input line 131.
-
-[235]
-
-LaTeX Warning: Citation 'johansen15' on page 236 undefined on input line 146.
+LaTeX Warning: Reference `sec:england' on page 159 undefined on input line 538.
 
 
-LaTeX Warning: Citation 'chap:1' on page 236 undefined on input line 148.
-
-
-LaTeX Warning: Reference `sec:x' on page 236 undefined on input line 148.
-
-[236]
-
-LaTeX Warning: Citation 'insst59' on page 237 undefined on input line 151.
-
-
-LaTeX Warning: Reference `sec:x' on page 237 undefined on input line 153.
-
-[237]
-
-LaTeX Warning: Citation 'bull08' on page 238 undefined on input line 162.
-
-
-LaTeX Warning: Citation 'altawiki;hjorthol06' on page 238 undefined on input li
-ne 164.
-
-[238] [239] [240] [241] [242] [243]
-
-LaTeX Warning: Citation 'falk' on page 244 undefined on input line 209.
-
-
-LaTeX Warning: Citation 'gausaa07' on page 244 undefined on input line 213.
-
-
-LaTeX Warning: Citation 'gausaa07' on page 244 undefined on input line 213.
-
-
-LaTeX Warning: Citation 'falk' on page 244 undefined on input line 215.
-
-
-LaTeX Warning: Reference `sec:x' on page 244 undefined on input line 215.
-
-[244] [245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255]
-[256] [257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267])
-[268] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
+[159]) [160] [161]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/newintro.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/chapter1111.aux
-") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/chap2_isr.au
-x") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_3.aux
-") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/final_4.aux"
-) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux"
-) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/conc.aux"))
+") ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_2.aux"
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/final_3.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/final_4.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/Chapter5.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/conc.aux"))
 
 LaTeX Warning: There were undefined references.
 
@@ -1809,13 +1800,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 19128 strings out of 493921
- 330803 string characters out of 3144876
- 868278 words of memory out of 3000000
- 22120 multiletter control sequences out of 15000+200000
- 15815 words of font info for 59 fonts, out of 3000000 for 9000
+ 19259 strings out of 493921
+ 332739 string characters out of 3144876
+ 872349 words of memory out of 3000000
+ 22251 multiletter control sequences out of 15000+200000
+ 15468 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,14n,62p,10433b,3038s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,64p,10433b,3038s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
@@ -1827,9 +1818,9 @@ s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on thesis.pdf (53 pages, 318251 bytes).
+Output written on thesis.pdf (73 pages, 385779 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
+ 282 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

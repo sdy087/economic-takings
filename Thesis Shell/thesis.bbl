@@ -19,6 +19,9 @@
 
 \refsection{0}
   \sortlist{entry}{niyt}
+    \entry{allen08}{inbook}{}
+      \field{sortinit}{0}
+    \endentry
     \entry{dom09}{misc}{}
       \list{publisher}{1}{%
         {Domstoladministrasjonen}%
@@ -28,6 +31,19 @@
       \true{singletitle}
       \field{indextitle}{2009}
       \field{title}{2009}
+    \endentry
+    \entry{castle}{online}{}
+      \field{sortinit}{5}
+      \field{labeltitle}{50 State Report Card}
+      \true{singletitle}
+      \field{journaltitle}{Castle Coalition}
+      \field{title}{50 State Report Card}
+      \field{urlday}{17}
+      \field{urlmonth}{07}
+      \field{urlyear}{2015}
+      \verb{url}
+      \verb http://castlecoalition.org/50-state-report-card
+      \endverb
     \endentry
     \entry{aall04}{book}{}
       \name{labelname}{1}{}{%
@@ -2082,7 +2098,6 @@
       \field{journaltitle}{Michigan State Law Review}
       \field{number}{4}
       \field{title}{Public-use limitations and natural property rights}
-      \field{volume}{2004}
       \field{year}{2004}
       \field{pages}{877\bibrangedash 928}
     \endentry
@@ -2197,6 +2212,16 @@
       \true{singletitle}
       \field{title}{Property, Territory, Globalization}
       \field{year}{2011}
+    \endentry
+    \entry{cpa65}{legislation}{}
+      \field{sortinit}{C}
+      \field{labeltitle}{Compulsory Purchase Act}
+      \true{singletitle}
+      \field{entrysubtype}{primary}
+      \field{pagination}{section}
+      \field{title}{Compulsory Purchase Act}
+      \field{year}{1965}
+      \keyw{en}
     \endentry
     \entry{lawcom01}{misc}{}
       \list{publisher}{1}{%
@@ -3106,13 +3131,13 @@
     \endentry
     \entry{eide80}{article}{}
       \name{labelname}{1}{}{%
-        {{hash=c91312aa562558888d2c2247ce4c9134}{Eide}{E\bibinitperiod}{Arbjørn}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f723e4a6e2c3aa1623f72d4d971670b0}{Eide}{E\bibinitperiod}{Asbjørn}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=c91312aa562558888d2c2247ce4c9134}{Eide}{E\bibinitperiod}{Arbjørn}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f723e4a6e2c3aa1623f72d4d971670b0}{Eide}{E\bibinitperiod}{Asbjørn}{A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{c91312aa562558888d2c2247ce4c9134}
-      \strng{fullhash}{c91312aa562558888d2c2247ce4c9134}
+      \strng{namehash}{f723e4a6e2c3aa1623f72d4d971670b0}
+      \strng{fullhash}{f723e4a6e2c3aa1623f72d4d971670b0}
       \field{sortinit}{E}
       \field{labeltitle}{Menneskerettigheter og samenes rettigheter}
       \true{singletitle}
@@ -3511,6 +3536,15 @@
       \verb http://www.scotsman.com/news/scotland/top-stories/farmer-who-took-on-trump-triumphs-in-spirit-awards-1-2668649
       \endverb
     \endentry
+    \entry{fifth}{legislation}{}
+      \field{sortinit}{F}
+      \field{labeltitle}{Fifth Amendment to the US Constitution}
+      \true{singletitle}
+      \field{pagination}{section}
+      \field{title}{Fifth Amendment to the US Constitution}
+      \field{year}{1791}
+      \keyw{us}
+    \endentry
     \entry{ulovlig10b}{online}{}
       \field{sortinit}{F}
       \field{labeltitle}{Fire av fem småkraftverk driver ulovlig}
@@ -3587,6 +3621,17 @@
       \verb{url}
       \verb http://edition.cnn.com/2007/WORLD/europe/10/10/trump.golf/
       \endverb
+    \endentry
+    \entry{fiske31}{jurisdiction}{}
+      \field{sortinit}{F}
+      \field{labeltitle}{Fiske v Framingham Mfg Co}
+      \true{singletitle}
+      \field{journaltitle}{Pick}
+      \field{title}{Fiske v Framingham Mfg Co}
+      \field{volume}{12}
+      \field{year}{1831}
+      \field{pages}{68}
+      \keyw{us}
     \endentry
     \entry{flatby08}{article}{}
       \name{labelname}{1}{}{%
@@ -3843,6 +3888,30 @@
       \field{year}{1903}
       \field{pages}{522}
       \keyw{us}
+    \endentry
+    \entry{gisler10}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3fcb255953ee16a238d9554a58bf1dd6}{Gieseler}{G\bibinitperiod}{Nicholas\bibnamedelima M\bbxinitsep}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=7128fb0f6a765a43f9fd597de5cf5794}{Gieseler}{G\bibinitperiod}{Steven\bibnamedelima Geoffrey}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3fcb255953ee16a238d9554a58bf1dd6}{Gieseler}{G\bibinitperiod}{Nicholas\bibnamedelima M\bbxinitsep}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=7128fb0f6a765a43f9fd597de5cf5794}{Gieseler}{G\bibinitperiod}{Steven\bibnamedelima Geoffrey}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{3cfc557712aa6e35f519c9016e330d07}
+      \strng{fullhash}{3cfc557712aa6e35f519c9016e330d07}
+      \field{sortinit}{G}
+      \field{labeltitle}{Strict Scrutiny and Eminent Domain After Kelo}
+      \true{singletitle}
+      \field{journaltitle}{Journal of Land Use \& Environmental Law}
+      \field{number}{2}
+      \field{title}{Strict Scrutiny and Eminent Domain After Kelo}
+      \field{volume}{25}
+      \field{year}{2010}
+      \field{pages}{191\bibrangedash 226}
     \endentry
     \entry{gillespie08}{article}{}
       \name{labelname}{1}{}{%
@@ -7185,6 +7254,25 @@
       \field{pages}{193}
       \keyw{gb}
     \endentry
+    \entry{pritchett03}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=60f3d567e215da351b9040c0efecf559}{Pritchett}{P\bibinitperiod}{Wendell\bibnamedelima E\bbxinitsep}{W\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=60f3d567e215da351b9040c0efecf559}{Pritchett}{P\bibinitperiod}{Wendell\bibnamedelima E\bbxinitsep}{W\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60f3d567e215da351b9040c0efecf559}
+      \strng{fullhash}{60f3d567e215da351b9040c0efecf559}
+      \field{sortinit}{P}
+      \field{labeltitle}{The ``Public Menace'' of Blight: Urban Renewal and the Private Uses of Eminent Domain}
+      \true{singletitle}
+      \field{journaltitle}{Yale Law \& Policy Review}
+      \field{number}{1}
+      \field{title}{The ``Public Menace'' of Blight: Urban Renewal and the Private Uses of Eminent Domain}
+      \field{volume}{21}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 52}
+    \endentry
     \entry{prop12}{misc}{}
       \field{sortinit}{P}
       \field{labeltitle}{Prop. 101 L (2012-2013)}
@@ -7235,6 +7323,17 @@
       \field{title}{Public Administration Act}
       \field{year}{1967}
       \keyw{no}
+    \endentry
+    \entry{alr28}{misc}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Public benefit or convenience as distinguished from use by the public as ground for the exercise of the power of eminent domain}
+      \true{singletitle}
+      \field{indextitle}{Public benefit or convenience as distinguished from use by the public as ground for the exercise of the power of eminent domain}
+      \field{journaltitle}{American Law Reports}
+      \field{title}{Public benefit or convenience as distinguished from use by the public as ground for the exercise of the power of eminent domain}
+      \field{volume}{54}
+      \field{year}{1928}
+      \field{pages}{7}
     \endentry
     \entry{purdue10}{inbook}{}
       \name{labelname}{1}{}{%
@@ -8971,6 +9070,25 @@
       \field{title}{Standard Commercial Property Securities Ltd v Glasgow City Council}
       \field{volume}{93}
       \field{year}{2007}
+    \endentry
+    \entry{staples03}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0144ed04bad73dd98a92853e00441c9b}{Staples}{S\bibinitperiod}{Abram\bibnamedelima P\bbxinitsep}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0144ed04bad73dd98a92853e00441c9b}{Staples}{S\bibinitperiod}{Abram\bibnamedelima P\bbxinitsep}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0144ed04bad73dd98a92853e00441c9b}
+      \strng{fullhash}{0144ed04bad73dd98a92853e00441c9b}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Mill Acts}
+      \true{singletitle}
+      \field{journaltitle}{The Virginia Law Register}
+      \field{number}{4}
+      \field{title}{The Mill Acts}
+      \field{volume}{9}
+      \field{year}{1903}
+      \field{pages}{265\bibrangedash 277}
     \endentry
     \entry{starheim12}{article}{}
       \name{labelname}{1}{}{%

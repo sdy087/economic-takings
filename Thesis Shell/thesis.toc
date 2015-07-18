@@ -66,35 +66,33 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.1}{\it Sainsbury's Supermarkets Ltd v Wolverhampton City Council}}{106}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}{\it Smith \& Others v Secretary of Stare for Trade and Industry}}{108}
+\contentsline {subsection}{\numberline {3.3.2}{\it Smith \& Others v Secretary of Stare for Trade and Industry}}{109}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}{\it Alliance Spring Co Ltd v The First Secretary of State}}{110}
+\contentsline {subsection}{\numberline {3.3.3}{\it Alliance Spring Co Ltd v The First Secretary of State}}{111}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}The Property Clause in the European Convention of Human Rights}{112}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}{\it Hutten-Czapska v Poland}}{113}
+\contentsline {subsection}{\numberline {3.4.1}{\it Hutten-Czapska v Poland}}{114}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}How would the ECtHR approach an economic development taking?}{120}
+\contentsline {subsection}{\numberline {3.4.2}How Would the ECtHR Approach an Economic Development Taking?}{119}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}The US Perspective on Economic Development Takings}{121}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}The History of the Public Use Restriction}{123}
+\contentsline {subsection}{\numberline {3.5.1}The History of the Public Use Restriction}{122}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}Industrialisation and increased attention to the meaning of ``public use''}{126}
+\contentsline {subsection}{\numberline {3.5.2}Legitimacy in State Courts}{125}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.3}Legitimacy in State Courts}{127}
+\contentsline {subsection}{\numberline {3.5.3}Legitimacy as Discussed by the Supreme Court}{130}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.4}Legitimacy as Discussed by the Supreme Court}{133}
+\contentsline {subsection}{\numberline {3.5.4}Economic Development Takings after {\it Kelo}}{138}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.5}Economic Development Takings after {\it Kelo}}{142}
+\contentsline {section}{\numberline {3.6}Institutional Proposals for Increased Legitimacy}{142}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Institutional Proposals for Increased Legitimacy}{146}
+\contentsline {subsection}{\numberline {3.6.1}Special Purpose Development Companies}{142}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Special Purpose Development Companies}{146}
+\contentsline {subsection}{\numberline {3.6.2}Land Assembly Districts}{150}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.2}Land Assembly Districts}{155}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Conclusion}{162}
+\contentsline {section}{\numberline {3.7}Conclusion}{157}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{II\hspace {1em}A Case Study of Norwegian Waterfalls}{167}
 \defcounter {refsection}{0}\relax 
