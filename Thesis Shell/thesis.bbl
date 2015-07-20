@@ -638,6 +638,24 @@
       \field{pages}{51}
       \keyw{us}
     \endentry
+    \entry{gevist09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e7d5253ea94fa9c642303bef9e588cd8}{Anon}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e7d5253ea94fa9c642303bef9e588cd8}{Anon}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Domstoladministrajonen}%
+      }
+      \strng{namehash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \strng{fullhash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \field{sortinit}{A}
+      \field{labeltitle}{Gevinstbetraktninger ved jordskifte}
+      \true{singletitle}
+      \field{title}{Gevinstbetraktninger ved jordskifte}
+      \field{year}{2009}
+    \endentry
     \entry{yale49}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7079c72c21415131774625ba1d64f4b0}{Anonymous}{A\bibinitperiod}{}{}{}{}{}{}}%
@@ -1280,6 +1298,23 @@
       \field{volume}{42}
       \field{year}{2003}
       \field{pages}{579\bibrangedash 595}
+    \endentry
+    \entry{bjerva12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=330eb618cfe134cced9f926313d56083}{Bjerva}{B\bibinitperiod}{Øystein\bibnamedelima Jakob}{Ø\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=330eb618cfe134cced9f926313d56083}{Bjerva}{B\bibinitperiod}{Øystein\bibnamedelima Jakob}{Ø\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{330eb618cfe134cced9f926313d56083}
+      \strng{fullhash}{330eb618cfe134cced9f926313d56083}
+      \field{sortinit}{B}
+      \field{labeltitle}{Jordskiftedomstolene og forvaltningsmyndighetene – to kokker og ingen oppskrift?}
+      \true{singletitle}
+      \field{journaltitle}{Kart og Plan}
+      \field{title}{Jordskiftedomstolene og forvaltningsmyndighetene – to kokker og ingen oppskrift?}
+      \field{volume}{72}
+      \field{pages}{130\bibrangedash 140}
     \endentry
     \entry{otra13}{jurisdiction}{}
       \field{sortinit}{B}
@@ -2119,6 +2154,24 @@
       \field{year}{2009}
       \field{pages}{889}
     \endentry
+    \entry{clapham06}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=94d46b61bfd998281984b15288b10c32}{Clapham}{C\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=94d46b61bfd998281984b15288b10c32}{Clapham}{C\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{94d46b61bfd998281984b15288b10c32}
+      \strng{fullhash}{94d46b61bfd998281984b15288b10c32}
+      \field{sortinit}{C}
+      \field{labeltitle}{Human Rights Obligations of Non-State Actors}
+      \true{singletitle}
+      \field{title}{Human Rights Obligations of Non-State Actors}
+      \field{year}{2006}
+    \endentry
     \entry{clark53}{article}{}
       \name{labelname}{1}{}{%
         {{hash=7abafb849e52d4ad8a8fb7e4b1ee5cb5}{Clark}{C\bibinitperiod}{Harold\bibnamedelima F\bbxinitsep}{H\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
@@ -2262,11 +2315,11 @@
     \endentry
     \entry{ca15}{legislation}{}
       \field{sortinit}{C}
-      \field{labeltitle}{Courts Act}
+      \field{labeltitle}{Courts of Justice Act}
       \true{singletitle}
-      \field{note}{...}
+      \field{note}{Act No 5 of 13 August 1915 relating to the Courts of Justice}
       \field{pagination}{section}
-      \field{title}{Courts Act}
+      \field{title}{Courts of Justice Act}
       \field{year}{1915}
       \keyw{no}
     \endentry
@@ -2306,6 +2359,80 @@
       \field{title}{Compulsory purchase for economic development: {A}n international perspective}
       \field{year}{2007}
       \field{pages}{1102\bibrangedash 1115}
+    \endentry
+    \entry{cullet01}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \strng{fullhash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \field{sortinit}{C}
+      \field{labeltitle}{Human Rights and Displacement: The Indian Supreme Court Decision on Sardar Sarovar in International Perspective}
+      \field{journaltitle}{The International and Comparative Law Quarterly}
+      \field{number}{4}
+      \field{title}{Human Rights and Displacement: The Indian Supreme Court Decision on Sardar Sarovar in International Perspective}
+      \field{volume}{50}
+      \field{year}{2001}
+      \field{pages}{973\bibrangedash 987}
+      \verb{url}
+      \verb http://www.jstor.org/stable/761522
+      \endverb
+    \endentry
+    \entry{cullet09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \strng{fullhash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \field{sortinit}{C}
+      \field{labeltitle}{Water Law, Poverty, and Development: Water Sector Reforms in India}
+      \field{title}{Water Law, Poverty, and Development: Water Sector Reforms in India}
+      \field{year}{2009}
+    \endentry
+    \entry{cullet11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \strng{fullhash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \field{sortinit}{C}
+      \field{labeltitle}{Water Law in a Globalised World: the Need for a New Conceptual Framework}
+      \field{journaltitle}{Journal of Environmental Law}
+      \field{number}{2}
+      \field{title}{Water Law in a Globalised World: the Need for a New Conceptual Framework}
+      \field{volume}{23}
+      \field{year}{2011}
+      \field{pages}{233\bibrangedash 254}
+    \endentry
+    \entry{cullet13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2ce506c7c97eeaa72675e14562b4ac24}{Cullet}{C\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \strng{fullhash}{2ce506c7c97eeaa72675e14562b4ac24}
+      \field{sortinit}{C}
+      \field{labeltitle}{Right to water in India – plugging conceptual and practical gaps}
+      \field{journaltitle}{The International Journal of Human Rights}
+      \field{number}{1}
+      \field{title}{Right to water in India – plugging conceptual and practical gaps}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{pages}{56\bibrangedash 78}
     \endentry
     \entry{cumbers13}{article}{}
       \name{labelname}{1}{}{%
@@ -4785,10 +4912,12 @@
       \field{labeltitle}{ILO 107}
       \true{singletitle}
       \field{day}{26}
+      \field{entrysubtype}{undoc}
       \field{indextitle}{Indigenous and Tribal Populations Convention}
       \field{month}{06}
       \field{shorttitle}{ILO 107}
       \field{title}{Indigenous and Tribal Populations Convention}
+      \field{titleaddon}{Convention No 107}
       \field{year}{1957}
     \endentry
     \entry{ilo169}{misc}{}
@@ -4799,10 +4928,12 @@
       \field{labeltitle}{ILO 169}
       \true{singletitle}
       \field{day}{27}
+      \field{entrysubtype}{undoc}
       \field{indextitle}{Indigenous and Tribal Peoples Convention}
       \field{month}{06}
       \field{shorttitle}{ILO 169}
       \field{title}{Indigenous and Tribal Peoples Convention}
+      \field{titleaddon}{Convention No 169}
       \field{year}{1989}
     \endentry
     \entry{ica17}{legislation}{}
@@ -4813,6 +4944,14 @@
       \field{title}{Industrial Licensing Act}
       \field{year}{1917}
       \keyw{no}
+    \endentry
+    \entry{nut58}{misc}{}
+      \field{sortinit}{I}
+      \field{labeltitle}{Innstilling fra Komiteen til å utrede spørsmålet om mer betryggende former for den offentlige forvaltning}
+      \true{singletitle}
+      \field{indextitle}{Innstilling fra Komiteen til å utrede spørsmålet om mer betryggende former for den offentlige forvaltning}
+      \field{journaltitle}{NUT 1958:3}
+      \field{title}{Innstilling fra Komiteen til å utrede spørsmålet om mer betryggende former for den offentlige forvaltning}
     \endentry
     \entry{innst59}{misc}{}
       \field{sortinit}{I}
@@ -5579,6 +5718,25 @@
       \field{year}{1943}
       \keyw{en}
     \endentry
+    \entry{lee13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b3f69c0e3919d4ba110691e2e9fc2590}{Lee}{L\bibinitperiod}{Brian\bibnamedelima Angelo}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b3f69c0e3919d4ba110691e2e9fc2590}{Lee}{L\bibinitperiod}{Brian\bibnamedelima Angelo}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b3f69c0e3919d4ba110691e2e9fc2590}
+      \strng{fullhash}{b3f69c0e3919d4ba110691e2e9fc2590}
+      \field{sortinit}{L}
+      \field{labeltitle}{Just undercompensation: the idiosyncratic premium in eminent domain}
+      \true{singletitle}
+      \field{journaltitle}{Columbia Law Review}
+      \field{number}{3}
+      \field{title}{Just undercompensation: the idiosyncratic premium in eminent domain}
+      \field{volume}{113}
+      \field{year}{2013}
+      \field{pages}{593\bibrangedash 655}
+    \endentry
     \entry{lehavi07}{article}{}
       \name{labelname}{2}{}{%
         {{hash=73d7697a869c60cce8c5dfdd536d958f}{Lehavi}{L\bibinitperiod}{Amnon}{A\bibinitperiod}{}{}{}{}}%
@@ -5988,6 +6146,43 @@
       \field{title}{A Dictionary of Geography}
       \field{year}{2009}
     \endentry
+    \entry{mcbeth08}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6924897e87518f422abb46dd4590f69b}{Mcbeth}{M\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6924897e87518f422abb46dd4590f69b}{Mcbeth}{M\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6924897e87518f422abb46dd4590f69b}
+      \strng{fullhash}{6924897e87518f422abb46dd4590f69b}
+      \field{sortinit}{M}
+      \field{labeltitle}{Every organ of society: the responsibility of non-state actors for the realization of human rights}
+      \true{singletitle}
+      \field{journaltitle}{Hamline Journal of Public Law and Policy}
+      \field{number}{1}
+      \field{title}{Every organ of society: the responsibility of non-state actors for the realization of human rights}
+      \field{volume}{30}
+      \field{year}{2008}
+      \field{pages}{33\bibrangedash 88}
+    \endentry
+    \entry{mehta09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ba03f1d085ed7216b168f93ba72d9db6}{Mehta}{M\bibinitperiod}{Lyla}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ba03f1d085ed7216b168f93ba72d9db6}{Mehta}{M\bibinitperiod}{Lyla}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{ba03f1d085ed7216b168f93ba72d9db6}
+      \strng{fullhash}{ba03f1d085ed7216b168f93ba72d9db6}
+      \field{sortinit}{M}
+      \field{labeltitle}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \true{singletitle}
+      \field{title}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \field{year}{2009}
+    \endentry
     \entry{meidinger80}{article}{}
       \name{labelname}{1}{}{%
         {{hash=33c6dc61106fc7253a55b5c7706de615}{Meidinger}{M\bibinitperiod}{Errol}{E\bibinitperiod}{}{}{}{}}%
@@ -6124,6 +6319,25 @@
       \true{singletitle}
       \field{title}{The Economic Theory of Eminent Domain: {P}rivate Property, Public Use}
       \field{year}{2011}
+    \endentry
+    \entry{michelman67}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=803d7c681c694bc85b6a4d474fc9c483}{Michelman}{M\bibinitperiod}{Frank\bibnamedelima I\bbxinitsep}{F\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=803d7c681c694bc85b6a4d474fc9c483}{Michelman}{M\bibinitperiod}{Frank\bibnamedelima I\bbxinitsep}{F\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{803d7c681c694bc85b6a4d474fc9c483}
+      \strng{fullhash}{803d7c681c694bc85b6a4d474fc9c483}
+      \field{sortinit}{M}
+      \field{labeltitle}{Property, Utility, and Fairness: Comments on the Ethical Foundations of "Just Compensation" Law}
+      \true{singletitle}
+      \field{journaltitle}{Harvard Law Review}
+      \field{number}{6}
+      \field{title}{Property, Utility, and Fairness: Comments on the Ethical Foundations of "Just Compensation" Law}
+      \field{volume}{80}
+      \field{year}{1967}
+      \field{pages}{1165\bibrangedash 1258}
     \endentry
     \entry{wayne04}{jurisdiction}{}
       \list{institution}{1}{%
@@ -6743,22 +6957,6 @@
       \field{labeltitle}{Women and human development: the capabilities approach}
       \field{title}{Women and human development: the capabilities approach}
       \field{year}{2000}
-    \endentry
-    \entry{nut54}{misc}{}
-      \field{sortinit}{N}
-      \field{labeltitle}{NUT 1954:1}
-      \true{singletitle}
-      \field{indextitle}{NUT 1954:1}
-      \field{note}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
-      \field{title}{NUT 1954:1}
-    \endentry
-    \entry{nut58}{misc}{}
-      \field{sortinit}{N}
-      \field{labeltitle}{NUT 1958:3}
-      \true{singletitle}
-      \field{indextitle}{NUT 1958:3}
-      \field{note}{Innstilling fra Komiteen til å utrede spørsmålet om mer betryggende former for den offentlige forvaltning}
-      \field{title}{NUT 1958:3}
     \endentry
     \entry{jorpeland11}{jurisdiction}{}
       \field{sortinit}{O}
@@ -7429,6 +7627,27 @@
       \field{title}{Reinterpreting Property}
       \field{year}{1993}
     \endentry
+    \entry{usha09}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=efe0e7bbec896c8d7cfbddd5a2279d2a}{Ramanathan}{R\bibinitperiod}{Usha}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=efe0e7bbec896c8d7cfbddd5a2279d2a}{Ramanathan}{R\bibinitperiod}{Usha}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ba03f1d085ed7216b168f93ba72d9db6}{Mehta}{M\bibinitperiod}{Lyla}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{efe0e7bbec896c8d7cfbddd5a2279d2a}
+      \strng{fullhash}{efe0e7bbec896c8d7cfbddd5a2279d2a}
+      \field{sortinit}{R}
+      \field{labeltitle}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \true{singletitle}
+      \field{title}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \field{year}{2009}
+    \endentry
     \entry{rave13}{article}{}
       \name{labelname}{1}{}{%
         {{hash=36406307be8b508e726c973df0551b31}{Rave}{R\bibinitperiod}{D\bbxinitsep\bibnamedelima Theodore}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
@@ -7463,6 +7682,23 @@
       \field{title}{Retten til jorden i Finnmark, samenes rettigheter og forslaget til Finnmarkslov}
       \field{volume}{31}
       \field{year}{2005}
+    \endentry
+    \entry{ravna08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bd7f6012109a6e8c9d141cf7b2abf9b9}{Ravna}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gyldendahl}%
+      }
+      \strng{namehash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
+      \strng{fullhash}{bd7f6012109a6e8c9d141cf7b2abf9b9}
+      \field{sortinit}{R}
+      \field{labeltitle}{Perspektiver på Jordskifte}
+      \field{title}{Perspektiver på Jordskifte}
+      \field{year}{2008}
     \endentry
     \entry{ravna09a}{inbook}{}
       \name{labelname}{1}{}{%
@@ -7505,24 +7741,6 @@
       \field{labeltitle}{Samerett og samiske rettigheter i Norge}
       \field{title}{Samerett og samiske rettigheter i Norge}
       \field{year}{2012}
-    \endentry
-    \entry{ravna08}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=7c9728ee7b4f111dfb3621a5cf6b5588}{Ravnå}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=7c9728ee7b4f111dfb3621a5cf6b5588}{Ravnå}{R\bibinitperiod}{Øyvind}{Ø\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Gyldendahl}%
-      }
-      \strng{namehash}{7c9728ee7b4f111dfb3621a5cf6b5588}
-      \strng{fullhash}{7c9728ee7b4f111dfb3621a5cf6b5588}
-      \field{sortinit}{R}
-      \field{labeltitle}{Perspektiver på Jordskifte}
-      \true{singletitle}
-      \field{title}{Perspektiver på Jordskifte}
-      \field{year}{2008}
     \endentry
     \entry{rawls71}{book}{}
       \name{labelname}{1}{}{%
@@ -7618,10 +7836,8 @@
       \field{labeltitle}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
       \true{singletitle}
       \field{indextitle}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
-      \field{journaltitle}{NUT (Norwegian Governmental Reports)}
+      \field{journaltitle}{NUT 1969:2}
       \field{title}{Report Regarding Appraisal Procedures and Compensation following Expropriation}
-      \field{volume}{2}
-      \field{year}{1969}
     \endentry
     \entry{sp}{online}{}
       \name{labelname}{2}{}{%
@@ -7943,7 +8159,7 @@
       \strng{fullhash}{cce68173e6f2c12a7c2165dbfb6be4da}
       \field{sortinit}{R}
       \field{labeltitle}{Property as Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory}
-      \field{journaltitle}{Yale Journal of Law & the Humanities}
+      \field{journaltitle}{Yale Journal of Law \& the Humanities}
       \field{number}{1}
       \field{title}{Property as Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory}
       \field{volume}{2}
@@ -8518,6 +8734,25 @@
       \field{edition}{1}
       \field{title}{Development as freedom}
       \field{year}{1999}
+    \endentry
+    \entry{sevatdal06}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e6e165446292cf4d329fc6feefc684c4}{Sevatdal}{S\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e6e165446292cf4d329fc6feefc684c4}{Sevatdal}{S\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e6e165446292cf4d329fc6feefc684c4}
+      \strng{fullhash}{e6e165446292cf4d329fc6feefc684c4}
+      \field{sortinit}{S}
+      \field{labeltitle}{Institutions and innovations: Property and land use in Norwegian outfields}
+      \true{singletitle}
+      \field{journaltitle}{Norsk Geografisk Tidsskrift - Norwegian Journal of Geography}
+      \field{number}{1}
+      \field{title}{Institutions and innovations: Property and land use in Norwegian outfields}
+      \field{volume}{60}
+      \field{year}{2006}
+      \field{pages}{77\bibrangedash 88}
     \endentry
     \entry{sharfstein2012}{article}{}
       \name{labelname}{1}{}{%
@@ -9138,7 +9373,23 @@
       \field{pages}{297}
       \keyw{us}
     \endentry
-    \entry{stenseth07}{inbook}{}
+    \entry{stenseth07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \strng{fullhash}{7af7e78fc5863c4b8dfad6c850e87853}
+      \field{sortinit}{S}
+      \field{labeltitle}{De nye reglene om ``urbant jordskifte''. En presentasjon og vurdering}
+      \field{journaltitle}{Tidsskrift for Eiendomsrett}
+      \field{title}{De nye reglene om ``urbant jordskifte''. En presentasjon og vurdering}
+      \field{year}{2007}
+      \field{pages}{293\bibrangedash 319}
+    \endentry
+    \entry{stenseth07a}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=7af7e78fc5863c4b8dfad6c850e87853}{Stenseth}{S\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
       }
@@ -9267,6 +9518,28 @@
       \verb{url}
       \verb http://www.da.org.za/2015/05/more-time-needed-for-comment-on-state-custodianship-of-agri-land-bill/
       \endverb
+    \endentry
+    \entry{haagensen02}{inbook}{}
+      \name{labelname}{2}{}{%
+        {{hash=a188a90cc2a7af5e3bfb041bfe5b4189}{Stiansen}{S\bibinitperiod}{Odd}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=6a4b337f1c6deecc99f8abdd5b2c39e9}{Haagensen}{H\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a188a90cc2a7af5e3bfb041bfe5b4189}{Stiansen}{S\bibinitperiod}{Odd}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=6a4b337f1c6deecc99f8abdd5b2c39e9}{Haagensen}{H\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{ccd1a33c882ba71740cb0451c8706e6c}
+      \strng{fullhash}{ccd1a33c882ba71740cb0451c8706e6c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Vannkraftutbygging}
+      \true{singletitle}
+      \field{booktitle}{Vassdrags- og energirett}
+      \field{edition}{2}
+      \field{title}{Vannkraftutbygging}
+      \field{year}{2002}
     \endentry
     \entry{stoebuck72}{article}{}
       \name{labelname}{1}{}{%
@@ -9981,6 +10254,14 @@
       \field{year}{2009}
       \field{pages}{163\bibrangedash 183}
     \endentry
+    \entry{nut54}{misc}{}
+      \field{sortinit}{U}
+      \field{labeltitle}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
+      \true{singletitle}
+      \field{indextitle}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
+      \field{journaltitle}{NUT 1954:1}
+      \field{title}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
+    \endentry
     \entry{vanhorne95}{jurisdiction}{}
       \field{sortinit}{V}
       \field{labeltitle}{Vanhorne's Lessee}
@@ -10034,6 +10315,14 @@
       \field{title}{Vika}
       \field{year}{2005}
       \keyw{no}
+    \endentry
+    \entry{austena97}{inbook}{}
+      \field{sortinit}{V}
+      \field{labeltitle}{Vilkårene for å kreve jordskifte}
+      \true{singletitle}
+      \field{booktitle}{Ånd og Rett, Festskrift til Birger Stuevold Larsen på 70-årsdagen 19. august 1997}
+      \field{title}{Vilkårene for å kreve jordskifte}
+      \field{year}{1997}
     \endentry
     \entry{vislie44}{book}{}
       \name{labelname}{1}{}{%
