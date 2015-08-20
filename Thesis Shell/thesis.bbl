@@ -7383,6 +7383,44 @@
       \field{year}{2010}
       \field{pages}{539\bibrangedash 558}
     \endentry
+    \entry{pillay12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=62213db993fb1e96af137fe673ff7fc6}{Pillay}{P\bibinitperiod}{Anashri}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=62213db993fb1e96af137fe673ff7fc6}{Pillay}{P\bibinitperiod}{Anashri}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62213db993fb1e96af137fe673ff7fc6}
+      \strng{fullhash}{62213db993fb1e96af137fe673ff7fc6}
+      \field{sortinit}{P}
+      \field{labeltitle}{Toward effective social and economic rights adjudication: The role of meaningful engagement}
+      \field{journaltitle}{International Journal of Constitutional Law}
+      \field{number}{3}
+      \field{title}{Toward effective social and economic rights adjudication: The role of meaningful engagement}
+      \field{volume}{10}
+      \field{year}{2012}
+      \field{pages}{732\bibrangedash 755}
+    \endentry
+    \entry{pillay14}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=62213db993fb1e96af137fe673ff7fc6}{Pillay}{P\bibinitperiod}{Anashri}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=62213db993fb1e96af137fe673ff7fc6}{Pillay}{P\bibinitperiod}{Anashri}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62213db993fb1e96af137fe673ff7fc6}
+      \strng{fullhash}{62213db993fb1e96af137fe673ff7fc6}
+      \field{sortinit}{P}
+      \field{labeltitle}{Revisiting the Indian Experience of Economic and Social Rights Adjudication: The Need for a Principled Approach to Judicial Activism and Restraint}
+      \field{issn}{1471-6895}
+      \field{issue}{02}
+      \field{journaltitle}{International & Comparative Law Quarterly}
+      \field{month}{4}
+      \field{title}{Revisiting the Indian Experience of Economic and Social Rights Adjudication: The Need for a Principled Approach to Judicial Activism and Restraint}
+      \field{volume}{63}
+      \field{year}{2014}
+      \field{pages}{385\bibrangedash 408}
+    \endentry
     \entry{pb08}{legislation}{}
       \field{sortinit}{P}
       \field{labeltitle}{Planning and Building Act}
@@ -7782,6 +7820,17 @@
       \field{year}{2010}
       \field{pages}{437}
       \keyw{gb}
+    \endentry
+    \entry{tariff14}{misc}{}
+      \field{sortinit}{R}
+      \field{labeltitle}{Regulations on general application of the Collective Agreement for Agriculture and Horticulture}
+      \true{singletitle}
+      \field{indextitle}{Regulations on general application of the Collective Agreement for Agriculture and Horticulture}
+      \field{journaltitle}{FOR-2014-11-27-1481}
+      \field{pagination}{section}
+      \field{title}{Regulations on general application of the Collective Agreement for Agriculture and Horticulture}
+      \field{year}{2014}
+      \keyw{no}
     \endentry
     \entry{reiten95}{article}{}
       \name{labelname}{1}{}{%
@@ -10599,6 +10648,24 @@
       \field{volume}{83}
       \field{year}{1998}
       \field{pages}{277}
+    \endentry
+    \entry{winge13}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0b4945816d3359f479917474c4c1f904}{Winge}{W\bibinitperiod}{Nikolai\bibnamedelima K\bbxinitsep}{N\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0b4945816d3359f479917474c4c1f904}{Winge}{W\bibinitperiod}{Nikolai\bibnamedelima K\bbxinitsep}{N\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget}%
+      }
+      \strng{namehash}{0b4945816d3359f479917474c4c1f904}
+      \strng{fullhash}{0b4945816d3359f479917474c4c1f904}
+      \field{sortinit}{W}
+      \field{labeltitle}{Kampen om arealene: Rettslige styringsmidler for en helhetlig utmarksforvaltning}
+      \true{singletitle}
+      \field{title}{Kampen om arealene: Rettslige styringsmidler for en helhetlig utmarksforvaltning}
+      \field{year}{2013}
     \endentry
     \entry{wyman09}{article}{}
       \name{labelname}{1}{}{%
