@@ -114,14 +114,42 @@
       \field{year}{2013}
       \keyw{sa}
     \endentry
+    \entry{sauda07}{jurisdiction}{}
+      \field{sortinit}{A}
+      \field{labeltitle}{Aktieselskabet Saudefaldene v Hallingstad and others}
+      \field{number}{TSTAV-2004-84901}
+      \field{title}{Aktieselskabet Saudefaldene v Hallingstad and others}
+      \field{year}{2007}
+      \keyw{no}
+    \endentry
     \entry{sauda09}{jurisdiction}{}
       \field{sortinit}{A}
       \field{labeltitle}{Aktieselskabet Saudefaldene v Hallingstad and others}
-      \true{singletitle}
       \field{number}{LG-2007-176723}
       \field{title}{Aktieselskabet Saudefaldene v Hallingstad and others}
       \field{year}{2009}
       \keyw{no}
+    \endentry
+    \entry{demsetz73}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4ac74e024868b9db3b04326e53e66c23}{Alchian}{A\bibinitperiod}{Armen\bibnamedelima A\bbxinitsep}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=0ad7a87afd5de05ef3aa8b042e0065e5}{Demsetz}{D\bibinitperiod}{Harold}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4ac74e024868b9db3b04326e53e66c23}{Alchian}{A\bibinitperiod}{Armen\bibnamedelima A\bbxinitsep}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=0ad7a87afd5de05ef3aa8b042e0065e5}{Demsetz}{D\bibinitperiod}{Harold}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{68eb81176bad5540cceafa7b82c82c88}
+      \strng{fullhash}{68eb81176bad5540cceafa7b82c82c88}
+      \field{sortinit}{A}
+      \field{labeltitle}{The Property Right Paradigm}
+      \true{singletitle}
+      \field{journaltitle}{The Journal of Economic History}
+      \field{number}{1}
+      \field{title}{The Property Right Paradigm}
+      \field{volume}{33}
+      \field{year}{1973}
+      \field{pages}{16\bibrangedash 27}
     \endentry
     \entry{alexander88}{article}{}
       \name{labelname}{1}{}{%
@@ -1060,6 +1088,26 @@
       \field{year}{2007}
       \field{pages}{100}
     \endentry
+    \entry{bell05}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e50e71d6c97f1a5a99065ed6a5abb868}{Bell}{B\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4f8b476e2802acd13ff6201cc675fd09}{Parchomovsky}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e50e71d6c97f1a5a99065ed6a5abb868}{Bell}{B\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4f8b476e2802acd13ff6201cc675fd09}{Parchomovsky}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6f5810f84f26b1c9cf88341a965cb180}
+      \strng{fullhash}{6f5810f84f26b1c9cf88341a965cb180}
+      \field{sortinit}{B}
+      \field{labeltitle}{A theory of property}
+      \field{journaltitle}{Cornell Law Review}
+      \field{number}{3}
+      \field{title}{A theory of property}
+      \field{volume}{90}
+      \field{year}{2005}
+      \field{pages}{531\bibrangedash 615}
+    \endentry
     \entry{bell09}{article}{}
       \name{labelname}{1}{}{%
         {{hash=61bde010db7de088c56bb3befcdf7736}{Bell}{B\bibinitperiod}{Abraham}{A\bibinitperiod}{}{}{}{}}%
@@ -1211,10 +1259,17 @@
     \entry{hellandsfoss97}{jurisdiction}{}
       \field{sortinit}{B}
       \field{labeltitle}{Bergenshalvøens Kommunale Kraftselskap v Neset and others}
-      \true{singletitle}
       \field{number}{Rt-1997-1594}
       \field{title}{Bergenshalvøens Kommunale Kraftselskap v Neset and others}
       \field{year}{1997}
+      \keyw{no}
+    \endentry
+    \entry{hellandsfoss99}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Bergenshalvøens Kommunale Kraftselskap v Neset and others}
+      \field{number}{RG-2000-459}
+      \field{title}{Bergenshalvøens Kommunale Kraftselskap v Neset and others}
+      \field{year}{1999}
       \keyw{no}
     \endentry
     \entry{berger78}{article}{}
@@ -1316,23 +1371,40 @@
       \field{volume}{72}
       \field{pages}{130\bibrangedash 140}
     \endentry
+    \entry{otra12}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Otra II}
+      \field{number}{LA-2010-181441}
+      \field{shorttitle}{Otra II}
+      \field{title}{Bjørnarå and others v Otra Kraft DA, Otteraaens Brugseierforening}
+      \field{year}{2012}
+      \keyw{no}
+    \endentry
     \entry{otra13}{jurisdiction}{}
       \field{sortinit}{B}
       \field{labeltitle}{Otra II}
-      \true{singletitle}
       \field{number}{Rt-2013-612}
       \field{shorttitle}{Otra II}
       \field{title}{Bjørnarå and others v Otra Kraft DA, Otteraaens Brugseierforening}
+      \field{year}{2013}
       \keyw{no}
     \endentry
     \entry{klovtveit11}{jurisdiction}{}
       \field{sortinit}{B}
       \field{labeltitle}{Kløvtveit}
-      \true{singletitle}
       \field{number}{Rt-2011-1683}
       \field{shorttitle}{Kløvtveit}
       \field{title}{{BKK} Produksjon AS v Austgulen and others}
       \field{year}{2011}
+      \keyw{no}
+    \endentry
+    \entry{klovtveit13}{jurisdiction}{}
+      \field{sortinit}{B}
+      \field{labeltitle}{Kløvtveit}
+      \field{number}{LG-2011-205374}
+      \field{shorttitle}{Kløvtveit}
+      \field{title}{{BKK} Produksjon AS v Austgulen and others}
+      \field{year}{2013}
       \keyw{no}
     \endentry
     \entry{blackstone79}{book}{}
@@ -2323,6 +2395,29 @@
       \field{year}{1915}
       \keyw{no}
     \endentry
+    \entry{cox10}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=b4477e41c41f26665953037cc28a3efc}{Cox}{C\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7f4f3951aecc99d6dceba5c16d733e96}{Arnold}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6c4cb910df9b5c0910f517cf469bb156}{Tomas}{T\bibinitperiod}{SV}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=b4477e41c41f26665953037cc28a3efc}{Cox}{C\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7f4f3951aecc99d6dceba5c16d733e96}{Arnold}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6c4cb910df9b5c0910f517cf469bb156}{Tomas}{T\bibinitperiod}{SV}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{731531cecaf5c6fadb3a6713a413ca2f}
+      \strng{fullhash}{731531cecaf5c6fadb3a6713a413ca2f}
+      \field{sortinit}{C}
+      \field{labeltitle}{A Review of Design Principles for Community-based Natural Resource Management}
+      \true{singletitle}
+      \field{journaltitle}{Ecology And Society}
+      \field{number}{4}
+      \field{title}{A Review of Design Principles for Community-based Natural Resource Management}
+      \field{volume}{15}
+      \field{year}{2010}
+      \field{pages}{38}
+    \endentry
     \entry{crawford11}{article}{}
       \name{labelname}{1}{}{%
         {{hash=2e9a95cfaac9fd835c82b994c4e2f94e}{Crawford}{C\bibinitperiod}{Colin}{C\bibinitperiod}{}{}{}{}}%
@@ -2784,6 +2879,25 @@
       \verb http://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-11421376
       \endverb
     \endentry
+    \entry{demsetz67}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0ad7a87afd5de05ef3aa8b042e0065e5}{Demsetz}{D\bibinitperiod}{Harold}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0ad7a87afd5de05ef3aa8b042e0065e5}{Demsetz}{D\bibinitperiod}{Harold}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0ad7a87afd5de05ef3aa8b042e0065e5}
+      \strng{fullhash}{0ad7a87afd5de05ef3aa8b042e0065e5}
+      \field{sortinit}{D}
+      \field{labeltitle}{Toward a Theory of Property Rights}
+      \true{singletitle}
+      \field{journaltitle}{The American Economic Review}
+      \field{number}{2}
+      \field{title}{Toward a Theory of Property Rights}
+      \field{volume}{57}
+      \field{year}{1967}
+      \field{pages}{347\bibrangedash 359}
+    \endentry
     \entry{haltbrekken12}{article}{}
       \field{sortinit}{D}
       \field{labeltitle}{Det yppes til ny vassdragsstrid!}
@@ -3169,6 +3283,20 @@
       \field{pages}{276}
       \keyw{echr}
     \endentry
+    \entry{pye07}{jurisdiction}{year-essential=true}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{JA Pye (Oxford) Ltd v United Kingdom}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{44302/02}
+      \field{title}{JA Pye (Oxford) Ltd v United Kingdom}
+      \field{year}{2007}
+      \field{pages}{5559}
+      \keyw{echr}
+    \endentry
     \entry{khamidov07}{jurisdiction}{year-essential=true}
       \list{institution}{1}{%
         {ECtHR}%
@@ -3324,6 +3452,41 @@
       \field{note}{available at SSRN}
       \field{title}{The Affirmative Duties of Property Owners}
     \endentry
+    \entry{ellickson73}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ea4172a9f9b480e1033bbe52d48cdb48}{Ellickson}{E\bibinitperiod}{Robert\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ea4172a9f9b480e1033bbe52d48cdb48}{Ellickson}{E\bibinitperiod}{Robert\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ea4172a9f9b480e1033bbe52d48cdb48}
+      \strng{fullhash}{ea4172a9f9b480e1033bbe52d48cdb48}
+      \field{sortinit}{E}
+      \field{labeltitle}{Alternatives to Zoning: Covenants, Nuisance Rules, and Fines as Land Use Controls}
+      \field{journaltitle}{The University of Chicago Law Review}
+      \field{number}{4}
+      \field{title}{Alternatives to Zoning: Covenants, Nuisance Rules, and Fines as Land Use Controls}
+      \field{volume}{40}
+      \field{year}{1973}
+      \field{pages}{681\bibrangedash 781}
+    \endentry
+    \entry{ellickson91}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ea4172a9f9b480e1033bbe52d48cdb48}{Ellickson}{E\bibinitperiod}{Robert\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ea4172a9f9b480e1033bbe52d48cdb48}{Ellickson}{E\bibinitperiod}{Robert\bibnamedelima C\bbxinitsep}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{ea4172a9f9b480e1033bbe52d48cdb48}
+      \strng{fullhash}{ea4172a9f9b480e1033bbe52d48cdb48}
+      \field{sortinit}{E}
+      \field{labeltitle}{Order Without Law: How Neighbors Settle Disputes}
+      \field{title}{Order Without Law: How Neighbors Settle Disputes}
+      \field{year}{1991}
+    \endentry
     \entry{ely07}{book}{}
       \name{labelname}{1}{}{%
         {{hash=7d9629eb4bfc04fffa24d6e7687d7ada}{Ely}{E\bibinitperiod}{James\bibnamedelima W\bbxinitsep}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
@@ -3338,9 +3501,26 @@
       \strng{fullhash}{7d9629eb4bfc04fffa24d6e7687d7ada}
       \field{sortinit}{E}
       \field{labeltitle}{The Guardian of Every Other Right: {A} Constitutional History of Property Rights}
-      \true{singletitle}
       \field{title}{The Guardian of Every Other Right: {A} Constitutional History of Property Rights}
       \field{year}{2007}
+    \endentry
+    \entry{ely09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7d9629eb4bfc04fffa24d6e7687d7ada}{Ely}{E\bibinitperiod}{James\bibnamedelima W\bbxinitsep}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7d9629eb4bfc04fffa24d6e7687d7ada}{Ely}{E\bibinitperiod}{James\bibnamedelima W\bbxinitsep}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7d9629eb4bfc04fffa24d6e7687d7ada}
+      \strng{fullhash}{7d9629eb4bfc04fffa24d6e7687d7ada}
+      \field{sortinit}{E}
+      \field{labeltitle}{Post- Kelo Reform: Is the Glass Half Full or Half Empty?}
+      \field{journaltitle}{Supreme Court Economic Review}
+      \field{number}{1}
+      \field{title}{Post- Kelo Reform: Is the Glass Half Full or Half Empty?}
+      \field{volume}{17}
+      \field{year}{2009}
+      \field{pages}{127}
     \endentry
     \entry{vikfalli71}{jurisdiction}{}
       \field{sortinit}{E}
@@ -3617,6 +3797,25 @@
       \field{year}{2005}
       \field{pages}{71\bibrangedash 98}
     \endentry
+    \entry{fennel11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e14ea2700d330c9f5b01b350973ede7f}{Fennel}{F\bibinitperiod}{L\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e14ea2700d330c9f5b01b350973ede7f}{Fennel}{F\bibinitperiod}{L\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e14ea2700d330c9f5b01b350973ede7f}
+      \strng{fullhash}{e14ea2700d330c9f5b01b350973ede7f}
+      \field{sortinit}{F}
+      \field{labeltitle}{Ostrom's Law: Property Rights in the Commons}
+      \true{singletitle}
+      \field{journaltitle}{International journal of the commons}
+      \field{number}{1}
+      \field{title}{Ostrom's Law: Property Rights in the Commons}
+      \field{volume}{5}
+      \field{year}{2011}
+      \field{pages}{9}
+    \endentry
     \entry{fennell04}{article}{}
       \name{labelname}{1}{}{%
         {{hash=72209f6dabe6e3a0054adfe6328ae055}{Fennell}{F\bibinitperiod}{Lee\bibnamedelima Anne}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -3707,6 +3906,42 @@
       \field{volume}{89}
       \field{year}{1995}
       \field{pages}{867\bibrangedash 881}
+    \endentry
+    \entry{fischel95}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=415c76fc30bebce9a28070d3d602a5d7}{Fischel}{F\bibinitperiod}{William\bibnamedelima A\bbxinitsep}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=415c76fc30bebce9a28070d3d602a5d7}{Fischel}{F\bibinitperiod}{William\bibnamedelima A\bbxinitsep}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{415c76fc30bebce9a28070d3d602a5d7}
+      \strng{fullhash}{415c76fc30bebce9a28070d3d602a5d7}
+      \field{sortinit}{F}
+      \field{labeltitle}{Regulatory Takings: Law, Economics, and Politics}
+      \field{title}{Regulatory Takings: Law, Economics, and Politics}
+      \field{year}{1995}
+    \endentry
+    \entry{fischel04}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=415c76fc30bebce9a28070d3d602a5d7}{Fischel}{F\bibinitperiod}{William\bibnamedelima A\bbxinitsep}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=415c76fc30bebce9a28070d3d602a5d7}{Fischel}{F\bibinitperiod}{William\bibnamedelima A\bbxinitsep}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{415c76fc30bebce9a28070d3d602a5d7}
+      \strng{fullhash}{415c76fc30bebce9a28070d3d602a5d7}
+      \field{sortinit}{F}
+      \field{labeltitle}{An Economic History of Zoning and a Cure for its Exclusionary Effects}
+      \field{abstract}{The paper outlines the 20th-century history of American zoning to explain how home-owners came to dominate its content and administration in most jurisdictions. Zoning's original purpose was to protect home-owners in residential areas from devaluation by industrial and apartment uses that had been made footloose by trucks and buses around 1910-20. Completion of the interstate highway system around 1970 made jobs and employees so mobile that suburbs adopted growth controls to stem the tide. If zoning is indeed a substitute for home-value insurance, it seems worthwhile to investigate the possibility of home-equity insurance to reduce the demand for exclusionary zoning.}
+      \field{journaltitle}{Urban Studies}
+      \field{number}{2}
+      \field{title}{An Economic History of Zoning and a Cure for its Exclusionary Effects}
+      \field{volume}{41}
+      \field{year}{2004}
+      \field{pages}{317\bibrangedash 340}
     \endentry
     \entry{fischel88}{article}{}
       \name{labelname}{2}{}{%
@@ -4016,6 +4251,24 @@
       \field{pages}{522}
       \keyw{us}
     \endentry
+    \entry{gerhard13}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e8801ab9f1d0da7966b445f90fd2b1b1}{Gerhart}{G\bibinitperiod}{Peter\bibnamedelima M\bbxinitsep}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e8801ab9f1d0da7966b445f90fd2b1b1}{Gerhart}{G\bibinitperiod}{Peter\bibnamedelima M\bbxinitsep}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e8801ab9f1d0da7966b445f90fd2b1b1}
+      \strng{fullhash}{e8801ab9f1d0da7966b445f90fd2b1b1}
+      \field{sortinit}{G}
+      \field{labeltitle}{Property Law and Social Morality}
+      \true{singletitle}
+      \field{title}{Property Law and Social Morality}
+      \field{year}{2013}
+    \endentry
     \entry{gisler10}{article}{}
       \name{labelname}{2}{}{%
         {{hash=3fcb255953ee16a238d9554a58bf1dd6}{Gieseler}{G\bibinitperiod}{Nicholas\bibnamedelima M\bbxinitsep}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -4145,6 +4398,24 @@
       \field{volume}{50}
       \field{year}{1991}
       \field{pages}{252\bibrangedash 307}
+    \endentry
+    \entry{gray94}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=904eddc68d91c8e66406bcc3f679e990}{Gray}{G\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{904eddc68d91c8e66406bcc3f679e990}
+      \strng{fullhash}{904eddc68d91c8e66406bcc3f679e990}
+      \field{sortinit}{G}
+      \field{labeltitle}{Equitable Property}
+      \field{journaltitle}{Current Legal Problems}
+      \field{number}{2}
+      \field{title}{Equitable Property}
+      \field{volume}{47}
+      \field{year}{1994}
+      \field{pages}{157\bibrangedash 214}
     \endentry
     \entry{gray11}{inbook}{}
       \name{labelname}{1}{}{%
@@ -6056,6 +6327,25 @@
       \field{title}{Private Property, Community Development and Eminent Domain}
       \field{year}{2008}
     \endentry
+    \entry{mangin14}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4dd938b1bf0f6f64f603ae91c9ba708f}{Mangin}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4dd938b1bf0f6f64f603ae91c9ba708f}{Mangin}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4dd938b1bf0f6f64f603ae91c9ba708f}
+      \strng{fullhash}{4dd938b1bf0f6f64f603ae91c9ba708f}
+      \field{sortinit}{M}
+      \field{labeltitle}{The new exclusionary zoning}
+      \true{singletitle}
+      \field{journaltitle}{Stanford Law \& Policy Review}
+      \field{number}{1}
+      \field{title}{The new exclusionary zoning}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{pages}{91}
+    \endentry
     \entry{mann59}{article}{}
       \name{labelname}{1}{}{%
         {{hash=3232d8e82d1b4fa520a4f1205488b0bf}{Mann}{M\bibinitperiod}{F\bbxinitsep\bibnamedelima A\bbxinitsep}{F\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -6755,6 +7045,16 @@
       \field{title}{IWRM status in the Glomma River basin}
       \field{year}{2010}
     \endentry
+    \entry{mardola73}{jurisdiction}{}
+      \field{sortinit}{N}
+      \field{labeltitle}{Mardøla}
+      \true{singletitle}
+      \field{number}{Rt-1973-107}
+      \field{shorttitle}{Mardøla}
+      \field{title}{Nesset kommune and others v Staten v/Norges vassdrags- og elektrisitetsvesen}
+      \field{year}{1973}
+      \keyw{no}
+    \endentry
     \entry{nichols40}{article}{}
       \name{labelname}{1}{}{%
         {{hash=61c5b99c933b635beb0d96c7fa23350b}{Nichols}{N\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
@@ -7091,14 +7391,57 @@
         {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {Cambridge}%
+        {Cambridge University Press}%
       }
       \strng{namehash}{83bfc750a74aff11efa4bbcd04d4af05}
       \strng{fullhash}{83bfc750a74aff11efa4bbcd04d4af05}
       \field{sortinit}{O}
       \field{labeltitle}{Governing the commons: the evolution of institutions for collective action}
-      \true{singletitle}
       \field{title}{Governing the commons: the evolution of institutions for collective action}
+    \endentry
+    \entry{ostrom10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{fullhash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \field{sortinit}{O}
+      \field{labeltitle}{Beyond Markets and States: Polycentric Governance of Complex Economic Systems}
+      \field{journaltitle}{The American Economic Review}
+      \field{number}{3}
+      \field{title}{Beyond Markets and States: Polycentric Governance of Complex Economic Systems}
+      \field{volume}{100}
+      \field{year}{2010}
+      \field{pages}{641\bibrangedash 672}
+    \endentry
+    \entry{ostrom10b}{inbook}{}
+      \name{labelname}{2}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=fe020db67623b36c1ecf23307ff1a96d}{Hess}{H\bibinitperiod}{Charlotte}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{Ostrom}{O\bibinitperiod}{Elinor}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=fe020db67623b36c1ecf23307ff1a96d}{Hess}{H\bibinitperiod}{Charlotte}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=da4c87333c24d592d793f5f15538f364}{Bouckaert}{B\bibinitperiod}{Boudewijn}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar}%
+      }
+      \strng{namehash}{788ddf7a14d20f8c87852c58d4f17a3c}
+      \strng{fullhash}{788ddf7a14d20f8c87852c58d4f17a3c}
+      \field{sortinit}{O}
+      \field{labeltitle}{Private and Common Property}
+      \true{singletitle}
+      \field{abstract}{This study covers property law and property rights, providing a full summary and comprehensive bibliography of the existing law, together with discussion from an economic perspective on the most important aspects of property law. Leading experts have brought together their knowledge and insight on a full range of issues – including comparative property law and the history of property law – to create a truly autonomous interdisciplinary resource.}
+      \field{booktitle}{Property Law and Economics}
+      \field{title}{Private and Common Property}
+      \field{year}{2010}
+      \field{pages}{53\bibrangedash 107}
     \endentry
     \entry{otprp70}{misc}{}
       \field{sortinit}{O}
@@ -7307,6 +7650,27 @@
       \field{year}{2009}
       \field{pages}{821}
     \endentry
+    \entry{penalver07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d0bb09d8dbe78654da5915ea017b86e0}{Peñalver}{P\bibinitperiod}{Eduardo\bibnamedelima Moises}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=bbecafe4e8a020d560a449dbbd843d65}{Katyal}{K\bibinitperiod}{Sonia\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d0bb09d8dbe78654da5915ea017b86e0}{Peñalver}{P\bibinitperiod}{Eduardo\bibnamedelima Moises}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=bbecafe4e8a020d560a449dbbd843d65}{Katyal}{K\bibinitperiod}{Sonia\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0d09235a0c16164a9a3448d3d57c33ea}
+      \strng{fullhash}{0d09235a0c16164a9a3448d3d57c33ea}
+      \field{sortinit}{P}
+      \field{labeltitle}{Property Outlaws}
+      \true{singletitle}
+      \field{journaltitle}{University of Pennsylvania Law Review}
+      \field{number}{5}
+      \field{title}{Property Outlaws}
+      \field{volume}{155}
+      \field{year}{2007}
+      \field{pages}{1095\bibrangedash 1186}
+    \endentry
     \entry{penner96}{article}{}
       \name{labelname}{1}{}{%
         {{hash=011b4b88a4342ed129d104b996239eb9}{Penner}{P\bibinitperiod}{J\bbxinitsep\bibnamedelima E\bbxinitsep}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
@@ -7324,6 +7688,17 @@
       \field{title}{The ``bundle of rights'' picture of property}
       \field{volume}{43}
       \field{pages}{711\bibrangedash 820}
+    \endentry
+    \entry{pennsylvania22}{jurisdiction}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Pennsylvania Coal Co v Mahon}
+      \true{singletitle}
+      \field{journaltitle}{US}
+      \field{title}{Pennsylvania Coal Co v Mahon}
+      \field{volume}{260}
+      \field{year}{1922}
+      \field{pages}{393}
+      \keyw{us}
     \endentry
     \entry{peris12}{article}{}
       \name{labelname}{1}{}{%
@@ -8197,6 +8572,24 @@
       \field{year}{2008}
       \field{pages}{89\bibrangedash 108}
     \endentry
+    \entry{rose11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=548ee84e8c917e0d2212bc4688f44e97}{Rose}{R\bibinitperiod}{Carol}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=548ee84e8c917e0d2212bc4688f44e97}{Rose}{R\bibinitperiod}{Carol}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{548ee84e8c917e0d2212bc4688f44e97}
+      \strng{fullhash}{548ee84e8c917e0d2212bc4688f44e97}
+      \field{sortinit}{R}
+      \field{labeltitle}{Ostrom and the lawyers: The impact of Governing the Commons on the American legal academy}
+      \field{abstract}{American legal academics began to cite Elinor Ostrom's Governing the Commons (GC) shortly after its 1990 publication, with citations peaking in the mid-2000s and with signs of a new peak in 2010 in the wake of Ostrom's Nobel Prize in Economics. The legal scholars most interested in GC have worked in three areas: general property theory, environmental and natural resource law, and since the mid-1990s, intellectual property. In all those areas legal scholars have found GC and its many examples a strong source of support for the proposition that people can cooperate to overcome common pool resource issues, managing resources through informal norms rather than either individual property or coercive government. Legal academics have also been at least mildly critical of GC, however. A number have tried to balance the attractive features of GC's governance model - stability and sustainability - with more standard legal models favoring toward open markets, fluid change and egalitarianism.}
+      \field{journaltitle}{International Journal of the Commons}
+      \field{number}{1}
+      \field{title}{Ostrom and the lawyers: The impact of Governing the Commons on the American legal academy}
+      \field{volume}{5}
+      \field{year}{2011}
+    \endentry
     \entry{rose90}{article}{}
       \name{labelname}{1}{}{%
         {{hash=cce68173e6f2c12a7c2165dbfb6be4da}{Rose}{R\bibinitperiod}{Carol\bibnamedelima M\bbxinitsep}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -8833,6 +9226,48 @@
       \field{year}{2003}
       \field{pages}{247}
     \endentry
+    \entry{shoked11}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e8a04010638796c9fe8ca05e5c8c4f4}{Shoked}{S\bibinitperiod}{Nadav}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e8a04010638796c9fe8ca05e5c8c4f4}{Shoked}{S\bibinitperiod}{Nadav}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9e8a04010638796c9fe8ca05e5c8c4f4}
+      \strng{fullhash}{9e8a04010638796c9fe8ca05e5c8c4f4}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Reinvention of Ownership: The Embrace of Residential Zoning and the Modern Populist Reading of Property}
+      \true{singletitle}
+      \field{journaltitle}{Yale Journal on Regulation}
+      \field{number}{1}
+      \field{title}{The Reinvention of Ownership: The Embrace of Residential Zoning and the Modern Populist Reading of Property}
+      \field{volume}{28}
+      \field{pages}{91\bibrangedash 149}
+    \endentry
+    \entry{siddique08}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=a00bef188ec2456540ad28cc80edf63c}{Siddique}{S\bibinitperiod}{Haroon}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a00bef188ec2456540ad28cc80edf63c}{Siddique}{S\bibinitperiod}{Haroon}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a00bef188ec2456540ad28cc80edf63c}
+      \strng{fullhash}{a00bef188ec2456540ad28cc80edf63c}
+      \field{sortinit}{S}
+      \field{labeltitle}{Trump triumphs in battle for Scottish golf resort}
+      \true{singletitle}
+      \field{day}{03}
+      \field{journaltitle}{The Guardian}
+      \field{month}{11}
+      \field{title}{Trump triumphs in battle for Scottish golf resort}
+      \field{urlday}{26}
+      \field{urlmonth}{08}
+      \field{urlyear}{2015}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.theguardian.com/world/2008/nov/03/donaldtrump-scotland
+      \endverb
+    \endentry
     \entry{singer09}{article}{}
       \name{labelname}{1}{}{%
         {{hash=9d340a1044dbf24f4cf48adf26fe72f6}{Singer}{S\bibinitperiod}{Joseph\bibnamedelima William}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
@@ -8960,6 +9395,15 @@
       \true{singletitle}
       \field{title}{Samerett: om samenes rett til en fortid, nåtid og fremtid}
       \field{year}{2002}
+    \endentry
+    \entry{smibelg15}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Smibelg}
+      \true{singletitle}
+      \field{number}{LH-2015-92631}
+      \field{shorttitle}{Smibelg}
+      \field{title}{SKS Produksjon AS v Odd Kristian Pedersen and others}
+      \keyw{no}
     \endentry
     \entry{sky01}{article}{}
       \name{labelname}{1}{}{%
@@ -9301,6 +9745,15 @@
       \field{volume}{2007}
       \field{year}{2007}
     \endentry
+    \entry{driva82}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Driva}
+      \true{singletitle}
+      \field{number}{Rt-1982-1518}
+      \field{shorttitle}{Driva}
+      \field{title}{Sør-Trøndelag Kraftselskap and others v Grunneierne og rettighetshaverne i Driva-skjønnet and others}
+      \keyw{no}
+    \endentry
     \entry{sridar13}{article}{}
       \name{labelname}{2}{}{%
         {{hash=b8db4d24179358090643f532ffbc2623}{Sridhar}{S\bibinitperiod}{Usha}{U\bibinitperiod}{}{}{}{}}%
@@ -9421,6 +9874,24 @@
       \field{year}{1971}
       \field{pages}{297}
       \keyw{us}
+    \endentry
+    \entry{aura61}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Aura}
+      \true{singletitle}
+      \field{number}{Rt-1961-1282}
+      \field{shorttitle}{Aura}
+      \field{title}{Staten ved Hovedstyret for Norges vassdrag- og elektrisitetsvesen v Peder Utigard and others}
+      \field{year}{1961}
+      \keyw{no}
+    \endentry
+    \entry{mar71}{jurisdiction}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Statsadvokat Knut Hval, aktor mot A}
+      \true{singletitle}
+      \field{number}{Rt-1971-1120}
+      \field{title}{Statsadvokat Knut Hval, aktor mot A}
+      \keyw{no}
     \endentry
     \entry{stenseth07}{article}{}
       \name{labelname}{1}{}{%
@@ -9936,6 +10407,16 @@
       \field{year}{2008}
       \keyw{no}
     \endentry
+    \entry{tokke63}{jurisdiction}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Tokke-Vinje}
+      \true{singletitle}
+      \field{number}{Rt-1963-316}
+      \field{shorttitle}{Tokke-Vinje}
+      \field{title}{Torgeir Tjønn and others v Hovedstyret for Norges vassdrags- og elektrisitetsvesen}
+      \field{year}{1963}
+      \keyw{no}
+    \endentry
     \entry{lawcom03}{misc}{}
       \list{publisher}{1}{%
         {Law Commission}%
@@ -10202,6 +10683,23 @@
       \field{title}{The Idea of Property: {I}ts meaning and power}
       \field{year}{2010}
     \endentry
+    \entry{underkuffler10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7136e7ae070d015e700bb07abf6b7e6c}{Underkuffler}{U\bibinitperiod}{Laura\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7136e7ae070d015e700bb07abf6b7e6c}{Underkuffler}{U\bibinitperiod}{Laura\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7136e7ae070d015e700bb07abf6b7e6c}
+      \strng{fullhash}{7136e7ae070d015e700bb07abf6b7e6c}
+      \field{sortinit}{U}
+      \field{labeltitle}{The Politics of Property and Need}
+      \field{journaltitle}{Cornell Journal of Law \& Public Policy}
+      \field{title}{The Politics of Property and Need}
+      \field{volume}{20}
+      \field{year}{2010}
+      \field{pages}{363}
+    \endentry
     \entry{fne}{misc}{}
       \list{institution}{1}{%
         {UNGA}%
@@ -10455,6 +10953,25 @@
       \field{pages}{302}
       \keyw{gb}
     \endentry
+    \entry{waldron85}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c2fece66b891527500a8415b9a184ce7}{Waldron}{W\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c2fece66b891527500a8415b9a184ce7}{Waldron}{W\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c2fece66b891527500a8415b9a184ce7}
+      \strng{fullhash}{c2fece66b891527500a8415b9a184ce7}
+      \field{sortinit}{W}
+      \field{labeltitle}{What is Private Property?}
+      \true{singletitle}
+      \field{journaltitle}{Oxford Journal of Legal Studies}
+      \field{number}{3}
+      \field{title}{What is Private Property?}
+      \field{volume}{5}
+      \field{year}{1985}
+      \field{pages}{313\bibrangedash 349}
+    \endentry
     \entry{walsh10}{article}{}
       \name{labelname}{1}{}{%
         {{hash=31586cfc881c9bde46179bbbb084ae20}{Walsh}{W\bibinitperiod}{Rachael}{R\bibinitperiod}{}{}{}{}}%
@@ -10492,6 +11009,22 @@
       \field{title}{Constitutional Property Law}
       \field{year}{2011}
     \endentry
+    \entry{waring09}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=5e73c098e49f06f152f65591ca03cc56}{Waring}{W\bibinitperiod}{{Emma\bibnamedelimb J\bibnamedelimb L}}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5e73c098e49f06f152f65591ca03cc56}{Waring}{W\bibinitperiod}{{Emma\bibnamedelimb J\bibnamedelimb L}}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5e73c098e49f06f152f65591ca03cc56}
+      \strng{fullhash}{5e73c098e49f06f152f65591ca03cc56}
+      \field{sortinit}{W}
+      \field{labeltitle}{Aspects of Property: The Impact of Private Takings}
+      \field{entrysubtype}{PhD Thesis}
+      \field{title}{Aspects of Property: The Impact of Private Takings}
+      \field{type}{PhD Thesis}
+      \field{year}{2009}
+    \endentry
     \entry{waring13}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=b31c90007f2c8e27a562594d437a534f}{Waring}{W\bibinitperiod}{Emma\bibnamedelimb J\bbxinitsep\bibnamedelima L\bbxinitsep}{E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -10509,7 +11042,6 @@
       \strng{fullhash}{b31c90007f2c8e27a562594d437a534f}
       \field{sortinit}{W}
       \field{labeltitle}{The prevalence of private takings}
-      \true{singletitle}
       \field{booktitle}{Modern studies in property law: Volume 7}
       \field{title}{The prevalence of private takings}
       \field{year}{2013}
@@ -10648,6 +11180,25 @@
       \field{volume}{83}
       \field{year}{1998}
       \field{pages}{277}
+    \endentry
+    \entry{wilt09}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=447cad08f7587623e0485a54af0c30bc}{Wilt}{W\bibinitperiod}{Michael\bibnamedelima Paul}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=447cad08f7587623e0485a54af0c30bc}{Wilt}{W\bibinitperiod}{Michael\bibnamedelima Paul}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{447cad08f7587623e0485a54af0c30bc}
+      \strng{fullhash}{447cad08f7587623e0485a54af0c30bc}
+      \field{sortinit}{W}
+      \field{labeltitle}{Intermediate scrutiny for economic development takings: proposing a new test based on Justice Kennedy's Kelo concurrence}
+      \true{singletitle}
+      \field{journaltitle}{Thomas Jefferson Law Review}
+      \field{number}{2}
+      \field{title}{Intermediate scrutiny for economic development takings: proposing a new test based on Justice Kennedy's Kelo concurrence}
+      \field{volume}{31}
+      \field{year}{2009}
+      \field{pages}{431}
     \endentry
     \entry{winge13}{book}{}
       \name{labelname}{1}{}{%

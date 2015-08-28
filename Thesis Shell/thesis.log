@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.4.29)  20 AUG 2015 16:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.4.29)  28 AUG 2015 02:09
 entering extended mode
 **thesis
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.tex"
@@ -1595,14 +1595,34 @@ LaTeX Warning: Unused global option(s):
 
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/newintro.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_1.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_2.aux"
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_newintro.aux"
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/fff_1.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/fff_2.aux"
+
+LaTeX Warning: Label `cbx@213' multiply defined.
+
+
+LaTeX Warning: Label `cbx@215' multiply defined.
+
+
+LaTeX Warning: Label `cbx@222' multiply defined.
+
+
+LaTeX Warning: Label `cbx@226' multiply defined.
+
+
+LaTeX Warning: Label `cbx@232' multiply defined.
+
+
+LaTeX Warning: Label `cbx@233' multiply defined.
+
 
 LaTeX Warning: Label `sec:lad' multiply defined.
 
 ) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_3.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.aux"))
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/final_5.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_conc.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
@@ -1657,14 +1677,7 @@ Package biblatex Warning: Biber reported the following issues
 Package biblatex Info: Reference section=0 on input line 66.
 Package biblatex Info: Reference segment=0 on input line 66.
 \AtBeginShipoutBox=\box72
- ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.tex"
-[1
-
-
-
-
-
-]) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
+ ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1677,41 +1690,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
+
+
+
 ] [2])
 \tf@toc=\write6
 
-[3] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/newintro.te
-x"
-Chapter 1.
-Package biblatex Info: Resetting trackers on input line 1.
-[1
+[3] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/fff_1.tex"
+[17
 
-
-
-] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-[18] [19]
-
-LaTeX Warning: Reference `chap:5' on page 20 undefined on input line 222.
-
-
-LaTeX Warning: Reference `chap:5' on page 20 undefined on input line 224.
-
-
-LaTeX Warning: Reference `chap:conc' on page 20 undefined on input line 224.
-
-[20]) [21]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_1.tex"
-[22
 
 
 
 ]
 Chapter 2.
 Package biblatex Info: Resetting trackers on input line 5.
-[23
+[18
 
-] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40]
+] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+
+LaTeX Warning: Citation 'alterman12' on page 33 undefined on input line 104.
+
+[33] [34] [35] [36]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 128.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -1719,280 +1719,62 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
+ [37] [38] [39] [40] [41] [42] [43] [44] [45]
 
-[41] [42] [43] [44] [45]
+LaTeX Warning: Citation '282-283' on page 46 undefined on input line 231.
 
-LaTeX Warning: Reference `sec:eu' on page 46 undefined on input line 184.
 
-[46] [47] [48] [49]
+LaTeX Warning: Citation 'shoked01' on page 46 undefined on input line 244.
 
-LaTeX Warning: Reference `sec:x' on page 50 undefined on input line 218.
 
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
-[65] [66]
+LaTeX Warning: Citation 'manging14' on page 46 undefined on input line 244.
 
-LaTeX Warning: Citation 'cullett12' on page 67 undefined on input line 432.
 
-[67] [68] [69] [70] [71] [72] [73] [74] [75]
+LaTeX Warning: Citation 'fischel05' on page 46 undefined on input line 244.
 
-LaTeX Warning: Reference `ref:chap3' on page 76 undefined on input line 578.
+[46] [47] [48]
 
-[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
+LaTeX Warning: Reference `sec:hum' on page 49 undefined on input line 269.
 
-LaTeX Warning: Reference `sec:x' on page 90 undefined on input line 720.
+[49] [50] [51] [52]
 
-[90] [91]
+LaTeX Warning: Citation 'baderin07' on page 53 undefined on input line 402.
 
-LaTeX Warning: Reference `sec:x' on page 92 undefined on input line 740.
 
-[92]
+LaTeX Warning: Citation 'garcia14' on page 53 undefined on input line 404.
 
-LaTeX Warning: Reference `sec:x' on page 93 undefined on input line 744.
+[53] [54] [55] [56] [57] [58] [59] [60] [61]
 
-[93] [94] [95]
+LaTeX Warning: Citation 'soming07' on page 62 undefined on input line 630.
 
-LaTeX Warning: Citation '...' on page 96 undefined on input line 767.
+[62] [63] [64]
 
-[96]
+LaTeX Warning: Reference `cbx@192' on page 65 undefined on input line 656.
 
-LaTeX Warning: Reference `sec:x' on page 97 undefined on input line 769.
 
+LaTeX Warning: Reference `cbx@169' on page 65 undefined on input line 656.
 
-LaTeX Warning: Reference `sec:x' on page 97 undefined on input line 769.
 
-[97] [98] [99]) [100]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_2.tex"
-Chapter 3.
-Package biblatex Info: Resetting trackers on input line 3.
-[101
+LaTeX Warning: Reference `cbx@169' on page 65 undefined on input line 656.
 
+[65] [66] [67] [68]
 
+LaTeX Warning: Reference `sec:hop' on page 69 undefined on input line 695.
 
-] [102] [103]
+[69]
 
-LaTeX Warning: Reference `sec:ir' on page 104 undefined on input line 27.
+LaTeX Warning: Reference `cbx@209' on page 70 undefined on input line 699.
 
-[104] [105] [106]
-
-LaTeX Warning: Reference `sec:3' on page 107 undefined on input line 49.
-
-[107] [108]
-
-LaTeX Warning: Reference `sec:ir' on page 109 undefined on input line 74.
-
-[109] [110]
-
-LaTeX Warning: Citation 'waring09' on page 111 undefined on input line 102.
-
-[111]
-
-LaTeX Warning: Citation 'waring09' on page 112 undefined on input line 106.
-
-[112]
-
-LaTeX Warning: Citation 'waring09' on page 113 undefined on input line 108.
-
-
-LaTeX Warning: Citation 'waring09' on page 113 undefined on input line 108.
-
-[113] [114] [115] [116] [117]
-
-LaTeX Warning: Reference `sec:x' on page 118 undefined on input line 218.
-
-[118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128]
-
-LaTeX Warning: Citation 'head86' on page 129 undefined on input line 296.
-
-
-LaTeX Warning: Citation 'head75' on page 129 undefined on input line 300.
-
-[129]
-
-Package biblatex Warning: Nested notes on input line 302.
-
-[130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
-
-LaTeX Warning: Citation 'hawaii84' on page 140 undefined on input line 382.
-
-
-LaTeX Warning: Citation 'hawaii84' on page 140 undefined on input line 384.
-
-[140] [141] [142]
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 403.
- [143] [144] [145]
-
-LaTeX Warning: Reference `sec:x' on page 146 undefined on input line 490.
-
-
-LaTeX Warning: Citation '....' on page 146 undefined on input line 490.
-
-
-LaTeX Warning: Citation '...' on page 146 undefined on input line 490.
-
-
-LaTeX Warning: Citation 'rose...' on page 146 undefined on input line 490.
-
-[146]
-
-LaTeX Warning: Citation 'ostrom07' on page 147 undefined on input line 492.
-
-
-LaTeX Warning: Citation 'ostrom07' on page 147 undefined on input line 502.
-
-[147] [148] [149]
-
-LaTeX Warning: Citation 'ostrom07' on page 150 undefined on input line 519.
-
-[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
-[162] [163]
-
-LaTeX Warning: Reference `chap:6' on page 164 undefined on input line 615.
-
-[164]) [165]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_3.tex"
-[166
-
-
-
-]
-Chapter 4.
-Package biblatex Info: Resetting trackers on input line 3.
-[167
-
-]
-
-LaTeX Warning: Citation '\cite ' on page 168 undefined on input line 11.
-
-[168] [169] [170] [171] [172] [173] [174]
-
-LaTeX Warning: Citation '....' on page 175 undefined on input line 48.
-
-[175] [176]
-Overfull \hbox (20.676pt too wide) in paragraph at lines 73--74
-[] \OT1/cmr/m/n/8 ([])
- []
-
-[177] [178] [179] [180] [181] [182] [183] [184] [185]
-
-LaTeX Warning: Citation '....' on page 186 undefined on input line 148.
-
-[186] [187]
-
-LaTeX Warning: Reference `sec:esr' on page 188 undefined on input line 162.
-
-[188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198]
-
-LaTeX Warning: Citation 'tvedt96' on page 199 undefined on input line 270.
-
-[199]
-
-LaTeX Warning: Reference `sec:small' on page 200 undefined on input line 275.
-
-[200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
-
-LaTeX Warning: Citation 'dyrkolbotn14' on page 210 undefined on input line 369.
-
-
-
-LaTeX Warning: Citation 'dyrkolbotn15a' on page 210 undefined on input line 369
-.
-
-[210] [211] [212] [213] [214] [215] [216]
-
-LaTeX Warning: Reference `chap:6' on page 217 undefined on input line 415.
-
-[217]) [218] [219]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.tex"
-Chapter 5.
-Package biblatex Info: Resetting trackers on input line 1.
-[220
-
-
-
-] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231]
-[232]
-
-LaTeX Warning: Reference `sec:x' on page 233 undefined on input line 114.
-
-[233] [234]
-
-LaTeX Warning: Reference `sec:x' on page 235 undefined on input line 128.
-
-[235]
-
-LaTeX Warning: Reference `sec:x' on page 236 undefined on input line 134.
-
-[236] [237] [238]
-
-LaTeX Warning: Citation 'chap:1' on page 239 undefined on input line 166.
-
-
-LaTeX Warning: Reference `sec:x' on page 239 undefined on input line 166.
-
-[239]
-
-LaTeX Warning: Reference `sec:x' on page 240 undefined on input line 172.
-
-
-LaTeX Warning: Citation '61' on page 240 undefined on input line 176.
-
-
-LaTeX Warning: Citation 'mard\IeC {\o }la73' on page 240 undefined on input lin
-e 176.
-
-[240]
-
-LaTeX Warning: Citation '....' on page 241 undefined on input line 178.
-
-
-LaTeX Warning: Citation '61' on page 241 undefined on input line 180.
-
-[241]
-
-LaTeX Warning: Citation 'mard\IeC {\o }la73' on page 242 undefined on input lin
-e 184.
-
-
-LaTeX Warning: Citation 'mard\IeC {\o }la73' on page 242 undefined on input lin
-e 184.
-
-
-LaTeX Warning: Citation '71' on page 242 undefined on input line 186.
-
-[242]
-
-LaTeX Warning: Citation '....' on page 243 undefined on input line 188.
-
-[243] [244] [245] [246] [247] [248] [249]
-
-LaTeX Warning: Reference `sec:x' on page 250 undefined on input line 247.
-
-[250] [251] [252] [253] [254] [255] [256] [257]
-
-LaTeX Warning: Citation 'smibelg15' on page 258 undefined on input line 320.
-
-[258] [259] [260] [261] [262] [263] [264] [265]
-
-LaTeX Warning: Citation 'jorpeland11a)' on page 266 undefined on input line 408
-.
-
-[266] [267] [268] [269] [270] [271] [272] [273] [274] [275]
-
-LaTeX Warning: Reference `sec:x' on page 276 undefined on input line 510.
-
-[276]
-
-LaTeX Warning: Reference `sec:x' on page 277 undefined on input line 526.
-
-[277] [278] [279] [280] [281] [282]) [283]
+[70] [71] [72]) [73]
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/newintro.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_1.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_2.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_newintro.aux"
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/fff_1.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/fff_2.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_3.aux")
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.aux"))
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/final_5.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_conc.aux"))
 
 LaTeX Warning: There were undefined references.
 
@@ -2007,12 +1789,12 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 19985 strings out of 493922
- 343524 string characters out of 3144899
- 881955 words of memory out of 3000000
- 22978 multiletter control sequences out of 15000+200000
- 16411 words of font info for 61 fonts, out of 3000000 for 9000
+ 19047 strings out of 493922
+ 330501 string characters out of 3144899
+ 891866 words of memory out of 3000000
+ 22039 multiletter control sequences out of 15000+200000
+ 15763 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,14n,69p,10429b,3040s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,69p,10429b,3040s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (287 pages, 967580 bytes).
+Output written on thesis.dvi (60 pages, 228636 bytes).
