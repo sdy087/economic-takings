@@ -854,6 +854,23 @@
       \field{title}{Innføring i naturressurs- og miljørett}
       \field{year}{2012}
     \endentry
+    \entry{baderin07}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=b3503f0459ba49d57f4f10bdb7baceb1}{Baderin}{B\bibinitperiod}{Mashood}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5dc8fc40bba1f2626c597da0184423fe}{McCorquodale}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b3503f0459ba49d57f4f10bdb7baceb1}{Baderin}{B\bibinitperiod}{Mashood}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5dc8fc40bba1f2626c597da0184423fe}{McCorquodale}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{240d12c532eb8255e41b132e29bfbbd2}
+      \strng{fullhash}{240d12c532eb8255e41b132e29bfbbd2}
+      \field{sortinit}{B}
+      \field{labeltitle}{Economic, Social, and Cultural Rights in Action}
+      \true{singletitle}
+      \field{title}{Economic, Social, and Cultural Rights in Action}
+      \field{year}{2007}
+    \endentry
     \entry{baker03}{article}{}
       \name{labelname}{1}{}{%
         {{hash=9cd5ae0041ace5f7925df1cbc47fed72}{Baker}{B\bibinitperiod}{C\bbxinitsep\bibnamedelima Richard}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
@@ -2521,13 +2538,12 @@
       \strng{namehash}{2ce506c7c97eeaa72675e14562b4ac24}
       \strng{fullhash}{2ce506c7c97eeaa72675e14562b4ac24}
       \field{sortinit}{C}
-      \field{labeltitle}{Right to water in India – plugging conceptual and practical gaps}
-      \field{journaltitle}{The International Journal of Human Rights}
-      \field{number}{1}
-      \field{title}{Right to water in India – plugging conceptual and practical gaps}
-      \field{volume}{17}
+      \field{labeltitle}{Governing the Environment without CoPs – The Case of Water}
+      \field{journaltitle}{International Community Law Review}
+      \field{title}{Governing the Environment without CoPs – The Case of Water}
+      \field{volume}{15}
       \field{year}{2013}
-      \field{pages}{56\bibrangedash 78}
+      \field{pages}{123\bibrangedash 135}
     \endentry
     \entry{cumbers13}{article}{}
       \name{labelname}{1}{}{%
@@ -3401,6 +3417,25 @@
       \field{year}{1980}
       \field{pages}{139\bibrangedash 153}
     \endentry
+    \entry{eimer14}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=079284f163fa8e3d562ce65ca8d2fa40}{Eimer}{E\bibinitperiod}{Thomas\bibnamedelima R\bbxinitsep}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=079284f163fa8e3d562ce65ca8d2fa40}{Eimer}{E\bibinitperiod}{Thomas\bibnamedelima R\bbxinitsep}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{079284f163fa8e3d562ce65ca8d2fa40}
+      \strng{fullhash}{079284f163fa8e3d562ce65ca8d2fa40}
+      \field{sortinit}{E}
+      \field{labeltitle}{Philosopher-Kings in Real Life: The Epistemic Community on Biodiversity in Brazil and India}
+      \true{singletitle}
+      \field{journaltitle}{Global Society}
+      \field{number}{2}
+      \field{title}{Philosopher-Kings in Real Life: The Epistemic Community on Biodiversity in Brazil and India}
+      \field{volume}{28}
+      \field{year}{2014}
+      \field{pages}{131\bibrangedash 150}
+    \endentry
     \entry{eca11}{legislation}{}
       \field{sortinit}{E}
       \field{labeltitle}{Electricity Certificate Act}
@@ -3685,6 +3720,29 @@
       \field{title}{Expropriation Compensation Act}
       \field{year}{1984}
       \keyw{no}
+    \endentry
+    \entry{fairhead12}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=401133959a20d2576109bfdb4a47f251}{Fairhead}{F\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6d2fc7245c381d229a876906bc61935a}{Leach}{L\bibinitperiod}{Melissa}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b841c57b78df9cb93157a227f4e1bf9b}{Scoones}{S\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=401133959a20d2576109bfdb4a47f251}{Fairhead}{F\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6d2fc7245c381d229a876906bc61935a}{Leach}{L\bibinitperiod}{Melissa}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b841c57b78df9cb93157a227f4e1bf9b}{Scoones}{S\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1c2c5c74ba7d56d617fcdfa14aed9f24}
+      \strng{fullhash}{1c2c5c74ba7d56d617fcdfa14aed9f24}
+      \field{sortinit}{F}
+      \field{labeltitle}{Green Grabbing: a new appropriation of nature?}
+      \true{singletitle}
+      \field{journaltitle}{The Journal of Peasant Studies}
+      \field{number}{2}
+      \field{title}{Green Grabbing: a new appropriation of nature?}
+      \field{volume}{39}
+      \field{year}{2012}
+      \field{pages}{237\bibrangedash 261}
     \endentry
     \entry{falch04}{book}{}
       \name{labelname}{1}{}{%
@@ -4437,6 +4495,21 @@
       \field{booktitle}{Modern studies in property law: Volume 6}
       \field{title}{Recreational Property}
       \field{year}{2011}
+    \endentry
+    \entry{grey8x}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=af005bbe657d2b5fd4ea926a7588a893}{Grey}{G\bibinitperiod}{X}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=af005bbe657d2b5fd4ea926a7588a893}{Grey}{G\bibinitperiod}{X}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{af005bbe657d2b5fd4ea926a7588a893}
+      \strng{fullhash}{af005bbe657d2b5fd4ea926a7588a893}
+      \field{sortinit}{G}
+      \field{labeltitle}{The Disintegration of Property}
+      \true{singletitle}
+      \field{title}{The Disintegration of Property}
+      \field{year}{198x}
     \endentry
     \entry{arnold11}{incollection}{}
       \name{labelname}{2}{}{%
@@ -6051,6 +6124,25 @@
       \field{year}{2006}
       \field{pages}{439\bibrangedash 455}
     \endentry
+    \entry{levien13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=652627f7c045cc81531651537edeeb73}{Levien}{L\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=652627f7c045cc81531651537edeeb73}{Levien}{L\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{652627f7c045cc81531651537edeeb73}
+      \strng{fullhash}{652627f7c045cc81531651537edeeb73}
+      \field{sortinit}{L}
+      \field{labeltitle}{Regimes of Dispossession: From Steel Towns to Special Economic Zones}
+      \true{singletitle}
+      \field{journaltitle}{Development and Change}
+      \field{number}{2}
+      \field{title}{Regimes of Dispossession: From Steel Towns to Special Economic Zones}
+      \field{volume}{44}
+      \field{year}{2013}
+      \field{pages}{381\bibrangedash 407}
+    \endentry
     \entry{lewis09}{book}{}
       \name{labelname}{1}{}{%
         {{hash=e8af8dc222af46964d264585bfad8a58}{Lewis}{L\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
@@ -6455,6 +6547,25 @@
       \field{year}{2008}
       \field{pages}{33\bibrangedash 88}
     \endentry
+    \entry{nulty12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ad592aa09513c2a77b95025c61d93471}{McNulty}{M\bibinitperiod}{William\bibnamedelima D\bbxinitsep}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ad592aa09513c2a77b95025c61d93471}{McNulty}{M\bibinitperiod}{William\bibnamedelima D\bbxinitsep}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ad592aa09513c2a77b95025c61d93471}
+      \strng{fullhash}{ad592aa09513c2a77b95025c61d93471}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Power of ``Compulsory Purchase'' under the Law of England}
+      \true{singletitle}
+      \field{journaltitle}{The Yale Law Journal}
+      \field{number}{8}
+      \field{title}{The Power of ``Compulsory Purchase'' under the Law of England}
+      \field{volume}{21}
+      \field{year}{1912}
+      \field{pages}{639\bibrangedash 654}
+    \endentry
     \entry{mehta09}{book}{}
       \name{labelname}{1}{}{%
         {{hash=ba03f1d085ed7216b168f93ba72d9db6}{Mehta}{M\bibinitperiod}{Lyla}{L\bibinitperiod}{}{}{}{}}%
@@ -6472,6 +6583,30 @@
       \true{singletitle}
       \field{title}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
       \field{year}{2009}
+    \endentry
+    \entry{mehta14}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=ba03f1d085ed7216b168f93ba72d9db6}{Mehta}{M\bibinitperiod}{Lyla}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=13f90c15ab5526c8863f8d216c696684}{Allouche}{A\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=99ebb7725a44a150d643fda5a030fa79}{Nicol}{N\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1466720c34b76c51aebc4b295da5714f}{Walnycki}{W\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ba03f1d085ed7216b168f93ba72d9db6}{Mehta}{M\bibinitperiod}{Lyla}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=13f90c15ab5526c8863f8d216c696684}{Allouche}{A\bibinitperiod}{Jeremy}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=99ebb7725a44a150d643fda5a030fa79}{Nicol}{N\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1466720c34b76c51aebc4b295da5714f}{Walnycki}{W\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f97772012682f9f93c426d8ea50fb59}
+      \strng{fullhash}{d87faba084a5e1c8316420a1fe31408f}
+      \field{sortinit}{M}
+      \field{labeltitle}{Global environmental justice and the right to water: The case of peri-urban Cochabamba and Delhi}
+      \true{singletitle}
+      \field{journaltitle}{Geoforum}
+      \field{title}{Global environmental justice and the right to water: The case of peri-urban Cochabamba and Delhi}
+      \field{volume}{54}
+      \field{year}{2014}
+      \field{pages}{158\bibrangedash 166}
     \endentry
     \entry{meidinger80}{article}{}
       \name{labelname}{1}{}{%
@@ -8056,9 +8191,10 @@
       \strng{namehash}{efe0e7bbec896c8d7cfbddd5a2279d2a}
       \strng{fullhash}{efe0e7bbec896c8d7cfbddd5a2279d2a}
       \field{sortinit}{R}
-      \field{labeltitle}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \field{labeltitle}{A word on eminent domain}
       \true{singletitle}
-      \field{title}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \field{booktitle}{Displaced by Development: Confronting Marginalisation and Gender Injustice}
+      \field{title}{A word on eminent domain}
       \field{year}{2009}
     \endentry
     \entry{rave13}{article}{}
@@ -9775,6 +9911,26 @@
       \field{year}{2013}
       \field{pages}{466\bibrangedash 488}
     \endentry
+    \entry{manisuli07}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=9d928b57186f08068d9c284b9c3d17d1}{Ssenyonjo}{S\bibinitperiod}{Manisuli}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9d928b57186f08068d9c284b9c3d17d1}{Ssenyonjo}{S\bibinitperiod}{Manisuli}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b3503f0459ba49d57f4f10bdb7baceb1}{Baderin}{B\bibinitperiod}{Mashood}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5dc8fc40bba1f2626c597da0184423fe}{McCorquodale}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9d928b57186f08068d9c284b9c3d17d1}
+      \strng{fullhash}{9d928b57186f08068d9c284b9c3d17d1}
+      \field{sortinit}{S}
+      \field{labeltitle}{Non-State Actors and Economic, Social, and Cultural Rights}
+      \true{singletitle}
+      \field{booktitle}{Economic, Social, and Cultural Rights in Action}
+      \field{title}{Non-State Actors and Economic, Social, and Cultural Rights}
+      \field{year}{2007}
+    \endentry
     \entry{stake06}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=977dbc6f3b88548e36fa2aa8ecd237ff}{Stake}{S\bibinitperiod}{Jeffrey}{J\bibinitperiod}{}{}{}{}}%
@@ -10727,6 +10883,7 @@
       \field{entrysubtype}{undoc}
       \field{indextitle}{International Covenant on Economic, Social and Cultural Rights}
       \field{month}{12}
+      \field{pagination}{article}
       \field{shorttitle}{ICESCR}
       \field{title}{International Covenant on Economic, Social and Cultural Rights}
       \field{titleaddon}{Res 2200A (XXI)}
@@ -10808,6 +10965,25 @@
       \field{indextitle}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
       \field{journaltitle}{NUT 1954:1}
       \field{title}{Utkast til lov om ekspropriasjon av fast eiendom m.v.}
+    \endentry
+    \entry{walt05}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1aec4e958e1340f8a3a688201b8f8544}{Van\bibnamedelimb Der\bibnamedelima Walt}{V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1aec4e958e1340f8a3a688201b8f8544}{Van\bibnamedelimb Der\bibnamedelima Walt}{V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}{A\bbxinitsep\bibnamedelima J\bbxinitsep}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1aec4e958e1340f8a3a688201b8f8544}
+      \strng{fullhash}{1aec4e958e1340f8a3a688201b8f8544}
+      \field{sortinit}{V}
+      \field{labeltitle}{The state's duty to protect property owners v the state's duty to provide housing: thoughts on the Modderklip case}
+      \true{singletitle}
+      \field{journaltitle}{South African Journal on Human Rights}
+      \field{number}{1}
+      \field{title}{The state's duty to protect property owners v the state's duty to provide housing: thoughts on the Modderklip case}
+      \field{volume}{21}
+      \field{year}{2005}
+      \field{pages}{144\bibrangedash 161}
     \endentry
     \entry{vanhorne95}{jurisdiction}{}
       \field{sortinit}{V}
@@ -10952,6 +11128,27 @@
       \field{year}{1939}
       \field{pages}{302}
       \keyw{gb}
+    \endentry
+    \entry{garcia14}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=85d45a6d22f633da6e8c15dccb547c74}{Wahi}{W\bibinitperiod}{Namita}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=85d45a6d22f633da6e8c15dccb547c74}{Wahi}{W\bibinitperiod}{Namita}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {Taylor}%
+        {Francis}%
+      }
+      \strng{namehash}{85d45a6d22f633da6e8c15dccb547c74}
+      \strng{fullhash}{85d45a6d22f633da6e8c15dccb547c74}
+      \field{sortinit}{W}
+      \field{labeltitle}{The tension between property rights and social and economic rights: A case study of India}
+      \true{singletitle}
+      \field{booktitle}{Social and Economic Rights in Theory and Practice: A Critical Assessment}
+      \field{title}{The tension between property rights and social and economic rights: A case study of India}
+      \field{year}{2014}
+      \warn{\item Name "Alviar García, Helena, Klare, Karl, Williams, Lucy A\bbxinitsep " has too many commas: skipping name}
     \endentry
     \entry{waldron85}{article}{}
       \name{labelname}{1}{}{%

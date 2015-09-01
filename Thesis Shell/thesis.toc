@@ -22,7 +22,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Donald Trump in Scotland}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Theories of Property}{30}
+\contentsline {section}{\numberline {2.3}Theories of Property}{29}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.1}Takings under Bundle and Dominion Accounts of Property}{33}
 \defcounter {refsection}{0}\relax 
@@ -40,35 +40,37 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.5.1}Property as an Anchor for Economic and Social Rights}{53}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Property as an Anchor for Democracy}{58}
+\contentsline {subsection}{\numberline {2.5.2}Property as an Anchor for Democracy}{59}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.6}Economic Development Takings}{63}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.6.1}{\it Kelo}: Casting Doubts on the Narrow Approach to Judicial Review}{68}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Possible Approaches to the Legitimacy Question}{72}
+\contentsline {section}{\numberline {2.7}Conclusion}{73}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Introduction}{72}
+\contentsline {chapter}{\numberline {3}Possible Approaches to the Legitimacy Question}{75}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}England: Legitimacy through Parliamentary Soveregnity and Administrative Law}{76}
+\contentsline {section}{\numberline {3.1}Introduction}{75}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}The US: Legitimacy through Public Use}{81}
+\contentsline {section}{\numberline {3.2}England and Wales: Legitimacy through Parliamentary Soveregnity and Administrative Law}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Legitimacy as Discussed by the Supreme Court}{83}
+\contentsline {section}{\numberline {3.3}The US: Legitimacy through Public Use}{85}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Economic Development Takings after {\it Kelo}}{88}
+\contentsline {subsection}{\numberline {3.3.1}Legitimacy as Discussed by the Supreme Court}{87}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Recent Developments at the ECtHR: Legitimacy as Institutional Fairness}{91}
+\contentsline {subsection}{\numberline {3.3.2}Economic Development Takings after {\it Kelo}}{92}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}{\it Hutten-Czapska v Poland}}{93}
+\contentsline {section}{\numberline {3.4}Recent Developments at the ECtHR: Legitimacy as Institutional Fairness}{95}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}How Would the ECtHR Approach an Economic Development Taking?}{98}
+\contentsline {subsection}{\numberline {3.4.1}{\it Hutten-Czapska v Poland}}{96}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}The Gray Test}{100}
+\contentsline {subsection}{\numberline {3.4.2}How Would the ECtHR Approach an Economic Development Taking?}{102}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Alternatives to Takings for Economic Development}{110}
+\contentsline {section}{\numberline {3.5}The Gray Test}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Land Assembly Districts}{116}
+\contentsline {section}{\numberline {3.6}Alternatives to Takings for Economic Development}{114}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Land Assembly Districts}{120}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{II\hspace {1em}A Case Study of Norwegian Waterfalls}{125}
 \defcounter {refsection}{0}\relax 
