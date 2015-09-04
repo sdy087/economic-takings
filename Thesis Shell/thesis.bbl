@@ -45,6 +45,30 @@
       \verb http://castlecoalition.org/50-state-report-card
       \endverb
     \endentry
+    \entry{aadland09}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e697e1dfba93892ca89d0f525e33697}{Aadland}{A\bibinitperiod}{Camilla}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e697e1dfba93892ca89d0f525e33697}{Aadland}{A\bibinitperiod}{Camilla}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9e697e1dfba93892ca89d0f525e33697}
+      \strng{fullhash}{9e697e1dfba93892ca89d0f525e33697}
+      \field{sortinit}{A}
+      \field{labeltitle}{Scana Industrier vil eie kraften selv}
+      \true{singletitle}
+      \field{day}{02}
+      \field{journaltitle}{Teknisk Ukeblad}
+      \field{month}{11}
+      \field{title}{Scana Industrier vil eie kraften selv}
+      \field{urlday}{03}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.tu.no/kraft/2009/11/02/scana-industrier-vil-eie-kraften-selv
+      \endverb
+    \endentry
     \entry{aall04}{book}{}
       \name{labelname}{1}{}{%
         {{hash=c648923bace6d2e4f74e3ea6b3a360b0}{Aall}{A\bibinitperiod}{Jørgen}{J\bibinitperiod}{}{}{}{}}%
@@ -84,6 +108,30 @@
       \field{note}{Rapport Nr. 31}
       \field{title}{Verdiskapning av Småkraft}
       \field{year}{2009}
+    \endentry
+    \entry{aasen15}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=6b0a53f8d7005f2bae02eb617cfb54d5}{Aasen}{A\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6b0a53f8d7005f2bae02eb617cfb54d5}{Aasen}{A\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b0a53f8d7005f2bae02eb617cfb54d5}
+      \strng{fullhash}{6b0a53f8d7005f2bae02eb617cfb54d5}
+      \field{sortinit}{A}
+      \field{labeltitle}{Starter europeisk vannkraftfond}
+      \true{singletitle}
+      \field{day}{15}
+      \field{journaltitle}{Småkraftforeningen}
+      \field{month}{08}
+      \field{title}{Starter europeisk vannkraftfond}
+      \field{urlday}{03}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.smakraftforeninga.no/visartikkel.php?id=3157
+      \endverb
     \endentry
     \entry{ala81}{legislation}{}
       \field{sortinit}{A}
@@ -1371,6 +1419,30 @@
       \field{year}{2003}
       \field{pages}{579\bibrangedash 595}
     \endentry
+    \entry{birkevold09}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=3c2eba13411156271c14476553bd49ce}{Birkevold}{B\bibinitperiod}{Harald}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3c2eba13411156271c14476553bd49ce}{Birkevold}{B\bibinitperiod}{Harald}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c2eba13411156271c14476553bd49ce}
+      \strng{fullhash}{3c2eba13411156271c14476553bd49ce}
+      \field{sortinit}{B}
+      \field{labeltitle}{Milliardærer mot strømmen}
+      \true{singletitle}
+      \field{day}{21}
+      \field{journaltitle}{Aftenbladet}
+      \field{month}{10}
+      \field{title}{Milliardærer mot strømmen}
+      \field{urlday}{03}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.aftenbladet.no/nyheter/okonomi/skatt/Milliardarer-mot-strommen-2078850.html
+      \endverb
+    \endentry
     \entry{bjerva12}{article}{}
       \name{labelname}{1}{}{%
         {{hash=330eb618cfe134cced9f926313d56083}{Bjerva}{B\bibinitperiod}{Øystein\bibnamedelima Jakob}{Ø\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -1457,6 +1529,25 @@
       \field{labeltitle}{Commentaries on the Laws of England, Volume 2: A Facsimile of the First Edition of 1765--1769}
       \field{title}{Commentaries on the Laws of England, Volume 2: A Facsimile of the First Edition of 1765--1769}
       \field{year}{1979}
+    \endentry
+    \entry{leach10}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=476245c9651cc179227c978486fa5610}{Blitz}{B\bibinitperiod}{B\bbxinitsep}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=476245c9651cc179227c978486fa5610}{Blitz}{B\bibinitperiod}{B\bbxinitsep}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Intersentia}%
+      }
+      \strng{namehash}{476245c9651cc179227c978486fa5610}
+      \strng{fullhash}{476245c9651cc179227c978486fa5610}
+      \field{sortinit}{B}
+      \field{labeltitle}{Responding to Systemic Human Rights Violations: An Analysis of 'Pilot Judgments' of the European Court of Human Rights and Their Impact at National Level}
+      \true{singletitle}
+      \field{title}{Responding to Systemic Human Rights Violations: An Analysis of 'Pilot Judgments' of the European Court of Human Rights and Their Impact at National Level}
+      \field{year}{2010}
+      \warn{\item Name "Leach, P\bbxinitsep , Hardman, H\bbxinitsep , Stephenson, S\bbxinitsep ," has too many commas: skipping name}
     \endentry
     \entry{blume84}{article}{}
       \name{labelname}{3}{}{%
@@ -3192,6 +3283,7 @@
       \field{journaltitle}{Series A}
       \field{number}{7151/75; 7152/75}
       \field{title}{Sporrong and Lónnroth v Sweden}
+      \field{year}{1982}
       \field{pages}{52}
       \keyw{echr}
     \endentry
@@ -3266,6 +3358,20 @@
       \field{volume}{3}
       \field{year}{1999}
       \field{pages}{22}
+      \keyw{echr}
+    \endentry
+    \entry{broniowski05}{jurisdiction}{}
+      \list{institution}{1}{%
+        {ECtHR}%
+      }
+      \field{sortinit}{E}
+      \field{labeltitle}{Broniowski v Poland}
+      \true{singletitle}
+      \field{journaltitle}{ECHR}
+      \field{number}{31443/96}
+      \field{title}{Broniowski v Poland}
+      \field{year}{2005}
+      \field{pages}{647}
       \keyw{echr}
     \endentry
     \entry{hutten06}{jurisdiction}{}
@@ -4496,6 +4602,28 @@
       \field{title}{Recreational Property}
       \field{year}{2011}
     \endentry
+    \entry{greer12}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6da04a464d5b7e6e7922683d1bba4d3d}{Greer}{G\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c0a42f1527c98f350597be2c1c804297}{Wildhaber}{W\bibinitperiod}{Luzius}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6da04a464d5b7e6e7922683d1bba4d3d}{Greer}{G\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c0a42f1527c98f350597be2c1c804297}{Wildhaber}{W\bibinitperiod}{Luzius}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{deabb223c583fa2816bf578ce4b3c300}
+      \strng{fullhash}{deabb223c583fa2816bf578ce4b3c300}
+      \field{sortinit}{G}
+      \field{labeltitle}{Revisiting the Debate about ‘Constitutionalising’ the European Court of Human Rights}
+      \true{singletitle}
+      \field{abstract}{In spite of the implementation of Protocol No 14 to the European Convention on Human Rights on 1 June 2010, the European Court of Human Rights continues to face a case overload crisis with no definitive solution in sight. In this article we reconsider the role ‘constitutionalisation’ might play in providing a more secure future. Having distinguished the three dominant analytical frameworks—‘individual justice’, ‘constitutional justice’ and ‘pluralism’—in the ‘official’ and ‘academic/judicial’ streams of the debate, we conclude that a fourth, ‘constitutional pluralism’, now offers a particularly attractive alternative.}
+      \field{journaltitle}{Human Rights Law Review}
+      \field{number}{4}
+      \field{title}{Revisiting the Debate about ‘Constitutionalising’ the European Court of Human Rights}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{655\bibrangedash 687}
+    \endentry
     \entry{grey8x}{article}{}
       \name{labelname}{1}{}{%
         {{hash=af005bbe657d2b5fd4ea926a7588a893}{Grey}{G\bibinitperiod}{X}{X\bibinitperiod}{}{}{}{}}%
@@ -4791,6 +4919,26 @@
       \field{year}{1885}
       \field{pages}{9}
       \keyw{us}
+    \endentry
+    \entry{Helfer01022008}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d6625ba8020a171f2d69fa917349abea}{Helfer}{H\bibinitperiod}{Laurence\bibnamedelima R\bbxinitsep}{L\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d6625ba8020a171f2d69fa917349abea}{Helfer}{H\bibinitperiod}{Laurence\bibnamedelima R\bbxinitsep}{L\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d6625ba8020a171f2d69fa917349abea}
+      \strng{fullhash}{d6625ba8020a171f2d69fa917349abea}
+      \field{sortinit}{H}
+      \field{labeltitle}{Redesigning the European Court of Human Rights: Embeddedness as a Deep Structural Principle of the European Human Rights Regime}
+      \true{singletitle}
+      \field{abstract}{The European Court of Human Rights (ECtHR) is the crown jewel of the world's most advanced international system for protecting civil and political liberties. In recent years, however, the ECtHR has become a victim of its own success. The Court now faces a docket crisis of massive proportions, the consequence of the growing number of states subject to its jurisdiction, its favourable public reputation, its expansive interpretations of individual liberties, a distrust of domestic judiciaries in some countries, and entrenched human rights problems in others. In response to this growing backlog of individual complaints, the Council of Europe has, over the last five years, considered numerous proposals to restructure the European human rights regime and redesign the European Convention on Human Rights (ECHR). This article argues that these proposals should be understood not as ministerial changes in supranational judicial procedure, nor as resolving a debate over whether the ECtHR should strive for individual or constitutional justice, but rather as raising more fundamental questions concerning the Court's future identity. In particular, the article argues for recognition of ‘embeddedness’ in national legal systems as a deep structural principle of the ECHR, a principle that functions as a necessary counterpoint to the subsidiary doctrine that has animated the Convention since its founding. Embeddedness does not substitute ECtHR rulings for the decisions of national parliaments or domestic courts. Rather, it requires the Council of Europe and the Court to bolster the mechanisms for governments to remedy human rights violations at home, obviating the need for individuals to seek supranational relief and restoring countries to a position in which the ECtHR's deference to national decision-makers is appropriate.}
+      \field{journaltitle}{European Journal of International Law}
+      \field{number}{1}
+      \field{title}{Redesigning the European Court of Human Rights: Embeddedness as a Deep Structural Principle of the European Human Rights Regime}
+      \field{volume}{19}
+      \field{year}{2008}
+      \field{pages}{125\bibrangedash 159}
     \endentry
     \entry{heller98}{article}{}
       \name{labelname}{1}{}{%
@@ -5490,6 +5638,30 @@
       \field{year}{2011}
       \keyw{no}
     \endentry
+    \entry{jossang15}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=94792da987c84da05fb6b56b60618212}{Jøssang}{J\bibinitperiod}{Tor\bibnamedelima Inge}{T\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=94792da987c84da05fb6b56b60618212}{Jøssang}{J\bibinitperiod}{Tor\bibnamedelima Inge}{T\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{94792da987c84da05fb6b56b60618212}
+      \strng{fullhash}{94792da987c84da05fb6b56b60618212}
+      \field{sortinit}{J}
+      \field{labeltitle}{Smelter igjen på stålverket}
+      \true{singletitle}
+      \field{day}{21}
+      \field{journaltitle}{Aftenbladet}
+      \field{month}{04}
+      \field{title}{Smelter igjen på stålverket}
+      \field{urlday}{03}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.aftenbladet.no/nyheter/lokalt/ryfylke/Smelter-igjen-pa-stalverket-3679339.html
+      \endverb
+    \endentry
     \entry{salsich00}{incollection}{}
       \name{labelname}{1}{}{%
         {{hash=bd9b06f6796a7f94b452e43048a84012}{Jr\bbxinitsep}{J\bibinitperiod}{Peter\bibnamedelimb W\bbxinitsep\bibnamedelima Salsich}{P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -5987,6 +6159,25 @@
       \field{volume}{27}
       \field{year}{2013}
       \field{pages}{352\bibrangedash 362}
+    \endentry
+    \entry{larsen13}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2adc87aadb29ef20b8e91d4e368b8d57}{Larsen}{L\bibinitperiod}{Kjetil\bibnamedelima Mujezinović}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2adc87aadb29ef20b8e91d4e368b8d57}{Larsen}{L\bibinitperiod}{Kjetil\bibnamedelima Mujezinović}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2adc87aadb29ef20b8e91d4e368b8d57}
+      \strng{fullhash}{2adc87aadb29ef20b8e91d4e368b8d57}
+      \field{sortinit}{L}
+      \field{labeltitle}{Compliance with Judgments from the European Court of Human Rights: The Court’s Call for Legislative Reforms}
+      \true{singletitle}
+      \field{journaltitle}{Nordic Journal of Human Rights}
+      \field{number}{04}
+      \field{title}{Compliance with Judgments from the European Court of Human Rights: The Court’s Call for Legislative Reforms}
+      \field{volume}{31}
+      \field{year}{2013}
+      \field{pages}{496\bibrangedash 512}
     \endentry
     \entry{larsen06}{article}{}
       \name{labelname}{3}{}{%
@@ -6648,6 +6839,26 @@
       \field{year}{2009}
       \field{pages}{36\bibrangedash 43}
     \endentry
+    \entry{meland82}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=1a7c2f17db7754f5d452a844b4f28fd0}{Meland}{M\bibinitperiod}{Eilef\bibnamedelima A\bbxinitsep}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1af1baae87c35a4556a887e9b6fc182b}{Nybø}{N\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1a7c2f17db7754f5d452a844b4f28fd0}{Meland}{M\bibinitperiod}{Eilef\bibnamedelima A\bbxinitsep}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=1af1baae87c35a4556a887e9b6fc182b}{Nybø}{N\bibinitperiod}{Geir}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Rogalandsforskning}%
+      }
+      \strng{namehash}{594836b8256114256fa0982916ccd4c3}
+      \strng{fullhash}{594836b8256114256fa0982916ccd4c3}
+      \field{sortinit}{M}
+      \field{labeltitle}{Konkursen ved Stavanger Staal A/S: reorganisering, ansettelsestrygghet og arbeidsmarkedspolitikk}
+      \true{singletitle}
+      \field{title}{Konkursen ved Stavanger Staal A/S: reorganisering, ansettelsestrygghet og arbeidsmarkedspolitikk}
+      \field{year}{1982}
+    \endentry
     \entry{merrill86}{article}{}
       \name{labelname}{1}{}{%
         {{hash=4f8ca6d3df927cdc36f2e846b06228bf}{Merrill}{M\bibinitperiod}{Thomas\bibnamedelima W\bbxinitsep}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
@@ -7283,10 +7494,11 @@
       \field{sortinit}{N}
       \field{labeltitle}{Ideologi eller kompleksitet? Motstand mot vannkraftutbygging i Norge i 1970-årene}
       \field{journaltitle}{Historisk tidsskrift}
-      \field{number}{01}
+      \field{number}{1}
       \field{title}{Ideologi eller kompleksitet? Motstand mot vannkraftutbygging i Norge i 1970-årene}
       \field{volume}{87}
       \field{year}{2008}
+      \field{pages}{61\bibrangedash 84}
     \endentry
     \entry{banin98}{jurisdiction}{}
       \list{institution}{1}{%
@@ -8922,6 +9134,29 @@
       \field{pages}{311}
       \keyw{us}
     \endentry
+    \entry{Sadurski01012009}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=16184ee207e9e72371726542ed1c521b}{Sadurski}{S\bibinitperiod}{Wojciech}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=16184ee207e9e72371726542ed1c521b}{Sadurski}{S\bibinitperiod}{Wojciech}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{16184ee207e9e72371726542ed1c521b}
+      \strng{fullhash}{16184ee207e9e72371726542ed1c521b}
+      \field{sortinit}{S}
+      \field{labeltitle}{Partnering with Strasbourg: Constitutionalisation of the European Court of Human Rights, the Accession of Central and East European States to the Council of Europe, and the Idea of Pilot Judgments}
+      \true{singletitle}
+      \field{abstract}{The accession of Central and East European States into the European Convention of Human Rights system was both a threat and a promise to the system. The threat resulted not only from the substantial increase of the number of Contracting States and that of the case-load, but also from the demise of a consensus which was, originally, presupposed by the system of protection of human rights in Western Europe: original members of the Council of Europe were ‘like-minded’ and the Convention system did not represent a challenge to their internal patterns of human rights protection. This article, however, focuses on a promise: a possibility for the European Court of Human Rights to abandon once and for all the fiction that it is merely a sort of super-appellate court which scrutinises individual decisions rather than laws in Contracting States. This shift towards a quasi-constitutional role, going beyond the simple identification of wrong individual decisions so as to point to systemic legal defects, was triggered by systemic problems within the new Contracting States, while also facilitated by collaboration between the European Court of Human Rights and national constitutional courts. The emergence of so-called ‘pilot judgments’ is the best and most recent illustration of this trend. The way in which a national court may form a de facto alliance with the European Court effectively ‘pierces the veil of the State’, and positions the European Court as a quasi-constitutional judicial body at a pan-European level.}
+      \field{journaltitle}{Human Rights Law Review}
+      \field{number}{3}
+      \field{title}{Partnering with Strasbourg: Constitutionalisation of the European Court of Human Rights, the Accession of Central and East European States to the Council of Europe, and the Idea of Pilot Judgments}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{397\bibrangedash 453}
+      \verb{doi}
+      \verb 10.1093/hrlr/ngp011
+      \endverb
+    \endentry
     \entry{sga}{legislation}{}
       \field{sortinit}{S}
       \field{labeltitle}{Sale of Goods Act}
@@ -8977,6 +9212,30 @@
       \field{volume}{10}
       \field{year}{2006}
       \field{pages}{1}
+    \endentry
+    \entry{sandvik11}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=4aea756f6ccfcaa25e31382f572f4ee0}{Sandvik}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4aea756f6ccfcaa25e31382f572f4ee0}{Sandvik}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4aea756f6ccfcaa25e31382f572f4ee0}
+      \strng{fullhash}{4aea756f6ccfcaa25e31382f572f4ee0}
+      \field{sortinit}{S}
+      \field{labeltitle}{Vannet blir delvis tysk}
+      \true{singletitle}
+      \field{day}{06}
+      \field{journaltitle}{Strandbuen}
+      \field{month}{07}
+      \field{title}{Vannet blir delvis tysk}
+      \field{urlday}{03}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://strandbuen.no/index.php?page=vis_nyhet&NyhetID=7652
+      \endverb
     \endentry
     \entry{cunha11}{article}{}
       \name{labelname}{1}{}{%

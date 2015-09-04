@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  1 SEP 2015 01:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  4 SEP 2015 21:08
 entering extended mode
 **thesis.tex
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.tex"
@@ -1580,7 +1580,7 @@ File: english-oscola.lbx 2014/05/22 v 1.4 Biblatex localisation file for OSCOLA
 ))
 Started index file trash
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 66.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 67.
 
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
@@ -1590,62 +1590,29 @@ Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 66.
 
 LaTeX Warning: Label `sec:lad' multiply defined.
 
-) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_3.aux"
-
-LaTeX Warning: Label `cbx@400' multiply defined.
-
-
-LaTeX Warning: Label `cbx@409' multiply defined.
-
-
-LaTeX Warning: Label `cbx@410' multiply defined.
-
-
-LaTeX Warning: Label `cbx@411' multiply defined.
-
-
-LaTeX Warning: Label `cbx@412' multiply defined.
-
-
-LaTeX Warning: Label `cbx@413' multiply defined.
-
-
-LaTeX Warning: Label `cbx@414' multiply defined.
-
-
-LaTeX Warning: Label `cbx@416' multiply defined.
-
-
-LaTeX Warning: Label `cbx@423' multiply defined.
-
-
-LaTeX Warning: Label `cbx@431' multiply defined.
-
-
-LaTeX Warning: Label `cbx@433' multiply defined.
-
-) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.aux")
+) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/f_3.aux")
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter3/f_4.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter5/final_5.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_conc.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 66.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 67.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 67.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd"
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    ... okay on input line 67.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1681,6 +1648,13 @@ Package biblatex Warning: Biber reported the following issues
 
 
 Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'leach10':
+(biblatex)                - Name "Leach, P\toggletrue {bbx@initsep}, Hardman, H
+\toggletrue {bbx@initsep}, Stephenson, S\toggletrue {bbx@initsep}," has too man
+y commas: skipping name.
+
+
+Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'gillespie08':
 (biblatex)                - Datamodel: Entry 'gillespie08' (thesis.bib): Invali
 d format 'March 2008' of date field 'date' - ignoring.
@@ -1701,8 +1675,8 @@ r a, Helena, Klare, Karl, Williams, Lucy A\toggletrue {bbx@initsep}" has too ma
 ny commas: skipping name.
 
 )
-Package biblatex Info: Reference section=0 on input line 66.
-Package biblatex Info: Reference segment=0 on input line 66.
+Package biblatex Info: Reference section=0 on input line 67.
+Package biblatex Info: Reference segment=0 on input line 67.
  ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.toc"
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
@@ -1722,77 +1696,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/SjurK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2])
 \tf@toc=\write6
  [3]
-("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter2/fff_2.tex"
-Chapter 3.
-Package biblatex Info: Resetting trackers on input line 3.
-
-LaTeX Warning: Reference `sec:lgppp' on page 75 undefined on input line 12.
-
-[75
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_conc.tex"
+Chapter 7.
+Package biblatex Info: Resetting trackers on input line 1.
+[280
 
 
 
 
 
-] [76] [77]
-
-LaTeX Warning: Reference `sec:ir' on page 78 undefined on input line 27.
 
 
-LaTeX Warning: Reference `sec:ir' on page 78 undefined on input line 46.
-
-[78] [79] [80] [81] [82]
-
-Package biblatex Warning: Nested notes on input line 98.
-
-[83] [84] [85] [86]
-
-LaTeX Warning: Citation 'head86' on page 87 undefined on input line 202.
-
-[87] [88] [89] [90]
-
-LaTeX Warning: Citation 'hawaii84' on page 91 undefined on input line 296.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 321.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 321.
- [91] [92]
-[93] [94] [95]
-
-LaTeX Warning: Reference `sec:x' on page 96 undefined on input line 353.
-
-[96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-
-LaTeX Warning: Reference `sec:x' on page 107 undefined on input line 505.
-
-[107] [108]
-
-LaTeX Warning: Reference `sec:x' on page 109 undefined on input line 527.
-
-[109]
-
-LaTeX Warning: Reference `sec:x' on page 110 undefined on input line 531.
-
-[110] [111] [112]
-
-LaTeX Warning: Citation '...' on page 113 undefined on input line 556.
 
 
-LaTeX Warning: Reference `sec:x' on page 113 undefined on input line 580.
-
-
-LaTeX Warning: Citation 'heller00' on page 113 undefined on input line 580.
-
-[113] [114] [115]
-
-LaTeX Warning: Citation 'ostrom99' on page 116 undefined on input line 594.
-
-[116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127])
-[128] ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
+] [281] [282] [283] [284]) [285]
+("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\thesis.aux"
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Title/Title.aux")
 ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/f_newintro.aux"
 ) ("C:\Users\SjurK\Desktop\economic-takings\Thesis Shell\Chapter1/fff_1.aux")
@@ -1815,27 +1733,20 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 19231 strings out of 493921
- 332559 string characters out of 3144876
- 907699 words of memory out of 3000000
- 22223 multiletter control sequences out of 15000+200000
- 15468 words of font info for 58 fonts, out of 3000000 for 9000
+ 20056 strings out of 493921
+ 343442 string characters out of 3144876
+ 925830 words of memory out of 3000000
+ 23054 multiletter control sequences out of 15000+200000
+ 14460 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 51i,12n,64p,10433b,3038s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,46p,10433b,3038s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on thesis.pdf (57 pages, 337315 bytes).
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on thesis.pdf (9 pages, 95701 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
