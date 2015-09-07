@@ -9917,6 +9917,27 @@
       \verb http://www.tu.no/kraft/2010/12/13/sma-kraftverk-driver-ulovlig
       \endverb
     \endentry
+    \entry{smesdal14}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=15eabc5f3d9bc0abc057841fbe23d970}{Smedsdal}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6f2b4c98b519f66c27edbd23052bc6a6}{Knudsen}{K\bibinitperiod}{Heidi}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=15eabc5f3d9bc0abc057841fbe23d970}{Smedsdal}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6f2b4c98b519f66c27edbd23052bc6a6}{Knudsen}{K\bibinitperiod}{Heidi}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Norsk institutt for landbruksøkonomisk forsking}%
+      }
+      \strng{namehash}{2eacde1aa856e23f5add36e9944e690b}
+      \strng{fullhash}{2eacde1aa856e23f5add36e9944e690b}
+      \field{sortinit}{S}
+      \field{labeltitle}{Økonomien i jordbruket på Vestlandet: Trendar og økono- misk utvikling}
+      \true{singletitle}
+      \field{title}{Økonomien i jordbruket på Vestlandet: Trendar og økono- misk utvikling}
+      \field{type}{techreport}
+      \field{year}{2014}
+    \endentry
     \entry{smith08}{jurisdiction}{}
       \field{sortinit}{S}
       \field{labeltitle}{Smith and Others v Secretary of State for Trade and Industry}
@@ -10667,6 +10688,22 @@
       \field{title}{Expropriation, Public Purpose and the Constitution}
       \field{year}{1998}
     \endentry
+    \entry{tariff12}{online}{}
+      \field{sortinit}{T}
+      \field{labeltitle}{Tariffnemndas vedtak 27. november 2012 om videreføring av forskrift om allmenngjøring av tariffavtale i jordbruks- og gartnerinæringene}
+      \true{singletitle}
+      \field{day}{07}
+      \field{journaltitle}{Arbeids- og Sosialdepartementet}
+      \field{month}{12}
+      \field{title}{Tariffnemndas vedtak 27. november 2012 om videreføring av forskrift om allmenngjøring av tariffavtale i jordbruks- og gartnerinæringene}
+      \field{urlday}{06}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb https://www.regjeringen.no/no/dep/asd/org/nemnder-styrer-rad-og-utvalg/permanente-nemnder-rad-og-utvalg/tariffnemnda/vedtak/2012/protokoll-fra-tariffnemndas-mote-27-nove/id709433/
+      \endverb
+    \endentry
     \entry{templin10}{article}{}
       \name{labelname}{1}{}{%
         {{hash=f03d5a9d912848b6a4a41c4b00a21ea5}{Templin}{T\bibinitperiod}{Benjamin\bibnamedelima A\bbxinitsep}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -10811,6 +10848,24 @@
       \true{singletitle}
       \field{title}{Statens Kraft 1965-2006: Miljø og Marked}
       \field{year}{2006}
+    \endentry
+    \entry{titlestad12}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=819fef7d158439713b4fa15208db7d6a}{Titlestad}{T\bibinitperiod}{Torgrim}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=819fef7d158439713b4fa15208db7d6a}{Titlestad}{T\bibinitperiod}{Torgrim}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sagabok}%
+      }
+      \strng{namehash}{819fef7d158439713b4fa15208db7d6a}
+      \strng{fullhash}{819fef7d158439713b4fa15208db7d6a}
+      \field{sortinit}{T}
+      \field{labeltitle}{Norge i Vikingtid: Våre Historiske of Kulturelle Røtter}
+      \true{singletitle}
+      \field{title}{Norge i Vikingtid: Våre Historiske of Kulturelle Røtter}
+      \field{year}{2012}
     \endentry
     \entry{tokheim08}{jurisdiction}{}
       \field{sortinit}{T}
