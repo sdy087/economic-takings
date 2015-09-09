@@ -1530,25 +1530,6 @@
       \field{title}{Commentaries on the Laws of England, Volume 2: A Facsimile of the First Edition of 1765--1769}
       \field{year}{1979}
     \endentry
-    \entry{leach10}{book}{}
-      \name{labelname}{1}{}{%
-        {{hash=476245c9651cc179227c978486fa5610}{Blitz}{B\bibinitperiod}{B\bbxinitsep}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=476245c9651cc179227c978486fa5610}{Blitz}{B\bibinitperiod}{B\bbxinitsep}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Intersentia}%
-      }
-      \strng{namehash}{476245c9651cc179227c978486fa5610}
-      \strng{fullhash}{476245c9651cc179227c978486fa5610}
-      \field{sortinit}{B}
-      \field{labeltitle}{Responding to Systemic Human Rights Violations: An Analysis of 'Pilot Judgments' of the European Court of Human Rights and Their Impact at National Level}
-      \true{singletitle}
-      \field{title}{Responding to Systemic Human Rights Violations: An Analysis of 'Pilot Judgments' of the European Court of Human Rights and Their Impact at National Level}
-      \field{year}{2010}
-      \warn{\item Name "Leach, P\bbxinitsep , Hardman, H\bbxinitsep , Stephenson, S\bbxinitsep ," has too many commas: skipping name}
-    \endentry
     \entry{blume84}{article}{}
       \name{labelname}{3}{}{%
         {{hash=6b8a395019e89e1d8fa5936a8de8fe64}{Blume}{B\bibinitperiod}{Lawrence}{L\bibinitperiod}{}{}{}{}}%
@@ -3166,7 +3147,50 @@
       \field{title}{Nordhordlandsmodellen}
       \field{year}{1996}
     \endentry
+    \entry{dyrkolbotn15b}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=9230b5cffbffd33e128947e985b8d5e7}{Sluysmans}{S\bibinitperiod}{J\bbxinitsep\bibnamedelimb A\bbxinitsep\bibnamedelimb M\bbxinitsep\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=718f7ec88e3f89e138afa83ae5e77f3f}{Verbist}{V\bibinitperiod}{S\bbxinitsep}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a17503fdcb260334ac26fbe8efc790e3}{Waring}{W\bibinitperiod}{E\bbxinitsep}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wolters Kluwer}%
+      }
+      \strng{namehash}{b78b9d3370907e9829f7637e3b6acd24}
+      \strng{fullhash}{b78b9d3370907e9829f7637e3b6acd24}
+      \field{sortinit}{D}
+      \field{labeltitle}{Expropriation Law in Norway}
+      \field{booktitle}{Expropriation Law in Europe}
+      \field{title}{Expropriation Law in Norway}
+      \field{year}{2015}
+      \field{pages}{369\bibrangedash 407}
+    \endentry
     \entry{dyrkolbotn15}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b78b9d3370907e9829f7637e3b6acd24}
+      \strng{fullhash}{b78b9d3370907e9829f7637e3b6acd24}
+      \field{sortinit}{D}
+      \field{labeltitle}{Norwegian Waterfalls: A Case Study of Commercial Expropriation in Light of Property as a Human Right}
+      \field{booktitle}{Property Law Perspectives III}
+      \field{series}{Ius Commune: European and Comparative Law Series}
+      \field{title}{Norwegian Waterfalls: A Case Study of Commercial Expropriation in Light of Property as a Human Right}
+      \field{volume}{132}
+      \field{year}{2015}
+      \field{pages}{65\bibrangedash 83}
+      \warn{\item Name "Ann Apers, Sofie Bouly, Elien Dewitte, Dorothy Gruyaert" has too many commas: skipping name}
+    \endentry
+    \entry{dyrkolbotn15a}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
@@ -4624,6 +4648,29 @@
       \field{year}{2012}
       \field{pages}{655\bibrangedash 687}
     \endentry
+    \entry{grey80}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=b1fb43aae6930f532e69e5571c26c6d8}{Grey}{G\bibinitperiod}{Thomas\bibnamedelima C\bbxinitsep}{T\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b1fb43aae6930f532e69e5571c26c6d8}{Grey}{G\bibinitperiod}{Thomas\bibnamedelima C\bbxinitsep}{T\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6e6f7557189f32d24896beddfd3367af}{Pennock}{P\bibinitperiod}{James\bibnamedelima Roland}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=488b70e23b9792f1b7356d9978285d31}{Chapman}{C\bibinitperiod}{John\bibnamedelima W\bbxinitsep}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {New York University Press}%
+      }
+      \strng{namehash}{b1fb43aae6930f532e69e5571c26c6d8}
+      \strng{fullhash}{b1fb43aae6930f532e69e5571c26c6d8}
+      \field{sortinit}{G}
+      \field{labeltitle}{The Disintegration of Property}
+      \field{booktitle}{Nomos XXII, Property}
+      \field{title}{The Disintegration of Property}
+      \field{year}{1980}
+      \field{pages}{69\bibrangedash 85}
+    \endentry
     \entry{grey8x}{article}{}
       \name{labelname}{1}{}{%
         {{hash=af005bbe657d2b5fd4ea926a7588a893}{Grey}{G\bibinitperiod}{X}{X\bibinitperiod}{}{}{}{}}%
@@ -4635,7 +4682,6 @@
       \strng{fullhash}{af005bbe657d2b5fd4ea926a7588a893}
       \field{sortinit}{G}
       \field{labeltitle}{The Disintegration of Property}
-      \true{singletitle}
       \field{title}{The Disintegration of Property}
       \field{year}{198x}
     \endentry
@@ -5436,6 +5482,14 @@
       \field{title}{Industrial Licensing Act}
       \field{year}{1917}
       \keyw{no}
+    \endentry
+    \entry{inn101}{misc}{}
+      \field{sortinit}{I}
+      \field{labeltitle}{Inns. O. nr. 101 (1999-2000)}
+      \true{singletitle}
+      \field{indextitle}{Inns. O. nr. 101 (1999-2000)}
+      \field{note}{Report from parliamentary committe on the \cite{wra00}}
+      \field{title}{Inns. O. nr. 101 (1999-2000)}
     \endentry
     \entry{nut58}{misc}{}
       \field{sortinit}{I}
@@ -6253,6 +6307,31 @@
       \field{year}{1943}
       \keyw{en}
     \endentry
+    \entry{leach10}{book}{}
+      \name{labelname}{4}{}{%
+        {{hash=6350cdb38a810f18ed165244fc6f72c4}{Leach}{L\bibinitperiod}{P\bbxinitsep}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7b97c043e7a1a9f8c09b4a4cfe6fe932}{Hardman}{H\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=970a19aaa6f59e0f88e27e028952d1cd}{Stephenson}{S\bibinitperiod}{S\bbxinitsep}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=476245c9651cc179227c978486fa5610}{Blitz}{B\bibinitperiod}{B\bbxinitsep}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=6350cdb38a810f18ed165244fc6f72c4}{Leach}{L\bibinitperiod}{P\bbxinitsep}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7b97c043e7a1a9f8c09b4a4cfe6fe932}{Hardman}{H\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=970a19aaa6f59e0f88e27e028952d1cd}{Stephenson}{S\bibinitperiod}{S\bbxinitsep}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=476245c9651cc179227c978486fa5610}{Blitz}{B\bibinitperiod}{B\bbxinitsep}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Intersentia}%
+      }
+      \strng{namehash}{4959cf48258249e204aa6611beef9d5d}
+      \strng{fullhash}{3eefde4f79d7bf67c7c3bbeda8ce1d08}
+      \field{sortinit}{L}
+      \field{labeltitle}{Responding to Systemic Human Rights Violations: An Analysis of 'Pilot Judgments' of the European Court of Human Rights and Their Impact at National Level}
+      \true{singletitle}
+      \field{title}{Responding to Systemic Human Rights Violations: An Analysis of 'Pilot Judgments' of the European Court of Human Rights and Their Impact at National Level}
+      \field{year}{2010}
+      \warn{\item Name in key 'leach10' is empty (probably consecutive 'and'): skipping name}
+    \endentry
     \entry{lee13}{article}{}
       \name{labelname}{1}{}{%
         {{hash=b3f69c0e3919d4ba110691e2e9fc2590}{Lee}{L\bibinitperiod}{Brian\bibnamedelima Angelo}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -6461,6 +6540,17 @@
       \field{labeltitle}{Land Reform in Developing Countries: property rights and property wrongs}
       \field{title}{Land Reform in Developing Countries: property rights and property wrongs}
       \field{year}{2009}
+    \endentry
+    \entry{topeka}{jurisdiction}{}
+      \field{sortinit}{L}
+      \field{labeltitle}{Loan Association v Topeka}
+      \true{singletitle}
+      \field{journaltitle}{US (20 Wall)}
+      \field{title}{Loan Association v Topeka}
+      \field{volume}{87}
+      \field{year}{1874}
+      \field{pages}{655}
+      \keyw{us}
     \endentry
     \entry{lough04}{jurisdiction}{}
       \field{sortinit}{L}
@@ -7605,6 +7695,18 @@
       \field{title}{Women and human development: the capabilities approach}
       \field{year}{2000}
     \endentry
+    \entry{nve12}{misc}{}
+      \list{publisher}{1}{%
+        {Norges vassdrags- og energidirektorat}%
+      }
+      \field{sortinit}{N}
+      \field{labeltitle}{Nye rutiner for behandling av søknader om konsesjon for småkraft}
+      \true{singletitle}
+      \field{indextitle}{Nye rutiner for behandling av søknader om konsesjon for småkraft}
+      \field{note}{Letter from the NVE regarding new administrative routines}
+      \field{title}{Nye rutiner for behandling av søknader om konsesjon for småkraft}
+      \field{year}{2012}
+    \endentry
     \entry{jorpeland11}{jurisdiction}{}
       \field{sortinit}{O}
       \field{labeltitle}{Jørpeland}
@@ -7745,6 +7847,7 @@
       \field{sortinit}{O}
       \field{labeltitle}{Governing the commons: the evolution of institutions for collective action}
       \field{title}{Governing the commons: the evolution of institutions for collective action}
+      \field{year}{1990}
     \endentry
     \entry{ostrom10}{article}{}
       \name{labelname}{1}{}{%
@@ -8237,6 +8340,22 @@
       \true{singletitle}
       \field{indextitle}{Prop. 101 L (2012-2013)}
       \field{title}{Prop. 101 L (2012-2013)}
+    \endentry
+    \entry{wikiprod}{online}{}
+      \field{sortinit}{P}
+      \field{labeltitle}{Property is theft!}
+      \true{singletitle}
+      \field{day}{26}
+      \field{journaltitle}{Wikipedia, the free encyclopedia}
+      \field{month}{07}
+      \field{title}{Property is theft!}
+      \field{urlday}{09}
+      \field{urlmonth}{09}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Property_is_theft!&oldid=673129813
+      \endverb
     \endentry
     \entry{pryser1999norsk}{book}{}
       \name{labelname}{1}{}{%
@@ -11322,6 +11441,17 @@
       \field{pages}{534}
       \keyw{us}
     \endentry
+    \entry{vann25}{misc}{}
+      \list{publisher}{1}{%
+        {Direktoratet for Naturforvaltning}%
+      }
+      \field{sortinit}{V}
+      \field{labeltitle}{Vassragsrapport nr. 25}
+      \true{singletitle}
+      \field{indextitle}{Vassragsrapport nr. 25}
+      \field{title}{Vassragsrapport nr. 25}
+      \field{year}{1999}
+    \endentry
     \entry{verstappen14}{inbook}{}
       \name{labelname}{1}{}{%
         {{hash=170c57342c6a953788090d84fc02fb88}{Verstappen}{V\bibinitperiod}{L\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -11556,6 +11686,24 @@
       \field{booktitle}{Modern studies in property law: Volume 7}
       \field{title}{The prevalence of private takings}
       \field{year}{2013}
+    \endentry
+    \entry{waring13b}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=aace70d5267ddd97374af5def5503647}{Waring}{W\bibinitperiod}{Emma\bibnamedelima JL}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=aace70d5267ddd97374af5def5503647}{Waring}{W\bibinitperiod}{Emma\bibnamedelima JL}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aace70d5267ddd97374af5def5503647}
+      \strng{fullhash}{aace70d5267ddd97374af5def5503647}
+      \field{sortinit}{W}
+      \field{labeltitle}{Private-To-Private Takings and the Stability of Property}
+      \field{journaltitle}{King's Law Journal}
+      \field{number}{2}
+      \field{title}{Private-To-Private Takings and the Stability of Property}
+      \field{volume}{24}
+      \field{year}{2013}
+      \field{pages}{237\bibrangedash 259}
     \endentry
     \entry{water00}{legislation}{}
       \field{sortinit}{W}
