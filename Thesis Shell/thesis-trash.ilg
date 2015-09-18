@@ -1,7 +1,13 @@
 This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
 Scanning style file C:/Users/SjurK/Desktop/economic-takings/Thesis Shell/oscola.ist...done (3 attributes redefined, 0 ignored).
-Scanning input file thesis-trash.idx....done (638 entries accepted, 0 rejected).
-Sorting entries........done (6391 comparisons).
-Generating output file thesis-trash.ind....done (305 lines written, 0 warnings).
+Scanning input file thesis-trash.idx.....
+!! Input index error (file = thesis-trash.idx, line = 1124):
+   -- Illegal null field.
+
+!! Input index error (file = thesis-trash.idx, line = 1152):
+   -- Illegal null field.
+done (1498 entries accepted, 2 rejected).
+Sorting entries...............done (17178 comparisons).
+Generating output file thesis-trash.ind.....done (702 lines written, 0 warnings).
 Output written in thesis-trash.ind.
 Transcript written in thesis-trash.ilg.

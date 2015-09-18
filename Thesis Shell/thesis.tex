@@ -1,17 +1,19 @@
 %input macros (i.e. write your own macros file called MacroFile1.tex)
 \include{Macros/MacroFile1}
 
-\includeonly{Chapter1/endelig_intro}
+%\includeonly{Chapter5/endelig_5}
 %NOTE: if you want to work on just one Chapter, you can take out the `%' sign on the previous line and compile the thesis accordingly. The above command, for instance, will give you just the first Chapter. The bonus of doing it this way is that your cross references and page numbers will remain as they are in the full file.
 
-\documentclass[a4paper,oneside,10pt]{thesisPSnPDF}
+\documentclass[a4paper,twoside,openright,10pt]{thesisPSnPDF}
 
 \usepackage[utf8]{inputenc}
 \usepackage{babel}
+%\usepackage{nomencl}
 %\DeclareUnicodeCharacter{00A0}{ }
-
+%\makenomenclature
 
 %\newcommand{\isr}[1]{#1}
+\newcommand{\dni}{\DNI}
 \newcommand{\noo}[1]{}
 \newcommand{\sjur}[1]{SJUR: #1}
 \newcommand{\nathp}[1]{NatHp(#1)}
@@ -47,7 +49,12 @@
 \makeindex[name=casesau, title={Australia}, columns=1,intoc]
 \makeindex[name=casesca, title={Canada}, columns=1,intoc]
 \makeindex[name=legis, title={United Kingdom}, columns=2,intoc]
-\makeindex[name=casesother, title={Other Jurisdictions}, columns=1,intoc]
+\makeindex[name=casesother, title={Norway}, columns=1,intoc]
+\makeindex[name=casesechr, title={European Court of Human Rights}, columns=1,intoc]
+\makeindex[name=casesjunk, title = {Other Jurisdictions}, columns = 1, intoc]
+\makeindex[name=noleg, title = {Norway}, columns = 2, intoc]
+\makeindex[name=prepno, title = {Norway}, columns = 1, intoc]
+\makeindex[name=intleg, title = {Other Law Instruments}, columns = 2, intoc]
 \DeclareIndexAssociation{gbcases}{casesgb}% ENGLAND
 \DeclareIndexAssociation{sccases}{casessc}% SCOTLAND
 \DeclareIndexAssociation{aucases}{casesau}% AUSTRALIA
@@ -55,7 +62,7 @@
 \DeclareIndexAssociation{nzcases}{caseszn}% NEW ZEALAND
 \DeclareIndexAssociation{uscases}{casesus}% UNITED STATES
 \DeclareIndexAssociation{eucases}{casesother}% EU
-\DeclareIndexAssociation{echrcases}{casesother}% ECHR
+\DeclareIndexAssociation{echrcases}{casesechr}% ECHR
 \DeclareIndexAssociation{pilcases}{casesother}%
 \DeclareIndexAssociation{othercases}{casesother}% ANYTHING ELSE
 %\DeclareIndexAssociation{gbprimleg}{legis}% LEGISLATION
@@ -64,12 +71,27 @@
 
 \indexsetup{level=\section*,toclevel=section,noclearpage}
 
+\DeclareBibliographyCategory{cited}
+\AtEveryCitekey{\addtocategory{cited}{\thefield{entrykey}}}
+
+\usepackage{calc}
+\usepackage{lipsum}
+\makeatletter
+\newcommand{\tocfill}{\cleaders\hbox{$\m@th \mkern\@dotsep mu . \mkern\@dotsep mu$}\hfill}
+\makeatother
+\newcommand{\abbrlabel}[1]{\makebox[3cm][l]{\textbf{#1}\ \tocfill}}
+\newenvironment{abbreviations}{\begin{list}{}{\renewcommand{\makelabel}{\abbrlabel}%
+        \setlength{\labelwidth}{3cm}\setlength{\leftmargin}{\labelwidth+\labelsep}%
+                                              \setlength{\itemsep}{0pt}}}{\end{list}}
+
+
 \begin{document}
 \renewcommand\baselinestretch{1.5}
 \baselineskip=24pt
 
-
 %\maketitle
+
+\include{Abstract/Abstract}
 
 \include{Title/Title}
 
@@ -79,19 +101,34 @@
 
 \frontmatter
 %\include{Declaration/Declaration}
-%\include{Abstract/Abstract}
-%\include{Acknowledgement/Acknowledgement}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\addcontentsline{toc}{chapter}{List of Abbreviations}
+
 \tableofcontents
 
+%\include{Acknowledgement/Acknowledgement}
+
+\noo{
+\section*{List of Abbreviations}
+
+\begin{abbreviations}
+\item[CPR]{Common Pool Resource \hspace{6.7cm} 50}
+\item[ECHR]{European Convention of Human Rights}
+\item[ECtHR]{European Court of Human Rights}
+\item[ICCPR]{International Covenant on Civil and Political Rights}
+\item[ICESCR]{International Covenant on Economic, Social and Cultural Rights}
+\item[LAD]{Land Assembly District}
+\item[NVE]{Norges Vassdrags- og Energidirektorat (Norwegian Water and Energy \linebreak Directorate)}
+\item[P1(1)]{Article 1 of the First Protocol to the European Convention of Human Rights}
+\item[UDHR]{Universal Declaration of Human Rights}
+\end{abbreviations}
+}
+%\include{tables}
 
 % NOTE:
 % To generate the indexes properly you need to run the following commands (in a terminal shell -- you need to navigate to the Thesis file in terminal. There will be guidance online for how to navigate within Terminal. Otherwise, most scientists should be able to help you!):
 % splitindex -- thesis -s oscola (THIS IS THE COMMAND WHICH WORKS FOR ME)
 % splitindex thesis --s oscola thesis (TRY THIS IF THE FIRST ONE DOESN'T WORK)
-
-%\include{tables}
-%\addcontentsline{toc}{chapter}{Acknowledgements}
-
 
 %\addcontentsline{toc}{chapter}{Abstract}
 %\listoffigures
@@ -101,6 +138,9 @@
 %\addcontentsline{toc}{chapter}{List of Tables}
 %\printglossary  %% Print the nomenclature
 %\addcontentsline{toc}{chapter}{Nomenclature}
+
+%\renewcommand{\nomname}{Abbreviations}
+%\printglossary
 
 \mainmatter
 %\include{Chapter1/introduction}
@@ -115,7 +155,7 @@
 \include{Chapter1/endelig_finale}
 %\include{Chapter6/Chapter6}		
 %\include{Chapter7/Chapter7}
-%\include{Chapter8/Chapter8} 
+%\include{Chapter8/Chapter8}
 
 %\bibliographystyle{Classes/CUEDbiblio}
 %\bibliographystyle{oxford_en}
@@ -124,15 +164,16 @@
 %\addcontentsline{toc}{chapter}{Bibliography} %adds References to contents page
 %\bibliographystyle{Classes/jmb} % bibliography style
 
-
-%\printindex
+%\printindex[echrcases]
 \nocite{*}
 
 %If you want to input ship names, put them HERE (after \nocite, before \include{bibliography}. I have left one example, commented out, which should work (assuming you have the case, etc.).
 
-\index[casesgb]{Achilleas, The@\emph{Achilleas,} The|see{Transfield Shipping Inc v Mercator Shipping Inc}}
+%\index[casesgb]{Achilleas, The@\emph{Achilleas,} The|see{Transfield Shipping Inc v Mercator Shipping Inc}}
 
 
-%\include{bibliography}
+\include{bibliography}
+
+\include{tables}
 
 \end{document}
