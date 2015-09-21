@@ -147,7 +147,7 @@
       \verb https://snl.no/adel
       \endverb
     \endentry
-    \entry{banjul}{misc}{}
+    \entry{banjul}{misc}{skipbib=true}
       \name{labelname}{1}{}{%
         {{hash=df92179b53cce4c53c657781f5ab3175}{Charter}{C\bibinitperiod}{Banjul}{B\bibinitperiod}{}{}{}{}}%
       }
@@ -5768,7 +5768,7 @@
       \field{year}{1999}
       \field{pages}{638\bibrangedash 650}
     \endentry
-    \entry{ilo107}{misc}{}
+    \entry{ilo107}{misc}{skipbib=true}
       \list{institution}{1}{%
         {ILO}%
       }
@@ -5785,7 +5785,7 @@
       \field{usera}{intleg}
       \field{year}{1957}
     \endentry
-    \entry{ilo169}{misc}{}
+    \entry{ilo169}{misc}{skipbib=true}
       \list{institution}{1}{%
         {ILO}%
       }
@@ -5861,6 +5861,25 @@
       \field{title}{Isene v Staten (Landbruksdepartementet)}
       \field{year}{1981}
       \keyw{no}
+    \endentry
+    \entry{jackson10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a264965363f6a4012fe68a9d2d6464ea}{Jackson}{J\bibinitperiod}{Janet}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a264965363f6a4012fe68a9d2d6464ea}{Jackson}{J\bibinitperiod}{Janet}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a264965363f6a4012fe68a9d2d6464ea}
+      \strng{fullhash}{a264965363f6a4012fe68a9d2d6464ea}
+      \field{sortinit}{J}
+      \field{labeltitle}{What is Property? Property is Theft: The Lack of Social Justice in US Eminent Domain Law}
+      \true{singletitle}
+      \field{journaltitle}{St. John's Law Review}
+      \field{number}{1}
+      \field{title}{What is Property? Property is Theft: The Lack of Social Justice in US Eminent Domain Law}
+      \field{volume}{84}
+      \field{year}{2010}
+      \field{pages}{63\bibrangedash 116}
     \endentry
     \entry{jacobs98}{book}{}
       \name{labelname}{1}{}{%
@@ -6016,7 +6035,7 @@
         {{hash=48b0983d1ac10a33be3e2b5c88bb0acb}{Garberg}{G\bibinitperiod}{Anne\bibnamedelima Kari}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {Utgiver Framtiden i våre hender}%
+        {Framtiden i våre hender}%
       }
       \strng{namehash}{64a0cf09ff06346fd81878b1f5f5fde0}
       \strng{fullhash}{64a0cf09ff06346fd81878b1f5f5fde0}
@@ -7152,6 +7171,25 @@
       \field{year}{2013}
       \keyw{gb}
     \endentry
+    \entry{martin07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ad5c58a7549ab702401ffe29b112d08}{Martin}{M\bibinitperiod}{Terri}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ad5c58a7549ab702401ffe29b112d08}{Martin}{M\bibinitperiod}{Terri}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ad5c58a7549ab702401ffe29b112d08}
+      \strng{fullhash}{3ad5c58a7549ab702401ffe29b112d08}
+      \field{sortinit}{M}
+      \field{labeltitle}{Muting the Voice of the Local in the Age of the Global: How Communication Practices Compromised Public Participation in India's Allain Dunhangan Environmental Impact Assessment}
+      \true{singletitle}
+      \field{journaltitle}{Environmental Communication}
+      \field{number}{2}
+      \field{title}{Muting the Voice of the Local in the Age of the Global: How Communication Practices Compromised Public Participation in India's Allain Dunhangan Environmental Impact Assessment}
+      \field{volume}{1}
+      \field{year}{2007}
+      \field{pages}{171\bibrangedash 193}
+    \endentry
     \entry{mattei00}{book}{}
       \name{labelname}{1}{}{%
         {{hash=9dc80e20bfe3d8a2bbfb0cf05ec67781}{Mattei}{M\bibinitperiod}{Ugo}{U\bibinitperiod}{}{}{}{}}%
@@ -7747,6 +7785,24 @@
       \field{year}{1974}
       \field{pages}{696}
       \keyw{gb}
+    \endentry
+    \entry{myking05}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=69875054439d3d27c2698684d67a3b2f}{Mykin}{M\bibinitperiod}{John\bibnamedelima Ragnar}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=69875054439d3d27c2698684d67a3b2f}{Mykin}{M\bibinitperiod}{John\bibnamedelima Ragnar}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Høyskoleforlaget}%
+      }
+      \strng{namehash}{69875054439d3d27c2698684d67a3b2f}
+      \strng{fullhash}{69875054439d3d27c2698684d67a3b2f}
+      \field{sortinit}{M}
+      \field{labeltitle}{Herre over andre si jord? Norske leiglendingsvilkår i europeisk lys 1500-1800}
+      \true{singletitle}
+      \field{title}{Herre over andre si jord? Norske leiglendingsvilkår i europeisk lys 1500-1800}
+      \field{year}{2005}
     \endentry
     \entry{nevada}{legislation}{}
       \field{sortinit}{N}
@@ -8358,7 +8414,7 @@
       \field{title}{Grunnlovens regel om fuld erstatning}
       \field{year}{1968}
     \endentry
-    \entry{achr}{misc}{}
+    \entry{achr}{misc}{skipbib=true}
       \list{institution}{1}{%
         {Organization of American States}%
       }
@@ -11697,9 +11753,9 @@
       \strng{namehash}{819fef7d158439713b4fa15208db7d6a}
       \strng{fullhash}{819fef7d158439713b4fa15208db7d6a}
       \field{sortinit}{T}
-      \field{labeltitle}{Norge i Vikingtid: Våre Historiske of Kulturelle Røtter}
+      \field{labeltitle}{Norge i Vikingtid: Våre Historiske og Kulturelle Røtter}
       \true{singletitle}
-      \field{title}{Norge i Vikingtid: Våre Historiske of Kulturelle Røtter}
+      \field{title}{Norge i Vikingtid: Våre Historiske og Kulturelle Røtter}
       \field{year}{2012}
     \endentry
     \entry{tokheim08}{jurisdiction}{}
@@ -12029,7 +12085,7 @@
       \field{year}{2010}
       \field{pages}{363}
     \endentry
-    \entry{udhr}{misc}{}
+    \entry{udhr}{misc}{skipbib=true}
       \list{institution}{1}{%
         {UNGA}%
       }
@@ -12045,7 +12101,7 @@
       \field{usera}{intleg}
       \field{year}{1948}
     \endentry
-    \entry{fne}{misc}{}
+    \entry{fne}{misc}{skipbib=true}
       \list{institution}{1}{%
         {UNGA}%
       }
@@ -12062,7 +12118,7 @@
       \field{usera}{intleg}
       \field{year}{1966}
     \endentry
-    \entry{fnp}{misc}{}
+    \entry{fnp}{misc}{skipbib=true}
       \list{institution}{1}{%
         {UNGA}%
       }

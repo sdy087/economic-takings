@@ -1,6 +1,5 @@
 %input macros (i.e. write your own macros file called MacroFile1.tex)
 \include{Macros/MacroFile1}
-
 %\includeonly{Chapter5/endelig_5}
 %NOTE: if you want to work on just one Chapter, you can take out the `%' sign on the previous line and compile the thesis accordingly. The above command, for instance, will give you just the first Chapter. The bonus of doing it this way is that your cross references and page numbers will remain as they are in the full file.
 
@@ -91,28 +90,31 @@
 
 %\maketitle
 
-\include{Abstract/Abstract}
-
 \include{Title/Title}
 
 %set the number of sectioning levels that get number and appear in the contents
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{2}
 
-\frontmatter
-%\include{Declaration/Declaration}
-\addcontentsline{toc}{chapter}{Acknowledgements}
-\addcontentsline{toc}{chapter}{List of Abbreviations}
+%\frontmatter
+
+%\addcontentsline{toc}{chapter}{List of Abbreviations}
 
 \tableofcontents
 
-%\include{Acknowledgement/Acknowledgement}
+%\include{Declaration/Declaration}
+%\addcontentsline{toc}{chapter}{Abstract}
+\include{Abstract/Abstract}
 
-\noo{
+\include{Acknowledgement/Acknowledgement}
+
+
 \section*{List of Abbreviations}
+\addcontentsline{toc}{chapter}{List of Abbreviations}
 
 \begin{abbreviations}
-\item[CPR]{Common Pool Resource \hspace{6.7cm} 50}
+\item[CPO]{Compulsory Purchase Order}
+\item[CPR]{Common Pool Resource}
 \item[ECHR]{European Convention of Human Rights}
 \item[ECtHR]{European Court of Human Rights}
 \item[ICCPR]{International Covenant on Civil and Political Rights}
@@ -122,7 +124,7 @@
 \item[P1(1)]{Article 1 of the First Protocol to the European Convention of Human Rights}
 \item[UDHR]{Universal Declaration of Human Rights}
 \end{abbreviations}
-}
+
 %\include{tables}
 
 % NOTE:
@@ -142,7 +144,7 @@
 %\renewcommand{\nomname}{Abbreviations}
 %\printglossary
 
-\mainmatter
+%\mainmatter
 %\include{Chapter1/introduction}
 %\include{Chapter1/Chapter1_final}
 \include{Chapter1/endelig_intro}
