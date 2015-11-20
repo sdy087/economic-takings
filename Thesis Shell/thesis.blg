@@ -1,14 +1,14 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [1] Config.pm:321> INFO - Logfile is 'thesis.blg'
-[128] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
-[129] Biber.pm:333> INFO - Reading 'thesis.bcf'
-[431] Biber.pm:607> INFO - Using all citekeys in bib section 0
-[498] Biber.pm:3053> INFO - Processing section 0
-[541] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[692] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[857] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
-[4978] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[4979] Biber.pm:2945> INFO - Sorting 'entry' list 'niyt' keys
-[4979] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
-[12135] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[12311] bbl.pm:555> INFO - Output to thesis.bbl
+[119] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
+[120] Biber.pm:333> INFO - Reading 'thesis.bcf'
+[389] Biber.pm:607> INFO - Using all citekeys in bib section 0
+[434] Biber.pm:3053> INFO - Processing section 0
+[476] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[631] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[730] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[4180] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[4181] Biber.pm:2945> INFO - Sorting 'entry' list 'niyt' keys
+[4181] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
+[10202] bbl.pm:482> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[10372] bbl.pm:555> INFO - Output to thesis.bbl

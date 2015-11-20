@@ -2698,9 +2698,6 @@
       \field{volume}{50}
       \field{year}{2001}
       \field{pages}{973\bibrangedash 987}
-      \verb{url}
-      \verb http://www.jstor.org/stable/761522
-      \endverb
     \endentry
     \entry{cullet09}{book}{}
       \name{labelname}{1}{}{%
@@ -3366,11 +3363,11 @@
         {{hash=b78b9d3370907e9829f7637e3b6acd24}{Dyrkolbotn}{D\bibinitperiod}{Sjur\bibnamedelima K\bbxinitsep}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{5}{}{%
+        {{hash=ae5ab0ee1c1a7de4bf9f67a262126860}{Hoops}{H\bibinitperiod}{Bj{\''o}rn}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
         {{hash=ae2a85de6cf08907b77b18f45cd204c4}{Mostert}{M\bibinitperiod}{H\bbxinitsep}{H\bibinitperiod}{}{}{}{}}%
         {{hash=170c57342c6a953788090d84fc02fb88}{Verstappen}{V\bibinitperiod}{L\bbxinitsep\bibnamedelimb C\bbxinitsep\bibnamedelima A\bbxinitsep}{L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=070e962010f3cdfeb92439fb5af5fbe5}{Sluysmans}{S\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=ae5ab0ee1c1a7de4bf9f67a262126860}{Hoops}{H\bibinitperiod}{Bj{\''o}rn}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=a883b8df05b27f16b150c1969713f773}{Marais}{M\bibinitperiod}{Ernst}{E\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Ius Commune}%
@@ -6045,6 +6042,7 @@
       \field{indextitle}{Ren utvikling eller ren business? Hvorfor er Nepal så sinte på SN Powers vannkraftanlegg i Khimti?}
       \field{note}{Rapport nummer 1-2015}
       \field{title}{Ren utvikling eller ren business? Hvorfor er Nepal så sinte på SN Powers vannkraftanlegg i Khimti?}
+      \field{year}{2015}
     \endentry
     \entry{jorpeland09}{jurisdiction}{}
       \field{sortinit}{J}
