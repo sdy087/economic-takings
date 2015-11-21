@@ -1,0 +1,1200 @@
+body {
+	margin: 0px auto; padding: 0px; background-color: rgb(70, 70, 70);
+}
+#art-main {
+	left: 0px; top: 0px; width: 100%; position: relative;
+}
+#art-page-background-glare {
+	left: 0px; top: 0px; width: 100%; height: 300px; position: absolute;
+}
+#art-page-background-glare-image {
+	margin: 0px; width: 440px; height: 300px; background-image: url("images/Page-BgGlare.png"); background-repeat: no-repeat;
+}
+html:first-child #art-page-background-glare {
+	border: 1px solid transparent; border-image: none;
+}
+#art-page-background-simple-gradient {
+	top: 0px; width: 100%; height: 1px; position: absolute; background-image: url("images/Page-BgSimpleGradient.jpg"); background-repeat: repeat-x;
+}
+.cleared {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none; clear: both; font-size: 1px; float: none;
+}
+form {
+	margin: 0px !important; padding: 0px !important;
+}
+table.position {
+	width: 100%; position: relative; table-layout: fixed;
+}
+.art-Sheet {
+	margin: 0px auto; width: 1000px; position: relative; z-index: 0; min-height: 35px; min-width: 35px;
+}
+.art-Sheet-body {
+	padding: 13px; position: relative; z-index: 1;
+}
+.art-Sheet-tr {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-tl {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-br {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-bl {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-tc {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-bc {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-cr {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-cl {
+	position: absolute; z-index: -1;
+}
+.art-Sheet-tr {
+	width: 34px; height: 34px; background-image: url("images/Sheet-s.png");
+}
+.art-Sheet-tl {
+	width: 34px; height: 34px; background-image: url("images/Sheet-s.png");
+}
+.art-Sheet-br {
+	width: 34px; height: 34px; background-image: url("images/Sheet-s.png");
+}
+.art-Sheet-bl {
+	width: 34px; height: 34px; background-image: url("images/Sheet-s.png");
+}
+.art-Sheet-tl {
+	left: 0px; top: 0px; clip: rect(auto, 17px, 17px, auto);
+}
+.art-Sheet-tr {
+	top: 0px; right: 0px; clip: rect(auto, auto, 17px, 17px);
+}
+.art-Sheet-bl {
+	left: 0px; bottom: 0px; clip: rect(17px, 17px, auto, auto);
+}
+.art-Sheet-br {
+	right: 0px; bottom: 0px; clip: rect(17px, auto, auto, 17px);
+}
+.art-Sheet-tc {
+	left: 17px; height: 34px; right: 17px; background-image: url("images/Sheet-h.png");
+}
+.art-Sheet-bc {
+	left: 17px; height: 34px; right: 17px; background-image: url("images/Sheet-h.png");
+}
+.art-Sheet-tc {
+	top: 0px; clip: rect(auto, auto, 17px, auto);
+}
+.art-Sheet-bc {
+	bottom: 0px; clip: rect(17px, auto, auto, auto);
+}
+.art-Sheet-cr {
+	top: 17px; width: 34px; bottom: 17px; background-image: url("images/Sheet-v.png");
+}
+.art-Sheet-cl {
+	top: 17px; width: 34px; bottom: 17px; background-image: url("images/Sheet-v.png");
+}
+.art-Sheet-cr {
+	right: 0px; clip: rect(auto, auto, auto, 17px);
+}
+.art-Sheet-cl {
+	left: 0px; clip: rect(auto, 17px, auto, auto);
+}
+.art-Sheet-cc {
+	left: 17px; top: 17px; right: 17px; bottom: 17px; position: absolute; z-index: -1; background-color: rgb(254, 242, 221);
+}
+.art-Sheet {
+	margin-top: -13px !important;
+}
+#art-page-background-simple-gradient {
+	min-width: 1000px;
+}
+#art-page-background-gradient {
+	min-width: 1000px;
+}
+#art-page-background-glare {
+	min-width: 1000px;
+}
+div.art-Header {
+	margin: 0px auto; width: 974px; height: 150px; position: relative; z-index: 0;
+}
+div.art-Header-jpeg {
+	background-position: center; left: 0px; top: 0px; width: 974px; height: 150px; position: absolute; z-index: -1; background-image: url("images/Header.jpg"); background-repeat: no-repeat;
+}
+.art-menu a {
+	text-align: left; letter-spacing: normal; text-decoration: none; word-spacing: normal;
+}
+.art-menu a:link {
+	text-align: left; letter-spacing: normal; text-decoration: none; word-spacing: normal;
+}
+.art-menu a:visited {
+	text-align: left; letter-spacing: normal; text-decoration: none; word-spacing: normal;
+}
+.art-menu a:hover {
+	text-align: left; letter-spacing: normal; text-decoration: none; word-spacing: normal;
+}
+.art-menu {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; list-style-type: none;
+}
+.art-menu ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; list-style-type: none;
+}
+.art-menu li {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; float: left; display: block; position: relative; z-index: 5;
+}
+.art-menu li:hover {
+	white-space: normal; z-index: 10000;
+}
+.art-menu li li {
+	float: none;
+}
+.art-menu ul {
+	background: none; left: 0px; top: 0px; visibility: hidden; position: absolute; z-index: 10;
+}
+.art-menu li:hover > ul {
+	top: 100%; visibility: visible;
+}
+.art-menu li li:hover > ul {
+	left: 100%; top: 0px;
+}
+.art-menu::after {
+	height: 0px; overflow: hidden; clear: both; display: block; visibility: hidden; content: ".";
+}
+.art-menu ul::after {
+	height: 0px; overflow: hidden; clear: both; display: block; visibility: hidden; content: ".";
+}
+.art-menu {
+	min-height: 0px;
+}
+.art-menu ul {
+	min-height: 0px;
+}
+.art-menu ul {
+	margin: -10px 0px 0px -30px; padding: 10px 30px 30px; background-image: url("images/spacer.gif");
+}
+.art-menu ul ul {
+	margin: -30px 0px 0px -10px; padding: 30px 30px 30px 10px;
+}
+.art-menu {
+	padding: 12px 6px 0px;
+}
+.art-nav {
+	height: 41px; position: relative; z-index: 100;
+}
+.art-nav .l {
+	top: 0px; height: 41px; position: absolute; z-index: -1; background-image: url("images/nav.png");
+}
+.art-nav .r {
+	top: 0px; height: 41px; position: absolute; z-index: -1; background-image: url("images/nav.png");
+}
+.art-nav .l {
+	left: 0px; right: 0px;
+}
+.art-nav .r {
+	width: 974px; right: 0px; clip: rect(auto, auto, auto, 974px);
+}
+.art-menu ul li {
+	clear: both;
+}
+.art-menu a {
+	height: 29px; overflow: hidden; text-decoration: none; margin-right: 2px; margin-left: 2px; display: block; position: relative; cursor: pointer;
+}
+.art-menu a .r {
+	top: 0px; height: 87px; display: block; position: absolute; z-index: -1; background-image: url("images/MenuItem.png");
+}
+.art-menu a .l {
+	top: 0px; height: 87px; display: block; position: absolute; z-index: -1; background-image: url("images/MenuItem.png");
+}
+.art-menu a .l {
+	left: 0px; right: 4px;
+}
+.art-menu a .r {
+	width: 408px; right: 0px; clip: rect(auto, auto, auto, 404px);
+}
+.art-menu a .t {
+	margin: 0px 4px; padding: 0px 19px; text-align: center; color: rgb(250, 211, 142); line-height: 29px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal;
+}
+.art-menu a:hover .l {
+	top: -29px;
+}
+.art-menu a:hover .r {
+	top: -29px;
+}
+.art-menu li:hover > a .l {
+	top: -29px;
+}
+.art-menu li:hover > a .r {
+	top: -29px;
+}
+.art-menu li:hover a .l {
+	top: -29px;
+}
+.art-menu li:hover a .r {
+	top: -29px;
+}
+.art-menu a:hover .t {
+	color: rgb(240, 240, 240);
+}
+.art-menu li:hover a .t {
+	color: rgb(240, 240, 240);
+}
+.art-menu li:hover > a .t {
+	color: rgb(240, 240, 240);
+}
+.art-menu a.active .l {
+	top: -58px;
+}
+.art-menu a.active .r {
+	top: -58px;
+}
+.art-menu a.active .t {
+	color: rgb(252, 230, 191);
+}
+.art-menu ul a {
+	background-position: left top; border-width: 0px; border-style: solid; width: 180px; height: 20px; text-align: center; line-height: 20px; overflow: hidden; margin-right: auto; display: block; white-space: nowrap; background-image: url("images/subitem-bg.png"); background-repeat: repeat-x;
+}
+.art-nav ul.art-menu ul span {
+	margin: inherit; padding: inherit; text-align: inherit; text-decoration: inherit; float: none; display: inline; background-image: none;
+}
+.art-nav ul.art-menu ul span span {
+	margin: inherit; padding: inherit; text-align: inherit; text-decoration: inherit; float: none; display: inline; background-image: none;
+}
+.art-menu ul a {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-menu ul a:link {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-menu ul a:visited {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-menu ul a:hover {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-menu ul a:active {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-nav ul.art-menu ul span {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-nav ul.art-menu ul span span {
+	text-align: left; color: rgb(252, 243, 237); line-height: 20px; text-indent: 12px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none;
+}
+.art-menu ul ul a {
+	margin-left: auto;
+}
+.art-menu ul li a:hover {
+	background-position: 0px -20px; color: rgb(242, 242, 242);
+}
+.art-menu ul li:hover > a {
+	background-position: 0px -20px; color: rgb(242, 242, 242);
+}
+.art-nav .art-menu ul li a:hover span {
+	color: rgb(242, 242, 242);
+}
+.art-nav .art-menu ul li a:hover span span {
+	color: rgb(242, 242, 242);
+}
+.art-nav .art-menu ul li:hover > a span {
+	color: rgb(242, 242, 242);
+}
+.art-nav .art-menu ul li:hover > a span span {
+	color: rgb(242, 242, 242);
+}
+.art-contentLayout {
+	width: 974px; margin-bottom: 1px; position: relative;
+}
+.art-Block {
+	margin: 0px auto; position: relative; z-index: 0; min-height: 15px; min-width: 15px;
+}
+.art-Block-body {
+	padding: 7px; position: relative; z-index: 1;
+}
+.art-Block-tr {
+	position: absolute; z-index: -1;
+}
+.art-Block-tl {
+	position: absolute; z-index: -1;
+}
+.art-Block-br {
+	position: absolute; z-index: -1;
+}
+.art-Block-bl {
+	position: absolute; z-index: -1;
+}
+.art-Block-tc {
+	position: absolute; z-index: -1;
+}
+.art-Block-bc {
+	position: absolute; z-index: -1;
+}
+.art-Block-cr {
+	position: absolute; z-index: -1;
+}
+.art-Block-cl {
+	position: absolute; z-index: -1;
+}
+.art-Block-tr {
+	width: 14px; height: 14px; background-image: url("images/Block-s.png");
+}
+.art-Block-tl {
+	width: 14px; height: 14px; background-image: url("images/Block-s.png");
+}
+.art-Block-br {
+	width: 14px; height: 14px; background-image: url("images/Block-s.png");
+}
+.art-Block-bl {
+	width: 14px; height: 14px; background-image: url("images/Block-s.png");
+}
+.art-Block-tl {
+	left: 0px; top: 0px; clip: rect(auto, 7px, 7px, auto);
+}
+.art-Block-tr {
+	top: 0px; right: 0px; clip: rect(auto, auto, 7px, 7px);
+}
+.art-Block-bl {
+	left: 0px; bottom: 0px; clip: rect(7px, 7px, auto, auto);
+}
+.art-Block-br {
+	right: 0px; bottom: 0px; clip: rect(7px, auto, auto, 7px);
+}
+.art-Block-tc {
+	left: 7px; height: 14px; right: 7px; background-image: url("images/Block-h.png");
+}
+.art-Block-bc {
+	left: 7px; height: 14px; right: 7px; background-image: url("images/Block-h.png");
+}
+.art-Block-tc {
+	top: 0px; clip: rect(auto, auto, 7px, auto);
+}
+.art-Block-bc {
+	bottom: 0px; clip: rect(7px, auto, auto, auto);
+}
+.art-Block-cr {
+	top: 7px; width: 14px; bottom: 7px; background-image: url("images/Block-v.png");
+}
+.art-Block-cl {
+	top: 7px; width: 14px; bottom: 7px; background-image: url("images/Block-v.png");
+}
+.art-Block-cr {
+	right: 0px; clip: rect(auto, auto, auto, 7px);
+}
+.art-Block-cl {
+	left: 0px; clip: rect(auto, 7px, auto, auto);
+}
+.art-Block-cc {
+	left: 7px; top: 7px; right: 7px; bottom: 7px; position: absolute; z-index: -1; background-color: rgb(71, 71, 71);
+}
+.art-Block {
+	margin: 7px;
+}
+.art-BlockHeader {
+	padding: 0px 7px; height: 30px; margin-bottom: 7px; position: relative; z-index: 0;
+}
+.art-BlockHeader .t {
+	padding: 0px 6px; height: 30px; color: rgb(0, 0, 0); line-height: 30px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: bold; white-space: nowrap;
+}
+.art-BlockHeader .l {
+	height: 30px; display: block; position: absolute; z-index: -1; background-image: url("images/BlockHeader.png");
+}
+.art-BlockHeader .r {
+	height: 30px; display: block; position: absolute; z-index: -1; background-image: url("images/BlockHeader.png");
+}
+.art-BlockHeader .l {
+	left: 0px; right: 6px;
+}
+.art-BlockHeader .r {
+	width: 994px; right: 0px; clip: rect(auto, auto, auto, 988px);
+}
+.art-header-tag-icon {
+	background-position: left top; margin: 0px 0px 0px 5px; padding: 0px 0px 0px 12px; height: 30px; min-height: 12px; background-image: url("images/BlockHeaderIcon.png"); background-repeat: no-repeat;
+}
+.art-BlockContent {
+	margin: 0px auto; position: relative; z-index: 0; min-height: 1px; min-width: 1px;
+}
+.art-BlockContent-body {
+	padding: 8px; position: relative; z-index: 1;
+}
+.art-BlockContent-body {
+	color: rgb(207, 207, 207); font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal;
+}
+.art-BlockContent-body a:link {
+	color: rgb(236, 168, 131); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-BlockContent-body a:visited {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-BlockContent-body a.visited {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-BlockContent-body a:hover {
+	color: rgb(255, 71, 71); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-BlockContent-body a.hover {
+	color: rgb(255, 71, 71); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-BlockContent-body ul {
+	margin: 0px; padding: 0px; color: rgb(181, 181, 181); list-style-type: none;
+}
+.art-BlockContent-body li {
+	font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; text-decoration: none;
+}
+.art-BlockContent-body ul li {
+	margin: 0.5em 0px; padding: 0px 0px 0px 13px; line-height: 1.2em; background-image: url("images/BlockContentBullets.png"); background-repeat: no-repeat;
+}
+.art-Post {
+	margin: 0px auto; position: relative; z-index: 0; min-height: 1px; min-width: 1px;
+}
+.art-Post-body {
+	padding: 10px; position: relative; z-index: 1;
+}
+.art-Post {
+	margin: 7px;
+}
+a img {
+	border: 0px currentColor; border-image: none;
+}
+.art-article img {
+	margin: 1em; border: currentColor; border-image: none;
+}
+img.art-article {
+	margin: 1em; border: currentColor; border-image: none;
+}
+.art-metadata-icons img {
+	margin: 2px; border: currentColor; border-image: none; vertical-align: middle;
+}
+.art-article table {
+	margin: 1px; width: auto; border-collapse: collapse;
+}
+table.art-article {
+	margin: 1px; width: auto; border-collapse: collapse;
+}
+.art-article table {
+	background-color: transparent;
+}
+table.art-article .art-article tr {
+	background-color: transparent;
+}
+.art-article th {
+	background-color: transparent;
+}
+.art-article td {
+	background-color: transparent;
+}
+.art-article th {
+	padding: 0px; border: currentColor; border-image: none; text-align: left; vertical-align: top;
+}
+.art-article td {
+	padding: 0px; border: currentColor; border-image: none; text-align: left; vertical-align: top;
+}
+.art-article th {
+	padding: 0px; text-align: center; vertical-align: middle;
+}
+pre {
+	padding: 0.1em; overflow: auto;
+}
+.art-PostHeader {
+	margin: 0.2em 0px; padding: 0px; text-align: left; color: rgb(244, 202, 180); text-transform: none; line-height: inherit; text-indent: 0px; letter-spacing: normal; font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-variant: normal; font-weight: bold; text-decoration: none; word-spacing: normal;
+}
+.art-PostHeader a {
+	margin: 0px; text-align: left; color: rgb(244, 202, 180); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+.art-PostHeader a:link {
+	margin: 0px; text-align: left; color: rgb(244, 202, 180); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+.art-PostHeader a:visited {
+	margin: 0px; text-align: left; color: rgb(244, 202, 180); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+.art-PostHeader a:hover {
+	margin: 0px; text-align: left; color: rgb(244, 202, 180); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+.art-PostHeader a:link {
+	text-align: left; color: rgb(240, 186, 157); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostHeader a:visited {
+	text-align: left; color: rgb(199, 199, 199); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostHeader a.visited {
+	text-align: left; color: rgb(199, 199, 199); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostHeader a:hover {
+	text-align: left; color: rgb(246, 170, 40); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostHeader a.hovered {
+	text-align: left; color: rgb(246, 170, 40); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostMetadataHeader {
+	padding: 1px; border: 1px solid rgb(54, 54, 54); background-color: rgb(89, 89, 89);
+}
+.art-PostHeaderIcons {
+	padding: 1px;
+}
+.art-PostHeaderIcons {
+	color: rgb(253, 240, 216); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px;
+}
+.art-PostHeaderIcons a {
+	color: rgb(253, 240, 216); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px;
+}
+.art-PostHeaderIcons a:link {
+	color: rgb(253, 240, 216); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px;
+}
+.art-PostHeaderIcons a:visited {
+	color: rgb(253, 240, 216); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px;
+}
+.art-PostHeaderIcons a:hover {
+	color: rgb(253, 240, 216); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px;
+}
+.art-PostHeaderIcons a {
+	margin: 0px;
+}
+.art-PostHeaderIcons a:link {
+	margin: 0px;
+}
+.art-PostHeaderIcons a:visited {
+	margin: 0px;
+}
+.art-PostHeaderIcons a:hover {
+	margin: 0px;
+}
+.art-PostHeaderIcons a:link {
+	color: rgb(234, 155, 113); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-PostHeaderIcons a:visited {
+	color: rgb(234, 155, 113); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-PostHeaderIcons a.visited {
+	color: rgb(234, 155, 113); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-PostHeaderIcons a:hover {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostHeaderIcons a.hover {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+body {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: normal;
+}
+.art-PostContent p {
+	margin: 0.5em 0px;
+}
+.art-PostContent {
+	text-align: justify; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: normal;
+}
+.art-PostContent p {
+	text-align: justify; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: normal;
+}
+.art-PostContent {
+	margin: 0px;
+}
+a {
+	color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-weight: bold; text-decoration: underline;
+}
+a:link {
+	color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-weight: bold; text-decoration: underline;
+}
+a:visited {
+	color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+a.visited {
+	color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+a:hover {
+	color: rgb(181, 0, 0); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+a.hover {
+	color: rgb(181, 0, 0); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+h1 {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h2 {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h3 {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h4 {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h5 {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h6 {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h1 a {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h2 a {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h3 a {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h4 a {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h5 a {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h6 a h1 a:hover {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h2 a:hover {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h3 a:hover {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h4 a:hover {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h5 a:hover {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h6 a:hover h1 a:visited {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h2 a:visited {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h3 a:visited {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h4 a:visited {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h5 a:visited {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h6 a:visited {
+	font-style: normal; font-weight: normal; text-decoration: none;
+}
+h1 {
+	text-align: left; color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-size: 28px; font-style: normal; font-weight: bold;
+}
+h1 a {
+	text-align: left; color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-size: 28px; font-style: normal; font-weight: bold;
+}
+h1 a:link {
+	text-align: left; color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-size: 28px; font-style: normal; font-weight: bold;
+}
+h1 a:visited {
+	text-align: left; color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-size: 28px; font-style: normal; font-weight: bold;
+}
+h1 a:hover {
+	text-align: left; color: rgb(159, 72, 25); font-family: Arial, Helvetica, Sans-Serif; font-size: 28px; font-style: normal; font-weight: bold;
+}
+h2 {
+	text-align: left; color: rgb(7, 98, 83); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+h2 a {
+	text-align: left; color: rgb(7, 98, 83); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+h2 a:link {
+	text-align: left; color: rgb(7, 98, 83); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+h2 a:visited {
+	text-align: left; color: rgb(7, 98, 83); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+h2 a:hover {
+	text-align: left; color: rgb(7, 98, 83); font-family: Arial, Helvetica, Sans-Serif; font-size: 22px; font-style: normal; font-weight: bold;
+}
+h3 {
+	text-align: left; color: rgb(225, 146, 9); font-family: Arial, Helvetica, Sans-Serif; font-size: 18px; font-style: normal; font-weight: bold;
+}
+h3 a {
+	text-align: left; color: rgb(225, 146, 9); font-family: Arial, Helvetica, Sans-Serif; font-size: 18px; font-style: normal; font-weight: bold;
+}
+h3 a:link {
+	text-align: left; color: rgb(225, 146, 9); font-family: Arial, Helvetica, Sans-Serif; font-size: 18px; font-style: normal; font-weight: bold;
+}
+h3 a:visited {
+	text-align: left; color: rgb(225, 146, 9); font-family: Arial, Helvetica, Sans-Serif; font-size: 18px; font-style: normal; font-weight: bold;
+}
+h3 a:hover {
+	text-align: left; color: rgb(225, 146, 9); font-family: Arial, Helvetica, Sans-Serif; font-size: 18px; font-style: normal; font-weight: bold;
+}
+h4 {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: bold;
+}
+h4 a {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: bold;
+}
+h4 a:link {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: bold;
+}
+h4 a:visited {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: bold;
+}
+h4 a:hover {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px; font-style: normal; font-weight: bold;
+}
+h5 {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h5 a {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h5 a:link {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h5 a:visited {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h5 a:hover {
+	text-align: left; color: rgb(20, 20, 112); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h6 {
+	text-align: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h6 a {
+	text-align: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h6 a:link {
+	text-align: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h6 a:visited {
+	text-align: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+h6 a:hover {
+	text-align: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 14px; font-style: normal; font-weight: bold;
+}
+.xsmallview {
+	font-size: 11px;
+}
+.xsmallview .art-PostContent {
+	font-size: 11px;
+}
+.art-PostContent p {
+	font-size: 11px;
+}
+.smallview {
+	font-size: 13px;
+}
+.smallview .art-PostContent {
+	font-size: 13px;
+}
+.art-PostContent p {
+	font-size: 13px;
+}
+.normalview {
+	
+}
+.normalview .art-PostContent {
+	
+}
+.art-PostContent p {
+	
+}
+.largeview {
+	font-size: 18px;
+}
+.largeview .art-PostContent {
+	font-size: 18px;
+}
+.art-PostContent p {
+	font-size: 18px;
+}
+.xlargeview {
+	font-size: 21px;
+}
+.xlargeview .art-PostContent {
+	font-size: 21px;
+}
+.art-PostContent p {
+	font-size: 21px;
+}
+a.texttoggler {
+	margin-right: 6px;
+}
+a.texttoggler img {
+	border: 1px solid gray; border-image: none;
+}
+a.texttoggler img:hover {
+	border: 1px solid red; border-image: none;
+}
+a.selectedtoggler img {
+	border: 1px solid red; border-image: none;
+}
+.description {
+	color: rgb(0, 0, 0); font-family: verdana, arial, sans-serif; font-size: 14px;
+}
+.navbar {
+	color: rgb(0, 0, 0); font-family: verdana, arial, sans-serif; font-size: 13px; font-weight: bold;
+}
+.heading {
+	color: rgb(7, 98, 83); font-family: verdana, arial, sans-serif; font-size: 18px; font-weight: bold;
+}
+.subtitle {
+	color: rgb(0, 0, 0); font-family: verdana, arial, sans-serif; font-size: 16px; font-weight: bold;
+}
+.subhead {
+	color: rgb(0, 0, 0); font-family: verdana, arial, sans-serif; font-size: 15px; font-weight: bold;
+}
+.footnote {
+	color: rgb(0, 0, 0); font-family: "times new roman"; font-size: 14px;
+}
+.fn {
+	text-decoration: none;
+}
+a.fn:link {
+	text-decoration: none;
+}
+a.fn:active {
+	text-decoration: none;
+}
+a.fn:visited {
+	text-decoration: none;
+}
+a.fn:hover {
+	text-decoration: none;
+}
+.copyright {
+	font: 10px/normal verdana, arial, sans-serif; color: rgb(221, 221, 221); font-size-adjust: none; font-stretch: normal;
+}
+a.copyright:link {
+	font: 10px/normal verdana, arial, sans-serif; color: rgb(255, 204, 153); font-size-adjust: none; font-stretch: normal;
+}
+a.copyright:active {
+	font: 10px/normal verdana, arial, sans-serif; color: rgb(255, 204, 153); font-size-adjust: none; font-stretch: normal;
+}
+a.copyright:visited {
+	font: 10px/normal verdana, arial, sans-serif; color: rgb(255, 204, 153); font-size-adjust: none; font-stretch: normal;
+}
+a.copyright:hover {
+	font: 10px/normal verdana, arial, sans-serif; color: rgb(221, 112, 0); text-decoration: underline; font-size-adjust: none; font-stretch: normal;
+}
+.whitetitle {
+	background: none; font: bold 12px/normal verdana, arial, sans-serif; color: rgb(255, 255, 255); font-size-adjust: none; font-stretch: normal;
+}
+.whitetext {
+	background: none; color: rgb(255, 255, 255); font-family: verdana, arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+a.whitetext:link {
+	background: none; color: rgb(255, 255, 255); font-family: verdana, arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+a.whitetext:hover {
+	background: none; color: rgb(255, 255, 255); font-family: verdana, arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+a.whitetext:active {
+	background: none; color: rgb(255, 255, 255); font-family: verdana, arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+a.whitetext:visited {
+	background: none; color: rgb(255, 255, 255); font-family: verdana, arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.download {
+	background: none; font: bold 13px/normal verdana, arial, sans-serif; color: rgb(181, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+a.download:link {
+	background: none; font: bold 13px/normal verdana, arial, sans-serif; color: rgb(181, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+a.download:hover {
+	background: none; font: bold 13px/normal verdana, arial, sans-serif; color: rgb(181, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+a.download:active {
+	background: none; font: bold 13px/normal verdana, arial, sans-serif; color: rgb(181, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+a.download:visited {
+	background: none; font: bold 13px/normal verdana, arial, sans-serif; color: rgb(181, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+ol {
+	margin: 1em 0px 1em 2em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px;
+}
+ul {
+	margin: 1em 0px 1em 2em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Sans-Serif; font-size: 16px;
+}
+li ol {
+	margin: 0.5em 0px 0.5em 2em; padding: 0px;
+}
+li ul {
+	margin: 0.5em 0px 0.5em 2em; padding: 0px;
+}
+li {
+	margin: 0.2em 0px; padding: 0px;
+}
+ul {
+	list-style-type: none;
+}
+ol {
+	list-style-position: inside;
+}
+.art-Post li {
+	padding: 0px 0px 0px 13px; line-height: 1.2em;
+}
+.art-Post ol li {
+	background: none; padding-left: 0px;
+}
+.art-Post ul ol li {
+	background: none; padding-left: 0px;
+}
+.art-Post ul li {
+	padding-left: 13px; background-image: url("images/PostBullets.png"); background-repeat: no-repeat;
+}
+.art-Post ol ul li {
+	padding-left: 13px; background-image: url("images/PostBullets.png"); background-repeat: no-repeat;
+}
+blockquote {
+	text-align: left; color: rgb(251, 218, 162); font-family: Arial, Helvetica, Sans-Serif; font-style: italic; font-weight: normal;
+}
+blockquote p {
+	text-align: left; color: rgb(251, 218, 162); font-family: Arial, Helvetica, Sans-Serif; font-style: italic; font-weight: normal;
+}
+.art-PostContent blockquote p {
+	text-align: left; color: rgb(251, 218, 162); font-family: Arial, Helvetica, Sans-Serif; font-style: italic; font-weight: normal;
+}
+blockquote {
+	background-position: left top; margin: 10px 10px 10px 50px; padding: 5px 5px 5px 41px; border: 1px solid rgb(122, 122, 122); border-image: none; background-image: url("images/PostQuote.png"); background-repeat: no-repeat; background-color: rgb(89, 89, 89);
+}
+.art-PostContent blockquote {
+	background-position: left top; margin: 10px 10px 10px 50px; padding: 5px 5px 5px 41px; border: 1px solid rgb(122, 122, 122); border-image: none; background-image: url("images/PostQuote.png"); background-repeat: no-repeat; background-color: rgb(89, 89, 89);
+}
+.art-PostMetadataFooter {
+	padding: 1px; border: 1px solid rgb(54, 54, 54); background-color: rgb(89, 89, 89);
+}
+.art-PostFooterIcons {
+	padding: 1px;
+}
+.art-PostFooterIcons {
+	color: rgb(196, 196, 196); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px; text-decoration: none;
+}
+.art-PostFooterIcons a {
+	color: rgb(196, 196, 196); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px; text-decoration: none;
+}
+.art-PostFooterIcons a:link {
+	color: rgb(196, 196, 196); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px; text-decoration: none;
+}
+.art-PostFooterIcons a:visited {
+	color: rgb(196, 196, 196); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px; text-decoration: none;
+}
+.art-PostFooterIcons a:hover {
+	color: rgb(196, 196, 196); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px; text-decoration: none;
+}
+.art-PostFooterIcons a {
+	margin: 0px;
+}
+.art-PostFooterIcons a:link {
+	margin: 0px;
+}
+.art-PostFooterIcons a:visited {
+	margin: 0px;
+}
+.art-PostFooterIcons a:hover {
+	margin: 0px;
+}
+.art-PostFooterIcons a:link {
+	color: rgb(234, 155, 113); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-PostFooterIcons a:visited {
+	font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-PostFooterIcons a.visited {
+	font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-PostFooterIcons a:hover {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-PostFooterIcons a.hover {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-button-wrapper .art-button {
+	background: none; margin: 0px !important; padding: 0px !important; border: currentColor; border-image: none; width: auto; line-height: 33px; overflow: visible; text-decoration: none !important; display: inline-block; z-index: 0; cursor: default;
+}
+.art-button-wrapper {
+	width: auto; height: 33px; overflow: hidden; display: inline-block; white-space: nowrap; position: relative; z-index: 0;
+}
+.firefox2 .art-button-wrapper {
+	float: left; display: block;
+}
+.art-button-wrapper .art-button {
+	padding: 0px 21px !important; height: 33px; text-align: left; color: rgb(251, 236, 228) !important; line-height: 33px; font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: none !important; display: block; white-space: nowrap;
+}
+input {
+	font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal;
+}
+select {
+	font-family: Arial, Helvetica, Sans-Serif; font-size: 12px; font-style: normal; font-weight: normal;
+}
+.hover.art-button-wrapper .art-button {
+	color: rgb(36, 36, 36) !important; text-decoration: none !important;
+}
+.art-button:hover {
+	color: rgb(36, 36, 36) !important; text-decoration: none !important;
+}
+.active.art-button-wrapper .art-button {
+	color: rgb(240, 240, 240) !important;
+}
+.art-button-wrapper .l {
+	height: 99px; display: block; position: absolute; z-index: -1; background-image: url("images/Button.png");
+}
+.art-button-wrapper .r {
+	height: 99px; display: block; position: absolute; z-index: -1; background-image: url("images/Button.png");
+}
+.art-button-wrapper .l {
+	left: 0px; right: 10px;
+}
+.art-button-wrapper .r {
+	width: 409px; right: 0px; clip: rect(auto, auto, auto, 399px);
+}
+.hover.art-button-wrapper .l {
+	top: -33px;
+}
+.hover.art-button-wrapper .r {
+	top: -33px;
+}
+.active.art-button-wrapper .l {
+	top: -66px;
+}
+.active.art-button-wrapper .r {
+	top: -66px;
+}
+.art-Footer {
+	margin: 5px auto 0px; width: 974px; overflow: hidden; position: relative; z-index: 0;
+}
+.art-Footer .art-Footer-inner {
+	padding: 8px; height: 1%; text-align: center; position: relative; z-index: 0;
+}
+.art-Footer .art-Footer-background {
+	left: 0px; width: 974px; height: 150px; bottom: 0px; position: absolute; z-index: -1; background-image: url("images/Footer.png"); background-repeat: no-repeat;
+}
+.art-rss-tag-icon {
+	background-position: right; margin: 0px 5px 0px 0px; width: 25px; height: 25px; float: left; display: block; position: relative; cursor: default; background-image: url("images/rssIcon.png"); background-repeat: no-repeat;
+}
+.art-Footer .art-Footer-text p {
+	margin: 0px;
+}
+.art-Footer .art-Footer-text {
+	color: rgb(196, 196, 196); font-family: Arial, Helvetica, Sans-Serif; font-size: 11px; display: inline-block;
+}
+.art-Footer .art-Footer-text a:link {
+	color: rgb(234, 155, 113); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-Footer .art-Footer-text a:visited {
+	color: rgb(248, 193, 98); font-family: Arial, Helvetica, Sans-Serif; text-decoration: underline;
+}
+.art-Footer .art-Footer-text a:hover {
+	color: rgb(255, 71, 71); font-family: Arial, Helvetica, Sans-Serif; text-decoration: none;
+}
+.art-page-footer {
+	color: rgb(227, 124, 69); letter-spacing: normal; font-family: Arial; font-size: 10px; font-style: normal; font-weight: normal; text-decoration: underline; word-spacing: normal;
+}
+.art-page-footer a {
+	color: rgb(227, 124, 69); letter-spacing: normal; font-family: Arial; font-size: 10px; font-style: normal; font-weight: normal; text-decoration: underline; word-spacing: normal;
+}
+.art-page-footer a:link {
+	color: rgb(227, 124, 69); letter-spacing: normal; font-family: Arial; font-size: 10px; font-style: normal; font-weight: normal; text-decoration: underline; word-spacing: normal;
+}
+.art-page-footer a:visited {
+	color: rgb(227, 124, 69); letter-spacing: normal; font-family: Arial; font-size: 10px; font-style: normal; font-weight: normal; text-decoration: underline; word-spacing: normal;
+}
+.art-page-footer a:hover {
+	color: rgb(227, 124, 69); letter-spacing: normal; font-family: Arial; font-size: 10px; font-style: normal; font-weight: normal; text-decoration: underline; word-spacing: normal;
+}
+.art-page-footer {
+	margin: 1em; text-align: center; color: rgb(82, 82, 82); text-decoration: none;
+}
+.art-contentLayout .art-content {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 729px; overflow: hidden; float: left; position: relative;
+}
+.art-contentLayout .art-content-wide {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 972px; overflow: hidden; float: left; position: relative;
+}
+.art-contentLayout .art-sidebar1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 243px; overflow: hidden; float: left; position: relative;
+}
+.commentlist {
+	background: none;
+}
+.commentlist li {
+	background: none;
+}
+.commentlist li li {
+	margin-left: 30px;
+}
+.commentlist li .avatar {
+	background: rgb(255, 255, 255); margin: 1px; padding: 2px; border: 1px solid rgb(238, 238, 238); border-image: none; float: right;
+}
+.commentlist li cite {
+	font-size: 1.2em;
+}
+#commentform textarea {
+	width: 100%;
+}
+img.wp-smiley {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.navigation {
+	text-align: center; display: block;
+}
+.aligncenter {
+	margin-right: auto; margin-left: auto; display: block;
+}
+div.aligncenter {
+	margin-right: auto; margin-left: auto; display: block;
+}
+.art-article .aligncenter img {
+	margin-right: auto; margin-left: auto; display: block;
+}
+.aligncenter img.art-article {
+	margin-right: auto; margin-left: auto; display: block;
+}
+.aligncenter img {
+	margin-right: auto; margin-left: auto; display: block;
+}
+img.aligncenter {
+	margin-right: auto; margin-left: auto; display: block;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.alignright img {
+	margin: 1em 0px 1em 1em;
+}
+img.alignright {
+	margin: 1em 0px 1em 1em;
+}
+.alignleft img {
+	margin: 1em 1em 1em 0px;
+}
+img.alignleft {
+	margin: 1em 1em 1em 0px;
+}
+.wp-caption {
+	margin: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; text-align: center; padding-top: 4px; background-color: rgb(243, 243, 243);
+}
+.wp-caption img {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none;
+}
+.wp-caption p.wp-caption-text {
+	margin: 0px; padding: 0px 4px 5px; line-height: 17px; font-size: 11px;
+}
+.hidden {
+	display: none;
+}
+#wp-calendar {
+	margin: 10px auto 0px; width: 155px; empty-cells: show;
+}
+#wp-calendar #next a {
+	text-align: right; padding-right: 10px;
+}
+#wp-calendar #prev a {
+	text-align: left; padding-left: 10px;
+}
+#wp-calendar a {
+	display: block;
+}
+#wp-calendar caption {
+	width: 100%; text-align: center;
+}
+#wp-calendar td {
+	padding: 3px 0px; text-align: center;
+}
+.gallery {
+	letter-spacing: normal;
+}
