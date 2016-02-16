@@ -1,0 +1,183 @@
+%input macros (i.e. write your own macros file called MacroFile1.tex)
+\include{Macros/MacroFile1}
+%\includeonly{Chapter5/endelig_5}
+%NOTE: if you want to work on just one Chapter, you can take out the `%' sign on the previous line and compile the thesis accordingly. The above command, for instance, will give you just the first Chapter. The bonus of doing it this way is that your cross references and page numbers will remain as they are in the full file.
+
+\documentclass[a4paper,twoside,openright,10pt]{thesisPSnPDF}
+
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+%\usepackage{nomencl}
+%\DeclareUnicodeCharacter{00A0}{ }
+%\makenomenclature
+
+%\newcommand{\isr}[1]{#1}
+\newcommand{\dni}{\DNI}
+\newcommand{\noo}[1]{}
+\newcommand{\sjur}[1]{SJUR: #1}
+\newcommand{\nathp}[1]{NatHp(#1)}
+
+\def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
+  \hbox{}\nobreak\hfil(#1)%
+  \parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
+
+\newsavebox\mybox
+\newenvironment{aquote}[1]
+  {\savebox\mybox{#1}\begin{quote}}
+  {\signed{\usebox\mybox}\end{quote}}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+  {\normalfont\huge\bfseries\centering}{\thechapter}{20pt}{\Huge}
+
+\addbibresource{thesis.bib}
+
+% turn of those nasty overfull and underfull hboxes
+\hbadness=10000
+\hfuzz=50pt
+
+% Put all the style files you want in the directory StyleFiles and usepackage like this:
+%\usepackage{StyleFiles/watermark}
+
+%The following indexes are to ensure the table of cases functions properly. You can leave this to one side for now, though it is worth learning early on how to make the table of cases. It is pretty easy; but it'd be a shame if it got to near submission and you couldn't figure out how to do it. 
+% NB: I haven't provided for Northern Irish cases here
+\makeindex[name=casesgb, title={England and Wales}, columns=1,intoc]
+\makeindex[name=casessc, title={Scotland}, columns=1,intoc]
+\makeindex[name=casesus, title={The United States}, columns=1,intoc]
+\makeindex[name=casesnz, title={New Zealand}, columns=1,intoc]
+\makeindex[name=casesau, title={Australia}, columns=1,intoc]
+\makeindex[name=casesca, title={Canada}, columns=1,intoc]
+\makeindex[name=legis, title={United Kingdom}, columns=1,intoc]
+\makeindex[name=casesother, title={Norway}, columns=1,intoc]
+\makeindex[name=casesechr, title={European Court of Human Rights}, columns=1,intoc]
+\makeindex[name=casesjunk, title = {Other Jurisdictions}, columns = 1, intoc]
+\makeindex[name=noleg, title = {Norway}, columns = 1, intoc]
+\makeindex[name=prepno, title = {Norway}, columns = 1, intoc]
+\makeindex[name=intleg, title = {Other Law Instruments}, columns = 1, intoc]
+\DeclareIndexAssociation{gbcases}{casesgb}% ENGLAND
+\DeclareIndexAssociation{sccases}{casessc}% SCOTLAND
+\DeclareIndexAssociation{aucases}{casesau}% AUSTRALIA
+\DeclareIndexAssociation{cacases}{casesca}% CANADA
+\DeclareIndexAssociation{nzcases}{caseszn}% NEW ZEALAND
+\DeclareIndexAssociation{uscases}{casesus}% UNITED STATES
+\DeclareIndexAssociation{eucases}{casesother}% EU
+\DeclareIndexAssociation{echrcases}{casesechr}% ECHR
+\DeclareIndexAssociation{pilcases}{casesother}%
+\DeclareIndexAssociation{othercases}{casesother}% ANYTHING ELSE
+%\DeclareIndexAssociation{gbprimleg}{legis}% LEGISLATION
+%\DeclareIndexAssociation{gbsecleg}{legis}% LEGISLATION
+\DeclareIndexAssociation{enprimleg}{legis}% LEGISLATION
+
+\indexsetup{level=\section*,toclevel=section,noclearpage}
+
+\DeclareBibliographyCategory{cited}
+\AtEveryCitekey{\addtocategory{cited}{\thefield{entrykey}}}
+
+\usepackage{calc}
+\usepackage{lipsum}
+\makeatletter
+\newcommand{\tocfill}{\cleaders\hbox{$\m@th \mkern\@dotsep mu . \mkern\@dotsep mu$}\hfill}
+\makeatother
+\newcommand{\abbrlabel}[1]{\makebox[3cm][l]{\textbf{#1}\ \tocfill}}
+\newenvironment{abbreviations}{\begin{list}{}{\renewcommand{\makelabel}{\abbrlabel}%
+        \setlength{\labelwidth}{3cm}\setlength{\leftmargin}{\labelwidth+\labelsep}%
+                                              \setlength{\itemsep}{0pt}}}{\end{list}}
+
+
+\begin{document}
+\renewcommand\baselinestretch{1.5}
+\baselineskip=24pt
+
+%\maketitle
+
+\include{Title/Title}
+
+%set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{2}
+
+%\frontmatter
+
+%\addcontentsline{toc}{chapter}{List of Abbreviations}
+
+\tableofcontents
+
+%\include{Declaration/Declaration}
+%\addcontentsline{toc}{chapter}{Abstract}
+\include{Abstract/Abstract}
+
+\include{Acknowledgement/Acknowledgement}
+
+
+\section*{List of Abbreviations}
+\addcontentsline{toc}{chapter}{List of Abbreviations}
+
+\begin{abbreviations}
+\item[CPO]{Compulsory Purchase Order}
+\item[CPR]{Common Pool Resource}
+\item[ECHR]{European Convention of Human Rights}
+\item[ECtHR]{European Court of Human Rights}
+\item[EEA]{European Economic Area}
+\item[EFTA Court]{Court of Justice of the European Free Trade Association States}
+\item[ICCPR]{International Covenant on Civil and Political Rights}
+\item[ICESCR]{International Covenant on Economic, Social and Cultural Rights}
+\item[LAD]{Land Assembly District}
+\item[NVE]{Norges Vassdrags- og Energidirektorat (Norwegian Water and Energy \linebreak Directorate)}
+\item[P1(1)]{Article 1 of the First Protocol to the European Convention of Human Rights}
+\item[UDHR]{Universal Declaration of Human Rights}
+\end{abbreviations}
+
+%\include{tables}
+
+% NOTE:
+% To generate the indexes properly you need to run the following commands (in a terminal shell -- you need to navigate to the Thesis file in terminal. There will be guidance online for how to navigate within Terminal. Otherwise, most scientists should be able to help you!):
+% splitindex -- thesis -s oscola (THIS IS THE COMMAND WHICH WORKS FOR ME)
+% splitindex thesis --s oscola thesis (TRY THIS IF THE FIRST ONE DOESN'T WORK)
+
+%\addcontentsline{toc}{chapter}{Abstract}
+%\listoffigures
+
+%\include{LawTable/LawTable}
+%\listoftables
+%\addcontentsline{toc}{chapter}{List of Tables}
+%\printglossary  %% Print the nomenclature
+%\addcontentsline{toc}{chapter}{Nomenclature}
+
+%\renewcommand{\nomname}{Abbreviations}
+%\printglossary
+
+%\mainmatter
+%\include{Chapter1/introduction}
+%\include{Chapter1/Chapter1_final}
+\include{Chapter1/intro_revised}
+\include{Chapter1/1_revised}
+\include{Chapter2/endelig_2}
+\include{Chapter2/endelig_3}
+\include{Chapter3/endelig_4}
+%\include{Chapter4/chapter4_final}
+\include{Chapter5/endelig_5}
+\include{Chapter1/endelig_finale}
+%\include{Chapter6/Chapter6}		
+%\include{Chapter7/Chapter7}
+%\include{Chapter8/Chapter8}
+
+%\bibliographystyle{Classes/CUEDbiblio}
+%\bibliographystyle{oxford_en}
+%\bibliographystyle{Classes/jmb} % bibliography style
+%\renewcommand{\bibname}{References} % changes default name Bibliography to References
+%\addcontentsline{toc}{chapter}{Bibliography} %adds References to contents page
+%\bibliographystyle{Classes/jmb} % bibliography style
+
+%\printindex[echrcases]
+\nocite{*}
+
+%If you want to input ship names, put them HERE (after \nocite, before \include{bibliography}. I have left one example, commented out, which should work (assuming you have the case, etc.).
+
+%\index[casesgb]{Achilleas, The@\emph{Achilleas,} The|see{Transfield Shipping Inc v Mercator Shipping Inc}}
+
+
+\include{bibliography}
+
+\include{tables}
+
+\end{document}

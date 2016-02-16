@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  9 DEC 2015 22:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  10 DEC 2015 12:48
 entering extended mode
-**Hague.tex
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.tex"
+**viva.tex
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -1213,7 +1213,7 @@ Package biblatex Warning: Patching footnotes failed.
 
 \@quotelevel=\count323
 \@quotereset=\count324
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.aux")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
 LaTeX Font Info:    ... okay on input line 104.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
@@ -1292,8 +1292,8 @@ LaTeX Info: Redefining \ref on input line 104.
 LaTeX Info: Redefining \pageref on input line 104.
 LaTeX Info: Redefining \nameref on input line 104.
 
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.out")
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.out")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.out")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.out")
 \@outlinefile=\write6
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 104.
@@ -1377,12 +1377,12 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Hague.bbl' not found.
+Package biblatex Info: ... file 'viva.bbl' not found.
 
-No file Hague.bbl.
+No file viva.bbl.
 Package biblatex Info: Reference section=0 on input line 104.
 Package biblatex Info: Reference segment=0 on input line 104.
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.nav")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.nav")
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 108.
@@ -1390,21 +1390,21 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {C:/Users/SjurK/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.toc")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.toc")
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 145.
+LaTeX Font Info:    Try loading font information for U+msa on input line 129.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 145.
+LaTeX Font Info:    Try loading font information for U+msb on input line 129.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 145.
+line 129.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
 "
@@ -1414,9 +1414,17 @@ thkerncmss.
 
 ] [4
 
-] [5
+]
+Overfull \vbox (11.0629pt too high) detected at line 147
+ []
 
-] [6
+[5
+
+]
+Overfull \vbox (27.40039pt too high) detected at line 156
+ []
+
+[6
 
 ] [7
 
@@ -1424,47 +1432,44 @@ thkerncmss.
 
 ] [9
 
-] [10
-
 ]
 \tf@nav=\write7
 \tf@toc=\write8
 \tf@snm=\write9
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
 
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Hague.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
-Package rerunfilecheck Info: File `Hague.out' has not changed.
-(rerunfilecheck)             Checksum: 828654DF44815618ACFF26FF73EF6CDF;280.
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\viva.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package rerunfilecheck Info: File `viva.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package logreq Info: Writing requests to 'Hague.run.xml'.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
+Package logreq Info: Writing requests to 'viva.run.xml'.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
  ) 
 Here is how much of TeX's memory you used:
- 22384 strings out of 493921
- 420912 string characters out of 3144876
- 881382 words of memory out of 3000000
- 25185 multiletter control sequences out of 15000+200000
- 13813 words of font info for 49 fonts, out of 3000000 for 9000
+ 22283 strings out of 493921
+ 418960 string characters out of 3144876
+ 880319 words of memory out of 3000000
+ 25096 multiletter control sequences out of 15000+200000
+ 10794 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,14n,55p,911b,729s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,14n,55p,910b,729s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Hague.pdf (10 pages, 153075 bytes).
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on viva.pdf (9 pages, 122447 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
