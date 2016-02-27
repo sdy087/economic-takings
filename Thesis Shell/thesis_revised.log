@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  27 FEB 2016 15:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  27 FEB 2016 15:53
 entering extended mode
 **thesis_revised.tex
 
@@ -1860,9 +1860,6 @@ revised.aux")
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                thesis_revised
 (biblatex)                and rerun LaTeX afterwards.
@@ -1872,7 +1869,7 @@ Package logreq Info: Writing requests to 'thesis_revised.run.xml'.
 Here is how much of TeX's memory you used:
  18019 strings out of 493921
  314638 string characters out of 3144876
- 860185 words of memory out of 3000000
+ 860183 words of memory out of 3000000
  20996 multiletter control sequences out of 15000+200000
  15667 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1890,7 +1887,7 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on thesis_revised.pdf (25 pages, 226686 bytes).
+Output written on thesis_revised.pdf (25 pages, 226914 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
