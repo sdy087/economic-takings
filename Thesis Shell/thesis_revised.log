@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  27 FEB 2016 15:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  3 MAR 2016 21:08
 entering extended mode
 **thesis_revised.tex
 
@@ -1614,6 +1614,8 @@ x")
 .aux")
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Acknowledgement/A
 cknowledgement.aux")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/intro_re
+vised.aux")
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/endelig_
 revised.aux")
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\bibliography.aux"
@@ -1697,106 +1699,373 @@ cknowledgement.tex" [4
 ]) [5] [6
 
 ]
-("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/endelig_
-revised.tex"
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/intro_re
+vised.tex"
 Chapter 1.
 Package biblatex Info: Resetting trackers on input line 1.
 
-LaTeX Warning: Citation 'gray91' on page 7 undefined on input line 4.
+LaTeX Warning: Citation 'chesterton08' on page 7 undefined on input line 4.
 
 
-LaTeX Warning: Citation 'steinbeck39' on page 7 undefined on input line 8.
+LaTeX Warning: Citation 'bell09' on page 7 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'waring09' on page 7 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'gray91' on page 7 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'grey80' on page 7 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'klein11' on page 7 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'gray91' on page 7 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'grey80' on page 7 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'gray94' on page 7 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'stake06' on page 7 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'brosnan11' on page 7 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'gray94' on page 7 undefined on input line 22.
 
 [7
 
 
-] [8]
-Underfull \vbox (badness 1215) has occurred while \output is active []
+]
 
- [9]
-
-LaTeX Warning: Citation 'hart12' on page 10 undefined on input line 117.
+LaTeX Warning: Citation 'strong14' on page 8 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'dworkin86' on page 10 undefined on input line 117.
+LaTeX Warning: Citation 'stoebuck72' on page 8 undefined on input line 33.
 
 
-LaTeX Warning: Citation 'shapiro07' on page 10 undefined on input line 117.
+LaTeX Warning: Citation 'waring09' on page 8 undefined on input line 33.
 
 
-LaTeX Warning: Citation 'posner99' on page 10 undefined on input line 117.
+LaTeX Warning: Citation 'gray11' on page 8 undefined on input line 35.
+
+[8]
+
+LaTeX Warning: Citation 'gray94' on page 9 undefined on input line 37.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'cohen06' on page 9 undefined on input line 37.
 
- [10]
 
-LaTeX Warning: Citation 'acres79' on page 11 undefined on input line 122.
+LaTeX Warning: Citation 'somin07' on page 9 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'wilt09' on page 9 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'yellin11' on page 9 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'kelo05' on page 9 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'somin08' on page 9 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'bell06' on page 9 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'bell06' on page 9 undefined on input line 43.
+
+[9]
+
+LaTeX Warning: Citation 'cohen06' on page 10 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'somin07' on page 10 undefined on input line 47.
+
+
+LaTeX Warning: Citation 'james86' on page 10 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'kelo05' on page 10 undefined on input line 52.
+
+[10]
+
+LaTeX Warning: Citation 'calabresi72' on page 11 undefined on input line 56.
+
+
+LaTeX Warning: Reference `chap:2' on page 11 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'alexander10' on page 11 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'crawford11' on page 11 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'gray94' on page 11 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'alexander09d' on page 11 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'alexander14' on page 11 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'underkuffler06' on page 11 undefined on input line 60.
+
+
+
+LaTeX Warning: Reference `chap:2' on page 11 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'kelo05' on page 11 undefined on input line 60.
 
 [11]
 
-LaTeX Warning: Reference `chap:2' on page 12 undefined on input line 124.
+LaTeX Warning: Citation 'fennell04' on page 12 undefined on input line 62.
 
 
-LaTeX Warning: Reference `sec:2:4' on page 12 undefined on input line 124.
+LaTeX Warning: Citation 'bell07' on page 12 undefined on input line 62.
 
 
-LaTeX Warning: Reference `chap:2' on page 12 undefined on input line 124.
+LaTeX Warning: Citation 'lehavi07' on page 12 undefined on input line 62.
 
 
-LaTeX Warning: Reference `sec:2:4:3' on page 12 undefined on input line 124.
+LaTeX Warning: Citation 'dyrkolbotn15a' on page 12 undefined on input line 62.
 
 
-LaTeX Warning: Citation 'grey80' on page 12 undefined on input line 128.
+LaTeX Warning: Reference `chap:3' on page 12 undefined on input line 64.
+
+
+LaTeX Warning: Reference `chap:2' on page 12 undefined on input line 64.
 
 [12]
 
-LaTeX Warning: Reference `chap:2' on page 13 undefined on input line 132.
+LaTeX Warning: Citation 'leach10' on page 13 undefined on input line 66.
 
 
-LaTeX Warning: Reference `sec:2:5:1' on page 13 undefined on input line 132.
+LaTeX Warning: Reference `chap:2' on page 13 undefined on input line 72.
 
 
-LaTeX Warning: Citation 'manisuli07' on page 13 undefined on input line 132.
+LaTeX Warning: Citation 'rose96' on page 13 undefined on input line 72.
+
+
+LaTeX Warning: Citation 'jackson10' on page 13 undefined on input line 72.
+
+
+LaTeX Warning: Reference `chap:2' on page 13 undefined on input line 72.
+
+
+LaTeX Warning: Reference `sec:2:4' on page 13 undefined on input line 72.
+
+
+LaTeX Warning: Reference `sec:2:5' on page 13 undefined on input line 72.
 
 [13]
 
-LaTeX Warning: Citation 'ica17' on page 14 undefined on input line 186.
+LaTeX Warning: Reference `chap:3' on page 14 undefined on input line 78.
 
 
-LaTeX Warning: Citation 'ica17' on page 14 undefined on input line 186.
-
-
-LaTeX Warning: Citation 'gaarder15' on page 14 undefined on input line 186.
-
-
-LaTeX Warning: Citation 'peris12' on page 14 undefined on input line 186.
+LaTeX Warning: Citation 'gray11' on page 14 undefined on input line 78.
 
 [14]
 
-LaTeX Warning: Citation 'bell01' on page 15 undefined on input line 212.
+LaTeX Warning: Citation 'lehavi07' on page 15 undefined on input line 82.
 
 
-LaTeX Warning: Citation 'bell01' on page 15 undefined on input line 212.
+LaTeX Warning: Citation 'heller08' on page 15 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'heller08' on page 15 undefined on input line 84.
+
+
+LaTeX Warning: Citation 'ostrom90' on page 15 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'ostrom10b' on page 15 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'rose11' on page 15 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'fennel11' on page 15 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'cox10' on page 15 undefined on input line 86.
 
 [15]
 
-LaTeX Warning: Reference `chap:5' on page 16 undefined on input line 224.
+LaTeX Warning: Reference `chap:3' on page 16 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'ostrom90' on page 16 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'dyrkolbotn15' on page 16 undefined on input line 116.
+
+
+LaTeX Warning: Citation 'dyrkolbotn15a' on page 16 undefined on input line 116.
+
+
+
+LaTeX Warning: Citation 'dyrkolbotn15b' on page 16 undefined on input line 116.
+
+
+
+LaTeX Warning: Reference `chap:4' on page 16 undefined on input line 120.
+
+
+LaTeX Warning: Reference `chap:5' on page 16 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'ea90' on page 16 undefined on input line 120.
 
 [16]
+
+LaTeX Warning: Citation 'wra00' on page 17 undefined on input line 122.
+
+
+LaTeX Warning: Citation 'wra00' on page 17 undefined on input line 122.
+
+
+LaTeX Warning: Citation 'nordtveit15' on page 17 undefined on input line 122.
+
+
+LaTeX Warning: Citation 'howarth15' on page 17 undefined on input line 122.
+
+
+LaTeX Warning: Citation 'uleberg08' on page 17 undefined on input line 124.
+
+[17]
+
+LaTeX Warning: Reference `chap:4' on page 18 undefined on input line 128.
+
+
+LaTeX Warning: Reference `chap:5' on page 18 undefined on input line 130.
+
+
+LaTeX Warning: Reference `chap:5' on page 18 undefined on input line 130.
+
+
+LaTeX Warning: Reference `sec:5:3' on page 18 undefined on input line 130.
+
+[18]
+
+LaTeX Warning: Reference `chap:5' on page 19 undefined on input line 134.
+
+
+LaTeX Warning: Reference `chap:5' on page 19 undefined on input line 136.
+
+
+LaTeX Warning: Reference `chap:5' on page 19 undefined on input line 136.
+
+
+LaTeX Warning: Reference `sec:5:6' on page 19 undefined on input line 136.
+
+
+LaTeX Warning: Reference `sec:5:7' on page 19 undefined on input line 136.
+
+
+LaTeX Warning: Citation 'jorpeland11' on page 19 undefined on input line 136.
+
+[19]
+
+LaTeX Warning: Citation 'uleberg08' on page 20 undefined on input line 138.
+
+
+LaTeX Warning: Reference `chap:5' on page 20 undefined on input line 138.
+
+
+LaTeX Warning: Reference `sec:5:5:1' on page 20 undefined on input line 138.
+
+
+LaTeX Warning: Citation 'otra13' on page 20 undefined on input line 138.
+
+
+LaTeX Warning: Reference `chap:5' on page 20 undefined on input line 140.
+
+
+LaTeX Warning: Reference `chap:6' on page 20 undefined on input line 153.
+
+
+LaTeX Warning: Citation 'dom09' on page 20 undefined on input line 153.
+
+[20]
+
+LaTeX Warning: Reference `chap:6' on page 21 undefined on input line 159.
+
+[21] [22]
+
+LaTeX Warning: Reference `chap:x' on page 23 undefined on input line 180.
+
+
+Underfull \vbox (badness 5637) has occurred while \output is active []
+
+ [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
-
-LaTeX Warning: Reference `chap:4' on page 18 undefined on input line 237.
-
-
-LaTeX Warning: Reference `sec:3:3:2' on page 18 undefined on input line 237.
+ [24])
+[25]
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/endelig_
+revised.tex" [26
 
 
-LaTeX Warning: Citation 'somin09' on page 18 undefined on input line 237.
 
-) [18]
+]
+Chapter 2.
+Package biblatex Info: Resetting trackers on input line 1.
+
+LaTeX Warning: Citation 'gray91' on page 27 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'steinbeck39' on page 27 undefined on input line 8.
+
+[27]
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 1210) has occurred while \output is active []
+
+ [32]
+[33]
+Underfull \vbox (badness 5637) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [35]
+[36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+ [38]
+
+LaTeX Warning: Reference `chap:2' on page 39 undefined on input line 147.
+
+
+Underfull \vbox (badness 5637) has occurred while \output is active []
+
+ [39])
+[40]
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\bibliography.tex"
 
 Package biblatex Warning: Type 'book' not found on input line 18.
@@ -1816,11 +2085,11 @@ LaTeX Warning: Empty bibliography on input line 26.
 
 LaTeX Warning: Empty bibliography on input line 30.
 
-) [19
+) [41
 
 
 
-] ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\tables.tex" [20
+] ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\tables.tex" [42
 
 
 
@@ -1834,17 +2103,17 @@ No file thesis_revised-casesechr.ind.
 No file thesis_revised-casesother.ind.
 No file thesis_revised-casesjunk.ind.
 No file thesis_revised-casesus.ind.
-[21] [22
+[43] [44
 
 ]
 No file thesis_revised-noleg.ind.
 No file thesis_revised-intleg.ind.
 No file thesis_revised-legis.ind.
-[23] [24
+[45] [46
 
 ]
 No file thesis_revised-prepno.ind.
-) [25]
+) [47]
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\thesis_revised.au
 x" ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Title/Title.au
 x")
@@ -1852,6 +2121,8 @@ x")
 .aux")
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Acknowledgement/A
 cknowledgement.aux")
+("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/intro_re
+vised.aux")
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/endelig_
 revised.aux")
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\bibliography.aux"
@@ -1867,11 +2138,11 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis_revised.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 18019 strings out of 493921
- 314638 string characters out of 3144876
- 860183 words of memory out of 3000000
- 20996 multiletter control sequences out of 15000+200000
- 15667 words of font info for 59 fonts, out of 3000000 for 9000
+ 18035 strings out of 493921
+ 315220 string characters out of 3144876
+ 862927 words of memory out of 3000000
+ 21004 multiletter control sequences out of 15000+200000
+ 16019 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  51i,12n,46p,10441b,1694s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
@@ -1886,10 +2157,11 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on thesis_revised.pdf (25 pages, 226914 bytes).
+9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on thesis_revised.pdf (47 pages, 298816 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
+ 210 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
