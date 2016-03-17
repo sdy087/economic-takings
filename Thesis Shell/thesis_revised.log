@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  13 MAR 2016 17:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.29)  15 MAR 2016 11:15
 entering extended mode
 **thesis_revised.tex
 
@@ -1749,17 +1749,14 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [119]
-[120] [121] [122] [123] [124]
-Underfull \vbox (badness 5637) has occurred while \output is active []
-
- [125]
-[126] [127] [128] [129] [130] [131] [132] [133] [134]) [135]
+[120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131]
+[132] [133] [134] [135]) [136]
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter2/3_revise
-d.tex" [136
+d.tex" [137
 
 
 
-] [137] [138]
+] [138]
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 3.
 [139
@@ -1820,16 +1817,19 @@ Underfull \vbox (badness 2376) has occurred while \output is active []
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
  [273]
-[274] [275] [276]) [277]
+Underfull \vbox (badness 5637) has occurred while \output is active []
+
+ [274]
+[275] [276] [277]) [278]
 ("C:\Users\SjurK\Desktop\Thrash\economic-takings\Thesis Shell\Chapter1/endelig_
-revised.tex" [278
+revised.tex"
+Chapter 7.
+Package biblatex Info: Resetting trackers on input line 1.
+[279
 
 
 
 ]
-Chapter 7.
-Package biblatex Info: Resetting trackers on input line 1.
-[279]
 Underfull \vbox (badness 1708) has occurred while \output is active []
 
  [280]
@@ -1890,10 +1890,10 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'thesis_revised.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 21329 strings out of 493921
- 363168 string characters out of 3144876
- 1073763 words of memory out of 3000000
- 24293 multiletter control sequences out of 15000+200000
+ 21342 strings out of 493921
+ 363388 string characters out of 3144876
+ 1078892 words of memory out of 3000000
+ 24306 multiletter control sequences out of 15000+200000
  18598 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  51i,14n,69p,10441b,3048s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1918,7 +1918,7 @@ ype1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmu10.pfb>
-Output written on thesis_revised.pdf (291 pages, 1096522 bytes).
+Output written on thesis_revised.pdf (291 pages, 1100975 bytes).
 PDF statistics:
  1020 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

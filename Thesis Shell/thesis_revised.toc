@@ -68,9 +68,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.6}Alternatives to Takings for Economic Development}{120}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Land Assembly Districts}{126}
+\contentsline {subsection}{\numberline {3.6.1}Land Assembly Districts}{127}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Conclusion}{134}
+\contentsline {section}{\numberline {3.7}Conclusion}{135}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{II\hspace {1em}A Case Study of Norwegian Waterfalls}{137}
 \defcounter {refsection}{0}\relax 
@@ -82,11 +82,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Hydropower in the Law}{152}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}The Water Resources Act}{154}
+\contentsline {subsection}{\numberline {4.3.1}The Water Resources Act}{155}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.2}The Watercourse Regulation Act}{156}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}The Industrial Licensing Act}{158}
+\contentsline {subsection}{\numberline {4.3.3}The Industrial Licensing Act}{159}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.4}The Energy Act}{161}
 \defcounter {refsection}{0}\relax 
@@ -180,6 +180,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.5}Assessment and Future Challenges}{268}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.6}Conclusion}{275}
+\contentsline {section}{\numberline {6.6}Conclusion}{276}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Conclusion}{279}
