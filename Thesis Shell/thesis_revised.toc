@@ -2,182 +2,226 @@
 \defcounter {refsection}{0}\relax 
 \select@language {british}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Abbreviations}{4}
+\contentsline {chapter}{List of Abbreviations}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction and Summary of Main Themes}{7}
+\contentsline {chapter}{Abstract}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Property Theory and Economic Development Takings}{11}
+\contentsline {chapter}{Acknowledgements}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}A Democratic Deficit in Takings Law?}{15}
+\contentsline {chapter}{List of Abbreviations}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Putting The Theory to the Test}{17}
+\contentsline {chapter}{\numberline {1}Introduction and Summary of Main Themes}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}A Judicial Framework for Compulsory Participation}{21}
+\contentsline {section}{\numberline {1.1}Property Theory and Economic Development Takings}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Some terminological and conceptual clarifications}{22}
+\contentsline {section}{\numberline {1.2}A Democratic Deficit in Takings Law?}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{I\hspace {1em}Towards a Theory of Economic Development Takings}{29}
+\contentsline {section}{\numberline {1.3}Putting The Theory to the Test}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Property, Protection and Privilege}{31}
+\contentsline {section}{\numberline {1.4}A Judicial Framework for Compulsory Participation}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Introduction}{31}
+\contentsline {section}{\numberline {1.5}Some terminological and conceptual clarifications}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Donald Trump in Scotland}{33}
+\contentsline {part}{I\hspace {1em}Towards a Theory of Economic Development Takings}{33}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Theories of Property}{41}
+\contentsline {chapter}{\numberline {2}Property, Protection and Privilege}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Takings under Bundle and Dominion Accounts of Property}{44}
+\contentsline {section}{\numberline {2.1}Introduction}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Broader Theories}{48}
+\contentsline {section}{\numberline {2.2}Donald Trump in Scotland}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}The Social Function of Property}{50}
+\contentsline {section}{\numberline {2.3}Theories of Property}{45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Historical Roots and European Influence}{51}
+\contentsline {subsection}{\numberline {2.3.1}Takings under Bundle and Dominion Accounts of Property}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.2}The Impossibility of a Socially Neutral Property Regime}{56}
+\contentsline {subsection}{\numberline {2.3.2}Broader Theories}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.3}The Descriptive Core of the Social Function Theory}{60}
+\contentsline {section}{\numberline {2.4}The Social Function of Property}{54}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Human Flourishing}{63}
+\contentsline {subsection}{\numberline {2.4.1}Historical Roots and European Influence}{55}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Property as an Anchor for Economic and Social Rights}{64}
+\contentsline {subsection}{\numberline {2.4.2}The Impossibility of a Socially Neutral Property Regime}{60}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Property as an Anchor for Democracy}{69}
+\contentsline {subsection}{\numberline {2.4.3}The Descriptive Core of the Social Function Theory}{64}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Economic Development Takings}{73}
+\contentsline {section}{\numberline {2.5}Human Flourishing}{67}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}{\it Kelo}: Casting Doubts on the Narrow Approach to Judicial Review}{77}
+\contentsline {subsection}{\numberline {2.5.1}Property as an Anchor for Economic and Social Rights}{68}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Conclusion}{83}
+\contentsline {subsection}{\numberline {2.5.2}Property as an Anchor for Democracy}{73}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Possible Approaches to the Legitimacy Question}{85}
+\contentsline {section}{\numberline {2.6}Economic Development Takings}{77}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Introduction}{85}
+\contentsline {subsection}{\numberline {2.6.1}{\it Kelo}: Casting Doubts on the Narrow Approach to Judicial Review}{81}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}England and Wales: Legitimacy through Parliament}{88}
+\contentsline {section}{\numberline {2.7}Conclusion}{87}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}The US: Legitimacy through Public Use}{95}
+\contentsline {chapter}{\numberline {3}Possible Approaches to the Legitimacy Question}{89}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Legitimacy as Discussed by the Supreme Court}{98}
+\contentsline {section}{\numberline {3.1}Introduction}{89}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Economic Development Takings after {\it Kelo}}{102}
+\contentsline {section}{\numberline {3.2}England and Wales: Legitimacy through Parliament}{92}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}The ECtHR: Legitimacy as Institutional Fairness}{104}
+\contentsline {section}{\numberline {3.3}The US: Legitimacy through Public Use}{99}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Legitimacy {\it Erga Omnes}}{106}
+\contentsline {subsection}{\numberline {3.3.1}Legitimacy as Discussed by the Supreme Court}{102}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}The Extended Gray Test}{112}
+\contentsline {subsection}{\numberline {3.3.2}Economic Development Takings after {\it Kelo}}{106}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Alternatives to Takings for Economic Development}{122}
+\contentsline {section}{\numberline {3.4}The ECtHR: Legitimacy as Institutional Fairness}{108}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Land Assembly Districts}{129}
+\contentsline {subsection}{\numberline {3.4.1}Legitimacy {\it Erga Omnes}}{110}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Conclusion}{135}
+\contentsline {section}{\numberline {3.5}The Extended Gray Test}{116}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{II\hspace {1em}A Case Study of Norwegian Waterfalls}{137}
+\contentsline {section}{\numberline {3.6}Alternatives to Takings for Economic Development}{126}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Norwegian Waterfalls and Hydropower}{139}
+\contentsline {subsection}{\numberline {3.6.1}Land Assembly Districts}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Introduction}{139}
+\contentsline {section}{\numberline {3.7}Conclusion}{139}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Norway in a Nutshell}{142}
+\contentsline {part}{II\hspace {1em}A Case Study of Norwegian Waterfalls}{141}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Hydropower in the Law}{152}
+\contentsline {chapter}{\numberline {4}Norwegian Waterfalls and Hydropower}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}The Water Resources Act}{154}
+\contentsline {section}{\numberline {4.1}Introduction}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}The Watercourse Regulation Act}{155}
+\contentsline {section}{\numberline {4.2}Norway in a Nutshell}{146}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}The Industrial Licensing Act}{158}
+\contentsline {subsection}{\numberline {4.2.1}Property regimes in Norway}{148}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.4}The Energy Act}{160}
+\contentsline {subsection}{\numberline {4.2.2}The importance of water resources}{151}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.5}The Licensing Procedure}{162}
+\contentsline {section}{\numberline {4.3}Hydropower in the Law}{156}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Hydropower in Practice}{165}
+\contentsline {subsection}{\numberline {4.3.1}The Water Resources Act}{158}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}{\it Nordhordlandsmodellen}}{170}
+\contentsline {subsection}{\numberline {4.3.2}The Watercourse Regulation Act}{159}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}The Future of Hydropower}{174}
+\contentsline {subsection}{\numberline {4.3.3}The Industrial Licensing Act}{162}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}Conclusion}{179}
+\contentsline {subsection}{\numberline {4.3.4}The Energy Act}{164}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Taking Waterfalls}{181}
+\contentsline {subsection}{\numberline {4.3.5}The Licensing Procedure}{165}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Introduction}{181}
+\contentsline {section}{\numberline {4.4}Hydropower in Practice}{169}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Norwegian Expropriation Law: A Brief Overview}{183}
+\contentsline {section}{\numberline {4.5}{\it Nordhordlandsmodellen}}{174}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Taking Waterfalls by Obtaining a Development License}{186}
+\contentsline {section}{\numberline {4.6}The Future of Hydropower}{178}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Taking Waterfalls for Progress}{188}
+\contentsline {section}{\numberline {4.7}Conclusion}{183}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}The Natural Horsepower Method}{191}
+\contentsline {chapter}{\numberline {5}Taking Waterfalls}{185}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.2}Increased Scale of Development and Increased Tension}{194}
+\contentsline {section}{\numberline {5.1}Introduction}{185}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.3}The {\it Alta} Controversy}{196}
+\contentsline {section}{\numberline {5.2}Norwegian Expropriation Law: A Brief Overview}{186}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Taking Waterfalls for Profit}{202}
+\contentsline {section}{\numberline {5.3}Taking Waterfalls by Obtaining a Development License}{190}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.1}{\it Sauda}}{203}
+\contentsline {section}{\numberline {5.4}Taking Waterfalls for Progress}{192}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.2}{\it Uleberg}}{205}
+\contentsline {subsection}{\numberline {5.4.1}The Natural Horsepower Method}{195}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}Recent Developments on Compensation}{206}
+\contentsline {subsection}{\numberline {5.4.2}Increased Scale of Development and Increased Tension}{198}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}A detailed case study: {\it Ola M\IeC {\r a}land v J\IeC {\o }rpeland Kraft AS}}{210}
+\contentsline {subsection}{\numberline {5.4.3}The {\it Alta} Controversy}{201}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.1}The Facts of the Case}{211}
+\contentsline {section}{\numberline {5.5}Taking Waterfalls for Profit}{206}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.2}The Lower Courts}{216}
+\contentsline {subsection}{\numberline {5.5.1}{\it Sauda}}{207}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.3}The Supreme Court}{218}
+\contentsline {subsection}{\numberline {5.5.2}{\it Uleberg}}{209}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.7}Predation?}{221}
+\contentsline {subsection}{\numberline {5.5.3}Recent Developments on Compensation}{210}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.1}The Balance of Power}{221}
+\contentsline {section}{\numberline {5.6}A detailed case study: {\it Ola M\IeC {\r a}land v J\IeC {\o }rpeland Kraft AS}}{214}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.2}The Net Effect on the Parties}{222}
+\contentsline {subsection}{\numberline {5.6.1}The Facts of the Case}{216}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.3}Initiative}{223}
+\contentsline {subsection}{\numberline {5.6.2}The Lower Courts}{220}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.4}Location}{223}
+\contentsline {subsection}{\numberline {5.6.3}The Supreme Court}{223}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.5}Social Merit}{224}
+\contentsline {section}{\numberline {5.7}Predation?}{225}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.6}Environmental Impact}{225}
+\contentsline {subsubsection}{\numberline {5.7.0.1}The Balance of Power}{225}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.7}Regulatory Impact}{225}
+\contentsline {subsubsection}{\numberline {5.7.0.2}The Net Effect on the Parties}{226}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.8}Impact on Non-Owners}{226}
+\contentsline {subsubsection}{\numberline {5.7.0.3}Initiative}{227}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.7.0.9}Democratic Merit}{227}
+\contentsline {subsubsection}{\numberline {5.7.0.4}Location}{228}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.8}Conclusion}{227}
+\contentsline {subsubsection}{\numberline {5.7.0.5}Social Merit}{228}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Enabling Participation to Replace Eminent Domain}{229}
+\contentsline {subsubsection}{\numberline {5.7.0.6}Environmental Impact}{229}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Introduction}{229}
+\contentsline {subsubsection}{\numberline {5.7.0.7}Regulatory Impact}{230}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Land Consolidation as an Alternative to Expropriation}{230}
+\contentsline {subsubsection}{\numberline {5.7.0.8}Impact on Non-Owners}{230}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Land Consolidation in Norway}{237}
+\contentsline {subsubsection}{\numberline {5.7.0.9}Democratic Merit}{231}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Organising the Use of Property}{240}
+\contentsline {section}{\numberline {5.8}Conclusion}{232}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Enabling Participation in Hydropower Development}{245}
+\contentsline {chapter}{\numberline {6}Enabling Participation to Replace Eminent Domain}{233}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.1}\emph {Vika}}{245}
+\contentsline {section}{\numberline {6.1}Introduction}{233}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.2}\emph {Oma}}{247}
+\contentsline {section}{\numberline {6.2}Land Consolidation as an Alternative to Expropriation}{234}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.3}\emph {Dj\IeC {\o }nno}}{250}
+\contentsline {section}{\numberline {6.3}Land Consolidation in Norway}{241}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.4}\emph {Tokheim}}{253}
+\contentsline {subsection}{\numberline {6.3.1}Organising the Use of Property}{244}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Assessment and Future Challenges}{254}
+\contentsline {section}{\numberline {6.4}Enabling Participation in Hydropower Development}{248}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.6}Conclusion}{262}
+\contentsline {subsection}{\numberline {6.4.1}\emph {Vika}}{249}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Conclusion}{265}
+\contentsline {subsection}{\numberline {6.4.2}\emph {Oma}}{251}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.3}\emph {Dj\IeC {\o }nno}}{254}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.4}\emph {Tokheim}}{256}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Assessment and Future Challenges}{258}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Conclusion}{266}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Conclusion}{269}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{283}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{283}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Contributions to Collections}{286}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Articles}{288}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Works}{298}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Cases Cited}{303}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{England and Wales}{303}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{European Court of Human Rights}{303}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Norway}{304}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Jurisdictions}{306}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{The United States}{306}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Legislation Cited}{309}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Norway}{309}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Other Law Instruments}{310}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{United Kingdom}{311}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preparatory Documents Cited}{313}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Norway}{313}
