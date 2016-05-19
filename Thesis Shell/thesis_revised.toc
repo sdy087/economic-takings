@@ -20,7 +20,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}A Judicial Framework for Compulsory Participation}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Some terminological and conceptual clarifications}{26}
+\contentsline {section}{\numberline {1.5}Some Terminological Clarifications}{26}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{I\hspace {1em}Towards a Theory of Economic Development Takings}{33}
 \defcounter {refsection}{0}\relax 
@@ -88,9 +88,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.2}Norway in a Nutshell}{146}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Property regimes in Norway}{148}
+\contentsline {subsection}{\numberline {4.2.1}Property Regimes in Norway}{148}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}The importance of water resources}{151}
+\contentsline {subsection}{\numberline {4.2.2}The Importance of Water Resources}{151}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Hydropower in the Law}{156}
 \defcounter {refsection}{0}\relax 
@@ -176,7 +176,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3.1}Organising the Use of Property}{244}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Enabling Participation in Hydropower Development}{248}
+\contentsline {section}{\numberline {6.4}Enabling Participation in Hydropower Development}{249}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.4.1}\emph {Vika}}{249}
 \defcounter {refsection}{0}\relax 
@@ -184,7 +184,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.4.3}\emph {Dj\IeC {\o }nno}}{254}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.4}\emph {Tokheim}}{256}
+\contentsline {subsection}{\numberline {6.4.4}\emph {Tokheim}}{257}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.5}Assessment and Future Challenges}{258}
 \defcounter {refsection}{0}\relax 
